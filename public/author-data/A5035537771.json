@@ -379,8 +379,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -842,11 +846,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 6.0989,
+      "fwci": 6.0503,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.97953182,
+        "value": 0.97912961,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1178,8 +1182,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -1223,7 +1231,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 104,
+      "referenced_works_count": 82,
       "referenced_works": [
         "https://openalex.org/W11262728",
         "https://openalex.org/W1512726750",
@@ -1292,41 +1300,19 @@
         "https://openalex.org/W2464513551",
         "https://openalex.org/W2562655431",
         "https://openalex.org/W2900800963",
+        "https://openalex.org/W2913111077",
         "https://openalex.org/W2922019937",
         "https://openalex.org/W2938243655",
         "https://openalex.org/W2948661194",
+        "https://openalex.org/W2980217397",
         "https://openalex.org/W2994138931",
         "https://openalex.org/W3003921492",
         "https://openalex.org/W3033490969",
         "https://openalex.org/W3129034920",
         "https://openalex.org/W3160765766",
-        "https://openalex.org/W6600439857",
-        "https://openalex.org/W6630587405",
         "https://openalex.org/W6632509500",
-        "https://openalex.org/W6635780087",
         "https://openalex.org/W6636077317",
-        "https://openalex.org/W6638823767",
-        "https://openalex.org/W6644227910",
-        "https://openalex.org/W6648489902",
-        "https://openalex.org/W6665009237",
-        "https://openalex.org/W6674544772",
-        "https://openalex.org/W6676107241",
-        "https://openalex.org/W6677168026",
-        "https://openalex.org/W6678606565",
-        "https://openalex.org/W6679255992",
-        "https://openalex.org/W6680470708",
-        "https://openalex.org/W6680618638",
-        "https://openalex.org/W6680748914",
-        "https://openalex.org/W6681578480",
-        "https://openalex.org/W6682267639",
-        "https://openalex.org/W6683833415",
-        "https://openalex.org/W6684587089",
-        "https://openalex.org/W6688751108",
         "https://openalex.org/W6692262216",
-        "https://openalex.org/W6699096633",
-        "https://openalex.org/W6758467693",
-        "https://openalex.org/W6763181642",
-        "https://openalex.org/W6769508726",
         "https://openalex.org/W6807199343",
         "https://openalex.org/W6828316006"
       ],
@@ -1357,786 +1343,7 @@
           "cited_by_count": 14
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4388205616",
-      "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
-      "title": "Impact of kaolinite and iron oxide cements on resistivity and quality of low resistivity pay sandstones",
-      "display_name": "Impact of kaolinite and iron oxide cements on resistivity and quality of low resistivity pay sandstones",
-      "publication_year": 2023,
-      "publication_date": "2023-10-26",
-      "ids": {
-        "openalex": "https://openalex.org/W4388205616",
-        "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106568"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.marpetgeo.2023.106568",
-        "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S93565542",
-          "display_name": "Marine and Petroleum Geology",
-          "issn_l": "0264-8172",
-          "issn": [
-            "0264-8172",
-            "1873-4073"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Marine and Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5072935704",
-            "display_name": "Anas Muhammad Salisu",
-            "orcid": "https://orcid.org/0009-0002-6134-0511",
-            "observed_orcids": [
-              "https://orcid.org/0009-0002-6134-0511"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Anas Muhammad Salisu",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035537771",
-            "display_name": "Abdullah Alqubalee",
-            "orcid": "https://orcid.org/0000-0002-0543-9026",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0543-9026"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullah Alqubalee",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5014657720",
-            "display_name": "Abdulwahab Muhammad Bello",
-            "orcid": "https://orcid.org/0000-0002-4637-9883",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4637-9883"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulwahab Muhammad Bello",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-4637-9883",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5080748045",
-            "display_name": "Abdulkarim Al-Hussaini",
-            "orcid": "https://orcid.org/0000-0003-2730-4672",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-2730-4672"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I86519309",
-              "display_name": "The University of Texas at Austin",
-              "ror": "https://ror.org/00hj54h04",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkarim Al-Hussaini",
-          "raw_affiliation_strings": [
-            "Department of Geological Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, 78712, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geological Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, 78712, USA",
-              "institution_ids": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5010595990",
-            "display_name": "Abdulrauf R. Adebayo",
-            "orcid": "https://orcid.org/0000-0002-0188-2688",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-0188-2688"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulrauf R. Adebayo",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027197211",
-            "display_name": "Abduljamiu Olalekan Amao",
-            "orcid": "https://orcid.org/0000-0001-8203-851X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8203-851X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abduljamiu O. Amao",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid A. Al-Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4872-6201"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5085007251"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 3490,
-        "currency": "USD",
-        "value_usd": 3490
-      },
-      "apc_paid": null,
-      "fwci": 3.1379,
-      "has_fulltext": false,
-      "cited_by_count": 28,
-      "citation_normalized_percentile": {
-        "value": 0.92928699,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "158",
-        "issue": null,
-        "first_page": "106568",
-        "last_page": "106568"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9940999746322632,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9940999746322632,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.0017000000225380063,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.0007999999797903001,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/low-resistivity-pay",
-          "display_name": "low resistivity pay",
-          "score": 0.8489999771118164
-        },
-        {
-          "id": "https://openalex.org/keywords/goethite",
-          "display_name": "goethite",
-          "score": 0.8100000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/hematite",
-          "display_name": "hematite",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-quality",
-          "display_name": "reservoir quality",
-          "score": 0.9409999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/pore-filling-cement",
-          "display_name": "pore-filling cement",
-          "score": 0.7870000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "diagenesis",
-          "score": 0.7860000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/grain-size",
-          "display_name": "grain size",
-          "score": 0.7549999952316284
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "porosity",
-          "score": 0.6909999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "permeability",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/ferricrete",
-          "display_name": "ferricrete",
-          "score": 0.7329999804496765
-        },
-        {
-          "id": "https://openalex.org/keywords/concretions",
-          "display_name": "rock nodule",
-          "score": 0.6299999952316284
-        },
-        {
-          "id": "https://openalex.org/keywords/fracture-infilling",
-          "display_name": "fracture infilling",
-          "score": 0.6150000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/clastic-reservoirs",
-          "display_name": "clastic reservoirs",
-          "score": 0.7630000114440918
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop-analogs",
-          "display_name": "outcrop analogs",
-          "score": 0.7269999980926514
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C69990965",
-          "wikidata": "https://www.wikidata.org/wiki/Q65402698",
-          "display_name": "Electrical resistivity and conductivity",
-          "level": 2,
-          "score": 0.8006455898284912
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7531671524047852
-        },
-        {
-          "id": "https://openalex.org/C2779899878",
-          "wikidata": "https://www.wikidata.org/wiki/Q223197",
-          "display_name": "Kaolinite",
-          "level": 2,
-          "score": 0.6131155490875244
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.4809533655643463
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.34870296716690063
-        },
-        {
-          "id": "https://openalex.org/C119599485",
-          "wikidata": "https://www.wikidata.org/wiki/Q43035",
-          "display_name": "Electrical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.marpetgeo.2023.106568",
-          "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S93565542",
-            "display_name": "Marine and Petroleum Geology",
-            "issn_l": "0264-8172",
-            "issn": [
-              "0264-8172",
-              "1873-4073"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Marine and Petroleum Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 99,
-      "referenced_works": [
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W1516566041",
-        "https://openalex.org/W1522679882",
-        "https://openalex.org/W1525628619",
-        "https://openalex.org/W1550978638",
-        "https://openalex.org/W1768373658",
-        "https://openalex.org/W1966101546",
-        "https://openalex.org/W1967191496",
-        "https://openalex.org/W1967307262",
-        "https://openalex.org/W1968363459",
-        "https://openalex.org/W1971928833",
-        "https://openalex.org/W1972323601",
-        "https://openalex.org/W1977690401",
-        "https://openalex.org/W1979775472",
-        "https://openalex.org/W1988447594",
-        "https://openalex.org/W1996133323",
-        "https://openalex.org/W2007218904",
-        "https://openalex.org/W2007652423",
-        "https://openalex.org/W2017388555",
-        "https://openalex.org/W2024685961",
-        "https://openalex.org/W2034540981",
-        "https://openalex.org/W2034658040",
-        "https://openalex.org/W2044755696",
-        "https://openalex.org/W2045516034",
-        "https://openalex.org/W2048327052",
-        "https://openalex.org/W2061571056",
-        "https://openalex.org/W2063804344",
-        "https://openalex.org/W2067071233",
-        "https://openalex.org/W2071735177",
-        "https://openalex.org/W2079375834",
-        "https://openalex.org/W2085126260",
-        "https://openalex.org/W2087974133",
-        "https://openalex.org/W2089539728",
-        "https://openalex.org/W2093727453",
-        "https://openalex.org/W2102253758",
-        "https://openalex.org/W2111558610",
-        "https://openalex.org/W2116868740",
-        "https://openalex.org/W2123011008",
-        "https://openalex.org/W2134260018",
-        "https://openalex.org/W2140442261",
-        "https://openalex.org/W2160822364",
-        "https://openalex.org/W2161960613",
-        "https://openalex.org/W2212797109",
-        "https://openalex.org/W2224953029",
-        "https://openalex.org/W2240628164",
-        "https://openalex.org/W2322715126",
-        "https://openalex.org/W2347182944",
-        "https://openalex.org/W2365083919",
-        "https://openalex.org/W2374374163",
-        "https://openalex.org/W2412500039",
-        "https://openalex.org/W2426816947",
-        "https://openalex.org/W2483803182",
-        "https://openalex.org/W2515317314",
-        "https://openalex.org/W2517057392",
-        "https://openalex.org/W2597823511",
-        "https://openalex.org/W2600089442",
-        "https://openalex.org/W2612496631",
-        "https://openalex.org/W2654698686",
-        "https://openalex.org/W2750033484",
-        "https://openalex.org/W2767126550",
-        "https://openalex.org/W2767534216",
-        "https://openalex.org/W2808089755",
-        "https://openalex.org/W2901499799",
-        "https://openalex.org/W2902258157",
-        "https://openalex.org/W2910671769",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2945148837",
-        "https://openalex.org/W2955893822",
-        "https://openalex.org/W2974207299",
-        "https://openalex.org/W2991877883",
-        "https://openalex.org/W3122970365",
-        "https://openalex.org/W3133851408",
-        "https://openalex.org/W3147913709",
-        "https://openalex.org/W3167871296",
-        "https://openalex.org/W4220873824",
-        "https://openalex.org/W4221132153",
-        "https://openalex.org/W4225129549",
-        "https://openalex.org/W4252470886",
-        "https://openalex.org/W4319441783",
-        "https://openalex.org/W4382051178",
-        "https://openalex.org/W4387996609",
-        "https://openalex.org/W6631502831",
-        "https://openalex.org/W6641539590",
-        "https://openalex.org/W6642169511",
-        "https://openalex.org/W6654790723",
-        "https://openalex.org/W6665878664",
-        "https://openalex.org/W6675184654",
-        "https://openalex.org/W6687364956",
-        "https://openalex.org/W6688375027",
-        "https://openalex.org/W6689913607",
-        "https://openalex.org/W6705223154",
-        "https://openalex.org/W6717186737",
-        "https://openalex.org/W6722315836",
-        "https://openalex.org/W6726116531",
-        "https://openalex.org/W6740188163",
-        "https://openalex.org/W6790146940",
-        "https://openalex.org/W6810324677",
-        "https://openalex.org/W6810349272",
-        "https://openalex.org/W6858187536"
-      ],
-      "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2434158672",
-        "https://openalex.org/W4388168157",
-        "https://openalex.org/W3141950295",
-        "https://openalex.org/W2046951665",
-        "https://openalex.org/W2598041317",
-        "https://openalex.org/W2132869817",
-        "https://openalex.org/W2064504981",
-        "https://openalex.org/W2033033055",
-        "https://openalex.org/W3085332107"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2561,11 +1768,11 @@
         "currency": "USD",
         "value_usd": 750
       },
-      "fwci": 2.7483,
+      "fwci": 2.7486,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.90372671,
+        "value": 0.90363548,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3842,8 +3049,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -4011,11 +3222,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.5514,
+      "fwci": 2.5467,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.89371039,
+        "value": 0.89377071,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4324,8 +3535,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -4377,7 +3592,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 58,
+      "referenced_works_count": 50,
       "referenced_works": [
         "https://openalex.org/W148932376",
         "https://openalex.org/W1445124937",
@@ -4428,15 +3643,7 @@
         "https://openalex.org/W4237810828",
         "https://openalex.org/W4256199541",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W6628529999",
-        "https://openalex.org/W6639526584",
-        "https://openalex.org/W6658268894",
-        "https://openalex.org/W6674328910",
-        "https://openalex.org/W6680289203",
-        "https://openalex.org/W6681384688",
-        "https://openalex.org/W6684175666",
-        "https://openalex.org/W6737028388",
-        "https://openalex.org/W6769705177"
+        "https://openalex.org/W6639526584"
       ],
       "related_works": [
         "https://openalex.org/W2498107692",
@@ -4477,7 +3684,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4512,8 +3719,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -4761,11 +3972,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.2963,
+      "fwci": 2.2921,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.87146193,
+        "value": 0.87127175,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5036,8 +4247,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -5089,7 +4304,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 100,
+      "referenced_works_count": 90,
       "referenced_works": [
         "https://openalex.org/W203584942",
         "https://openalex.org/W570692802",
@@ -5178,18 +4393,8 @@
         "https://openalex.org/W4252144897",
         "https://openalex.org/W4399570292",
         "https://openalex.org/W4399587038",
-        "https://openalex.org/W6628529999",
-        "https://openalex.org/W6663330676",
-        "https://openalex.org/W6674328910",
         "https://openalex.org/W6677714040",
-        "https://openalex.org/W6680289203",
-        "https://openalex.org/W6681384688",
-        "https://openalex.org/W6684175666",
         "https://openalex.org/W6687464672",
-        "https://openalex.org/W6702254165",
-        "https://openalex.org/W6722205593",
-        "https://openalex.org/W6737028388",
-        "https://openalex.org/W6769705177",
         "https://openalex.org/W7024133469"
       ],
       "related_works": [
@@ -5235,7 +4440,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5530,11 +4735,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.3008,
+      "fwci": 2.3011,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.88302053,
+        "value": 0.88308369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5854,8 +5059,9 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 72,
+      "referenced_works_count": 68,
       "referenced_works": [
+        "https://openalex.org/W1488703263",
         "https://openalex.org/W1516566041",
         "https://openalex.org/W1977858458",
         "https://openalex.org/W1985365761",
@@ -5877,6 +5083,7 @@
         "https://openalex.org/W2137059291",
         "https://openalex.org/W2151557469",
         "https://openalex.org/W2161960613",
+        "https://openalex.org/W2166039370",
         "https://openalex.org/W2182877433",
         "https://openalex.org/W2198244186",
         "https://openalex.org/W2297607672",
@@ -5895,6 +5102,7 @@
         "https://openalex.org/W2801195208",
         "https://openalex.org/W2801646814",
         "https://openalex.org/W2884502747",
+        "https://openalex.org/W2897398670",
         "https://openalex.org/W2913321817",
         "https://openalex.org/W2939888277",
         "https://openalex.org/W2955893822",
@@ -5902,6 +5110,7 @@
         "https://openalex.org/W2979800133",
         "https://openalex.org/W2992871621",
         "https://openalex.org/W2994757108",
+        "https://openalex.org/W3003921492",
         "https://openalex.org/W3021438994",
         "https://openalex.org/W3034982688",
         "https://openalex.org/W3133851408",
@@ -5915,19 +5124,11 @@
         "https://openalex.org/W4291222571",
         "https://openalex.org/W4292081009",
         "https://openalex.org/W4309609812",
-        "https://openalex.org/W6629289746",
         "https://openalex.org/W6630243994",
         "https://openalex.org/W6632509500",
         "https://openalex.org/W6636077317",
         "https://openalex.org/W6636246099",
-        "https://openalex.org/W6676500605",
-        "https://openalex.org/W6678042311",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6685761664",
-        "https://openalex.org/W6728810006",
-        "https://openalex.org/W6755458934",
-        "https://openalex.org/W6773596295",
-        "https://openalex.org/W6792109646"
+        "https://openalex.org/W6678618728"
       ],
       "related_works": [
         "https://openalex.org/W2151103298",
@@ -5964,7 +5165,781 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4388205616",
+      "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
+      "title": "Impact of kaolinite and iron oxide cements on resistivity and quality of low resistivity pay sandstones",
+      "display_name": "Impact of kaolinite and iron oxide cements on resistivity and quality of low resistivity pay sandstones",
+      "publication_year": 2023,
+      "publication_date": "2023-10-26",
+      "ids": {
+        "openalex": "https://openalex.org/W4388205616",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106568"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.marpetgeo.2023.106568",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S93565542",
+          "display_name": "Marine and Petroleum Geology",
+          "issn_l": "0264-8172",
+          "issn": [
+            "0264-8172",
+            "1873-4073"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Marine and Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "orcid": "https://orcid.org/0009-0002-6134-0511",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-6134-0511"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anas Muhammad Salisu",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035537771",
+            "display_name": "Abdullah Alqubalee",
+            "orcid": "https://orcid.org/0000-0002-0543-9026",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0543-9026"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullah Alqubalee",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014657720",
+            "display_name": "Abdulwahab Muhammad Bello",
+            "orcid": "https://orcid.org/0000-0002-4637-9883",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4637-9883"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulwahab Muhammad Bello",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4637-9883",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080748045",
+            "display_name": "Abdulkarim Al-Hussaini",
+            "orcid": "https://orcid.org/0000-0003-2730-4672",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-2730-4672"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I86519309",
+              "display_name": "The University of Texas at Austin",
+              "ror": "https://ror.org/00hj54h04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkarim Al-Hussaini",
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, 78712, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, Jackson School of Geosciences, University of Texas at Austin, Austin, TX, 78712, USA",
+              "institution_ids": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5010595990",
+            "display_name": "Abdulrauf R. Adebayo",
+            "orcid": "https://orcid.org/0000-0002-0188-2688",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-0188-2688"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulrauf R. Adebayo",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027197211",
+            "display_name": "Abduljamiu Olalekan Amao",
+            "orcid": "https://orcid.org/0000-0001-8203-851X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8203-851X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abduljamiu O. Amao",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5085007251",
+            "display_name": "Khalid A. Al-Ramadan",
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5085007251"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3490,
+        "currency": "USD",
+        "value_usd": 3490
+      },
+      "apc_paid": null,
+      "fwci": 3.1252,
+      "has_fulltext": false,
+      "cited_by_count": 28,
+      "citation_normalized_percentile": {
+        "value": 0.92990881,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "158",
+        "issue": null,
+        "first_page": "106568",
+        "last_page": "106568"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9940999746322632,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9940999746322632,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.0017000000225380063,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.0007999999797903001,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/low-resistivity-pay",
+          "display_name": "low resistivity pay",
+          "score": 0.8489999771118164
+        },
+        {
+          "id": "https://openalex.org/keywords/goethite",
+          "display_name": "goethite",
+          "score": 0.8100000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/hematite",
+          "display_name": "hematite",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.9409999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/pore-filling-cement",
+          "display_name": "pore-filling cement",
+          "score": 0.7870000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "diagenesis",
+          "score": 0.7860000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/grain-size",
+          "display_name": "grain size",
+          "score": 0.7549999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "porosity",
+          "score": 0.6909999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability",
+          "display_name": "permeability",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/ferricrete",
+          "display_name": "ferricrete",
+          "score": 0.7329999804496765
+        },
+        {
+          "id": "https://openalex.org/keywords/concretions",
+          "display_name": "rock nodule",
+          "score": 0.6299999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/fracture-infilling",
+          "display_name": "fracture infilling",
+          "score": 0.6150000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-reservoirs",
+          "display_name": "clastic reservoirs",
+          "score": 0.7630000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop-analogs",
+          "display_name": "outcrop analogs",
+          "score": 0.7269999980926514
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C69990965",
+          "wikidata": "https://www.wikidata.org/wiki/Q65402698",
+          "display_name": "Electrical resistivity and conductivity",
+          "level": 2,
+          "score": 0.8006455898284912
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7531671524047852
+        },
+        {
+          "id": "https://openalex.org/C2779899878",
+          "wikidata": "https://www.wikidata.org/wiki/Q223197",
+          "display_name": "Kaolinite",
+          "level": 2,
+          "score": 0.6131155490875244
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.4809533655643463
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.34870296716690063
+        },
+        {
+          "id": "https://openalex.org/C119599485",
+          "wikidata": "https://www.wikidata.org/wiki/Q43035",
+          "display_name": "Electrical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.marpetgeo.2023.106568",
+          "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2023.106568",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S93565542",
+            "display_name": "Marine and Petroleum Geology",
+            "issn_l": "0264-8172",
+            "issn": [
+              "0264-8172",
+              "1873-4073"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Marine and Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 86,
+      "referenced_works": [
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1516566041",
+        "https://openalex.org/W1522679882",
+        "https://openalex.org/W1525628619",
+        "https://openalex.org/W1550978638",
+        "https://openalex.org/W1768373658",
+        "https://openalex.org/W1966101546",
+        "https://openalex.org/W1967191496",
+        "https://openalex.org/W1967307262",
+        "https://openalex.org/W1968363459",
+        "https://openalex.org/W1971928833",
+        "https://openalex.org/W1972323601",
+        "https://openalex.org/W1977690401",
+        "https://openalex.org/W1979775472",
+        "https://openalex.org/W1988447594",
+        "https://openalex.org/W1996133323",
+        "https://openalex.org/W2007218904",
+        "https://openalex.org/W2007652423",
+        "https://openalex.org/W2017388555",
+        "https://openalex.org/W2024685961",
+        "https://openalex.org/W2034540981",
+        "https://openalex.org/W2034658040",
+        "https://openalex.org/W2044755696",
+        "https://openalex.org/W2045516034",
+        "https://openalex.org/W2048327052",
+        "https://openalex.org/W2061571056",
+        "https://openalex.org/W2063804344",
+        "https://openalex.org/W2067071233",
+        "https://openalex.org/W2071735177",
+        "https://openalex.org/W2079375834",
+        "https://openalex.org/W2085126260",
+        "https://openalex.org/W2087974133",
+        "https://openalex.org/W2089539728",
+        "https://openalex.org/W2093727453",
+        "https://openalex.org/W2102253758",
+        "https://openalex.org/W2111558610",
+        "https://openalex.org/W2116868740",
+        "https://openalex.org/W2123011008",
+        "https://openalex.org/W2134260018",
+        "https://openalex.org/W2140442261",
+        "https://openalex.org/W2160822364",
+        "https://openalex.org/W2161960613",
+        "https://openalex.org/W2188971873",
+        "https://openalex.org/W2212797109",
+        "https://openalex.org/W2224953029",
+        "https://openalex.org/W2240628164",
+        "https://openalex.org/W2322715126",
+        "https://openalex.org/W2347182944",
+        "https://openalex.org/W2365083919",
+        "https://openalex.org/W2374374163",
+        "https://openalex.org/W2412500039",
+        "https://openalex.org/W2426816947",
+        "https://openalex.org/W2483803182",
+        "https://openalex.org/W2515317314",
+        "https://openalex.org/W2517057392",
+        "https://openalex.org/W2597823511",
+        "https://openalex.org/W2600089442",
+        "https://openalex.org/W2612496631",
+        "https://openalex.org/W2654698686",
+        "https://openalex.org/W2750033484",
+        "https://openalex.org/W2767126550",
+        "https://openalex.org/W2767534216",
+        "https://openalex.org/W2808089755",
+        "https://openalex.org/W2901499799",
+        "https://openalex.org/W2902258157",
+        "https://openalex.org/W2910671769",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2945148837",
+        "https://openalex.org/W2955893822",
+        "https://openalex.org/W2974207299",
+        "https://openalex.org/W2991877883",
+        "https://openalex.org/W3122970365",
+        "https://openalex.org/W3127250646",
+        "https://openalex.org/W3133851408",
+        "https://openalex.org/W3147913709",
+        "https://openalex.org/W3167871296",
+        "https://openalex.org/W4220873824",
+        "https://openalex.org/W4221132153",
+        "https://openalex.org/W4225129549",
+        "https://openalex.org/W4252470886",
+        "https://openalex.org/W4319441783",
+        "https://openalex.org/W4382051178",
+        "https://openalex.org/W4387996609",
+        "https://openalex.org/W6641539590",
+        "https://openalex.org/W6705223154",
+        "https://openalex.org/W6726116531"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2434158672",
+        "https://openalex.org/W4388168157",
+        "https://openalex.org/W3141950295",
+        "https://openalex.org/W2046951665",
+        "https://openalex.org/W2598041317",
+        "https://openalex.org/W2132869817",
+        "https://openalex.org/W2064504981",
+        "https://openalex.org/W2033033055",
+        "https://openalex.org/W3085332107"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6285,11 +6260,11 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 1.5999,
+      "fwci": 1.5787,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.90535846,
+        "value": 0.90172335,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6635,7 +6610,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 74,
+      "referenced_works_count": 64,
       "referenced_works": [
         "https://openalex.org/W238797427",
         "https://openalex.org/W590201780",
@@ -6700,17 +6675,7 @@
         "https://openalex.org/W3133216350",
         "https://openalex.org/W4242523936",
         "https://openalex.org/W4254297188",
-        "https://openalex.org/W6627990272",
-        "https://openalex.org/W6648265735",
-        "https://openalex.org/W6652830530",
-        "https://openalex.org/W6661506074",
-        "https://openalex.org/W6666466877",
-        "https://openalex.org/W6683704892",
-        "https://openalex.org/W6695586815",
-        "https://openalex.org/W6713754490",
-        "https://openalex.org/W6717184079",
-        "https://openalex.org/W6736339829",
-        "https://openalex.org/W6749185586"
+        "https://openalex.org/W6717184079"
       ],
       "related_works": [
         "https://openalex.org/W4307830884",
@@ -6751,7 +6716,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6785,7 +6750,8 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -7034,11 +7000,11 @@
         "value_usd": 2910
       },
       "apc_paid": null,
-      "fwci": 1.5828,
+      "fwci": 1.585,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.79439326,
+        "value": 0.79427789,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7259,7 +7225,8 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -7316,7 +7283,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 38,
+      "referenced_works_count": 34,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W597470951",
@@ -7351,11 +7318,7 @@
         "https://openalex.org/W2992184602",
         "https://openalex.org/W3030653473",
         "https://openalex.org/W3035028305",
-        "https://openalex.org/W3102597749",
-        "https://openalex.org/W6658268894",
-        "https://openalex.org/W6680289203",
-        "https://openalex.org/W6681384688",
-        "https://openalex.org/W6778671313"
+        "https://openalex.org/W3102597749"
       ],
       "related_works": [
         "https://openalex.org/W2141217927",
@@ -7396,7 +7359,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7433,7 +7396,10 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -7644,11 +7610,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.7667,
+      "fwci": 1.7659,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.81424245,
+        "value": 0.81436455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7919,7 +7885,10 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -8088,8 +8057,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -8311,11 +8284,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.5295,
+      "fwci": 1.5341,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.7824616,
+        "value": 0.78392195,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8593,8 +8566,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -8638,12 +8615,14 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 80,
+      "referenced_works_count": 68,
       "referenced_works": [
+        "https://openalex.org/W78661028",
         "https://openalex.org/W113080698",
         "https://openalex.org/W195523536",
         "https://openalex.org/W203584942",
         "https://openalex.org/W630406529",
+        "https://openalex.org/W1445124937",
         "https://openalex.org/W1531273367",
         "https://openalex.org/W1535934547",
         "https://openalex.org/W1574018702",
@@ -8662,6 +8641,7 @@
         "https://openalex.org/W2078579538",
         "https://openalex.org/W2081009732",
         "https://openalex.org/W2096388908",
+        "https://openalex.org/W2100040728",
         "https://openalex.org/W2100430226",
         "https://openalex.org/W2113648463",
         "https://openalex.org/W2119626865",
@@ -8673,6 +8653,7 @@
         "https://openalex.org/W2153482727",
         "https://openalex.org/W2157891449",
         "https://openalex.org/W2159337285",
+        "https://openalex.org/W2188971873",
         "https://openalex.org/W2232771417",
         "https://openalex.org/W2326028223",
         "https://openalex.org/W2478727422",
@@ -8702,24 +8683,8 @@
         "https://openalex.org/W3127689467",
         "https://openalex.org/W3139415666",
         "https://openalex.org/W3170579962",
-        "https://openalex.org/W6603257826",
-        "https://openalex.org/W6628529999",
         "https://openalex.org/W6632234155",
-        "https://openalex.org/W6636484389",
-        "https://openalex.org/W6648084016",
-        "https://openalex.org/W6652634319",
-        "https://openalex.org/W6670040326",
-        "https://openalex.org/W6674328910",
-        "https://openalex.org/W6674837453",
-        "https://openalex.org/W6677750036",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6680289203",
-        "https://openalex.org/W6681384688",
-        "https://openalex.org/W6687364956",
-        "https://openalex.org/W6757561195",
-        "https://openalex.org/W6769705177",
-        "https://openalex.org/W6778671313",
-        "https://openalex.org/W6797317632"
+        "https://openalex.org/W6678618728"
       ],
       "related_works": [
         "https://openalex.org/W2083876416",
@@ -8756,7 +8721,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8791,9 +8756,13 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -9136,11 +9105,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 2.44,
+      "fwci": 2.4158,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.88831342,
+        "value": 0.8876968,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9344,9 +9313,13 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -9384,12 +9357,16 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 72,
+      "referenced_works_count": 67,
       "referenced_works": [
         "https://openalex.org/W188107018",
         "https://openalex.org/W195523536",
         "https://openalex.org/W583929527",
+        "https://openalex.org/W1501535576",
+        "https://openalex.org/W1516566041",
+        "https://openalex.org/W1525628619",
         "https://openalex.org/W1533168981",
+        "https://openalex.org/W1592669541",
         "https://openalex.org/W1821990314",
         "https://openalex.org/W1846255149",
         "https://openalex.org/W1848034195",
@@ -9418,6 +9395,7 @@
         "https://openalex.org/W2928103387",
         "https://openalex.org/W2944809997",
         "https://openalex.org/W2991877883",
+        "https://openalex.org/W3003921492",
         "https://openalex.org/W3119223630",
         "https://openalex.org/W3127250646",
         "https://openalex.org/W3147913709",
@@ -9445,19 +9423,9 @@
         "https://openalex.org/W4388205616",
         "https://openalex.org/W4388923668",
         "https://openalex.org/W4390510283",
-        "https://openalex.org/W6608040782",
-        "https://openalex.org/W6630246771",
-        "https://openalex.org/W6630835965",
-        "https://openalex.org/W6631502831",
         "https://openalex.org/W6632509500",
-        "https://openalex.org/W6635313253",
         "https://openalex.org/W6636077317",
-        "https://openalex.org/W6667424714",
-        "https://openalex.org/W6683503873",
-        "https://openalex.org/W6684647182",
-        "https://openalex.org/W6720396847",
-        "https://openalex.org/W6773596295",
-        "https://openalex.org/W6790146940"
+        "https://openalex.org/W6683503873"
       ],
       "related_works": [
         "https://openalex.org/W1536319771",
@@ -9486,7 +9454,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9519,13 +9487,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -9824,11 +9798,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.033,
+      "fwci": 2.0232,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.85484061,
+        "value": 0.85377135,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10042,13 +10016,19 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "doyens",
               "jufo-1",
               "ki-jl-1",
               "medline",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
@@ -10179,13 +10159,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -11439,11 +11425,11 @@
         "value_usd": 3380
       },
       "apc_paid": null,
-      "fwci": 2.6525,
+      "fwci": 2.627,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.90295925,
+        "value": 0.90187471,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11779,7 +11765,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 76,
+      "referenced_works_count": 73,
       "referenced_works": [
         "https://openalex.org/W135661281",
         "https://openalex.org/W350160370",
@@ -11839,6 +11825,7 @@
         "https://openalex.org/W2398974266",
         "https://openalex.org/W2472301123",
         "https://openalex.org/W2497075157",
+        "https://openalex.org/W2581834115",
         "https://openalex.org/W2595647710",
         "https://openalex.org/W2765962086",
         "https://openalex.org/W2892374700",
@@ -11852,11 +11839,7 @@
         "https://openalex.org/W4249152216",
         "https://openalex.org/W4283730795",
         "https://openalex.org/W4308529597",
-        "https://openalex.org/W4386211009",
-        "https://openalex.org/W6605522236",
-        "https://openalex.org/W6667244746",
-        "https://openalex.org/W6668402497",
-        "https://openalex.org/W6856699110"
+        "https://openalex.org/W4386211009"
       ],
       "related_works": [
         "https://openalex.org/W2095019494",
@@ -11885,7 +11868,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12179,11 +12162,11 @@
         "currency": "CHF",
         "value_usd": 1824
       },
-      "fwci": 2.0592,
+      "fwci": 2.2053,
       "has_fulltext": true,
-      "cited_by_count": 23,
+      "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.85211598,
+        "value": 0.86436752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12678,7 +12661,7 @@
         "pdf": "https://content.openalex.org/works/W2988910414.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2988910414.grobid-xml"
       },
-      "referenced_works_count": 26,
+      "referenced_works_count": 23,
       "referenced_works": [
         "https://openalex.org/W1966101546",
         "https://openalex.org/W1967392326",
@@ -12702,10 +12685,7 @@
         "https://openalex.org/W4233455608",
         "https://openalex.org/W4236080362",
         "https://openalex.org/W4246737318",
-        "https://openalex.org/W4249162349",
-        "https://openalex.org/W6652926839",
-        "https://openalex.org/W6676573930",
-        "https://openalex.org/W6760305209"
+        "https://openalex.org/W4249162349"
       ],
       "related_works": [
         "https://openalex.org/W1998885238",
@@ -13421,7 +13401,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2021,
@@ -13432,7 +13412,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-13T10:08:12.033832",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -13466,7 +13446,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -13677,11 +13659,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 2.2625,
+      "fwci": 2.2499,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.85473183,
+        "value": 0.85434261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13922,7 +13904,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -14398,11 +14382,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.9864,
+      "fwci": 0.9874,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.66758249,
+        "value": 0.66779381,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15047,11 +15031,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 11.2265,
+      "fwci": 10.6887,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.98988439,
+        "value": 0.98909616,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15368,7 +15352,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 30,
+      "referenced_works_count": 27,
       "referenced_works": [
         "https://openalex.org/W240302486",
         "https://openalex.org/W2112076978",
@@ -15380,6 +15364,7 @@
         "https://openalex.org/W3047909840",
         "https://openalex.org/W3049574338",
         "https://openalex.org/W3092020543",
+        "https://openalex.org/W3092420524",
         "https://openalex.org/W3127955367",
         "https://openalex.org/W3128470371",
         "https://openalex.org/W3134319588",
@@ -15395,11 +15380,7 @@
         "https://openalex.org/W3192460752",
         "https://openalex.org/W3203033435",
         "https://openalex.org/W4212883601",
-        "https://openalex.org/W6783883898",
-        "https://openalex.org/W6784786311",
-        "https://openalex.org/W6790970183",
-        "https://openalex.org/W6792216444",
-        "https://openalex.org/W6796475878"
+        "https://openalex.org/W6783883898"
       ],
       "related_works": [
         "https://openalex.org/W2953665647",
@@ -16145,7 +16126,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-02T10:15:12.560889",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16178,7 +16159,10 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -16700,11 +16684,11 @@
         "currency": "CHF",
         "value_usd": 2728
       },
-      "fwci": 2.6318,
+      "fwci": 2.5709,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.88639482,
+        "value": 0.88336825,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16991,7 +16975,10 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310310987",
             "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -17063,7 +17050,10 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310310987",
           "host_organization_name": "Multidisciplinary Digital Publishing Institute",
@@ -17154,7 +17144,7 @@
         "pdf": "https://content.openalex.org/works/W4391167607.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4391167607.grobid-xml"
       },
-      "referenced_works_count": 111,
+      "referenced_works_count": 107,
       "referenced_works": [
         "https://openalex.org/W142464504",
         "https://openalex.org/W302662738",
@@ -17262,11 +17252,7 @@
         "https://openalex.org/W4311709573",
         "https://openalex.org/W4313255738",
         "https://openalex.org/W4387821990",
-        "https://openalex.org/W6610697082",
-        "https://openalex.org/W6630489248",
-        "https://openalex.org/W6683656869",
-        "https://openalex.org/W6739904936",
-        "https://openalex.org/W6756770216"
+        "https://openalex.org/W6739904936"
       ],
       "related_works": [
         "https://openalex.org/W4386836896",
@@ -17841,7 +17827,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2024-01-25T00:00:00"
     },
     {
@@ -18059,11 +18045,11 @@
         "value_usd": 3280
       },
       "apc_paid": null,
-      "fwci": 1.5529,
+      "fwci": 1.5572,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79510022,
+        "value": 0.79533404,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18825,11 +18811,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.2053,
+      "fwci": 1.2069,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.72821429,
+        "value": 0.72865979,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19384,8 +19370,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2"
           ],
           "host_organization": "https://openalex.org/P4310316185",
           "host_organization_name": "Society for Sedimentary Geology",
@@ -19549,11 +19538,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5227,
+      "fwci": 1.4948,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78081216,
+        "value": 0.77822531,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19723,8 +19712,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2"
             ],
             "host_organization": "https://openalex.org/P4310316185",
             "host_organization_name": "Society for Sedimentary Geology",
@@ -20395,8 +20387,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -20644,11 +20640,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 0.7305,
+      "fwci": 0.7315,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.60397797,
+        "value": 0.60182139,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20905,8 +20901,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -20950,7 +20950,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 91,
+      "referenced_works_count": 73,
       "referenced_works": [
         "https://openalex.org/W91774130",
         "https://openalex.org/W122678642",
@@ -21024,25 +21024,7 @@
         "https://openalex.org/W3024642770",
         "https://openalex.org/W3043194822",
         "https://openalex.org/W3142643523",
-        "https://openalex.org/W6604999491",
-        "https://openalex.org/W6618274710",
-        "https://openalex.org/W6638405160",
-        "https://openalex.org/W6640660482",
-        "https://openalex.org/W6648530191",
-        "https://openalex.org/W6650687194",
-        "https://openalex.org/W6667838205",
-        "https://openalex.org/W6675205049",
-        "https://openalex.org/W6678661399",
-        "https://openalex.org/W6680114887",
-        "https://openalex.org/W6680725977",
-        "https://openalex.org/W6680923915",
-        "https://openalex.org/W6683643000",
-        "https://openalex.org/W6703471103",
-        "https://openalex.org/W6726734241",
-        "https://openalex.org/W6729391445",
-        "https://openalex.org/W6748178451",
-        "https://openalex.org/W6767729986",
-        "https://openalex.org/W6792109646"
+        "https://openalex.org/W6703471103"
       ],
       "related_works": [
         "https://openalex.org/W2986318339",
@@ -21083,7 +21065,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21391,11 +21373,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.9961,
+      "fwci": 0.9934,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.67305579,
+        "value": 0.67179299,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21706,12 +21688,13 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 60,
+      "referenced_works_count": 55,
       "referenced_works": [
         "https://openalex.org/W67243371",
         "https://openalex.org/W148932376",
         "https://openalex.org/W195523536",
         "https://openalex.org/W203584942",
+        "https://openalex.org/W1565182374",
         "https://openalex.org/W1983234837",
         "https://openalex.org/W1988757595",
         "https://openalex.org/W2026226179",
@@ -21735,6 +21718,7 @@
         "https://openalex.org/W2188377035",
         "https://openalex.org/W2240927644",
         "https://openalex.org/W2334002538",
+        "https://openalex.org/W2494602570",
         "https://openalex.org/W2507432183",
         "https://openalex.org/W2571373978",
         "https://openalex.org/W2766559441",
@@ -21756,18 +21740,11 @@
         "https://openalex.org/W3102597749",
         "https://openalex.org/W3131236843",
         "https://openalex.org/W3195908734",
+        "https://openalex.org/W4252144897",
         "https://openalex.org/W4285553160",
         "https://openalex.org/W4295035066",
-        "https://openalex.org/W6633999113",
-        "https://openalex.org/W6657093395",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6680289203",
-        "https://openalex.org/W6687039026",
-        "https://openalex.org/W6723459858",
-        "https://openalex.org/W6778671313",
-        "https://openalex.org/W6779479171",
-        "https://openalex.org/W6800529128",
-        "https://openalex.org/W6834259751"
+        "https://openalex.org/W6687039026"
       ],
       "related_works": [
         "https://openalex.org/W2082235444",
@@ -21804,7 +21781,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21840,7 +21817,10 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -22295,11 +22275,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.22,
+      "fwci": 1.2118,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.71137378,
+        "value": 0.7092921,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22555,7 +22535,10 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -22728,9 +22711,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -23176,16 +23163,16 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 0.6088,
+      "fwci": 0.6096,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.59095299,
+        "value": 0.58874003,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -23493,9 +23480,13 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -23533,7 +23524,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 66,
+      "referenced_works_count": 58,
       "referenced_works": [
         "https://openalex.org/W81898466",
         "https://openalex.org/W201270911",
@@ -23589,18 +23580,10 @@
         "https://openalex.org/W3083450441",
         "https://openalex.org/W3094506679",
         "https://openalex.org/W3094837136",
+        "https://openalex.org/W3100708793",
         "https://openalex.org/W3126360443",
         "https://openalex.org/W3159274471",
-        "https://openalex.org/W6665148307",
-        "https://openalex.org/W6673052833",
-        "https://openalex.org/W6676046544",
-        "https://openalex.org/W6676942623",
-        "https://openalex.org/W6677888549",
-        "https://openalex.org/W6686762885",
-        "https://openalex.org/W6741677612",
-        "https://openalex.org/W6746218544",
-        "https://openalex.org/W6784348740",
-        "https://openalex.org/W6785629684"
+        "https://openalex.org/W6686762885"
       ],
       "related_works": [
         "https://openalex.org/W2769182112",
@@ -23633,7 +23616,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23998,11 +23981,11 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 0.9096,
+      "fwci": 0.9059,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.62746415,
+        "value": 0.62643158,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24353,20 +24336,26 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 59,
+      "referenced_works_count": 54,
       "referenced_works": [
+        "https://openalex.org/W95062506",
         "https://openalex.org/W148932376",
         "https://openalex.org/W203584942",
         "https://openalex.org/W597194248",
         "https://openalex.org/W1505668941",
         "https://openalex.org/W1521429640",
+        "https://openalex.org/W1978888071",
         "https://openalex.org/W1992531940",
+        "https://openalex.org/W1996783680",
         "https://openalex.org/W1997020533",
         "https://openalex.org/W2009310824",
         "https://openalex.org/W2024225608",
+        "https://openalex.org/W2036400800",
+        "https://openalex.org/W2047937146",
         "https://openalex.org/W2061127522",
         "https://openalex.org/W2124390624",
         "https://openalex.org/W2134189468",
+        "https://openalex.org/W2155051757",
         "https://openalex.org/W2156685817",
         "https://openalex.org/W2170995602",
         "https://openalex.org/W2204541071",
@@ -24374,12 +24363,18 @@
         "https://openalex.org/W2336679283",
         "https://openalex.org/W2392263870",
         "https://openalex.org/W2470982630",
+        "https://openalex.org/W2515479581",
         "https://openalex.org/W2566504220",
         "https://openalex.org/W2598952810",
+        "https://openalex.org/W2724315047",
         "https://openalex.org/W2766559441",
+        "https://openalex.org/W2767078364",
+        "https://openalex.org/W2769829987",
         "https://openalex.org/W2813201281",
         "https://openalex.org/W2883213688",
+        "https://openalex.org/W2887190547",
         "https://openalex.org/W2890297020",
+        "https://openalex.org/W2904807203",
         "https://openalex.org/W2977881986",
         "https://openalex.org/W2990128836",
         "https://openalex.org/W3031900861",
@@ -24392,28 +24387,11 @@
         "https://openalex.org/W4224210531",
         "https://openalex.org/W4280617666",
         "https://openalex.org/W4281667962",
+        "https://openalex.org/W4285125990",
         "https://openalex.org/W4298505326",
         "https://openalex.org/W4310070780",
         "https://openalex.org/W4315786625",
-        "https://openalex.org/W6603845335",
-        "https://openalex.org/W6645102870",
-        "https://openalex.org/W6649431536",
-        "https://openalex.org/W6652622281",
-        "https://openalex.org/W6659448668",
-        "https://openalex.org/W6662660751",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6682922035",
-        "https://openalex.org/W6711912397",
-        "https://openalex.org/W6726158534",
-        "https://openalex.org/W6731681194",
-        "https://openalex.org/W6739736808",
-        "https://openalex.org/W6745652173",
-        "https://openalex.org/W6746208100",
-        "https://openalex.org/W6754083837",
-        "https://openalex.org/W6757451631",
-        "https://openalex.org/W6778569493",
-        "https://openalex.org/W6799334232",
-        "https://openalex.org/W6839383808"
+        "https://openalex.org/W6678618728"
       ],
       "related_works": [
         "https://openalex.org/W2741688011",
@@ -25138,7 +25116,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25171,9 +25149,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -25473,11 +25455,11 @@
         "value_usd": 3280
       },
       "apc_paid": null,
-      "fwci": 0.7237,
+      "fwci": 0.7183,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.63919219,
+        "value": 0.63563151,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25791,9 +25773,13 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -26034,7 +26020,10 @@
           "listed_in": [
             "cwts-core",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -26273,11 +26262,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.4506,
+      "fwci": 0.4501,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.57177957,
+        "value": 0.56848829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26518,7 +26507,10 @@
             "listed_in": [
               "cwts-core",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -26726,7 +26718,9 @@
           "listed_in": [
             "cwts-core",
             "doaj",
-            "jufo-1"
+            "dongbi-c",
+            "jufo-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -27030,11 +27024,11 @@
         "currency": "USD",
         "value_usd": 2320
       },
-      "fwci": 0.4575,
+      "fwci": 0.453,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.4663607,
+        "value": 0.460743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27336,7 +27330,9 @@
             "listed_in": [
               "cwts-core",
               "doaj",
-              "jufo-1"
+              "dongbi-c",
+              "jufo-1",
+              "poland-20"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -27405,7 +27401,9 @@
           "listed_in": [
             "cwts-core",
             "doaj",
-            "jufo-1"
+            "dongbi-c",
+            "jufo-1",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -27462,7 +27460,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 47,
+      "referenced_works_count": 46,
       "referenced_works": [
         "https://openalex.org/W161642668",
         "https://openalex.org/W195523536",
@@ -27509,8 +27507,7 @@
         "https://openalex.org/W4210307208",
         "https://openalex.org/W4296311853",
         "https://openalex.org/W4319766246",
-        "https://openalex.org/W4361006874",
-        "https://openalex.org/W6608040782"
+        "https://openalex.org/W4361006874"
       ],
       "related_works": [
         "https://openalex.org/W133745449",
@@ -28261,7 +28258,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28791,11 +28788,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.4062,
+      "fwci": 6.1529,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.95792721,
+        "value": 0.95463535,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29047,6 +29044,7 @@
       "referenced_works": [
         "https://openalex.org/W1516566041",
         "https://openalex.org/W1540632399",
+        "https://openalex.org/W1963613112",
         "https://openalex.org/W1991675503",
         "https://openalex.org/W1997195714",
         "https://openalex.org/W2046008208",
@@ -29058,10 +29056,9 @@
         "https://openalex.org/W2938243655",
         "https://openalex.org/W3003921492",
         "https://openalex.org/W3033490969",
+        "https://openalex.org/W3106505032",
         "https://openalex.org/W3129034920",
-        "https://openalex.org/W4388923668",
-        "https://openalex.org/W6641252659",
-        "https://openalex.org/W6786109005"
+        "https://openalex.org/W4388923668"
       ],
       "related_works": [
         "https://openalex.org/W2748952813",
@@ -29086,7 +29083,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29319,11 +29316,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.1473,
+      "fwci": 5.188,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.9284141,
+        "value": 0.92857143,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29553,6 +29550,7 @@
         "https://openalex.org/W2134897811",
         "https://openalex.org/W2166039370",
         "https://openalex.org/W2462802418",
+        "https://openalex.org/W2494602570",
         "https://openalex.org/W2516706165",
         "https://openalex.org/W2768451290",
         "https://openalex.org/W2898387925",
@@ -29583,8 +29581,7 @@
         "https://openalex.org/W4396905774",
         "https://openalex.org/W4398161917",
         "https://openalex.org/W4402100667",
-        "https://openalex.org/W4403284436",
-        "https://openalex.org/W6723459858"
+        "https://openalex.org/W4403284436"
       ],
       "related_works": [
         "https://openalex.org/W4298849700",
@@ -30080,7 +30077,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30196,11 +30193,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8156,
+      "fwci": 2.7618,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.92117289,
+        "value": 0.92071512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30675,7 +30672,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07388159,
+        "value": 0.07396057,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31602,7 +31599,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22653623,
+        "value": 0.22678517,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32306,7 +32303,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37121212,
+        "value": 0.37225445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32909,7 +32906,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13365029,
+        "value": 0.13372093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33947,8 +33944,7 @@
             "display_name": "Jonathan L. Payne",
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-9601-3310",
-              "https://orcid.org/0009-0009-9668-2061"
+              "https://orcid.org/0000-0002-9601-3310"
             ]
           },
           "institutions": [
@@ -34832,7 +34828,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35381,7 +35377,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 39,
+      "referenced_works_count": 38,
       "referenced_works": [
         "https://openalex.org/W95062506",
         "https://openalex.org/W203584942",
@@ -35420,8 +35416,7 @@
         "https://openalex.org/W4281667962",
         "https://openalex.org/W4310070780",
         "https://openalex.org/W4315786625",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6726158534"
+        "https://openalex.org/W6678618728"
       ],
       "related_works": [
         "https://openalex.org/W2391823592",
@@ -35437,7 +35432,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35471,8 +35466,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-3"
           ],
           "host_organization": null,
           "host_organization_name": null,
@@ -35577,8 +35575,7 @@
             "display_name": "Jonathan L. Payne",
             "orcid": "https://orcid.org/0000-0002-9601-3310",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-9601-3310",
-              "https://orcid.org/0009-0009-9668-2061"
+              "https://orcid.org/0000-0002-9601-3310"
             ]
           },
           "institutions": [],
@@ -35619,7 +35616,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1524785,
+        "value": 0.15239592,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35872,8 +35869,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-3"
             ],
             "host_organization": null,
             "host_organization_name": null,
@@ -36337,7 +36337,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37467,13 +37467,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -37740,7 +37746,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15941743,
+        "value": 0.15788202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37879,13 +37885,19 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "doyens",
               "jufo-1",
               "ki-jl-1",
               "medline",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
@@ -38045,13 +38057,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -38086,7 +38104,7 @@
         "pdf": "https://content.openalex.org/works/W4413307018.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4413307018.grobid-xml"
       },
-      "referenced_works_count": 20,
+      "referenced_works_count": 19,
       "referenced_works": [
         "https://openalex.org/W151895561",
         "https://openalex.org/W1536655559",
@@ -38099,15 +38117,14 @@
         "https://openalex.org/W2046553793",
         "https://openalex.org/W2068131228",
         "https://openalex.org/W2069762323",
+        "https://openalex.org/W2133059825",
         "https://openalex.org/W2133427030",
         "https://openalex.org/W2168203944",
         "https://openalex.org/W2807454817",
         "https://openalex.org/W2894457288",
         "https://openalex.org/W2952967576",
-        "https://openalex.org/W3104468152",
         "https://openalex.org/W4298268512",
-        "https://openalex.org/W4400320376",
-        "https://openalex.org/W6680096826"
+        "https://openalex.org/W4400320376"
       ],
       "related_works": [
         "https://openalex.org/W2324615561",
@@ -38650,7 +38667,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39650,7 +39667,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41727,
+        "value": 0.40992353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42458,7 +42475,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31611526,
+        "value": 0.3011061,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44729,7 +44746,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -44912,7 +44930,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35390223,
+        "value": 0.34870568,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45368,7 +45386,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2026-06-13T00:00:00"
     },
     {
@@ -45603,7 +45621,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43719298,
+        "value": 0.43391393,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46653,9 +46671,13 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320006",
           "host_organization_name": "American Chemical Society",
@@ -46988,7 +47010,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.5162834,
+        "value": 0.49309207,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47312,9 +47334,13 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320006",
             "host_organization_name": "American Chemical Society",
@@ -48051,8 +48077,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
@@ -48343,7 +48372,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78211479,
+        "value": 0.75279112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48642,8 +48671,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",

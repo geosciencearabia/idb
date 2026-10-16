@@ -17,10 +17,11 @@
       "Abdulkader M Abed",
       "Abdulkader M. Abed",
       "Abdulkader M. Abed* and Bilal S. Am",
+      "Abed, A.",
       "Abed, ِabdulkader"
     ],
     "full_name": "Abdulkader M. Abed",
-    "works_count": 64,
+    "works_count": 65,
     "cited_by_count": 1638,
     "summary_stats": {
       "2yr_mean_citedness": 0,
@@ -230,7 +231,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "count": 11,
+        "count": 12,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -247,7 +248,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "count": 10,
+        "count": 11,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -266,7 +267,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000563,
+        "value": 0.0000539,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -283,7 +284,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000046,
+        "value": 0.0000438,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -300,7 +301,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000387,
+        "value": 0.0000372,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -317,7 +318,7 @@
       {
         "id": "https://openalex.org/T12218",
         "display_name": "Coal and Its By-products",
-        "value": 0.0000275,
+        "value": 0.0000271,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -334,7 +335,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000263,
+        "value": 0.0000256,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -516,7 +517,7 @@
       },
       {
         "year": 2008,
-        "works_count": 2,
+        "works_count": 3,
         "oa_works_count": 0,
         "cited_by_count": 62
       },
@@ -598,11 +599,12 @@
       "Abdulkader M Abed",
       "Abdulkader M. Abed",
       "Abdulkader M. Abed* and Bilal S. Am",
+      "Abed, A.",
       "Abed, ِabdulkader"
     ],
     "block_key": "a abed",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5102809672",
-    "updated_date": "2026-10-13T12:33:52",
+    "updated_date": "2026-10-15T12:44:11",
     "created_date": "2020-09-21T00:00:00"
   },
   "works": [
@@ -701,11 +703,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2537,
+      "fwci": 6.2552,
       "has_fulltext": true,
       "cited_by_count": 106,
       "citation_normalized_percentile": {
-        "value": 0.95613126,
+        "value": 0.95621762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1048,9 +1050,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -1064,7 +1066,7 @@
         "pdf": "https://content.openalex.org/works/W766487889.pdf",
         "grobid_xml": "https://content.openalex.org/works/W766487889.grobid-xml"
       },
-      "referenced_works_count": 98,
+      "referenced_works_count": 88,
       "referenced_works": [
         "https://openalex.org/W81898466",
         "https://openalex.org/W114633828",
@@ -1074,6 +1076,7 @@
         "https://openalex.org/W1578740370",
         "https://openalex.org/W1673055097",
         "https://openalex.org/W1814948295",
+        "https://openalex.org/W1933993045",
         "https://openalex.org/W1968111833",
         "https://openalex.org/W1969641945",
         "https://openalex.org/W1978445704",
@@ -1142,6 +1145,7 @@
         "https://openalex.org/W3092404448",
         "https://openalex.org/W3108419508",
         "https://openalex.org/W3152707059",
+        "https://openalex.org/W3179957819",
         "https://openalex.org/W3209995527",
         "https://openalex.org/W4206825615",
         "https://openalex.org/W4210840637",
@@ -1149,20 +1153,8 @@
         "https://openalex.org/W4251282348",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W4297902456",
-        "https://openalex.org/W6637420399",
-        "https://openalex.org/W6640197504",
-        "https://openalex.org/W6646591478",
-        "https://openalex.org/W6649091805",
-        "https://openalex.org/W6658341835",
-        "https://openalex.org/W6673790193",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6685118346",
-        "https://openalex.org/W6695606711",
-        "https://openalex.org/W6731447047",
         "https://openalex.org/W6750761730",
-        "https://openalex.org/W6794056942",
-        "https://openalex.org/W6798264890",
-        "https://openalex.org/W6803210815",
         "https://openalex.org/W6967416579"
       ],
       "related_works": [
@@ -2039,7 +2031,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2283,11 +2275,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.3058,
+      "fwci": 1.3043,
       "has_fulltext": false,
       "cited_by_count": 108,
       "citation_normalized_percentile": {
-        "value": 0.80902478,
+        "value": 0.8086785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2593,9 +2585,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -2606,12 +2598,13 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 138,
+      "referenced_works_count": 119,
       "referenced_works": [
         "https://openalex.org/W30589973",
         "https://openalex.org/W54025404",
         "https://openalex.org/W114633828",
         "https://openalex.org/W128848223",
+        "https://openalex.org/W222993292",
         "https://openalex.org/W607807528",
         "https://openalex.org/W620013231",
         "https://openalex.org/W625735752",
@@ -2630,6 +2623,7 @@
         "https://openalex.org/W1611169130",
         "https://openalex.org/W1673055097",
         "https://openalex.org/W1874262011",
+        "https://openalex.org/W1927390709",
         "https://openalex.org/W1965208642",
         "https://openalex.org/W1966564765",
         "https://openalex.org/W1967282843",
@@ -2722,29 +2716,8 @@
         "https://openalex.org/W4205129767",
         "https://openalex.org/W4250980847",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W6608811823",
-        "https://openalex.org/W6630586579",
-        "https://openalex.org/W6633894068",
-        "https://openalex.org/W6637420399",
-        "https://openalex.org/W6639290373",
-        "https://openalex.org/W6640345944",
-        "https://openalex.org/W6645143188",
-        "https://openalex.org/W6669019901",
-        "https://openalex.org/W6672368438",
-        "https://openalex.org/W6677640287",
-        "https://openalex.org/W6679782272",
-        "https://openalex.org/W6680172625",
-        "https://openalex.org/W6680644763",
-        "https://openalex.org/W6681323974",
-        "https://openalex.org/W6689233504",
-        "https://openalex.org/W6691016623",
-        "https://openalex.org/W6696807199",
-        "https://openalex.org/W6704417523",
-        "https://openalex.org/W6714039292",
-        "https://openalex.org/W6719099397",
-        "https://openalex.org/W6723901074",
         "https://openalex.org/W6726583148",
-        "https://openalex.org/W6801086130",
+        "https://openalex.org/W6948669648",
         "https://openalex.org/W7046358232"
       ],
       "related_works": [
@@ -2822,7 +2795,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2857,8 +2830,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -3042,11 +3019,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 1.1331,
+      "fwci": 1.1274,
       "has_fulltext": false,
       "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.77458834,
+        "value": 0.77322282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3357,8 +3334,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -3383,9 +3364,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -3396,7 +3377,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 43,
+      "referenced_works_count": 39,
       "referenced_works": [
         "https://openalex.org/W296468733",
         "https://openalex.org/W1521060394",
@@ -3436,10 +3417,6 @@
         "https://openalex.org/W2280799300",
         "https://openalex.org/W2808094458",
         "https://openalex.org/W6632389114",
-        "https://openalex.org/W6646591478",
-        "https://openalex.org/W6674385508",
-        "https://openalex.org/W6695404198",
-        "https://openalex.org/W6812188114",
         "https://openalex.org/W6967416579"
       ],
       "related_works": [
@@ -3517,7 +3494,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3552,8 +3529,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -3721,12 +3702,12 @@
       "has_fulltext": false,
       "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.17898486,
+        "value": 0.18008949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -4015,8 +3996,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -4041,9 +4026,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -4060,11 +4045,12 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 56,
+      "referenced_works_count": 50,
       "referenced_works": [
         "https://openalex.org/W61051762",
         "https://openalex.org/W81495212",
         "https://openalex.org/W124811339",
+        "https://openalex.org/W1496120092",
         "https://openalex.org/W1508580994",
         "https://openalex.org/W1528850606",
         "https://openalex.org/W1599387017",
@@ -4108,13 +4094,6 @@
         "https://openalex.org/W3007915037",
         "https://openalex.org/W4230328441",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W6602513756",
-        "https://openalex.org/W6603269931",
-        "https://openalex.org/W6605156811",
-        "https://openalex.org/W6629794694",
-        "https://openalex.org/W6630586579",
-        "https://openalex.org/W6653182895",
-        "https://openalex.org/W6689522109",
         "https://openalex.org/W6814601277",
         "https://openalex.org/W6834576109",
         "https://openalex.org/W7015032199"
@@ -4194,7 +4173,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4615,11 +4594,11 @@
         "value_usd": 3120
       },
       "apc_paid": null,
-      "fwci": 3.6041,
+      "fwci": 3.6032,
       "has_fulltext": false,
       "cited_by_count": 66,
       "citation_normalized_percentile": {
-        "value": 0.91920121,
+        "value": 0.91917752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4952,16 +4931,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46149998903274536,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.46149998903274536
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -4972,7 +4951,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 36,
+      "referenced_works_count": 33,
       "referenced_works": [
         "https://openalex.org/W45179253",
         "https://openalex.org/W229065267",
@@ -5005,11 +4984,8 @@
         "https://openalex.org/W3039724339",
         "https://openalex.org/W3155402247",
         "https://openalex.org/W4233309272",
-        "https://openalex.org/W6601830941",
         "https://openalex.org/W6648477322",
-        "https://openalex.org/W6660340094",
-        "https://openalex.org/W6727080483",
-        "https://openalex.org/W6780105055"
+        "https://openalex.org/W6727080483"
       ],
       "related_works": [
         "https://openalex.org/W1848094102",
@@ -5082,7 +5058,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5271,11 +5247,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.366,
+      "fwci": 4.3443,
       "has_fulltext": true,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.92837308,
+        "value": 0.92797306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5677,9 +5653,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -5692,7 +5668,7 @@
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1542845244.pdf"
       },
-      "referenced_works_count": 73,
+      "referenced_works_count": 69,
       "referenced_works": [
         "https://openalex.org/W64953067",
         "https://openalex.org/W69505290",
@@ -5757,15 +5733,11 @@
         "https://openalex.org/W3004523161",
         "https://openalex.org/W3007915037",
         "https://openalex.org/W3045296169",
+        "https://openalex.org/W3214948090",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W4302045188",
-        "https://openalex.org/W6608040782",
-        "https://openalex.org/W6618024784",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6680177379",
-        "https://openalex.org/W6683706672",
         "https://openalex.org/W6723182262",
-        "https://openalex.org/W6804057887",
         "https://openalex.org/W7052948001"
       ],
       "related_works": [
@@ -7436,7 +7408,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-03T13:16:28.481748",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7470,9 +7442,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -7636,11 +7612,11 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 1.3857,
+      "fwci": 1.3906,
       "has_fulltext": false,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.83257614,
+        "value": 0.83265514,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7824,9 +7800,13 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -7851,9 +7831,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -7864,7 +7844,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 45,
+      "referenced_works_count": 37,
       "referenced_works": [
         "https://openalex.org/W43588767",
         "https://openalex.org/W574405496",
@@ -7901,15 +7881,7 @@
         "https://openalex.org/W2974796042",
         "https://openalex.org/W3215980238",
         "https://openalex.org/W4394682092",
-        "https://openalex.org/W6616625979",
-        "https://openalex.org/W6632249195",
-        "https://openalex.org/W6637548868",
-        "https://openalex.org/W6642702230",
         "https://openalex.org/W6655631898",
-        "https://openalex.org/W6662097579",
-        "https://openalex.org/W6674422793",
-        "https://openalex.org/W6689193489",
-        "https://openalex.org/W6804014295",
         "https://openalex.org/W6834576109"
       ],
       "related_works": [
@@ -7987,7 +7959,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8133,11 +8105,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9967,
+      "fwci": 0.997,
       "has_fulltext": true,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.80537591,
+        "value": 0.80545455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8381,9 +8353,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -8504,10 +8476,15 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -8673,11 +8650,11 @@
         "value_usd": 2910
       },
       "apc_paid": null,
-      "fwci": 2.4847,
+      "fwci": 2.4694,
       "has_fulltext": false,
       "cited_by_count": 56,
       "citation_normalized_percentile": {
-        "value": 0.88296956,
+        "value": 0.88236144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8982,10 +8959,15 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -9041,9 +9023,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.9100000262260437,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.9100000262260437
         }
       ],
       "study_designs": [],
@@ -9060,7 +9042,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 46,
+      "referenced_works_count": 42,
       "referenced_works": [
         "https://openalex.org/W69939146",
         "https://openalex.org/W75807313",
@@ -9103,10 +9085,6 @@
         "https://openalex.org/W2999161041",
         "https://openalex.org/W4211169084",
         "https://openalex.org/W4388323535",
-        "https://openalex.org/W6607630917",
-        "https://openalex.org/W6690424367",
-        "https://openalex.org/W6721128108",
-        "https://openalex.org/W6772758430",
         "https://openalex.org/W7024133469"
       ],
       "related_works": [
@@ -9180,7 +9158,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9305,11 +9283,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5491,
+      "fwci": 3.5388,
       "has_fulltext": true,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.91466176,
+        "value": 0.91433069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9625,9 +9603,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -9641,13 +9619,15 @@
         "pdf": "https://content.openalex.org/works/W2336549484.pdf",
         "grobid_xml": "https://content.openalex.org/works/W2336549484.grobid-xml"
       },
-      "referenced_works_count": 67,
+      "referenced_works_count": 63,
       "referenced_works": [
+        "https://openalex.org/W61051762",
         "https://openalex.org/W64953067",
         "https://openalex.org/W85486877",
         "https://openalex.org/W596555667",
         "https://openalex.org/W1542845244",
         "https://openalex.org/W1547519091",
+        "https://openalex.org/W1810358052",
         "https://openalex.org/W1880795045",
         "https://openalex.org/W1923889407",
         "https://openalex.org/W1964591197",
@@ -9675,6 +9655,7 @@
         "https://openalex.org/W2077794309",
         "https://openalex.org/W2078693117",
         "https://openalex.org/W2079385125",
+        "https://openalex.org/W2081624627",
         "https://openalex.org/W2085045890",
         "https://openalex.org/W2089286331",
         "https://openalex.org/W2120852101",
@@ -9698,16 +9679,9 @@
         "https://openalex.org/W2998820729",
         "https://openalex.org/W3004523161",
         "https://openalex.org/W3007915037",
-        "https://openalex.org/W3010544617",
         "https://openalex.org/W4205161778",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W6602513756",
         "https://openalex.org/W6620029179",
-        "https://openalex.org/W6638582298",
-        "https://openalex.org/W6644490836",
-        "https://openalex.org/W6670726719",
-        "https://openalex.org/W6685659867",
-        "https://openalex.org/W6737539788",
         "https://openalex.org/W6992462849",
         "https://openalex.org/W7052948001"
       ],
@@ -11390,7 +11364,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-07T09:51:55.459714",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11425,8 +11399,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
@@ -11544,11 +11521,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1891,
+      "fwci": 1.1869,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.80571181,
+        "value": 0.80538662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11754,8 +11731,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310311650",
             "host_organization_name": "Geological Society of London",
@@ -12146,11 +12126,15 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -12380,11 +12364,11 @@
         "value_usd": 2790
       },
       "apc_paid": null,
-      "fwci": 1.097,
+      "fwci": 1.095,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.79000047,
+        "value": 0.78915861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12885,11 +12869,15 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
               "jufo-1",
               "ki-jl-1",
               "medline",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -12946,16 +12934,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8999999761581421
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6800000071525574
         }
       ],
       "study_designs": [],
@@ -13134,8 +13122,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
@@ -13264,11 +13255,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 1.6327,
+      "fwci": 1.6335,
       "has_fulltext": false,
       "cited_by_count": 61,
       "citation_normalized_percentile": {
-        "value": 0.81910226,
+        "value": 0.81902395,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13531,8 +13522,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
@@ -13557,9 +13551,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
@@ -13921,9 +13915,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-2",
-            "norway-2"
+            "norway-2",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -14063,16 +14062,16 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.0168,
+      "fwci": 1.0085,
       "has_fulltext": false,
       "cited_by_count": 54,
       "citation_normalized_percentile": {
-        "value": 0.75062267,
+        "value": 0.74879923,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -14381,9 +14380,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-2",
-              "norway-2"
+              "norway-2",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -14407,16 +14411,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -14433,7 +14437,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 42,
+      "referenced_works_count": 41,
       "referenced_works": [
         "https://openalex.org/W181607887",
         "https://openalex.org/W614825625",
@@ -14474,7 +14478,6 @@
         "https://openalex.org/W2800817101",
         "https://openalex.org/W2974328968",
         "https://openalex.org/W4254770485",
-        "https://openalex.org/W6635419041",
         "https://openalex.org/W6662043936",
         "https://openalex.org/W6884915241"
       ],
@@ -14541,7 +14544,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14577,8 +14580,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310316185",
           "host_organization_name": "Society for Sedimentary Geology",
@@ -14685,7 +14692,7 @@
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.18802498,
+        "value": 0.19052815,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14923,8 +14930,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310316185",
             "host_organization_name": "Society for Sedimentary Geology",
@@ -14948,16 +14959,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -15534,8 +15545,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -15738,11 +15752,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.8749,
+      "fwci": 1.8793,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.82895015,
+        "value": 0.82906829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16028,8 +16042,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -16055,21 +16072,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.965499997138977,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         },
         {
-          "score": 0.7811999917030334,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.7811999917030334
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -16208,8 +16225,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-a",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -16333,11 +16353,11 @@
         "value_usd": 3560
       },
       "apc_paid": null,
-      "fwci": 1.1994,
+      "fwci": 1.1896,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.7762855,
+        "value": 0.7741433,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16617,8 +16637,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-a",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -16643,9 +16666,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.49000000953674316
         }
       ],
       "study_designs": [],
@@ -16763,9 +16786,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-c",
             "jufo-2",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -16903,11 +16931,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.7518,
+      "fwci": 0.7483,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.73592085,
+        "value": 0.73484267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17202,9 +17230,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-c",
               "jufo-2",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -17236,7 +17269,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 37,
+      "referenced_works_count": 35,
       "referenced_works": [
         "https://openalex.org/W114633828",
         "https://openalex.org/W625735752",
@@ -17258,6 +17291,7 @@
         "https://openalex.org/W2046692613",
         "https://openalex.org/W2048296323",
         "https://openalex.org/W2049572242",
+        "https://openalex.org/W2055932192",
         "https://openalex.org/W2055950139",
         "https://openalex.org/W2057829339",
         "https://openalex.org/W2062805073",
@@ -17271,10 +17305,7 @@
         "https://openalex.org/W2257843158",
         "https://openalex.org/W2462157712",
         "https://openalex.org/W3043719335",
-        "https://openalex.org/W6620029179",
-        "https://openalex.org/W6664607333",
-        "https://openalex.org/W6692294293",
-        "https://openalex.org/W6718920728"
+        "https://openalex.org/W6620029179"
       ],
       "related_works": [
         "https://openalex.org/W2375591085",
@@ -17331,7 +17362,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17366,8 +17397,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -17519,11 +17554,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.9359,
+      "fwci": 0.9294,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.75759013,
+        "value": 0.75599905,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17784,8 +17819,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -17810,9 +17849,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -17834,7 +17873,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 51,
+      "referenced_works_count": 38,
       "referenced_works": [
         "https://openalex.org/W64953067",
         "https://openalex.org/W107808665",
@@ -17868,22 +17907,9 @@
         "https://openalex.org/W3045759707",
         "https://openalex.org/W4230328441",
         "https://openalex.org/W4392610810",
-        "https://openalex.org/W6604429882",
         "https://openalex.org/W6620029179",
-        "https://openalex.org/W6622336542",
-        "https://openalex.org/W6632249195",
         "https://openalex.org/W6637173508",
-        "https://openalex.org/W6643176456",
-        "https://openalex.org/W6648554421",
         "https://openalex.org/W6651061883",
-        "https://openalex.org/W6660048566",
-        "https://openalex.org/W6679034026",
-        "https://openalex.org/W6680341237",
-        "https://openalex.org/W6680891870",
-        "https://openalex.org/W6688214695",
-        "https://openalex.org/W6689485224",
-        "https://openalex.org/W6697219113",
-        "https://openalex.org/W6707372543",
         "https://openalex.org/W6814601277",
         "https://openalex.org/W6834441094",
         "https://openalex.org/W6837065242"
@@ -17959,7 +17985,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17995,9 +18021,13 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -18137,11 +18167,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 2.6959,
+      "fwci": 2.6979,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.89027607,
+        "value": 0.89051481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18386,9 +18416,13 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -18413,9 +18447,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
@@ -18426,7 +18460,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 35,
+      "referenced_works_count": 31,
       "referenced_works": [
         "https://openalex.org/W4492592",
         "https://openalex.org/W81898466",
@@ -18458,10 +18492,6 @@
         "https://openalex.org/W2261327136",
         "https://openalex.org/W2276807702",
         "https://openalex.org/W2304041915",
-        "https://openalex.org/W6600189588",
-        "https://openalex.org/W6666117006",
-        "https://openalex.org/W6690024474",
-        "https://openalex.org/W6692050852",
         "https://openalex.org/W6808448667"
       ],
       "related_works": [
@@ -18531,7 +18561,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18725,16 +18755,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2308,
+      "fwci": 4.2269,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.93196837,
+        "value": 0.93185841,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -19085,9 +19115,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -19098,7 +19128,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 95,
+      "referenced_works_count": 86,
       "referenced_works": [
         "https://openalex.org/W30614123",
         "https://openalex.org/W37266117",
@@ -19165,6 +19195,7 @@
         "https://openalex.org/W2168292774",
         "https://openalex.org/W2231355991",
         "https://openalex.org/W2267398873",
+        "https://openalex.org/W2473152502",
         "https://openalex.org/W2494265543",
         "https://openalex.org/W2549993001",
         "https://openalex.org/W2586497884",
@@ -19183,18 +19214,8 @@
         "https://openalex.org/W4253952146",
         "https://openalex.org/W4312705019",
         "https://openalex.org/W4312739608",
-        "https://openalex.org/W6654948729",
-        "https://openalex.org/W6673052833",
-        "https://openalex.org/W6676942623",
         "https://openalex.org/W6678618728",
-        "https://openalex.org/W6683897362",
-        "https://openalex.org/W6721014545",
-        "https://openalex.org/W6723498550",
-        "https://openalex.org/W6733314976",
-        "https://openalex.org/W6771401249",
-        "https://openalex.org/W6799158594",
-        "https://openalex.org/W6862280152",
-        "https://openalex.org/W7038331717"
+        "https://openalex.org/W6862280152"
       ],
       "related_works": [
         "https://openalex.org/W2092092595",
@@ -20062,7 +20083,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20096,7 +20117,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -20330,11 +20353,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 2.3664,
+      "fwci": 2.3621,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.86646804,
+        "value": 0.86615029,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20613,7 +20636,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -20640,9 +20665,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -20811,8 +20836,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -20919,11 +20948,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.9359,
+      "fwci": 0.9294,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.72960152,
+        "value": 0.72796389,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21198,8 +21227,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -21224,9 +21257,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -21243,7 +21276,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 25,
+      "referenced_works_count": 23,
       "referenced_works": [
         "https://openalex.org/W616686322",
         "https://openalex.org/W620985104",
@@ -21267,9 +21300,7 @@
         "https://openalex.org/W2750053865",
         "https://openalex.org/W4230328441",
         "https://openalex.org/W4244550332",
-        "https://openalex.org/W6620029179",
-        "https://openalex.org/W6628878441",
-        "https://openalex.org/W6640047912"
+        "https://openalex.org/W6620029179"
       ],
       "related_works": [
         "https://openalex.org/W2033043904",
@@ -21322,7 +21353,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21356,9 +21387,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -21522,16 +21557,16 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 0.5243,
+      "fwci": 0.5228,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.69604087,
+        "value": 0.69496855,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -21800,9 +21835,13 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -21827,9 +21866,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -21846,7 +21885,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 102,
+      "referenced_works_count": 96,
       "referenced_works": [
         "https://openalex.org/W43588767",
         "https://openalex.org/W124811339",
@@ -21943,13 +21982,7 @@
         "https://openalex.org/W4239285743",
         "https://openalex.org/W4249152216",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W4301968067",
-        "https://openalex.org/W6651386690",
-        "https://openalex.org/W6659074013",
-        "https://openalex.org/W6676820342",
-        "https://openalex.org/W6677211006",
-        "https://openalex.org/W6686045628",
-        "https://openalex.org/W6771401249"
+        "https://openalex.org/W4301968067"
       ],
       "related_works": [
         "https://openalex.org/W2354173402",
@@ -22002,7 +22035,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22134,11 +22167,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5094,
+      "fwci": 0.5087,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.71711099,
+        "value": 0.71666009,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22464,9 +22497,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -23499,11 +23532,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5084,
+      "fwci": 0.5042,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.65558842,
+        "value": 0.65441883,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23785,9 +23818,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -23798,7 +23831,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 23,
+      "referenced_works_count": 22,
       "referenced_works": [
         "https://openalex.org/W229065267",
         "https://openalex.org/W593287019",
@@ -23819,7 +23852,6 @@
         "https://openalex.org/W2523027764",
         "https://openalex.org/W2974623861",
         "https://openalex.org/W4251643421",
-        "https://openalex.org/W6620721409",
         "https://openalex.org/W6624979446",
         "https://openalex.org/W6689608622",
         "https://openalex.org/W6727080483"
@@ -23859,7 +23891,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23893,7 +23925,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -24176,11 +24210,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.716,
+      "fwci": 0.7145,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.69854813,
+        "value": 0.69751037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24458,7 +24492,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -24484,9 +24520,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.965499997138977,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.965499997138977
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -24643,9 +24679,13 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -24849,11 +24889,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.4134,
+      "fwci": 0.4114,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.62037515,
+        "value": 0.61642412,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25136,9 +25176,13 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -25163,9 +25207,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -25187,7 +25231,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 89,
+      "referenced_works_count": 82,
       "referenced_works": [
         "https://openalex.org/W81898466",
         "https://openalex.org/W170858192",
@@ -25270,13 +25314,6 @@
         "https://openalex.org/W3145668433",
         "https://openalex.org/W3152707059",
         "https://openalex.org/W4238032652",
-        "https://openalex.org/W6606915628",
-        "https://openalex.org/W6640197504",
-        "https://openalex.org/W6649804421",
-        "https://openalex.org/W6658341835",
-        "https://openalex.org/W6668425849",
-        "https://openalex.org/W6683154867",
-        "https://openalex.org/W6794056942",
         "https://openalex.org/W6967416579"
       ],
       "related_works": [
@@ -25318,7 +25355,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25353,8 +25390,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -25442,11 +25483,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 0.9026,
+      "fwci": 0.9057,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.73787138,
+        "value": 0.73584906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25693,8 +25734,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -25719,9 +25764,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
@@ -25732,7 +25777,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 21,
+      "referenced_works_count": 18,
       "referenced_works": [
         "https://openalex.org/W625735752",
         "https://openalex.org/W1522357428",
@@ -25751,9 +25796,6 @@
         "https://openalex.org/W3007140506",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W6620029179",
-        "https://openalex.org/W6629256510",
-        "https://openalex.org/W6631250186",
-        "https://openalex.org/W6675044648",
         "https://openalex.org/W6948503473"
       ],
       "related_works": [
@@ -25803,7 +25845,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25838,8 +25880,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -26002,11 +26048,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.0973,
+      "fwci": 2.0913,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.84929757,
+        "value": 0.8490566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26340,8 +26386,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -26366,9 +26416,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -26379,7 +26429,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 39,
+      "referenced_works_count": 35,
       "referenced_works": [
         "https://openalex.org/W28830587",
         "https://openalex.org/W564220257",
@@ -26415,10 +26465,6 @@
         "https://openalex.org/W3198963668",
         "https://openalex.org/W4246157246",
         "https://openalex.org/W4251419653",
-        "https://openalex.org/W6601209306",
-        "https://openalex.org/W6629545211",
-        "https://openalex.org/W6634903524",
-        "https://openalex.org/W6724059483",
         "https://openalex.org/W6967416579"
       ],
       "related_works": [
@@ -26492,7 +26538,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26995,9 +27041,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -27131,10 +27177,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "erih-plus",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310311721",
           "host_organization_name": "Cambridge University Press",
@@ -27344,11 +27394,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.8489,
+      "fwci": 0.8454,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.71723129,
+        "value": 0.71580446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27643,10 +27693,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "erih-plus",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310311721",
             "host_organization_name": "Cambridge University Press",
@@ -27673,9 +27727,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -28173,8 +28227,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -28336,7 +28394,7 @@
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.21679198,
+        "value": 0.21773855,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28546,8 +28604,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -28572,9 +28634,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.6299999952316284
         }
       ],
       "study_designs": [],
@@ -28585,7 +28647,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 15,
+      "referenced_works_count": 10,
       "referenced_works": [
         "https://openalex.org/W61051762",
         "https://openalex.org/W197406392",
@@ -28596,12 +28658,7 @@
         "https://openalex.org/W2076533240",
         "https://openalex.org/W2150628091",
         "https://openalex.org/W2343619380",
-        "https://openalex.org/W2598808698",
-        "https://openalex.org/W6602513756",
-        "https://openalex.org/W6629628454",
-        "https://openalex.org/W6682588944",
-        "https://openalex.org/W6704688395",
-        "https://openalex.org/W6735696945"
+        "https://openalex.org/W2598808698"
       ],
       "related_works": [
         "https://openalex.org/W2800531900",
@@ -28650,7 +28707,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28808,11 +28865,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5855,
+      "fwci": 1.5787,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81671813,
+        "value": 0.81549327,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29068,7 +29125,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 38,
+      "referenced_works_count": 37,
       "referenced_works": [
         "https://openalex.org/W107185824",
         "https://openalex.org/W1534624437",
@@ -29106,8 +29163,7 @@
         "https://openalex.org/W2322252722",
         "https://openalex.org/W2808653569",
         "https://openalex.org/W3027744330",
-        "https://openalex.org/W4205364453",
-        "https://openalex.org/W6752918466"
+        "https://openalex.org/W4205364453"
       ],
       "related_works": [
         "https://openalex.org/W2800531900",
@@ -29500,7 +29556,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29536,9 +29592,13 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
             "ki-jl-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -29666,7 +29726,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.22376833,
+        "value": 0.22618596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29924,9 +29984,13 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
               "ki-jl-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -29958,7 +30022,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 53,
+      "referenced_works_count": 41,
       "referenced_works": [
         "https://openalex.org/W4492592",
         "https://openalex.org/W28830587",
@@ -29999,19 +30063,7 @@
         "https://openalex.org/W2588967101",
         "https://openalex.org/W2807942494",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W6600189588",
-        "https://openalex.org/W6601209306",
-        "https://openalex.org/W6605698628",
-        "https://openalex.org/W6607472343",
-        "https://openalex.org/W6618109241",
-        "https://openalex.org/W6618223799",
         "https://openalex.org/W6620029179",
-        "https://openalex.org/W6650141693",
-        "https://openalex.org/W6661974195",
-        "https://openalex.org/W6665573818",
-        "https://openalex.org/W6676557354",
-        "https://openalex.org/W6692050852",
-        "https://openalex.org/W6733739621",
         "https://openalex.org/W6967416579"
       ],
       "related_works": [
@@ -30061,7 +30113,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30225,11 +30277,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.0435,
+      "fwci": 2.029,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.8543491,
+        "value": 0.85372263,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30539,9 +30591,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -30552,7 +30604,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 16,
+      "referenced_works_count": 14,
       "referenced_works": [
         "https://openalex.org/W616686322",
         "https://openalex.org/W625735752",
@@ -30561,15 +30613,13 @@
         "https://openalex.org/W2029613674",
         "https://openalex.org/W2031009354",
         "https://openalex.org/W2046387674",
+        "https://openalex.org/W2055932192",
         "https://openalex.org/W2069144490",
         "https://openalex.org/W2198878071",
         "https://openalex.org/W2229115723",
         "https://openalex.org/W3092592676",
         "https://openalex.org/W4244550332",
-        "https://openalex.org/W6620029179",
-        "https://openalex.org/W6629654626",
-        "https://openalex.org/W6664607333",
-        "https://openalex.org/W6689522109"
+        "https://openalex.org/W6620029179"
       ],
       "related_works": [
         "https://openalex.org/W2355591390",
@@ -30602,7 +30652,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30690,11 +30740,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0894,
+      "fwci": 1.088,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.81487889,
+        "value": 0.81509059,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31353,11 +31403,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4585,
+      "fwci": 4.4584,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.94107844,
+        "value": 0.94106631,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31635,16 +31685,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.6618000268936157
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6899999976158142
         }
       ],
       "study_designs": [],
@@ -31757,6 +31807,704 @@
         }
       ],
       "updated_date": "2026-10-10T09:11:00.788812",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2055932192",
+      "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+      "title": "Emergence of Wadi Mujib (Central Jordan) during Lower Cenomanian time and its regional tectonic implications",
+      "display_name": "Emergence of Wadi Mujib (Central Jordan) during Lower Cenomanian time and its regional tectonic implications",
+      "publication_year": 1984,
+      "publication_date": "1984-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2055932192",
+        "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+        "mag": "2055932192"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1144/gsl.sp.1984.017.01.14",
+        "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S29311329",
+          "display_name": "Geological Society London Special Publications",
+          "issn_l": "0305-8719",
+          "issn": [
+            "0305-8719",
+            "2041-4927"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310311650",
+          "host_organization_name": "Geological Society of London",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311650"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of London"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geological Society, London, Special Publications",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5102809672",
+            "display_name": "Abdulkader M. Abed",
+            "orcid": "https://orcid.org/0000-0002-7843-4218",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7843-4218"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "JO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulkader M. Abed",
+          "raw_affiliation_strings": [
+            "Department of Geology and Mineralogy, the University of Jordan\rAmman, Jordan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Mineralogy, the University of Jordan\rAmman, Jordan",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5102809672"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I114972647"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.9381,
+      "has_fulltext": false,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": {
+        "value": 0.73473408,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "17",
+        "issue": "1",
+        "first_page": "213",
+        "last_page": "216"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.885699987411499,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.885699987411499,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.07859999686479568,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.013299999758601189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/lower-cenomanian",
+          "display_name": "Lower Cenomanian",
+          "score": 0.9810000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/early-cretaceous",
+          "display_name": "Lower Cretaceous",
+          "score": 0.6430000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/vertical-tectonics",
+          "display_name": "vertical tectonics",
+          "score": 0.7020000219345093
+        },
+        {
+          "id": "https://openalex.org/keywords/emergence",
+          "display_name": "emergence",
+          "score": 0.39100000262260437
+        },
+        {
+          "id": "https://openalex.org/keywords/erosional-unconformity",
+          "display_name": "erosional unconformity",
+          "score": 0.7919999957084656
+        },
+        {
+          "id": "https://openalex.org/keywords/fluvial-deposits",
+          "display_name": "fluvial deposits",
+          "score": 0.8259999752044678
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-cretaceous-carbonates",
+          "display_name": "Upper Cretaceous carbonates",
+          "score": 0.7940000295639038
+        },
+        {
+          "id": "https://openalex.org/keywords/shallow-marine-environment",
+          "display_name": "shallow marine environment",
+          "score": 0.8379999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/calcrete",
+          "display_name": "calcrete",
+          "score": 0.9369999766349792
+        },
+        {
+          "id": "https://openalex.org/keywords/karstification",
+          "display_name": "karstification",
+          "score": 0.9950000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/jordan",
+          "display_name": "Jordan",
+          "score": 0.41600000858306885
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C200965112",
+          "wikidata": "https://www.wikidata.org/wiki/Q187971",
+          "display_name": "Wadi",
+          "level": 2,
+          "score": 0.9603402018547058
+        },
+        {
+          "id": "https://openalex.org/C27543578",
+          "wikidata": "https://www.wikidata.org/wiki/Q185567",
+          "display_name": "Cenomanian",
+          "level": 3,
+          "score": 0.8976242542266846
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.6490834951400757
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5109049677848816
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.31928303837776184
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.2905788719654083
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.12940916419029236
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.09011635184288025
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1144/gsl.sp.1984.017.01.14",
+          "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S29311329",
+            "display_name": "Geological Society London Special Publications",
+            "issn_l": "0305-8719",
+            "issn": [
+              "0305-8719",
+              "2041-4927"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310311650",
+            "host_organization_name": "Geological Society of London",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311650"
+            ],
+            "host_organization_lineage_names": [
+              "Geological Society of London"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geological Society, London, Special Publications",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 4,
+      "referenced_works": [
+        "https://openalex.org/W61051762",
+        "https://openalex.org/W2025585437",
+        "https://openalex.org/W2050128151",
+        "https://openalex.org/W2921255593"
+      ],
+      "related_works": [
+        "https://openalex.org/W2328924756",
+        "https://openalex.org/W3137886425",
+        "https://openalex.org/W2030707901",
+        "https://openalex.org/W2913069658",
+        "https://openalex.org/W3120602938",
+        "https://openalex.org/W2045102797",
+        "https://openalex.org/W2003829586",
+        "https://openalex.org/W1991760979",
+        "https://openalex.org/W2104696163",
+        "https://openalex.org/W2807157079"
+      ],
+      "abstract_inverted_index": {
+        "Summary": [
+          0
+        ],
+        "Detailed": [
+          1
+        ],
+        "sedimentological": [
+          2
+        ],
+        "investigations": [
+          3
+        ],
+        "of": [
+          4,
+          10,
+          19,
+          95,
+          105
+        ],
+        "Wadi": [
+          5,
+          42,
+          75
+        ],
+        "Mujib": [
+          6,
+          43,
+          76
+        ],
+        "(Central": [
+          7
+        ],
+        "Jordan),": [
+          8
+        ],
+        "east": [
+          9
+        ],
+        "the": [
+          11,
+          16,
+          99,
+          106,
+          110
+        ],
+        "Dead": [
+          12,
+          107
+        ],
+        "Sea,": [
+          13
+        ],
+        "show": [
+          14
+        ],
+        "that": [
+          15
+        ],
+        "regional": [
+          17
+        ],
+        "contact": [
+          18
+        ],
+        "Lower": [
+          20,
+          85
+        ],
+        "Cretaceous": [
+          21,
+          26
+        ],
+        "fluviatile": [
+          22
+        ],
+        "deposits": [
+          23
+        ],
+        "on": [
+          24
+        ],
+        "Upper": [
+          25
+        ],
+        "carbonates": [
+          27
+        ],
+        "ushered": [
+          28
+        ],
+        "in": [
+          29,
+          41,
+          98
+        ],
+        "a": [
+          30,
+          51,
+          65
+        ],
+        "shallow": [
+          31,
+          57
+        ],
+        "marine": [
+          32,
+          58
+        ],
+        "environment": [
+          33
+        ],
+        "all": [
+          34
+        ],
+        "over": [
+          35
+        ],
+        "Jordan.": [
+          36
+        ],
+        "Later,": [
+          37
+        ],
+        "an": [
+          38,
+          82,
+          93
+        ],
+        "emergent": [
+          39
+        ],
+        "area,": [
+          40
+        ],
+        "only,": [
+          44
+        ],
+        "passes": [
+          45
+        ],
+        "upwards": [
+          46
+        ],
+        "and": [
+          47,
+          73,
+          88
+        ],
+        "laterally": [
+          48
+        ],
+        "eastwards": [
+          49
+        ],
+        "into": [
+          50
+        ],
+        "supratidal": [
+          52
+        ],
+        "environment,": [
+          53
+        ],
+        "followed": [
+          54
+        ],
+        "again": [
+          55
+        ],
+        "by": [
+          56,
+          64
+        ],
+        "conditions.": [
+          59
+        ],
+        "The": [
+          60
+        ],
+        "emergence": [
+          61
+        ],
+        "is": [
+          62,
+          77,
+          89
+        ],
+        "marked": [
+          63
+        ],
+        "major": [
+          66
+        ],
+        "eroisional": [
+          67
+        ],
+        "unconformity": [
+          68
+        ],
+        "with": [
+          69
+        ],
+        "wadi": [
+          70
+        ],
+        "deposits,": [
+          71
+        ],
+        "caliche": [
+          72
+        ],
+        "karstification.": [
+          74
+        ],
+        "believed": [
+          78
+        ],
+        "to": [
+          79,
+          91,
+          102,
+          109
+        ],
+        "have": [
+          80
+        ],
+        "been": [
+          81
+        ],
+        "island": [
+          83
+        ],
+        "during": [
+          84
+        ],
+        "Cenomanian": [
+          86
+        ],
+        "time": [
+          87
+        ],
+        "thought": [
+          90
+        ],
+        "be": [
+          92
+        ],
+        "example": [
+          94
+        ],
+        "vertical": [
+          96
+        ],
+        "tectonics": [
+          97
+        ],
+        "area": [
+          100
+        ],
+        "prior": [
+          101
+        ],
+        "Tertiary": [
+          103
+        ],
+        "rifting": [
+          104
+        ],
+        "Sea": [
+          108
+        ],
+        "west.": [
+          111
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32122,11 +32870,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2473,
+      "fwci": 0.2467,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.62793336,
+        "value": 0.62851796,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32337,9 +33085,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7400000095367432
         }
       ],
       "study_designs": [],
@@ -32429,8 +33177,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -32531,7 +33282,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.03948853,
+        "value": 0.0400151,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32758,8 +33509,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -32842,700 +33596,6 @@
         }
       ],
       "updated_date": "2026-08-21T09:56:20.448147",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2055932192",
-      "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-      "title": "Emergence of Wadi Mujib (Central Jordan) during Lower Cenomanian time and its regional tectonic implications",
-      "display_name": "Emergence of Wadi Mujib (Central Jordan) during Lower Cenomanian time and its regional tectonic implications",
-      "publication_year": 1984,
-      "publication_date": "1984-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2055932192",
-        "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-        "mag": "2055932192"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1144/gsl.sp.1984.017.01.14",
-        "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S29311329",
-          "display_name": "Geological Society London Special Publications",
-          "issn_l": "0305-8719",
-          "issn": [
-            "0305-8719",
-            "2041-4927"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": "https://openalex.org/P4310311650",
-          "host_organization_name": "Geological Society of London",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310311650"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of London"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geological Society, London, Special Publications",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5102809672",
-            "display_name": "Abdulkader M. Abed",
-            "orcid": "https://orcid.org/0000-0002-7843-4218",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7843-4218"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ],
-          "countries": [
-            "JO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulkader M. Abed",
-          "raw_affiliation_strings": [
-            "Department of Geology and Mineralogy, the University of Jordan\rAmman, Jordan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology and Mineralogy, the University of Jordan\rAmman, Jordan",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5102809672"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I114972647"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 9,
-      "citation_normalized_percentile": {
-        "value": 0.21167645,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "17",
-        "issue": "1",
-        "first_page": "213",
-        "last_page": "216"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.885699987411499,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.885699987411499,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.07859999686479568,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.013299999758601189,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/lower-cenomanian",
-          "display_name": "Lower Cenomanian",
-          "score": 0.9810000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/early-cretaceous",
-          "display_name": "Lower Cretaceous",
-          "score": 0.6430000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/vertical-tectonics",
-          "display_name": "vertical tectonics",
-          "score": 0.7020000219345093
-        },
-        {
-          "id": "https://openalex.org/keywords/emergence",
-          "display_name": "emergence",
-          "score": 0.39100000262260437
-        },
-        {
-          "id": "https://openalex.org/keywords/erosional-unconformity",
-          "display_name": "erosional unconformity",
-          "score": 0.7919999957084656
-        },
-        {
-          "id": "https://openalex.org/keywords/fluvial-deposits",
-          "display_name": "fluvial deposits",
-          "score": 0.8259999752044678
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-cretaceous-carbonates",
-          "display_name": "Upper Cretaceous carbonates",
-          "score": 0.7940000295639038
-        },
-        {
-          "id": "https://openalex.org/keywords/shallow-marine-environment",
-          "display_name": "shallow marine environment",
-          "score": 0.8379999995231628
-        },
-        {
-          "id": "https://openalex.org/keywords/calcrete",
-          "display_name": "calcrete",
-          "score": 0.9369999766349792
-        },
-        {
-          "id": "https://openalex.org/keywords/karstification",
-          "display_name": "karstification",
-          "score": 0.9950000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/jordan",
-          "display_name": "Jordan",
-          "score": 0.41600000858306885
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C200965112",
-          "wikidata": "https://www.wikidata.org/wiki/Q187971",
-          "display_name": "Wadi",
-          "level": 2,
-          "score": 0.9603402018547058
-        },
-        {
-          "id": "https://openalex.org/C27543578",
-          "wikidata": "https://www.wikidata.org/wiki/Q185567",
-          "display_name": "Cenomanian",
-          "level": 3,
-          "score": 0.8976242542266846
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.6490834951400757
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5109049677848816
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.31928303837776184
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.2905788719654083
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.12940916419029236
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.09011635184288025
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1144/gsl.sp.1984.017.01.14",
-          "doi": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1144/gsl.sp.1984.017.01.14",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S29311329",
-            "display_name": "Geological Society London Special Publications",
-            "issn_l": "0305-8719",
-            "issn": [
-              "0305-8719",
-              "2041-4927"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": "https://openalex.org/P4310311650",
-            "host_organization_name": "Geological Society of London",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310311650"
-            ],
-            "host_organization_lineage_names": [
-              "Geological Society of London"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geological Society, London, Special Publications",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 4,
-      "referenced_works": [
-        "https://openalex.org/W61051762",
-        "https://openalex.org/W2025585437",
-        "https://openalex.org/W2050128151",
-        "https://openalex.org/W2921255593"
-      ],
-      "related_works": [
-        "https://openalex.org/W2328924756",
-        "https://openalex.org/W3137886425",
-        "https://openalex.org/W2030707901",
-        "https://openalex.org/W2913069658",
-        "https://openalex.org/W3120602938",
-        "https://openalex.org/W2045102797",
-        "https://openalex.org/W2003829586",
-        "https://openalex.org/W1991760979",
-        "https://openalex.org/W2104696163",
-        "https://openalex.org/W2807157079"
-      ],
-      "abstract_inverted_index": {
-        "Summary": [
-          0
-        ],
-        "Detailed": [
-          1
-        ],
-        "sedimentological": [
-          2
-        ],
-        "investigations": [
-          3
-        ],
-        "of": [
-          4,
-          10,
-          19,
-          95,
-          105
-        ],
-        "Wadi": [
-          5,
-          42,
-          75
-        ],
-        "Mujib": [
-          6,
-          43,
-          76
-        ],
-        "(Central": [
-          7
-        ],
-        "Jordan),": [
-          8
-        ],
-        "east": [
-          9
-        ],
-        "the": [
-          11,
-          16,
-          99,
-          106,
-          110
-        ],
-        "Dead": [
-          12,
-          107
-        ],
-        "Sea,": [
-          13
-        ],
-        "show": [
-          14
-        ],
-        "that": [
-          15
-        ],
-        "regional": [
-          17
-        ],
-        "contact": [
-          18
-        ],
-        "Lower": [
-          20,
-          85
-        ],
-        "Cretaceous": [
-          21,
-          26
-        ],
-        "fluviatile": [
-          22
-        ],
-        "deposits": [
-          23
-        ],
-        "on": [
-          24
-        ],
-        "Upper": [
-          25
-        ],
-        "carbonates": [
-          27
-        ],
-        "ushered": [
-          28
-        ],
-        "in": [
-          29,
-          41,
-          98
-        ],
-        "a": [
-          30,
-          51,
-          65
-        ],
-        "shallow": [
-          31,
-          57
-        ],
-        "marine": [
-          32,
-          58
-        ],
-        "environment": [
-          33
-        ],
-        "all": [
-          34
-        ],
-        "over": [
-          35
-        ],
-        "Jordan.": [
-          36
-        ],
-        "Later,": [
-          37
-        ],
-        "an": [
-          38,
-          82,
-          93
-        ],
-        "emergent": [
-          39
-        ],
-        "area,": [
-          40
-        ],
-        "only,": [
-          44
-        ],
-        "passes": [
-          45
-        ],
-        "upwards": [
-          46
-        ],
-        "and": [
-          47,
-          73,
-          88
-        ],
-        "laterally": [
-          48
-        ],
-        "eastwards": [
-          49
-        ],
-        "into": [
-          50
-        ],
-        "supratidal": [
-          52
-        ],
-        "environment,": [
-          53
-        ],
-        "followed": [
-          54
-        ],
-        "again": [
-          55
-        ],
-        "by": [
-          56,
-          64
-        ],
-        "conditions.": [
-          59
-        ],
-        "The": [
-          60
-        ],
-        "emergence": [
-          61
-        ],
-        "is": [
-          62,
-          77,
-          89
-        ],
-        "marked": [
-          63
-        ],
-        "major": [
-          66
-        ],
-        "eroisional": [
-          67
-        ],
-        "unconformity": [
-          68
-        ],
-        "with": [
-          69
-        ],
-        "wadi": [
-          70
-        ],
-        "deposits,": [
-          71
-        ],
-        "caliche": [
-          72
-        ],
-        "karstification.": [
-          74
-        ],
-        "believed": [
-          78
-        ],
-        "to": [
-          79,
-          91,
-          102,
-          109
-        ],
-        "have": [
-          80
-        ],
-        "been": [
-          81
-        ],
-        "island": [
-          83
-        ],
-        "during": [
-          84
-        ],
-        "Cenomanian": [
-          86
-        ],
-        "time": [
-          87
-        ],
-        "thought": [
-          90
-        ],
-        "be": [
-          92
-        ],
-        "example": [
-          94
-        ],
-        "vertical": [
-          96
-        ],
-        "tectonics": [
-          97
-        ],
-        "area": [
-          100
-        ],
-        "prior": [
-          101
-        ],
-        "Tertiary": [
-          103
-        ],
-        "rifting": [
-          104
-        ],
-        "Sea": [
-          108
-        ],
-        "west.": [
-          111
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33667,11 +33727,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9101,
+      "fwci": 1.9123,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.85260436,
+        "value": 0.85260813,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33969,9 +34029,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6200000047683716
         }
       ],
       "study_designs": [],
@@ -35039,9 +35099,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -35235,7 +35295,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.16317868,
+        "value": 0.16388889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35541,9 +35601,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -36045,9 +36105,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -36265,11 +36329,11 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 0.5553,
+      "fwci": 0.554,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.67482664,
+        "value": 0.67351282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36634,9 +36698,13 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -36661,9 +36729,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6399999856948853
         }
       ],
       "study_designs": [],
@@ -36674,7 +36742,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 47,
+      "referenced_works_count": 45,
       "referenced_works": [
         "https://openalex.org/W4492592",
         "https://openalex.org/W60361964",
@@ -36719,8 +36787,6 @@
         "https://openalex.org/W2978170487",
         "https://openalex.org/W2990349781",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W6600189588",
-        "https://openalex.org/W6640197504",
         "https://openalex.org/W6838313380",
         "https://openalex.org/W7034185995"
       ],
@@ -36767,7 +36833,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36801,7 +36867,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -37047,11 +37115,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.742,
+      "fwci": 0.7374,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.67912381,
+        "value": 0.67621617,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37261,7 +37329,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -37592,11 +37662,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.3638,
+      "fwci": 0.3643,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.68433366,
+        "value": 0.68456057,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38021,8 +38091,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310311650",
           "host_organization_name": "Geological Society of London",
@@ -38106,11 +38179,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.316,
+      "fwci": 1.3145,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.82277526,
+        "value": 0.82268431,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38314,8 +38387,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310311650",
             "host_organization_name": "Geological Society of London",
@@ -38340,9 +38416,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -38989,11 +39065,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 0.9839,
+      "fwci": 0.9833,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.77661795,
+        "value": 0.7764958,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39330,9 +39406,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -39349,7 +39425,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 91,
+      "referenced_works_count": 84,
       "referenced_works": [
         "https://openalex.org/W76255698",
         "https://openalex.org/W127258831",
@@ -39434,13 +39510,6 @@
         "https://openalex.org/W2408349204",
         "https://openalex.org/W3015875777",
         "https://openalex.org/W3092404448",
-        "https://openalex.org/W6603132349",
-        "https://openalex.org/W6605095671",
-        "https://openalex.org/W6652765115",
-        "https://openalex.org/W6678121878",
-        "https://openalex.org/W6688283145",
-        "https://openalex.org/W6776333754",
-        "https://openalex.org/W6784163700",
         "https://openalex.org/W6991849228"
       ],
       "related_works": [
@@ -39486,7 +39555,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39596,7 +39665,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.4870252,
+        "value": 0.48848622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40245,11 +40314,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.9839,
+      "fwci": 0.9841,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.77590375,
+        "value": 0.77600418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40582,9 +40651,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8100000023841858
         }
       ],
       "study_designs": [],
@@ -40796,11 +40865,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5094,
+      "fwci": 0.5087,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.72017305,
+        "value": 0.71973069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41117,9 +41186,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -43019,7 +43088,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.17693869,
+        "value": 0.17763123,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43294,7 +43363,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "listed_in": [],
+            "listed_in": [
+              "dongbi-c",
+              "poland-40",
+              "russia-white-list-3"
+            ],
             "host_organization": "https://openalex.org/P4310319221",
             "host_organization_name": "Jordan University of Science and Technology",
             "host_organization_lineage": [
@@ -43317,16 +43390,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -44158,7 +44231,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.01628664,
+        "value": 0.01633987,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44865,11 +44938,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.148,
+      "fwci": 0.1478,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.38315319,
+        "value": 0.38184868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45260,8 +45333,9 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 81,
+      "referenced_works_count": 74,
       "referenced_works": [
+        "https://openalex.org/W61051762",
         "https://openalex.org/W170858192",
         "https://openalex.org/W1542845244",
         "https://openalex.org/W1551129082",
@@ -45333,14 +45407,6 @@
         "https://openalex.org/W3163436326",
         "https://openalex.org/W4238032652",
         "https://openalex.org/W4394682092",
-        "https://openalex.org/W6602513756",
-        "https://openalex.org/W6606915628",
-        "https://openalex.org/W6632577098",
-        "https://openalex.org/W6642374944",
-        "https://openalex.org/W6643876088",
-        "https://openalex.org/W6658574317",
-        "https://openalex.org/W6668402497",
-        "https://openalex.org/W6795248741",
         "https://openalex.org/W6808448667",
         "https://openalex.org/W7015032199"
       ],
@@ -45939,7 +46005,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46423,9 +46489,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -48905,7 +48971,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06188641,
+        "value": 0.06181818,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49174,9 +49240,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6299999952316284
         }
       ],
       "study_designs": [],
@@ -49616,9 +49682,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
@@ -49743,7 +49809,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39662939,
+        "value": 0.40807355,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49960,9 +50026,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2"
           ],
           "host_organization": "https://openalex.org/P4310321803",
           "host_organization_name": "International Union of Geological Sciences",
@@ -50115,9 +50185,13 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-2"
             ],
             "host_organization": "https://openalex.org/P4310321803",
             "host_organization_name": "International Union of Geological Sciences",
@@ -50156,9 +50230,13 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-2"
           ],
           "host_organization": "https://openalex.org/P4310321803",
           "host_organization_name": "International Union of Geological Sciences",

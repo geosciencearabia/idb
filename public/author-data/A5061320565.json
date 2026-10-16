@@ -387,6 +387,662 @@
   },
   "works": [
     {
+      "id": "https://openalex.org/W1525628619",
+      "doi": "https://doi.org/10.1306/m40454c14",
+      "title": "Stratigraphy and Hydrocarbon Potential of the Paleozoic Succession in Both Tabuk and Widyan Basins, Arabia",
+      "display_name": "Stratigraphy and Hydrocarbon Potential of the Paleozoic Succession in Both Tabuk and Widyan Basins, Arabia",
+      "publication_year": 1986,
+      "publication_date": "1986-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1525628619",
+        "doi": "https://doi.org/10.1306/m40454c14",
+        "mag": "1525628619"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1306/m40454c14",
+        "doi": "https://doi.org/10.1306/m40454c14",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1306/m40454c14",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306462797",
+          "display_name": "American Association of Petroleum Geologists eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316082"
+          ],
+          "host_organization_lineage_names": [
+            "American Association of Petroleum Geologists"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Future Petroleum Provinces of the World",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W188107018",
+        "display_name": "Future Petroleum Provinces of the World"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061320565",
+            "display_name": "Abdulaziz A. Al-Laboun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulaziz Abdullah al-Laboun",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5061320565"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.226,
+      "has_fulltext": false,
+      "cited_by_count": 87,
+      "citation_normalized_percentile": {
+        "value": 0.75675676,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "score": 0.8080999851226807,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.8080999851226807,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.1582999974489212,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.01860000006854534,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/paleozoic-stratigraphy",
+          "display_name": "Paleozoic stratigraphy",
+          "score": 0.8650000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-potential",
+          "display_name": "hydrocarbon potential",
+          "score": 0.9760000109672546
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-peninsula",
+          "display_name": "Arabian Peninsula",
+          "score": 0.5199999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrocarbon-prospectivity",
+          "display_name": "hydrocarbon prospectivity",
+          "score": 0.44600000977516174
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-basins",
+          "display_name": "sedimentary basins",
+          "score": 0.5450000166893005
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6619856357574463
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.5651283264160156
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.526831328868866
+        },
+        {
+          "id": "https://openalex.org/C518008717",
+          "wikidata": "https://www.wikidata.org/wiki/Q25322",
+          "display_name": "Arctic",
+          "level": 2,
+          "score": 0.5173901319503784
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.46550920605659485
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.44131040573120117
+        },
+        {
+          "id": "https://openalex.org/C3018378255",
+          "wikidata": "https://www.wikidata.org/wiki/Q25322",
+          "display_name": "The arctic",
+          "level": 2,
+          "score": 0.4190748333930969
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.3822765648365021
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.36141669750213623
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.32596608996391296
+        },
+        {
+          "id": "https://openalex.org/C100970517",
+          "wikidata": "https://www.wikidata.org/wiki/Q52107",
+          "display_name": "Physical geography",
+          "level": 1,
+          "score": 0.32575470209121704
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.13611659407615662
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1306/m40454c14",
+          "doi": "https://doi.org/10.1306/m40454c14",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1306/m40454c14",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306462797",
+            "display_name": "American Association of Petroleum Geologists eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316082"
+            ],
+            "host_organization_lineage_names": [
+              "American Association of Petroleum Geologists"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Future Petroleum Provinces of the World",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "score": 0.8999999761581421,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W131443289",
+        "https://openalex.org/W2023186840",
+        "https://openalex.org/W133610609",
+        "https://openalex.org/W3004838324",
+        "https://openalex.org/W4249616540",
+        "https://openalex.org/W1445961721",
+        "https://openalex.org/W1636101495",
+        "https://openalex.org/W2564920106",
+        "https://openalex.org/W2808919446",
+        "https://openalex.org/W2042818960"
+      ],
+      "abstract_inverted_index": {
+        "31": [
+          11
+        ],
+        "1984": [
+          3
+        ],
+        "Based": [
+          0
+        ],
+        "on": [
+          1
+        ],
+        "a": [
+          2,
+          8
+        ],
+        "conference,": [
+          4
+        ],
+        "this": [
+          5
+        ],
+        "volume": [
+          6
+        ],
+        "is": [
+          7
+        ],
+        "compilation": [
+          9
+        ],
+        "of": [
+          10,
+          12,
+          25,
+          45,
+          51
+        ],
+        "the": [
+          13,
+          22,
+          27,
+          74
+        ],
+        "papers": [
+          14
+        ],
+        "presented": [
+          15
+        ],
+        "at": [
+          16
+        ],
+        "that": [
+          17
+        ],
+        "conference.": [
+          18
+        ],
+        "These": [
+          19
+        ],
+        "articles": [
+          20
+        ],
+        "address": [
+          21
+        ],
+        "challenging": [
+          23
+        ],
+        "questions": [
+          24
+        ],
+        "where": [
+          26
+        ],
+        "world's": [
+          28
+        ],
+        "explorationists": [
+          29
+        ],
+        "must": [
+          30
+        ],
+        "search": [
+          31
+        ],
+        "for": [
+          32
+        ],
+        "petroleum.": [
+          33
+        ],
+        "Potential": [
+          34
+        ],
+        "and": [
+          35,
+          73
+        ],
+        "prospective": [
+          36
+        ],
+        "areas": [
+          37
+        ],
+        "discussed": [
+          38
+        ],
+        "include:": [
+          39
+        ],
+        "Antarctica,": [
+          40
+        ],
+        "Circum-Arctic,": [
+          41
+        ],
+        "Alaska,": [
+          42
+        ],
+        "Arctic": [
+          43
+        ],
+        "basins": [
+          44
+        ],
+        "Canada,": [
+          46,
+          48
+        ],
+        "Eastern": [
+          47
+        ],
+        "Amazon,": [
+          49
+        ],
+        "Gulf": [
+          50
+        ],
+        "Mexico,": [
+          52
+        ],
+        "U.S.": [
+          53
+        ],
+        "Atlantic": [
+          54
+        ],
+        "margin,": [
+          55
+        ],
+        "Arabia,": [
+          56
+        ],
+        "Mozambique,": [
+          57
+        ],
+        "Ghana,": [
+          58
+        ],
+        "Australia,": [
+          59
+        ],
+        "northwestern": [
+          60
+        ],
+        "China,": [
+          61
+        ],
+        "Philippine": [
+          62
+        ],
+        "Islands,": [
+          63
+        ],
+        "west": [
+          64
+        ],
+        "Siberia,": [
+          65
+        ],
+        "Mediterranean,": [
+          66
+        ],
+        "Sicily,": [
+          67
+        ],
+        "North": [
+          68
+        ],
+        "Sea,": [
+          69
+        ],
+        "Norway,": [
+          70
+        ],
+        "Greenland": [
+          71
+        ],
+        "sea,": [
+          72
+        ],
+        "Barents": [
+          75
+        ],
+        "sea.": [
+          76
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-10-16T09:59:22.235173",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2071064541",
       "doi": "https://doi.org/10.1306/94886d3a-1704-11d7-8645000102c1865d",
       "title": "Unayzah Formation: A New Permian-Carboniferous Unit in Saudi Arabia",
@@ -485,7 +1141,7 @@
       "has_fulltext": false,
       "cited_by_count": 66,
       "citation_normalized_percentile": {
-        "value": 0.72277964,
+        "value": 0.72304833,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1163,658 +1819,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1525628619",
-      "doi": "https://doi.org/10.1306/m40454c14",
-      "title": "Stratigraphy and Hydrocarbon Potential of the Paleozoic Succession in Both Tabuk and Widyan Basins, Arabia",
-      "display_name": "Stratigraphy and Hydrocarbon Potential of the Paleozoic Succession in Both Tabuk and Widyan Basins, Arabia",
-      "publication_year": 1986,
-      "publication_date": "1986-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1525628619",
-        "doi": "https://doi.org/10.1306/m40454c14",
-        "mag": "1525628619"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1306/m40454c14",
-        "doi": "https://doi.org/10.1306/m40454c14",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1306/m40454c14",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306462797",
-          "display_name": "American Association of Petroleum Geologists eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310316082",
-          "host_organization_name": "American Association of Petroleum Geologists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316082"
-          ],
-          "host_organization_lineage_names": [
-            "American Association of Petroleum Geologists"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Future Petroleum Provinces of the World",
-        "raw_type": "book-chapter"
-      },
-      "volume": {
-        "id": "https://openalex.org/W188107018",
-        "display_name": "Future Petroleum Provinces of the World"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5061320565",
-            "display_name": "Abdulaziz A. Al-Laboun",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulaziz Abdullah al-Laboun",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5061320565"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.2466,
-      "has_fulltext": false,
-      "cited_by_count": 80,
-      "citation_normalized_percentile": {
-        "value": 0.76013514,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 98
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
-        "score": 0.8080999851226807,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.8080999851226807,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.1582999974489212,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.01860000006854534,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/paleozoic-stratigraphy",
-          "display_name": "Paleozoic stratigraphy",
-          "score": 0.8650000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-potential",
-          "display_name": "hydrocarbon potential",
-          "score": 0.9760000109672546
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.7319999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-peninsula",
-          "display_name": "Arabian Peninsula",
-          "score": 0.5199999809265137
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrocarbon-prospectivity",
-          "display_name": "hydrocarbon prospectivity",
-          "score": 0.44600000977516174
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-basins",
-          "display_name": "sedimentary basins",
-          "score": 0.5450000166893005
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6619856357574463
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.5651283264160156
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.526831328868866
-        },
-        {
-          "id": "https://openalex.org/C518008717",
-          "wikidata": "https://www.wikidata.org/wiki/Q25322",
-          "display_name": "Arctic",
-          "level": 2,
-          "score": 0.5173901319503784
-        },
-        {
-          "id": "https://openalex.org/C109281948",
-          "wikidata": "https://www.wikidata.org/wiki/Q134783",
-          "display_name": "Stratigraphy",
-          "level": 3,
-          "score": 0.46550920605659485
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.44131040573120117
-        },
-        {
-          "id": "https://openalex.org/C3018378255",
-          "wikidata": "https://www.wikidata.org/wiki/Q25322",
-          "display_name": "The arctic",
-          "level": 2,
-          "score": 0.4190748333930969
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.3822765648365021
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.36141669750213623
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.32596608996391296
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.32575470209121704
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.13611659407615662
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1306/m40454c14",
-          "doi": "https://doi.org/10.1306/m40454c14",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1306/m40454c14",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306462797",
-            "display_name": "American Association of Petroleum Geologists eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310316082",
-            "host_organization_name": "American Association of Petroleum Geologists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316082"
-            ],
-            "host_organization_lineage_names": [
-              "American Association of Petroleum Geologists"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Future Petroleum Provinces of the World",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [
-        {
-          "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W131443289",
-        "https://openalex.org/W2023186840",
-        "https://openalex.org/W133610609",
-        "https://openalex.org/W3004838324",
-        "https://openalex.org/W4249616540",
-        "https://openalex.org/W1445961721",
-        "https://openalex.org/W1636101495",
-        "https://openalex.org/W2564920106",
-        "https://openalex.org/W2808919446",
-        "https://openalex.org/W2042818960"
-      ],
-      "abstract_inverted_index": {
-        "31": [
-          11
-        ],
-        "1984": [
-          3
-        ],
-        "Based": [
-          0
-        ],
-        "on": [
-          1
-        ],
-        "a": [
-          2,
-          8
-        ],
-        "conference,": [
-          4
-        ],
-        "this": [
-          5
-        ],
-        "volume": [
-          6
-        ],
-        "is": [
-          7
-        ],
-        "compilation": [
-          9
-        ],
-        "of": [
-          10,
-          12,
-          25,
-          45,
-          51
-        ],
-        "the": [
-          13,
-          22,
-          27,
-          74
-        ],
-        "papers": [
-          14
-        ],
-        "presented": [
-          15
-        ],
-        "at": [
-          16
-        ],
-        "that": [
-          17
-        ],
-        "conference.": [
-          18
-        ],
-        "These": [
-          19
-        ],
-        "articles": [
-          20
-        ],
-        "address": [
-          21
-        ],
-        "challenging": [
-          23
-        ],
-        "questions": [
-          24
-        ],
-        "where": [
-          26
-        ],
-        "world's": [
-          28
-        ],
-        "explorationists": [
-          29
-        ],
-        "must": [
-          30
-        ],
-        "search": [
-          31
-        ],
-        "for": [
-          32
-        ],
-        "petroleum.": [
-          33
-        ],
-        "Potential": [
-          34
-        ],
-        "and": [
-          35,
-          73
-        ],
-        "prospective": [
-          36
-        ],
-        "areas": [
-          37
-        ],
-        "discussed": [
-          38
-        ],
-        "include:": [
-          39
-        ],
-        "Antarctica,": [
-          40
-        ],
-        "Circum-Arctic,": [
-          41
-        ],
-        "Alaska,": [
-          42
-        ],
-        "Arctic": [
-          43
-        ],
-        "basins": [
-          44
-        ],
-        "Canada,": [
-          46,
-          48
-        ],
-        "Eastern": [
-          47
-        ],
-        "Amazon,": [
-          49
-        ],
-        "Gulf": [
-          50
-        ],
-        "Mexico,": [
-          52
-        ],
-        "U.S.": [
-          53
-        ],
-        "Atlantic": [
-          54
-        ],
-        "margin,": [
-          55
-        ],
-        "Arabia,": [
-          56
-        ],
-        "Mozambique,": [
-          57
-        ],
-        "Ghana,": [
-          58
-        ],
-        "Australia,": [
-          59
-        ],
-        "northwestern": [
-          60
-        ],
-        "China,": [
-          61
-        ],
-        "Philippine": [
-          62
-        ],
-        "Islands,": [
-          63
-        ],
-        "west": [
-          64
-        ],
-        "Siberia,": [
-          65
-        ],
-        "Mediterranean,": [
-          66
-        ],
-        "Sicily,": [
-          67
-        ],
-        "North": [
-          68
-        ],
-        "Sea,": [
-          69
-        ],
-        "Norway,": [
-          70
-        ],
-        "Greenland": [
-          71
-        ],
-        "sea,": [
-          72
-        ],
-        "Barents": [
-          75
-        ],
-        "sea.": [
-          76
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-10-10T09:11:00.788812",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2169570507",
       "doi": "https://doi.org/10.1007/s13202-011-0007-5",
       "title": "Bimodal pore size behavior of the Shajara Formation Reservoirs of the Permo-Carboniferous Unayzah Group, Saudi Arabia",
@@ -1847,7 +1851,10 @@
           "listed_in": [
             "cwts-core",
             "doaj",
-            "norway-1"
+            "dongbi-c",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2"
           ],
           "host_organization": "https://openalex.org/P4310319965",
           "host_organization_name": "Springer Nature",
@@ -2054,11 +2061,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 0.9657,
+      "fwci": 0.9652,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.78461817,
+        "value": 0.78447337,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2359,7 +2366,10 @@
             "listed_in": [
               "cwts-core",
               "doaj",
-              "norway-1"
+              "dongbi-c",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2"
             ],
             "host_organization": "https://openalex.org/P4310319965",
             "host_organization_name": "Springer Nature",
@@ -2400,7 +2410,10 @@
           "listed_in": [
             "cwts-core",
             "doaj",
-            "norway-1"
+            "dongbi-c",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2"
           ],
           "host_organization": "https://openalex.org/P4310319965",
           "host_organization_name": "Springer Nature",
@@ -2872,7 +2885,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -3076,11 +3091,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.4236,
+      "fwci": 0.4216,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.68466528,
+        "value": 0.68346286,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3344,7 +3359,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -3477,9 +3494,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-d",
             "jufo-2",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319845",
           "host_organization_name": "Geological Society of America",
@@ -3561,11 +3583,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5064,
+      "fwci": 2.5027,
       "has_fulltext": false,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.88158373,
+        "value": 0.88239591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3826,9 +3848,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-d",
               "jufo-2",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319845",
             "host_organization_name": "Geological Society of America",
@@ -4841,7 +4868,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -4929,11 +4958,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.3217,
+      "fwci": 1.3216,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.83917246,
+        "value": 0.83905612,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5165,7 +5194,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -5310,7 +5341,8 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -5512,11 +5544,11 @@
         "value_usd": 2710
       },
       "apc_paid": null,
-      "fwci": 1.0206,
+      "fwci": 1.0187,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.68767482,
+        "value": 0.68659383,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5796,7 +5828,8 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -5834,7 +5867,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 39,
+      "referenced_works_count": 31,
       "referenced_works": [
         "https://openalex.org/W1540248330",
         "https://openalex.org/W1880555926",
@@ -5866,15 +5899,7 @@
         "https://openalex.org/W2928103387",
         "https://openalex.org/W2939888277",
         "https://openalex.org/W2944320642",
-        "https://openalex.org/W2967083983",
-        "https://openalex.org/W6641277104",
-        "https://openalex.org/W6644967750",
-        "https://openalex.org/W6650687194",
-        "https://openalex.org/W6680114887",
-        "https://openalex.org/W6682013234",
-        "https://openalex.org/W6682922035",
-        "https://openalex.org/W6683643000",
-        "https://openalex.org/W6731401981"
+        "https://openalex.org/W2967083983"
       ],
       "related_works": [
         "https://openalex.org/W2009541437",
@@ -5911,7 +5936,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5947,8 +5972,12 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-2",
+            "tr-dizin"
           ],
           "host_organization": null,
           "host_organization_name": null,
@@ -6145,7 +6174,7 @@
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.77596241,
+        "value": 0.77565176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6485,8 +6514,12 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-2",
+              "tr-dizin"
             ],
             "host_organization": null,
             "host_organization_name": null,
@@ -6585,8 +6618,12 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-2",
+            "tr-dizin"
           ],
           "host_organization": null,
           "host_organization_name": null,
@@ -7297,7 +7334,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.34817425,
+        "value": 0.34929306,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8537,11 +8574,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.199,
+      "fwci": 0.1977,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.53156609,
+        "value": 0.52815483,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9544,8 +9581,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
@@ -9605,7 +9645,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.11,
+        "value": 0.11040892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9848,8 +9888,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",
@@ -10494,8 +10537,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
@@ -10557,7 +10603,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.19481481,
+        "value": 0.19553903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10744,8 +10790,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",
@@ -10835,8 +10884,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
@@ -10922,7 +10974,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.28926282,
+        "value": 0.29036145,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11131,8 +11183,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",

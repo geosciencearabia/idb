@@ -354,8 +354,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-a",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-100",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310316678",
           "host_organization_name": "Society of Exploration Geophysicists",
@@ -552,11 +555,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5744,
+      "fwci": 0.573,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.71081081,
+        "value": 0.71006467,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -793,8 +796,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-a",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-100",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310316678",
             "host_organization_name": "Society of Exploration Geophysicists",
@@ -819,8 +825,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8299999833106995
         }
       ],
@@ -1687,11 +1693,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 1.6234,
+      "fwci": 1.6206,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.80250723,
+        "value": 0.80204062,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2892,7 +2898,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -2932,7 +2938,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -3480,6 +3486,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -3491,11 +3498,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.6976,
+      "fwci": 1.6938,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80575835,
+        "value": 0.80538922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3792,8 +3799,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7099999785423279
         }
       ],
@@ -3824,7 +3831,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 31,
+      "referenced_works_count": 30,
       "referenced_works": [
         "https://openalex.org/W203584942",
         "https://openalex.org/W1927598922",
@@ -3847,7 +3854,6 @@
         "https://openalex.org/W2560327523",
         "https://openalex.org/W2589781296",
         "https://openalex.org/W2620834904",
-        "https://openalex.org/W2623567129",
         "https://openalex.org/W2939888277",
         "https://openalex.org/W2944320642",
         "https://openalex.org/W2953570489",
@@ -3889,7 +3895,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3923,7 +3929,9 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
-            "cwts-core"
+            "cwts-core",
+            "poland-20",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319900",
           "host_organization_name": "Springer Science+Business Media",
@@ -4071,7 +4079,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.08072647,
+        "value": 0.08092692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4322,7 +4330,9 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
-              "cwts-core"
+              "cwts-core",
+              "poland-20",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319900",
             "host_organization_name": "Springer Science+Business Media",
@@ -4624,7 +4634,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.00821793,
+        "value": 0.00808543,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5982,8 +5992,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.550000011920929
         }
       ],
@@ -6220,7 +6230,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26439951,
+        "value": 0.26553846,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7077,7 +7087,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15402159,
+        "value": 0.14392955,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8234,7 +8244,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34724074,
+        "value": 0.34509752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

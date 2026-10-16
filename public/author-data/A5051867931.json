@@ -569,11 +569,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.6084,
+      "fwci": 1.6007,
       "has_fulltext": false,
       "cited_by_count": 102,
       "citation_normalized_percentile": {
-        "value": 0.8241515,
+        "value": 0.82374631,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -796,20 +796,20 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 19,
+      "referenced_works_count": 16,
       "referenced_works": [
         "https://openalex.org/W1114211",
         "https://openalex.org/W195523536",
@@ -826,9 +826,6 @@
         "https://openalex.org/W2743213576",
         "https://openalex.org/W2745237780",
         "https://openalex.org/W3216937832",
-        "https://openalex.org/W6600050900",
-        "https://openalex.org/W6608040782",
-        "https://openalex.org/W6702133046",
         "https://openalex.org/W6929775216"
       ],
       "related_works": [
@@ -902,7 +899,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -938,8 +935,12 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319748",
           "host_organization_name": "EDP Sciences",
@@ -1072,11 +1073,11 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 0.5625,
+      "fwci": 0.5609,
       "has_fulltext": false,
       "cited_by_count": 84,
       "citation_normalized_percentile": {
-        "value": 0.77930814,
+        "value": 0.77892031,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1296,8 +1297,12 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319748",
             "host_organization_name": "EDP Sciences",
@@ -1324,17 +1329,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6499999761581421,
           "display_name": "Life below water",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2248,11 +2253,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6807,
+      "fwci": 0.6769,
       "has_fulltext": false,
       "cited_by_count": 73,
       "citation_normalized_percentile": {
-        "value": 0.73655474,
+        "value": 0.73535609,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2583,20 +2588,20 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7300000190734863,
           "display_name": "Life below water",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 21,
+      "referenced_works_count": 18,
       "referenced_works": [
         "https://openalex.org/W635268030",
         "https://openalex.org/W1966237039",
@@ -2615,10 +2620,7 @@
         "https://openalex.org/W3154818699",
         "https://openalex.org/W4243494384",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W4384103667",
-        "https://openalex.org/W6695740054",
-        "https://openalex.org/W6794286170",
-        "https://openalex.org/W6854478178"
+        "https://openalex.org/W4384103667"
       ],
       "related_works": [
         "https://openalex.org/W2076049891",
@@ -3230,7 +3232,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3427,16 +3429,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6246,
+      "fwci": 1.6177,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.80482977,
+        "value": 0.80419304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -3916,8 +3918,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -3951,8 +3953,8 @@
         "https://openalex.org/W2954113145",
         "https://openalex.org/W2990682102",
         "https://openalex.org/W2993258028",
+        "https://openalex.org/W4254469315",
         "https://openalex.org/W4282974660",
-        "https://openalex.org/W6836499406",
         "https://openalex.org/W7015919791"
       ],
       "related_works": [
@@ -4819,7 +4821,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4854,8 +4856,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -5067,7 +5072,7 @@
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.16670711,
+        "value": 0.16920807,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5291,8 +5296,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -5317,17 +5325,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -5438,8 +5446,12 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-70",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319748",
           "host_organization_name": "EDP Sciences",
@@ -5554,7 +5566,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.40225261,
+        "value": 0.40257649,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5759,8 +5771,12 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-70",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319748",
             "host_organization_name": "EDP Sciences",
@@ -5790,8 +5806,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6114,7 +6130,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.15540541,
+        "value": 0.1559322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6396,17 +6412,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6888,8 +6904,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

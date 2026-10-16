@@ -428,7 +428,8 @@
             "display_name": "Philip A. Allen",
             "orcid": "https://orcid.org/0000-0002-7543-7042",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7543-7042"
+              "https://orcid.org/0000-0002-7543-7042",
+              "https://orcid.org/0000-0001-8567-2217"
             ]
           },
           "institutions": [
@@ -778,7 +779,7 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 2.8748,
+      "fwci": 2.8778,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
@@ -1957,7 +1958,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1990,9 +1991,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -2202,11 +2208,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 3.5255,
+      "fwci": 3.4609,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.92548119,
+        "value": 0.92371977,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2422,9 +2428,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-d",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -2463,9 +2474,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-d",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -2488,8 +2504,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2",
           "score": 0.6800000071525574
         }
       ],
@@ -2507,7 +2523,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 46,
+      "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W1920010643",
         "https://openalex.org/W1965555277",
@@ -2525,9 +2541,11 @@
         "https://openalex.org/W2124390624",
         "https://openalex.org/W2137690751",
         "https://openalex.org/W2145804763",
+        "https://openalex.org/W2170193952",
         "https://openalex.org/W2252686556",
         "https://openalex.org/W2396859177",
         "https://openalex.org/W2477536975",
+        "https://openalex.org/W2494602570",
         "https://openalex.org/W2503993098",
         "https://openalex.org/W2517057392",
         "https://openalex.org/W2530005595",
@@ -2542,19 +2560,7 @@
         "https://openalex.org/W4368351261",
         "https://openalex.org/W4378229710",
         "https://openalex.org/W4403267492",
-        "https://openalex.org/W6640122379",
-        "https://openalex.org/W6655568089",
-        "https://openalex.org/W6656758449",
-        "https://openalex.org/W6656789564",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6681447697",
-        "https://openalex.org/W6684856879",
-        "https://openalex.org/W6721337010",
-        "https://openalex.org/W6723459858",
-        "https://openalex.org/W6742177861",
-        "https://openalex.org/W6805199229",
-        "https://openalex.org/W6839915920",
-        "https://openalex.org/W6852492747"
+        "https://openalex.org/W6678618728"
       ],
       "related_works": [
         "https://openalex.org/W1975632186",
@@ -3226,7 +3232,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3305,7 +3311,8 @@
             "display_name": "Philip A. Allen",
             "orcid": "https://orcid.org/0000-0002-7543-7042",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7543-7042"
+              "https://orcid.org/0000-0002-7543-7042",
+              "https://orcid.org/0000-0001-8567-2217"
             ]
           },
           "institutions": [
@@ -3570,7 +3577,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5176,
+      "fwci": 4.5223,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
@@ -3579,7 +3586,7 @@
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -3935,8 +3942,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5899999737739563
         }
       ],
@@ -4453,7 +4460,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4701,7 +4708,8 @@
             "display_name": "Philip A. Allen",
             "orcid": "https://orcid.org/0000-0002-7543-7042",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7543-7042"
+              "https://orcid.org/0000-0002-7543-7042",
+              "https://orcid.org/0000-0001-8567-2217"
             ]
           },
           "institutions": [
@@ -4742,16 +4750,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7838,
+      "fwci": 1.7827,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.83550914,
+        "value": 0.83547609,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -5209,14 +5217,14 @@
         "https://openalex.org/W2481304045",
         "https://openalex.org/W2504851331",
         "https://openalex.org/W2989049194",
+        "https://openalex.org/W4213100571",
         "https://openalex.org/W4230797236",
         "https://openalex.org/W4231758734",
         "https://openalex.org/W4232328127",
         "https://openalex.org/W4244508810",
         "https://openalex.org/W4245006948",
         "https://openalex.org/W4245357239",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6808351969"
+        "https://openalex.org/W4285719527"
       ],
       "related_works": [
         "https://openalex.org/W147391571",
@@ -5839,7 +5847,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5874,9 +5882,14 @@
           "is_in_doaj": false,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
+            "dongbi-a",
             "jufo-2",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
@@ -6063,11 +6076,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.3799,
+      "fwci": 1.374,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78960179,
+        "value": 0.78838052,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6271,9 +6284,14 @@
             "is_in_doaj": false,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
+              "dongbi-a",
               "jufo-2",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
@@ -6298,8 +6316,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -6949,8 +6967,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310316082",
           "host_organization_name": "American Association of Petroleum Geologists",
@@ -7083,11 +7104,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2016,
+      "fwci": 1.2004,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.73201123,
+        "value": 0.73048261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7310,8 +7331,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310316082",
             "host_organization_name": "American Association of Petroleum Geologists",
@@ -7336,8 +7360,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705
         }
       ],
@@ -8025,8 +8049,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-2"
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
           ],
           "host_organization": "https://openalex.org/P4310320595",
           "host_organization_name": "Wiley",
@@ -8152,11 +8179,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.0336,
+      "fwci": 1.0381,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.71440598,
+        "value": 0.71325557,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8411,8 +8438,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-2"
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
             ],
             "host_organization": "https://openalex.org/P4310320595",
             "host_organization_name": "Wiley",
@@ -8437,8 +8467,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.75
         }
       ],
@@ -9337,16 +9367,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": 0.1155,
       "has_fulltext": false,
-      "cited_by_count": 2,
+      "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.15788067,
+        "value": 0.36291503,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 96
       },
       "biblio": {
@@ -9628,13 +9658,13 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/16",
           "display_name": "Peace, justice, and strong institutions",
+          "id": "https://metadata.un.org/sdg/16",
           "score": 0.49000000953674316
         },
         {
-          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4699999988079071
         }
       ],
@@ -9646,14 +9676,12 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 6,
+      "referenced_works_count": 4,
       "referenced_works": [
         "https://openalex.org/W194170838",
         "https://openalex.org/W2170193952",
         "https://openalex.org/W2783004461",
-        "https://openalex.org/W2996180162",
-        "https://openalex.org/W6684856879",
-        "https://openalex.org/W6748319368"
+        "https://openalex.org/W2996180162"
       ],
       "related_works": [
         "https://openalex.org/W28661983",
@@ -10433,10 +10461,14 @@
         },
         {
           "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10829,11 +10861,11 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 2.2682,
+      "fwci": 2.256,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.80742693,
+        "value": 0.80621187,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11193,15 +11225,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8669640421867371
         }
       ],
@@ -11783,8 +11815,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579
         }
       ],
@@ -12781,7 +12813,8 @@
             "display_name": "Philip A. Allen",
             "orcid": "https://orcid.org/0000-0002-7543-7042",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-7543-7042"
+              "https://orcid.org/0000-0002-7543-7042",
+              "https://orcid.org/0000-0001-8567-2217"
             ]
           },
           "institutions": [],
@@ -13645,7 +13678,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13943,7 +13976,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23925864,
+        "value": 0.23801514,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15271,7 +15304,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30348259,
+        "value": 0.29872674,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15564,15 +15597,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8427148461341858
         }
       ],

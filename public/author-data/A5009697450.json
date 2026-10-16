@@ -594,7 +594,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -770,11 +771,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 4.1505,
+      "fwci": 4.1297,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.95906859,
+        "value": 0.95872228,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1075,28 +1076,32 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 75,
+      "referenced_works_count": 72,
       "referenced_works": [
         "https://openalex.org/W1318062",
+        "https://openalex.org/W1489773112",
+        "https://openalex.org/W1501535576",
+        "https://openalex.org/W1516566041",
         "https://openalex.org/W1526445175",
         "https://openalex.org/W1593195006",
         "https://openalex.org/W1598633756",
         "https://openalex.org/W1768373658",
         "https://openalex.org/W1821990314",
         "https://openalex.org/W1866543612",
+        "https://openalex.org/W1912927042",
         "https://openalex.org/W1965118987",
         "https://openalex.org/W1977858458",
         "https://openalex.org/W2002200719",
@@ -1117,6 +1122,7 @@
         "https://openalex.org/W2151557469",
         "https://openalex.org/W2156981346",
         "https://openalex.org/W2166270526",
+        "https://openalex.org/W2167385998",
         "https://openalex.org/W2217301490",
         "https://openalex.org/W2224953029",
         "https://openalex.org/W2304092513",
@@ -1156,15 +1162,7 @@
         "https://openalex.org/W4313367735",
         "https://openalex.org/W4313537603",
         "https://openalex.org/W4401029303",
-        "https://openalex.org/W6629255172",
-        "https://openalex.org/W6630246771",
-        "https://openalex.org/W6630835965",
-        "https://openalex.org/W6632509500",
-        "https://openalex.org/W6640047912",
-        "https://openalex.org/W6641484184",
-        "https://openalex.org/W6684753312",
-        "https://openalex.org/W6753134821",
-        "https://openalex.org/W6802507855"
+        "https://openalex.org/W6632509500"
       ],
       "related_works": [
         "https://openalex.org/W2090846182",
@@ -1201,7 +1199,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1439,7 +1437,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -1568,11 +1567,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.9581,
+      "fwci": 2.9585,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.92283806,
+        "value": 0.92279786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1870,9 +1869,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -1890,12 +1889,13 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 90,
+      "referenced_works_count": 81,
       "referenced_works": [
+        "https://openalex.org/W584173116",
         "https://openalex.org/W1516566041",
         "https://openalex.org/W1522110515",
         "https://openalex.org/W1531568786",
@@ -1904,6 +1904,7 @@
         "https://openalex.org/W1821990314",
         "https://openalex.org/W1849879787",
         "https://openalex.org/W1920329065",
+        "https://openalex.org/W1928542407",
         "https://openalex.org/W1963921894",
         "https://openalex.org/W1969518283",
         "https://openalex.org/W1970328100",
@@ -1974,18 +1975,7 @@
         "https://openalex.org/W4225248415",
         "https://openalex.org/W4229376096",
         "https://openalex.org/W4232600442",
-        "https://openalex.org/W4280633470",
-        "https://openalex.org/W6617000689",
-        "https://openalex.org/W6631182685",
-        "https://openalex.org/W6640264173",
-        "https://openalex.org/W6642702230",
-        "https://openalex.org/W6649547512",
-        "https://openalex.org/W6655528460",
-        "https://openalex.org/W6667424714",
-        "https://openalex.org/W6673167328",
-        "https://openalex.org/W6676447341",
-        "https://openalex.org/W6751404680",
-        "https://openalex.org/W6808654544"
+        "https://openalex.org/W4280633470"
       ],
       "related_works": [
         "https://openalex.org/W127180227",
@@ -2022,7 +2012,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2190,7 +2180,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -2401,11 +2392,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.3147,
+      "fwci": 1.3149,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.76123217,
+        "value": 0.76133022,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2769,9 +2760,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -2784,14 +2775,14 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4365516011.grobid-xml"
       },
-      "referenced_works_count": 97,
+      "referenced_works_count": 96,
       "referenced_works": [
         "https://openalex.org/W195523536",
         "https://openalex.org/W1043182693",
@@ -2851,13 +2842,16 @@
         "https://openalex.org/W2527688387",
         "https://openalex.org/W2562655431",
         "https://openalex.org/W2610470852",
+        "https://openalex.org/W2615942035",
         "https://openalex.org/W2735452259",
         "https://openalex.org/W2735538648",
         "https://openalex.org/W2746048925",
         "https://openalex.org/W2778330728",
+        "https://openalex.org/W2787387931",
         "https://openalex.org/W2794370406",
         "https://openalex.org/W2795641301",
         "https://openalex.org/W2801195208",
+        "https://openalex.org/W2897398670",
         "https://openalex.org/W2922019937",
         "https://openalex.org/W2932110138",
         "https://openalex.org/W2973127997",
@@ -2885,11 +2879,7 @@
         "https://openalex.org/W4313537603",
         "https://openalex.org/W4319441783",
         "https://openalex.org/W6630726673",
-        "https://openalex.org/W6632509500",
-        "https://openalex.org/W6674544772",
-        "https://openalex.org/W6737868012",
-        "https://openalex.org/W6748148280",
-        "https://openalex.org/W6755458934"
+        "https://openalex.org/W6632509500"
       ],
       "related_works": [
         "https://openalex.org/W2090846182",
@@ -3758,7 +3748,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3879,7 +3869,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -4137,11 +4128,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 0.8768,
+      "fwci": 0.8766,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.65568591,
+        "value": 0.65570977,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4498,9 +4489,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -4518,8 +4509,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -4550,6 +4541,7 @@
         "https://openalex.org/W2015289421",
         "https://openalex.org/W2016954314",
         "https://openalex.org/W2017913935",
+        "https://openalex.org/W2030398951",
         "https://openalex.org/W2051973454",
         "https://openalex.org/W2056696859",
         "https://openalex.org/W2057355903",
@@ -4602,7 +4594,6 @@
         "https://openalex.org/W4249689966",
         "https://openalex.org/W4256182953",
         "https://openalex.org/W4281768127",
-        "https://openalex.org/W6658239044",
         "https://openalex.org/W6670766651",
         "https://openalex.org/W6723902710"
       ],
@@ -5402,7 +5393,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5658,7 +5649,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -5859,16 +5851,16 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.9194,
+      "fwci": 2.19,
       "has_fulltext": false,
-      "cited_by_count": 8,
+      "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.83221397,
+        "value": 0.86103253,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -6076,26 +6068,28 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 137,
+      "referenced_works_count": 115,
       "referenced_works": [
         "https://openalex.org/W101633874",
         "https://openalex.org/W1513110486",
         "https://openalex.org/W1526445175",
+        "https://openalex.org/W1528850606",
         "https://openalex.org/W1539070761",
         "https://openalex.org/W1546499357",
+        "https://openalex.org/W1556228986",
         "https://openalex.org/W1598633756",
         "https://openalex.org/W1601770134",
         "https://openalex.org/W1781157676",
@@ -6103,6 +6097,8 @@
         "https://openalex.org/W1825907477",
         "https://openalex.org/W1862392390",
         "https://openalex.org/W1869611008",
+        "https://openalex.org/W1912927042",
+        "https://openalex.org/W1937848784",
         "https://openalex.org/W1964737005",
         "https://openalex.org/W1973426546",
         "https://openalex.org/W1974750855",
@@ -6133,6 +6129,7 @@
         "https://openalex.org/W2043489598",
         "https://openalex.org/W2044732818",
         "https://openalex.org/W2045329505",
+        "https://openalex.org/W2051347474",
         "https://openalex.org/W2058339838",
         "https://openalex.org/W2060424866",
         "https://openalex.org/W2063603905",
@@ -6173,6 +6170,7 @@
         "https://openalex.org/W2204149822",
         "https://openalex.org/W2217301490",
         "https://openalex.org/W2243778953",
+        "https://openalex.org/W2279396945",
         "https://openalex.org/W2330463646",
         "https://openalex.org/W2346691606",
         "https://openalex.org/W2476623835",
@@ -6198,36 +6196,8 @@
         "https://openalex.org/W4319441783",
         "https://openalex.org/W4387760936",
         "https://openalex.org/W4399662683",
-        "https://openalex.org/W6631769750",
-        "https://openalex.org/W6632249195",
-        "https://openalex.org/W6632808342",
-        "https://openalex.org/W6633326225",
-        "https://openalex.org/W6635780690",
-        "https://openalex.org/W6635946791",
         "https://openalex.org/W6639136611",
-        "https://openalex.org/W6639287538",
-        "https://openalex.org/W6640047912",
-        "https://openalex.org/W6640778156",
-        "https://openalex.org/W6644175387",
-        "https://openalex.org/W6644360664",
-        "https://openalex.org/W6653182895",
-        "https://openalex.org/W6656538966",
-        "https://openalex.org/W6659222058",
-        "https://openalex.org/W6661192762",
-        "https://openalex.org/W6661898200",
-        "https://openalex.org/W6663444042",
-        "https://openalex.org/W6667424714",
-        "https://openalex.org/W6675585600",
-        "https://openalex.org/W6678262913",
-        "https://openalex.org/W6678562768",
-        "https://openalex.org/W6678873083",
-        "https://openalex.org/W6683278906",
-        "https://openalex.org/W6687953629",
-        "https://openalex.org/W6690463612",
-        "https://openalex.org/W6694723219",
-        "https://openalex.org/W6721342750",
-        "https://openalex.org/W6740584385",
-        "https://openalex.org/W6857498656"
+        "https://openalex.org/W6639287538"
       ],
       "related_works": [
         "https://openalex.org/W4323020985",
@@ -6245,7 +6215,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -6260,7 +6230,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2024-07-27T00:00:00"
     },
     {
@@ -6294,8 +6264,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-2"
           ],
           "host_organization": "https://openalex.org/P4360969446",
           "host_organization_name": "Micropaleontology Press",
@@ -6407,11 +6380,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2947,
+      "fwci": 1.2887,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78995751,
+        "value": 0.78777768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6674,8 +6647,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-2"
             ],
             "host_organization": "https://openalex.org/P4360969446",
             "host_organization_name": "Micropaleontology Press",
@@ -6700,17 +6676,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7199,8 +7175,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-3"
           ],
           "host_organization": null,
           "host_organization_name": null,
@@ -7376,11 +7355,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1509,
+      "fwci": 1.1455,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.76654236,
+        "value": 0.76521205,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7589,8 +7568,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-3"
             ],
             "host_organization": null,
             "host_organization_name": null,
@@ -7611,17 +7593,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7973,8 +7955,12 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -8226,7 +8212,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -8416,11 +8403,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 1.22,
+      "fwci": 1.3589,
       "has_fulltext": false,
-      "cited_by_count": 8,
+      "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.72673196,
+        "value": 0.75491844,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8704,8 +8691,12 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-100",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -8730,9 +8721,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -8750,12 +8741,13 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 61,
+      "referenced_works_count": 58,
       "referenced_works": [
+        "https://openalex.org/W584173116",
         "https://openalex.org/W1516566041",
         "https://openalex.org/W1529493629",
         "https://openalex.org/W1556228986",
@@ -8812,11 +8804,7 @@
         "https://openalex.org/W4385462872",
         "https://openalex.org/W4387760936",
         "https://openalex.org/W4388205616",
-        "https://openalex.org/W4388923668",
-        "https://openalex.org/W6617000689",
-        "https://openalex.org/W6642702230",
-        "https://openalex.org/W6808654544",
-        "https://openalex.org/W6857498656"
+        "https://openalex.org/W4388923668"
       ],
       "related_works": [
         "https://openalex.org/W127180227",
@@ -8834,7 +8822,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -8845,7 +8833,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8881,8 +8869,12 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310313756",
           "host_organization_name": "Copernicus Publications",
@@ -9058,11 +9050,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.371,
+      "fwci": 0.3687,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.5587658,
+        "value": 0.55495596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9270,8 +9262,12 @@
             "listed_in": [
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-2",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310313756",
             "host_organization_name": "Copernicus Publications",
@@ -9343,8 +9339,12 @@
           "listed_in": [
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-2",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310313756",
           "host_organization_name": "Copernicus Publications",
@@ -9367,9 +9367,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "study_designs": [],
@@ -9382,8 +9382,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2783424239.pdf",
@@ -9675,8 +9675,11 @@
           "is_core": true,
           "listed_in": [
             "cwts-core",
+            "dongbi-b",
             "jufo-1",
-            "norway-1"
+            "norway-1",
+            "poland-40",
+            "russia-white-list-3"
           ],
           "host_organization": null,
           "host_organization_name": null,
@@ -9729,7 +9732,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [],
@@ -9802,11 +9806,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3159,
+      "fwci": 1.2855,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.73809057,
+        "value": 0.73281453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10059,8 +10063,11 @@
             "is_core": true,
             "listed_in": [
               "cwts-core",
+              "dongbi-b",
               "jufo-1",
-              "norway-1"
+              "norway-1",
+              "poland-40",
+              "russia-white-list-3"
             ],
             "host_organization": null,
             "host_organization_name": null,
@@ -10081,17 +10088,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.47999998927116394
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10616,7 +10623,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10649,9 +10656,12 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "doaj",
-            "norway-1"
+            "dongbi-d",
+            "norway-1",
+            "poland-70"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -10893,16 +10903,16 @@
         "currency": "USD",
         "value_usd": 500
       },
-      "fwci": 0.3619,
+      "fwci": 0.3574,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.50458982,
+        "value": 0.49459937,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -11150,9 +11160,12 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-scientific",
               "cwts-core",
               "doaj",
-              "norway-1"
+              "dongbi-d",
+              "norway-1",
+              "poland-70"
             ],
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
@@ -11281,9 +11294,12 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-scientific",
             "cwts-core",
             "doaj",
-            "norway-1"
+            "dongbi-d",
+            "norway-1",
+            "poland-70"
           ],
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
@@ -11306,9 +11322,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
@@ -11339,14 +11355,14 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293379780.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4293379780.grobid-xml"
       },
-      "referenced_works_count": 37,
+      "referenced_works_count": 35,
       "referenced_works": [
         "https://openalex.org/W139135706",
         "https://openalex.org/W2005022027",
@@ -11357,6 +11373,7 @@
         "https://openalex.org/W2783424239",
         "https://openalex.org/W2896735902",
         "https://openalex.org/W2897366742",
+        "https://openalex.org/W2922859838",
         "https://openalex.org/W2989098440",
         "https://openalex.org/W3035932235",
         "https://openalex.org/W3036323237",
@@ -11381,10 +11398,7 @@
         "https://openalex.org/W4285717134",
         "https://openalex.org/W4285722202",
         "https://openalex.org/W4295035066",
-        "https://openalex.org/W6605642431",
-        "https://openalex.org/W6760381197",
-        "https://openalex.org/W6903504126",
-        "https://openalex.org/W7021105542"
+        "https://openalex.org/W6903504126"
       ],
       "related_works": [
         "https://openalex.org/W2403591496",
@@ -11961,7 +11975,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12180,11 +12194,11 @@
         "value_usd": 0
       },
       "apc_paid": null,
-      "fwci": 2.2682,
+      "fwci": 2.256,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81012823,
+        "value": 0.80890562,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12636,9 +12650,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8485000133514404,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.8485000133514404
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -12646,8 +12660,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -13588,7 +13602,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -13808,11 +13823,11 @@
         "currency": "USD",
         "value_usd": 3600
       },
-      "fwci": 0.6673,
+      "fwci": 0.6628,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.62894679,
+        "value": 0.62755271,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14149,9 +14164,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -14164,11 +14179,11 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 73,
+      "referenced_works_count": 69,
       "referenced_works": [
         "https://openalex.org/W128493259",
         "https://openalex.org/W1501217505",
@@ -14205,6 +14220,7 @@
         "https://openalex.org/W2215538521",
         "https://openalex.org/W2316672829",
         "https://openalex.org/W2340402377",
+        "https://openalex.org/W2464920582",
         "https://openalex.org/W2578716395",
         "https://openalex.org/W2605017508",
         "https://openalex.org/W2754088416",
@@ -14236,13 +14252,8 @@
         "https://openalex.org/W4393031637",
         "https://openalex.org/W4396699327",
         "https://openalex.org/W6602815515",
-        "https://openalex.org/W6605280929",
         "https://openalex.org/W6629996660",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6684902363",
-        "https://openalex.org/W6685659867",
-        "https://openalex.org/W6719646982",
-        "https://openalex.org/W6860451061"
+        "https://openalex.org/W6678618728"
       ],
       "related_works": [
         "https://openalex.org/W2767274412",
@@ -14941,7 +14952,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15092,7 +15103,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [],
@@ -15275,7 +15287,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32077343,
+        "value": 0.31349206,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15554,17 +15566,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15583,7 +15595,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2023-12-06T00:00:00"
     },
     {
@@ -15672,7 +15684,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -16125,17 +16138,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16966,7 +16979,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17055,7 +17068,8 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783"
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
             ]
           },
           "institutions": [
@@ -17262,7 +17276,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4516129,
+        "value": 0.45125786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17538,20 +17552,20 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 17,
+      "referenced_works_count": 16,
       "referenced_works": [
         "https://openalex.org/W67585812",
         "https://openalex.org/W1923889407",
@@ -17568,7 +17582,6 @@
         "https://openalex.org/W4392889256",
         "https://openalex.org/W6602728057",
         "https://openalex.org/W6602815515",
-        "https://openalex.org/W6719646982",
         "https://openalex.org/W7043450906"
       ],
       "related_works": [
@@ -18329,7 +18342,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18362,13 +18375,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -18563,7 +18582,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26811307,
+        "value": 0.25665325,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18791,13 +18810,19 @@
             "is_in_doaj": true,
             "is_core": true,
             "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
               "cwts-core",
               "doaj",
+              "dongbi-c",
               "doyens",
               "jufo-1",
               "ki-jl-1",
               "medline",
-              "norway-1"
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
             ],
             "host_organization": "https://openalex.org/P4310319908",
             "host_organization_name": "Nature Portfolio",
@@ -18928,13 +18953,19 @@
           "is_in_doaj": true,
           "is_core": true,
           "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
             "cwts-core",
             "doaj",
+            "dongbi-c",
             "doyens",
             "jufo-1",
             "ki-jl-1",
             "medline",
-            "norway-1"
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
           ],
           "host_organization": "https://openalex.org/P4310319908",
           "host_organization_name": "Nature Portfolio",
@@ -18958,9 +18989,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.9853000044822693,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.9853000044822693
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -18974,8 +19005,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7160955974.pdf",
@@ -20033,7 +20064,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34608295,
+        "value": 0.3437285,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20399,9 +20430,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8707032203674316,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8707032203674316
         }
       ],
       "study_designs": [],
@@ -20414,8 +20445,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
