@@ -16,9 +16,9 @@
     ],
     "full_name": "Mohammed H. Al Kindi",
     "works_count": 13,
-    "cited_by_count": 28,
+    "cited_by_count": 29,
     "summary_stats": {
-      "2yr_mean_citedness": 1.5714285714285714,
+      "2yr_mean_citedness": 1.7142857142857142,
       "h_index": 3,
       "i10_index": 0
     },
@@ -122,7 +122,7 @@
       {
         "id": "https://openalex.org/T14506",
         "display_name": "Historical and Architectural Studies",
-        "value": 0.000012,
+        "value": 0.0000102,
         "subfield": {
           "id": "https://openalex.org/subfields/1204",
           "display_name": "Archeology"
@@ -137,9 +137,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T13067",
+        "display_name": "Geological Modeling and Analysis",
+        "value": 0.0000099,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0000115,
+        "value": 0.0000096,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -154,9 +171,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T13067",
-        "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000111,
+        "id": "https://openalex.org/T12218",
+        "display_name": "Coal and Its By-products",
+        "value": 0.000009,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -173,7 +190,7 @@
       {
         "id": "https://openalex.org/T13742",
         "display_name": "Metallurgy and Cultural Artifacts",
-        "value": 0.0000111,
+        "value": 0.0000089,
         "subfield": {
           "id": "https://openalex.org/subfields/3302",
           "display_name": "Archeology"
@@ -185,23 +202,6 @@
         "domain": {
           "id": "https://openalex.org/domains/2",
           "display_name": "Social Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000097,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
         }
       }
     ],
@@ -260,7 +260,7 @@
         "year": 2024,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 9
+        "cited_by_count": 10
       },
       {
         "year": 2025,
@@ -285,7 +285,7 @@
     ],
     "block_key": "m al kindi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
-    "updated_date": "2026-10-10T12:59:14",
+    "updated_date": "2026-10-16T12:29:29",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [

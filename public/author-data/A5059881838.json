@@ -21,9 +21,9 @@
     ],
     "full_name": "Ardiansyah Ibnu Koeshidayatullah",
     "works_count": 160,
-    "cited_by_count": 1422,
+    "cited_by_count": 1433,
     "summary_stats": {
-      "2yr_mean_citedness": 2.86046511627907,
+      "2yr_mean_citedness": 2.941860465116279,
       "h_index": 22,
       "i10_index": 39
     },
@@ -247,7 +247,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001566,
+        "value": 0.0001565,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -255,23 +255,6 @@
         "field": {
           "id": "https://openalex.org/fields/22",
           "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.000119,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -289,6 +272,23 @@
         "field": {
           "id": "https://openalex.org/fields/19",
           "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "value": 0.0001189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -379,7 +379,7 @@
         "year": 2015,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 183
+        "cited_by_count": 184
       },
       {
         "year": 2016,
@@ -427,25 +427,25 @@
         "year": 2023,
         "works_count": 23,
         "oa_works_count": 7,
-        "cited_by_count": 146
+        "cited_by_count": 149
       },
       {
         "year": 2024,
         "works_count": 37,
         "oa_works_count": 12,
-        "cited_by_count": 127
+        "cited_by_count": 130
       },
       {
         "year": 2025,
         "works_count": 28,
         "oa_works_count": 16,
-        "cited_by_count": 108
+        "cited_by_count": 111
       },
       {
         "year": 2026,
         "works_count": 21,
         "oa_works_count": 17,
-        "cited_by_count": 11
+        "cited_by_count": 12
       }
     ],
     "display_name_alternatives": [
@@ -462,7 +462,7 @@
     ],
     "block_key": "a koeshidayatullah",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059881838",
-    "updated_date": "2026-10-15T12:44:11",
+    "updated_date": "2026-10-16T12:29:29",
     "created_date": "2020-03-23T00:00:00"
   },
   "works": [
@@ -6394,6 +6394,1571 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4409086284",
+      "doi": "https://doi.org/10.1038/s41598-025-95709-0",
+      "title": "Well log data generation and imputation using sequence based generative adversarial networks",
+      "display_name": "Well log data generation and imputation using sequence based generative adversarial networks",
+      "publication_year": 2025,
+      "publication_date": "2025-03-31",
+      "ids": {
+        "openalex": "https://openalex.org/W4409086284",
+        "doi": "https://doi.org/10.1038/s41598-025-95709-0",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40164658"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1038/s41598-025-95709-0",
+        "doi": "https://doi.org/10.1038/s41598-025-95709-0",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41598-025-95709-0",
+        "pdf_url": "https://www.nature.com/articles/s41598-025-95709-0.pdf",
+        "source": {
+          "id": "https://openalex.org/S196734849",
+          "display_name": "Scientific Reports",
+          "issn_l": "2045-2322",
+          "issn": [
+            "2045-2322"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Reports",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "arxiv",
+        "crossref",
+        "datacite",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.nature.com/articles/s41598-025-95709-0.pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013827317",
+            "display_name": "Abdulrahman Al‐Fakih",
+            "orcid": "https://orcid.org/0000-0001-7583-768X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7583-768X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulrahman Al-Fakih",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia. alja2014ser@gmail.com"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia. alja2014ser@gmail.com",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5059881838",
+            "display_name": "Ardiansyah Koeshidayatullah",
+            "orcid": "https://orcid.org/0000-0001-7558-8783",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7558-8783",
+              "https://orcid.org/0000-0003-0940-678X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A. Koeshidayatullah",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013088513",
+            "display_name": "Tapan Mukerji",
+            "orcid": "https://orcid.org/0000-0003-1711-1850",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1711-1850"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tapan Mukerji",
+          "raw_affiliation_strings": [
+            "Departments of Energy Science & Engineering, Earth & Planetary Sciences, and Geophysics, Stanford University, Stanford, CA, 94305, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departments of Energy Science & Engineering, Earth & Planetary Sciences, and Geophysics, Stanford University, Stanford, CA, 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087475730",
+            "display_name": "Sadam Al-Azani",
+            "orcid": "https://orcid.org/0000-0001-7893-1196",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7893-1196"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sadam Al-Azani",
+          "raw_affiliation_strings": [
+            "SDAIA-KFUPM Joint Research Center for Artificial Intelligence, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "SDAIA-KFUPM Joint Research Center for Artificial Intelligence, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5024607591",
+            "display_name": "SanLinn I. Kaka",
+            "orcid": "https://orcid.org/0000-0003-1229-4627",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1229-4627"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "SanLinn I. Kaka",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2690,
+        "currency": "USD",
+        "value_usd": 2690
+      },
+      "apc_paid": {
+        "value": 2690,
+        "currency": "USD",
+        "value_usd": 2690
+      },
+      "fwci": 15.8721,
+      "has_fulltext": true,
+      "cited_by_count": 44,
+      "citation_normalized_percentile": {
+        "value": 0.99502185,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "1",
+        "first_page": "11000",
+        "last_page": "11000"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10775",
+        "display_name": "Generative Adversarial Networks and Image Synthesis",
+        "score": 0.2619999945163727,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1707",
+          "display_name": "Computer Vision and Pattern Recognition"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10775",
+          "display_name": "Generative Adversarial Networks and Image Synthesis",
+          "score": 0.2619999945163727,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1707",
+            "display_name": "Computer Vision and Pattern Recognition"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.24879999458789825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.08910000324249268,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/well-log-data",
+          "display_name": "well logs",
+          "score": 0.9160000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/synthetic-data-generation",
+          "display_name": "synthetic data generation",
+          "score": 0.8270000219345093
+        },
+        {
+          "id": "https://openalex.org/keywords/missing-data-imputation",
+          "display_name": "missing data imputation",
+          "score": 0.9909999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/seqgan",
+          "display_name": "SeqGAN",
+          "score": 0.8650000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-evaluation",
+          "display_name": "reservoir evaluation",
+          "score": 0.6710000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.8730000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/north-sea",
+          "display_name": "North Sea",
+          "score": 0.8450000286102295
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C58041806",
+          "wikidata": "https://www.wikidata.org/wiki/Q1660484",
+          "display_name": "Imputation (statistics)",
+          "level": 3,
+          "score": 0.7952207922935486
+        },
+        {
+          "id": "https://openalex.org/C9357733",
+          "wikidata": "https://www.wikidata.org/wiki/Q6878417",
+          "display_name": "Missing data",
+          "level": 2,
+          "score": 0.6929466128349304
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6791998744010925
+        },
+        {
+          "id": "https://openalex.org/C124101348",
+          "wikidata": "https://www.wikidata.org/wiki/Q172491",
+          "display_name": "Data mining",
+          "level": 1,
+          "score": 0.6605661511421204
+        },
+        {
+          "id": "https://openalex.org/C160920958",
+          "wikidata": "https://www.wikidata.org/wiki/Q7662746",
+          "display_name": "Synthetic data",
+          "level": 2,
+          "score": 0.43668442964553833
+        },
+        {
+          "id": "https://openalex.org/C2988773926",
+          "wikidata": "https://www.wikidata.org/wiki/Q25104379",
+          "display_name": "Generative adversarial network",
+          "level": 3,
+          "score": 0.43055298924446106
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.3532545268535614
+        },
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0.3258875012397766
+        },
+        {
+          "id": "https://openalex.org/C108583219",
+          "wikidata": "https://www.wikidata.org/wiki/Q197536",
+          "display_name": "Deep learning",
+          "level": 2,
+          "score": 0.3214373290538788
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.31088969111442566
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.23378115892410278
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.1801600456237793
+        }
+      ],
+      "mesh": [],
+      "locations_count": 7,
+      "locations": [
+        {
+          "id": "doi:10.1038/s41598-025-95709-0",
+          "doi": "https://doi.org/10.1038/s41598-025-95709-0",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1038/s41598-025-95709-0",
+          "pdf_url": "https://www.nature.com/articles/s41598-025-95709-0.pdf",
+          "source": {
+            "id": "https://openalex.org/S196734849",
+            "display_name": "Scientific Reports",
+            "issn_l": "2045-2322",
+            "issn": [
+              "2045-2322"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "anvur-class-a",
+              "anvur-scientific",
+              "cwts-core",
+              "doaj",
+              "dongbi-c",
+              "doyens",
+              "jufo-1",
+              "ki-jl-1",
+              "medline",
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310319908",
+            "host_organization_name": "Nature Portfolio",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319908",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Nature Portfolio",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Scientific Reports",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:40164658",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40164658",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Scientific reports",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:arXiv.org:2412.00718",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "http://arxiv.org/abs/2412.00718",
+          "pdf_url": "https://arxiv.org/pdf/2412.00718",
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "text"
+        },
+        {
+          "id": "pmh:oai:europepmc.org:10772564",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11958767",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400806",
+            "display_name": "Europe PMC (PubMed Central)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1303153112",
+            "host_organization_name": "European Bioinformatics Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/I1303153112"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11958767",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11958767",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Sci Rep",
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:d89919d83878451b8b041482da65d05b",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/d89919d83878451b8b041482da65d05b",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scientific Reports, Vol 15, Iss 1, Pp 1-21 (2025)",
+          "raw_type": "article"
+        },
+        {
+          "id": "doi:10.48550/arxiv.2412.00718",
+          "doi": "https://doi.org/10.48550/arxiv.2412.00718",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.48550/arxiv.2412.00718",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400194",
+            "display_name": "arXiv (Cornell University)",
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205783295",
+            "host_organization_name": "Cornell University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205783295"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "Preprint"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1038/s41598-025-95709-0",
+        "doi": "https://doi.org/10.1038/s41598-025-95709-0",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1038/s41598-025-95709-0",
+        "pdf_url": "https://www.nature.com/articles/s41598-025-95709-0.pdf",
+        "source": {
+          "id": "https://openalex.org/S196734849",
+          "display_name": "Scientific Reports",
+          "issn_l": "2045-2322",
+          "issn": [
+            "2045-2322"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "doyens",
+            "jufo-1",
+            "ki-jl-1",
+            "medline",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319908",
+          "host_organization_name": "Nature Portfolio",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319908",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Nature Portfolio",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Scientific Reports",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "score": 0.8500000238418579,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321010",
+          "display_name": "Universiteit Utrecht",
+          "ror": "https://ror.org/04pp8hn57"
+        },
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4409086284.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4409086284.grobid-xml"
+      },
+      "referenced_works_count": 45,
+      "referenced_works": [
+        "https://openalex.org/W1574447377",
+        "https://openalex.org/W1884758464",
+        "https://openalex.org/W1965555277",
+        "https://openalex.org/W2016210396",
+        "https://openalex.org/W2140753638",
+        "https://openalex.org/W2487147114",
+        "https://openalex.org/W2739824434",
+        "https://openalex.org/W2800878814",
+        "https://openalex.org/W2803805253",
+        "https://openalex.org/W2887010091",
+        "https://openalex.org/W2911200746",
+        "https://openalex.org/W2932881901",
+        "https://openalex.org/W2964268978",
+        "https://openalex.org/W3003770415",
+        "https://openalex.org/W3011523529",
+        "https://openalex.org/W3034856749",
+        "https://openalex.org/W3096845480",
+        "https://openalex.org/W3141500568",
+        "https://openalex.org/W3168221407",
+        "https://openalex.org/W3189885941",
+        "https://openalex.org/W3197163406",
+        "https://openalex.org/W3213716934",
+        "https://openalex.org/W4220743325",
+        "https://openalex.org/W4224008618",
+        "https://openalex.org/W4226050269",
+        "https://openalex.org/W4255375128",
+        "https://openalex.org/W4310895557",
+        "https://openalex.org/W4312404919",
+        "https://openalex.org/W4313892576",
+        "https://openalex.org/W4327582964",
+        "https://openalex.org/W4360979617",
+        "https://openalex.org/W4364356131",
+        "https://openalex.org/W4384703232",
+        "https://openalex.org/W4386525598",
+        "https://openalex.org/W4388953038",
+        "https://openalex.org/W4389369177",
+        "https://openalex.org/W4392001775",
+        "https://openalex.org/W4393195412",
+        "https://openalex.org/W4396720725",
+        "https://openalex.org/W4402205447",
+        "https://openalex.org/W4404876644",
+        "https://openalex.org/W4405663573",
+        "https://openalex.org/W4407178835",
+        "https://openalex.org/W4414528558",
+        "https://openalex.org/W6943016348"
+      ],
+      "related_works": [
+        "https://openalex.org/W2181530120",
+        "https://openalex.org/W4211215373",
+        "https://openalex.org/W2024529227",
+        "https://openalex.org/W2055961818",
+        "https://openalex.org/W2903115227",
+        "https://openalex.org/W1574575415",
+        "https://openalex.org/W3144172081",
+        "https://openalex.org/W3179858851",
+        "https://openalex.org/W2081476516",
+        "https://openalex.org/W2581984549"
+      ],
+      "abstract_inverted_index": {
+        "50": [
+          196
+        ],
+        "Well": [
+          0
+        ],
+        "log": [
+          1,
+          21,
+          79,
+          100,
+          170,
+          294
+        ],
+        "analysis": [
+          2
+        ],
+        "is": [
+          3,
+          137,
+          150,
+          157
+        ],
+        "significant": [
+          4,
+          36
+        ],
+        "for": [
+          5,
+          47,
+          77,
+          96,
+          106,
+          142,
+          220,
+          284
+        ],
+        "hydrocarbon": [
+          6
+        ],
+        "exploration,": [
+          7
+        ],
+        "providing": [
+          8
+        ],
+        "detailed": [
+          9
+        ],
+        "insights": [
+          10
+        ],
+        "into": [
+          11
+        ],
+        "subsurface": [
+          12,
+          32
+        ],
+        "geological": [
+          13
+        ],
+        "formations.": [
+          14
+        ],
+        "However,": [
+          15
+        ],
+        "gaps": [
+          16,
+          213
+        ],
+        "and": [
+          17,
+          30,
+          52,
+          61,
+          82,
+          102,
+          134,
+          154,
+          181,
+          195,
+          235,
+          248,
+          250,
+          259,
+          274,
+          287
+        ],
+        "inaccuracies": [
+          18
+        ],
+        "in": [
+          19,
+          38,
+          186,
+          210,
+          289,
+          292
+        ],
+        "well": [
+          20,
+          78,
+          99,
+          293
+        ],
+        "data,": [
+          22,
+          57
+        ],
+        "often": [
+          23
+        ],
+        "due": [
+          24
+        ],
+        "to": [
+          25,
+          174,
+          215
+        ],
+        "equipment": [
+          26
+        ],
+        "limitations,": [
+          27
+        ],
+        "operational": [
+          28
+        ],
+        "challenges,": [
+          29
+        ],
+        "harsh": [
+          31
+        ],
+        "conditions,": [
+          33
+        ],
+        "can": [
+          34
+        ],
+        "introduce": [
+          35
+        ],
+        "uncertainties": [
+          37
+        ],
+        "reservoir": [
+          39
+        ],
+        "evaluation.": [
+          40
+        ],
+        "Addressing": [
+          41
+        ],
+        "these": [
+          42,
+          187
+        ],
+        "challenges": [
+          43
+        ],
+        "requires": [
+          44
+        ],
+        "effective": [
+          45
+        ],
+        "methods": [
+          46
+        ],
+        "both": [
+          48
+        ],
+        "synthetic": [
+          49,
+          98,
+          144,
+          158,
+          263
+        ],
+        "data": [
+          50,
+          59,
+          80,
+          101,
+          145,
+          197,
+          212,
+          285,
+          295
+        ],
+        "generation": [
+          51,
+          81,
+          146,
+          264
+        ],
+        "precise": [
+          53
+        ],
+        "imputation": [
+          54,
+          125,
+          225
+        ],
+        "of": [
+          55,
+          165,
+          192,
+          232,
+          245,
+          256,
+          269,
+          272,
+          276
+        ],
+        "missing": [
+          56,
+          108,
+          132
+        ],
+        "ensuring": [
+          58
+        ],
+        "completeness": [
+          60
+        ],
+        "reliability.": [
+          62
+        ],
+        "This": [
+          63
+        ],
+        "study": [
+          64
+        ],
+        "introduces": [
+          65
+        ],
+        "a": [
+          66,
+          115,
+          175,
+          281
+        ],
+        "novel": [
+          67
+        ],
+        "framework": [
+          68,
+          85
+        ],
+        "utilizing": [
+          69
+        ],
+        "sequence-based": [
+          70,
+          89
+        ],
+        "generative": [
+          71
+        ],
+        "adversarial": [
+          72
+        ],
+        "networks": [
+          73
+        ],
+        "(GANs)": [
+          74
+        ],
+        "specifically": [
+          75
+        ],
+        "designed": [
+          76
+        ],
+        "imputation.": [
+          83
+        ],
+        "The": [
+          84,
+          224,
+          262
+        ],
+        "integrates": [
+          86
+        ],
+        "two": [
+          87
+        ],
+        "distinct": [
+          88
+        ],
+        "GAN": [
+          90,
+          94,
+          104
+        ],
+        "models:": [
+          91
+        ],
+        "time": [
+          92
+        ],
+        "series": [
+          93,
+          222
+        ],
+        "(TSGAN)": [
+          95
+        ],
+        "generating": [
+          97
+        ],
+        "sequence": [
+          103
+        ],
+        "(SeqGAN)": [
+          105
+        ],
+        "imputing": [
+          107
+        ],
+        "data.": [
+          109,
+          168
+        ],
+        "Both": [
+          110
+        ],
+        "models": [
+          111,
+          219
+        ],
+        "were": [
+          112,
+          199
+        ],
+        "tested": [
+          113
+        ],
+        "on": [
+          114
+        ],
+        "dataset": [
+          116
+        ],
+        "from": [
+          117
+        ],
+        "the": [
+          118,
+          124,
+          127,
+          135,
+          138,
+          143,
+          148,
+          155,
+          162,
+          166
+        ],
+        "North": [
+          119
+        ],
+        "Sea,": [
+          120
+        ],
+        "Netherlands": [
+          121
+        ],
+        "region.": [
+          122
+        ],
+        "For": [
+          123
+        ],
+        "task,": [
+          126,
+          147
+        ],
+        "input": [
+          128,
+          149
+        ],
+        "comprises": [
+          129
+        ],
+        "logs": [
+          130,
+          153,
+          159
+        ],
+        "with": [
+          131,
+          237
+        ],
+        "values": [
+          133,
+          231,
+          244,
+          255
+        ],
+        "output": [
+          136,
+          156
+        ],
+        "corresponding": [
+          139,
+          238
+        ],
+        "imputed": [
+          140
+        ],
+        "logs;": [
+          141
+        ],
+        "complete": [
+          151
+        ],
+        "real": [
+          152
+        ],
+        "that": [
+          160,
+          204
+        ],
+        "mimic": [
+          161
+        ],
+        "statistical": [
+          163
+        ],
+        "properties": [
+          164
+        ],
+        "original": [
+          167
+        ],
+        "All": [
+          169
+        ],
+        "measurements": [
+          171
+        ],
+        "are": [
+          172,
+          184
+        ],
+        "normalized": [
+          173,
+          188
+        ],
+        "0-1": [
+          176
+        ],
+        "range": [
+          177
+        ],
+        "using": [
+          178
+        ],
+        "min-max": [
+          179
+        ],
+        "scaling,": [
+          180
+        ],
+        "error": [
+          182,
+          242,
+          253
+        ],
+        "metrics": [
+          183
+        ],
+        "reported": [
+          185
+        ],
+        "units.": [
+          189
+        ],
+        "Different": [
+          190
+        ],
+        "sections": [
+          191
+        ],
+        "5,": [
+          193
+        ],
+        "10,": [
+          194
+        ],
+        "points": [
+          198
+        ],
+        "used.": [
+          200
+        ],
+        "Experimental": [
+          201
+        ],
+        "results": [
+          202,
+          279
+        ],
+        "demonstrate": [
+          203
+        ],
+        "this": [
+          205
+        ],
+        "approach": [
+          206
+        ],
+        "achieves": [
+          207
+        ],
+        "superior": [
+          208
+        ],
+        "accuracy": [
+          209
+        ],
+        "filling": [
+          211
+        ],
+        "compared": [
+          214
+        ],
+        "other": [
+          216
+        ],
+        "deep": [
+          217
+        ],
+        "learning": [
+          218
+        ],
+        "spatial": [
+          221
+        ],
+        "analysis.": [
+          223,
+          296
+        ],
+        "method": [
+          226
+        ],
+        "yielded": [
+          227,
+          265
+        ],
+        "[Formula:": [
+          228,
+          266
+        ],
+        "see": [
+          229,
+          267
+        ],
+        "text]": [
+          230,
+          268
+        ],
+        "0.92,": [
+          233,
+          270
+        ],
+        "0.86,": [
+          234
+        ],
+        "0.57,": [
+          236
+        ],
+        "mean": [
+          239,
+          251
+        ],
+        "absolute": [
+          240,
+          252
+        ],
+        "percentage": [
+          241
+        ],
+        "(MAPE)": [
+          243
+        ],
+        "8.320,": [
+          246
+        ],
+        "0.005,": [
+          247
+        ],
+        "166.6,": [
+          249
+        ],
+        "(MAE)": [
+          254
+        ],
+        "0.012,": [
+          257
+        ],
+        "0.002,": [
+          258
+        ],
+        "0.03,": [
+          260
+        ],
+        "respectively.": [
+          261
+        ],
+        "MAE,": [
+          271
+        ],
+        "0.35,": [
+          273
+        ],
+        "MRLE": [
+          275
+        ],
+        "0.01.": [
+          277
+        ],
+        "These": [
+          278
+        ],
+        "set": [
+          280
+        ],
+        "new": [
+          282
+        ],
+        "benchmark": [
+          283
+        ],
+        "integrity": [
+          286
+        ],
+        "utility": [
+          288
+        ],
+        "geosciences,": [
+          290
+        ],
+        "particularly": [
+          291
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 28
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 16
+        }
+      ],
+      "updated_date": "2026-10-17T09:40:24.721904",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4301395778",
       "doi": "https://doi.org/10.3389/feart.2022.992442",
       "title": "FaciesViT: Vision transformer for an improved core lithofacies prediction",
@@ -7826,1571 +9391,6 @@
         {
           "year": 2023,
           "cited_by_count": 8
-        }
-      ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4409086284",
-      "doi": "https://doi.org/10.1038/s41598-025-95709-0",
-      "title": "Well log data generation and imputation using sequence based generative adversarial networks",
-      "display_name": "Well log data generation and imputation using sequence based generative adversarial networks",
-      "publication_year": 2025,
-      "publication_date": "2025-03-31",
-      "ids": {
-        "openalex": "https://openalex.org/W4409086284",
-        "doi": "https://doi.org/10.1038/s41598-025-95709-0",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/40164658"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1038/s41598-025-95709-0",
-        "doi": "https://doi.org/10.1038/s41598-025-95709-0",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1038/s41598-025-95709-0",
-        "pdf_url": "https://www.nature.com/articles/s41598-025-95709-0.pdf",
-        "source": {
-          "id": "https://openalex.org/S196734849",
-          "display_name": "Scientific Reports",
-          "issn_l": "2045-2322",
-          "issn": [
-            "2045-2322"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "anvur-class-a",
-            "anvur-scientific",
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "doyens",
-            "jufo-1",
-            "ki-jl-1",
-            "medline",
-            "norway-1",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310319908",
-          "host_organization_name": "Nature Portfolio",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319908",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Nature Portfolio",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Scientific Reports",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "arxiv",
-        "crossref",
-        "datacite",
-        "doaj",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://www.nature.com/articles/s41598-025-95709-0.pdf",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5013827317",
-            "display_name": "Abdulrahman Al‐Fakih",
-            "orcid": "https://orcid.org/0000-0001-7583-768X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7583-768X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulrahman Al-Fakih",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia. alja2014ser@gmail.com"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia. alja2014ser@gmail.com",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5059881838",
-            "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0001-7558-8783",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7558-8783",
-              "https://orcid.org/0000-0003-0940-678X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A. Koeshidayatullah",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013088513",
-            "display_name": "Tapan Mukerji",
-            "orcid": "https://orcid.org/0000-0003-1711-1850",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1711-1850"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I97018004",
-              "display_name": "Stanford University",
-              "ror": "https://ror.org/00f54p054",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I97018004"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Tapan Mukerji",
-          "raw_affiliation_strings": [
-            "Departments of Energy Science & Engineering, Earth & Planetary Sciences, and Geophysics, Stanford University, Stanford, CA, 94305, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Departments of Energy Science & Engineering, Earth & Planetary Sciences, and Geophysics, Stanford University, Stanford, CA, 94305, USA",
-              "institution_ids": [
-                "https://openalex.org/I97018004"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5087475730",
-            "display_name": "Sadam Al-Azani",
-            "orcid": "https://orcid.org/0000-0001-7893-1196",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7893-1196"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sadam Al-Azani",
-          "raw_affiliation_strings": [
-            "SDAIA-KFUPM Joint Research Center for Artificial Intelligence, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "SDAIA-KFUPM Joint Research Center for Artificial Intelligence, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5024607591",
-            "display_name": "SanLinn I. Kaka",
-            "orcid": "https://orcid.org/0000-0003-1229-4627",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1229-4627"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "SanLinn I. Kaka",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 2690,
-        "currency": "USD",
-        "value_usd": 2690
-      },
-      "apc_paid": {
-        "value": 2690,
-        "currency": "USD",
-        "value_usd": 2690
-      },
-      "fwci": 15.5656,
-      "has_fulltext": true,
-      "cited_by_count": 43,
-      "citation_normalized_percentile": {
-        "value": 0.99482075,
-        "is_in_top_1_percent": true,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 99,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "15",
-        "issue": "1",
-        "first_page": "11000",
-        "last_page": "11000"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10775",
-        "display_name": "Generative Adversarial Networks and Image Synthesis",
-        "score": 0.2619999945163727,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1707",
-          "display_name": "Computer Vision and Pattern Recognition"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10775",
-          "display_name": "Generative Adversarial Networks and Image Synthesis",
-          "score": 0.2619999945163727,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1707",
-            "display_name": "Computer Vision and Pattern Recognition"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.24879999458789825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.08910000324249268,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/well-log-data",
-          "display_name": "well logs",
-          "score": 0.9160000085830688
-        },
-        {
-          "id": "https://openalex.org/keywords/synthetic-data-generation",
-          "display_name": "synthetic data generation",
-          "score": 0.8270000219345093
-        },
-        {
-          "id": "https://openalex.org/keywords/missing-data-imputation",
-          "display_name": "missing data imputation",
-          "score": 0.9909999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/seqgan",
-          "display_name": "SeqGAN",
-          "score": 0.8650000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-evaluation",
-          "display_name": "reservoir evaluation",
-          "score": 0.6710000038146973
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.8730000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/north-sea",
-          "display_name": "North Sea",
-          "score": 0.8450000286102295
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C58041806",
-          "wikidata": "https://www.wikidata.org/wiki/Q1660484",
-          "display_name": "Imputation (statistics)",
-          "level": 3,
-          "score": 0.7952207922935486
-        },
-        {
-          "id": "https://openalex.org/C9357733",
-          "wikidata": "https://www.wikidata.org/wiki/Q6878417",
-          "display_name": "Missing data",
-          "level": 2,
-          "score": 0.6929466128349304
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.6791998744010925
-        },
-        {
-          "id": "https://openalex.org/C124101348",
-          "wikidata": "https://www.wikidata.org/wiki/Q172491",
-          "display_name": "Data mining",
-          "level": 1,
-          "score": 0.6605661511421204
-        },
-        {
-          "id": "https://openalex.org/C160920958",
-          "wikidata": "https://www.wikidata.org/wiki/Q7662746",
-          "display_name": "Synthetic data",
-          "level": 2,
-          "score": 0.43668442964553833
-        },
-        {
-          "id": "https://openalex.org/C2988773926",
-          "wikidata": "https://www.wikidata.org/wiki/Q25104379",
-          "display_name": "Generative adversarial network",
-          "level": 3,
-          "score": 0.43055298924446106
-        },
-        {
-          "id": "https://openalex.org/C105795698",
-          "wikidata": "https://www.wikidata.org/wiki/Q12483",
-          "display_name": "Statistics",
-          "level": 1,
-          "score": 0.3532545268535614
-        },
-        {
-          "id": "https://openalex.org/C11413529",
-          "wikidata": "https://www.wikidata.org/wiki/Q8366",
-          "display_name": "Algorithm",
-          "level": 1,
-          "score": 0.3258875012397766
-        },
-        {
-          "id": "https://openalex.org/C108583219",
-          "wikidata": "https://www.wikidata.org/wiki/Q197536",
-          "display_name": "Deep learning",
-          "level": 2,
-          "score": 0.3214373290538788
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.31088969111442566
-        },
-        {
-          "id": "https://openalex.org/C119857082",
-          "wikidata": "https://www.wikidata.org/wiki/Q2539",
-          "display_name": "Machine learning",
-          "level": 1,
-          "score": 0.23378115892410278
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.1801600456237793
-        }
-      ],
-      "mesh": [],
-      "locations_count": 7,
-      "locations": [
-        {
-          "id": "doi:10.1038/s41598-025-95709-0",
-          "doi": "https://doi.org/10.1038/s41598-025-95709-0",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1038/s41598-025-95709-0",
-          "pdf_url": "https://www.nature.com/articles/s41598-025-95709-0.pdf",
-          "source": {
-            "id": "https://openalex.org/S196734849",
-            "display_name": "Scientific Reports",
-            "issn_l": "2045-2322",
-            "issn": [
-              "2045-2322"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "listed_in": [
-              "anvur-class-a",
-              "anvur-scientific",
-              "cwts-core",
-              "doaj",
-              "dongbi-c",
-              "doyens",
-              "jufo-1",
-              "ki-jl-1",
-              "medline",
-              "norway-1",
-              "poland-140",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310319908",
-            "host_organization_name": "Nature Portfolio",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319908",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Nature Portfolio",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Scientific Reports",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:40164658",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40164658",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Scientific reports",
-          "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:arXiv.org:2412.00718",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "http://arxiv.org/abs/2412.00718",
-          "pdf_url": "https://arxiv.org/pdf/2412.00718",
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "text"
-        },
-        {
-          "id": "pmh:oai:europepmc.org:10772564",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11958767",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400806",
-            "display_name": "Europe PMC (PubMed Central)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1303153112",
-            "host_organization_name": "European Bioinformatics Institute",
-            "host_organization_lineage": [
-              "https://openalex.org/I1303153112"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:11958767",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11958767",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Sci Rep",
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:d89919d83878451b8b041482da65d05b",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/d89919d83878451b8b041482da65d05b",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Scientific Reports, Vol 15, Iss 1, Pp 1-21 (2025)",
-          "raw_type": "article"
-        },
-        {
-          "id": "doi:10.48550/arxiv.2412.00718",
-          "doi": "https://doi.org/10.48550/arxiv.2412.00718",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.48550/arxiv.2412.00718",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400194",
-            "display_name": "arXiv (Cornell University)",
-            "issn_l": "2331-8422",
-            "issn": [
-              "2331-8422"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205783295",
-            "host_organization_name": "Cornell University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205783295"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": null,
-          "raw_source_name": null,
-          "raw_type": "Preprint"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1038/s41598-025-95709-0",
-        "doi": "https://doi.org/10.1038/s41598-025-95709-0",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1038/s41598-025-95709-0",
-        "pdf_url": "https://www.nature.com/articles/s41598-025-95709-0.pdf",
-        "source": {
-          "id": "https://openalex.org/S196734849",
-          "display_name": "Scientific Reports",
-          "issn_l": "2045-2322",
-          "issn": [
-            "2045-2322"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "anvur-class-a",
-            "anvur-scientific",
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "doyens",
-            "jufo-1",
-            "ki-jl-1",
-            "medline",
-            "norway-1",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310319908",
-          "host_organization_name": "Nature Portfolio",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319908",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Nature Portfolio",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Scientific Reports",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [
-        {
-          "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320321010",
-          "display_name": "Universiteit Utrecht",
-          "ror": "https://ror.org/04pp8hn57"
-        },
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        }
-      ],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4409086284.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4409086284.grobid-xml"
-      },
-      "referenced_works_count": 45,
-      "referenced_works": [
-        "https://openalex.org/W1574447377",
-        "https://openalex.org/W1884758464",
-        "https://openalex.org/W1965555277",
-        "https://openalex.org/W2016210396",
-        "https://openalex.org/W2140753638",
-        "https://openalex.org/W2487147114",
-        "https://openalex.org/W2739824434",
-        "https://openalex.org/W2800878814",
-        "https://openalex.org/W2803805253",
-        "https://openalex.org/W2887010091",
-        "https://openalex.org/W2911200746",
-        "https://openalex.org/W2932881901",
-        "https://openalex.org/W2964268978",
-        "https://openalex.org/W3003770415",
-        "https://openalex.org/W3011523529",
-        "https://openalex.org/W3034856749",
-        "https://openalex.org/W3096845480",
-        "https://openalex.org/W3141500568",
-        "https://openalex.org/W3168221407",
-        "https://openalex.org/W3189885941",
-        "https://openalex.org/W3197163406",
-        "https://openalex.org/W3213716934",
-        "https://openalex.org/W4220743325",
-        "https://openalex.org/W4224008618",
-        "https://openalex.org/W4226050269",
-        "https://openalex.org/W4255375128",
-        "https://openalex.org/W4310895557",
-        "https://openalex.org/W4312404919",
-        "https://openalex.org/W4313892576",
-        "https://openalex.org/W4327582964",
-        "https://openalex.org/W4360979617",
-        "https://openalex.org/W4364356131",
-        "https://openalex.org/W4384703232",
-        "https://openalex.org/W4386525598",
-        "https://openalex.org/W4388953038",
-        "https://openalex.org/W4389369177",
-        "https://openalex.org/W4392001775",
-        "https://openalex.org/W4393195412",
-        "https://openalex.org/W4396720725",
-        "https://openalex.org/W4402205447",
-        "https://openalex.org/W4404876644",
-        "https://openalex.org/W4405663573",
-        "https://openalex.org/W4407178835",
-        "https://openalex.org/W4414528558",
-        "https://openalex.org/W6943016348"
-      ],
-      "related_works": [
-        "https://openalex.org/W2181530120",
-        "https://openalex.org/W4211215373",
-        "https://openalex.org/W2024529227",
-        "https://openalex.org/W2055961818",
-        "https://openalex.org/W2903115227",
-        "https://openalex.org/W1574575415",
-        "https://openalex.org/W3144172081",
-        "https://openalex.org/W3179858851",
-        "https://openalex.org/W2081476516",
-        "https://openalex.org/W2581984549"
-      ],
-      "abstract_inverted_index": {
-        "50": [
-          196
-        ],
-        "Well": [
-          0
-        ],
-        "log": [
-          1,
-          21,
-          79,
-          100,
-          170,
-          294
-        ],
-        "analysis": [
-          2
-        ],
-        "is": [
-          3,
-          137,
-          150,
-          157
-        ],
-        "significant": [
-          4,
-          36
-        ],
-        "for": [
-          5,
-          47,
-          77,
-          96,
-          106,
-          142,
-          220,
-          284
-        ],
-        "hydrocarbon": [
-          6
-        ],
-        "exploration,": [
-          7
-        ],
-        "providing": [
-          8
-        ],
-        "detailed": [
-          9
-        ],
-        "insights": [
-          10
-        ],
-        "into": [
-          11
-        ],
-        "subsurface": [
-          12,
-          32
-        ],
-        "geological": [
-          13
-        ],
-        "formations.": [
-          14
-        ],
-        "However,": [
-          15
-        ],
-        "gaps": [
-          16,
-          213
-        ],
-        "and": [
-          17,
-          30,
-          52,
-          61,
-          82,
-          102,
-          134,
-          154,
-          181,
-          195,
-          235,
-          248,
-          250,
-          259,
-          274,
-          287
-        ],
-        "inaccuracies": [
-          18
-        ],
-        "in": [
-          19,
-          38,
-          186,
-          210,
-          289,
-          292
-        ],
-        "well": [
-          20,
-          78,
-          99,
-          293
-        ],
-        "data,": [
-          22,
-          57
-        ],
-        "often": [
-          23
-        ],
-        "due": [
-          24
-        ],
-        "to": [
-          25,
-          174,
-          215
-        ],
-        "equipment": [
-          26
-        ],
-        "limitations,": [
-          27
-        ],
-        "operational": [
-          28
-        ],
-        "challenges,": [
-          29
-        ],
-        "harsh": [
-          31
-        ],
-        "conditions,": [
-          33
-        ],
-        "can": [
-          34
-        ],
-        "introduce": [
-          35
-        ],
-        "uncertainties": [
-          37
-        ],
-        "reservoir": [
-          39
-        ],
-        "evaluation.": [
-          40
-        ],
-        "Addressing": [
-          41
-        ],
-        "these": [
-          42,
-          187
-        ],
-        "challenges": [
-          43
-        ],
-        "requires": [
-          44
-        ],
-        "effective": [
-          45
-        ],
-        "methods": [
-          46
-        ],
-        "both": [
-          48
-        ],
-        "synthetic": [
-          49,
-          98,
-          144,
-          158,
-          263
-        ],
-        "data": [
-          50,
-          59,
-          80,
-          101,
-          145,
-          197,
-          212,
-          285,
-          295
-        ],
-        "generation": [
-          51,
-          81,
-          146,
-          264
-        ],
-        "precise": [
-          53
-        ],
-        "imputation": [
-          54,
-          125,
-          225
-        ],
-        "of": [
-          55,
-          165,
-          192,
-          232,
-          245,
-          256,
-          269,
-          272,
-          276
-        ],
-        "missing": [
-          56,
-          108,
-          132
-        ],
-        "ensuring": [
-          58
-        ],
-        "completeness": [
-          60
-        ],
-        "reliability.": [
-          62
-        ],
-        "This": [
-          63
-        ],
-        "study": [
-          64
-        ],
-        "introduces": [
-          65
-        ],
-        "a": [
-          66,
-          115,
-          175,
-          281
-        ],
-        "novel": [
-          67
-        ],
-        "framework": [
-          68,
-          85
-        ],
-        "utilizing": [
-          69
-        ],
-        "sequence-based": [
-          70,
-          89
-        ],
-        "generative": [
-          71
-        ],
-        "adversarial": [
-          72
-        ],
-        "networks": [
-          73
-        ],
-        "(GANs)": [
-          74
-        ],
-        "specifically": [
-          75
-        ],
-        "designed": [
-          76
-        ],
-        "imputation.": [
-          83
-        ],
-        "The": [
-          84,
-          224,
-          262
-        ],
-        "integrates": [
-          86
-        ],
-        "two": [
-          87
-        ],
-        "distinct": [
-          88
-        ],
-        "GAN": [
-          90,
-          94,
-          104
-        ],
-        "models:": [
-          91
-        ],
-        "time": [
-          92
-        ],
-        "series": [
-          93,
-          222
-        ],
-        "(TSGAN)": [
-          95
-        ],
-        "generating": [
-          97
-        ],
-        "sequence": [
-          103
-        ],
-        "(SeqGAN)": [
-          105
-        ],
-        "imputing": [
-          107
-        ],
-        "data.": [
-          109,
-          168
-        ],
-        "Both": [
-          110
-        ],
-        "models": [
-          111,
-          219
-        ],
-        "were": [
-          112,
-          199
-        ],
-        "tested": [
-          113
-        ],
-        "on": [
-          114
-        ],
-        "dataset": [
-          116
-        ],
-        "from": [
-          117
-        ],
-        "the": [
-          118,
-          124,
-          127,
-          135,
-          138,
-          143,
-          148,
-          155,
-          162,
-          166
-        ],
-        "North": [
-          119
-        ],
-        "Sea,": [
-          120
-        ],
-        "Netherlands": [
-          121
-        ],
-        "region.": [
-          122
-        ],
-        "For": [
-          123
-        ],
-        "task,": [
-          126,
-          147
-        ],
-        "input": [
-          128,
-          149
-        ],
-        "comprises": [
-          129
-        ],
-        "logs": [
-          130,
-          153,
-          159
-        ],
-        "with": [
-          131,
-          237
-        ],
-        "values": [
-          133,
-          231,
-          244,
-          255
-        ],
-        "output": [
-          136,
-          156
-        ],
-        "corresponding": [
-          139,
-          238
-        ],
-        "imputed": [
-          140
-        ],
-        "logs;": [
-          141
-        ],
-        "complete": [
-          151
-        ],
-        "real": [
-          152
-        ],
-        "that": [
-          160,
-          204
-        ],
-        "mimic": [
-          161
-        ],
-        "statistical": [
-          163
-        ],
-        "properties": [
-          164
-        ],
-        "original": [
-          167
-        ],
-        "All": [
-          169
-        ],
-        "measurements": [
-          171
-        ],
-        "are": [
-          172,
-          184
-        ],
-        "normalized": [
-          173,
-          188
-        ],
-        "0-1": [
-          176
-        ],
-        "range": [
-          177
-        ],
-        "using": [
-          178
-        ],
-        "min-max": [
-          179
-        ],
-        "scaling,": [
-          180
-        ],
-        "error": [
-          182,
-          242,
-          253
-        ],
-        "metrics": [
-          183
-        ],
-        "reported": [
-          185
-        ],
-        "units.": [
-          189
-        ],
-        "Different": [
-          190
-        ],
-        "sections": [
-          191
-        ],
-        "5,": [
-          193
-        ],
-        "10,": [
-          194
-        ],
-        "points": [
-          198
-        ],
-        "used.": [
-          200
-        ],
-        "Experimental": [
-          201
-        ],
-        "results": [
-          202,
-          279
-        ],
-        "demonstrate": [
-          203
-        ],
-        "this": [
-          205
-        ],
-        "approach": [
-          206
-        ],
-        "achieves": [
-          207
-        ],
-        "superior": [
-          208
-        ],
-        "accuracy": [
-          209
-        ],
-        "filling": [
-          211
-        ],
-        "compared": [
-          214
-        ],
-        "other": [
-          216
-        ],
-        "deep": [
-          217
-        ],
-        "learning": [
-          218
-        ],
-        "spatial": [
-          221
-        ],
-        "analysis.": [
-          223,
-          296
-        ],
-        "method": [
-          226
-        ],
-        "yielded": [
-          227,
-          265
-        ],
-        "[Formula:": [
-          228,
-          266
-        ],
-        "see": [
-          229,
-          267
-        ],
-        "text]": [
-          230,
-          268
-        ],
-        "0.92,": [
-          233,
-          270
-        ],
-        "0.86,": [
-          234
-        ],
-        "0.57,": [
-          236
-        ],
-        "mean": [
-          239,
-          251
-        ],
-        "absolute": [
-          240,
-          252
-        ],
-        "percentage": [
-          241
-        ],
-        "(MAPE)": [
-          243
-        ],
-        "8.320,": [
-          246
-        ],
-        "0.005,": [
-          247
-        ],
-        "166.6,": [
-          249
-        ],
-        "(MAE)": [
-          254
-        ],
-        "0.012,": [
-          257
-        ],
-        "0.002,": [
-          258
-        ],
-        "0.03,": [
-          260
-        ],
-        "respectively.": [
-          261
-        ],
-        "MAE,": [
-          271
-        ],
-        "0.35,": [
-          273
-        ],
-        "MRLE": [
-          275
-        ],
-        "0.01.": [
-          277
-        ],
-        "These": [
-          278
-        ],
-        "set": [
-          280
-        ],
-        "new": [
-          282
-        ],
-        "benchmark": [
-          283
-        ],
-        "integrity": [
-          286
-        ],
-        "utility": [
-          288
-        ],
-        "geosciences,": [
-          290
-        ],
-        "particularly": [
-          291
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 27
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 16
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
@@ -88620,7 +88620,7 @@
         "raw_type": "journal-article"
       },
       "volume": null,
-      "type": "book-chapter",
+      "type": "article",
       "indexed_in": [
         "crossref",
         "doaj"
@@ -88776,11 +88776,11 @@
         "value_usd": 0
       },
       "apc_paid": null,
-      "fwci": 10.8583,
+      "fwci": 3.1916,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.97695853,
+        "value": 0.93416688,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -89768,7 +89768,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-17T09:40:24.721904",
       "created_date": "2026-07-02T00:00:00"
     },
     {
@@ -153592,7 +153592,7 @@
       "title": "Diagenetic fluid overprinting of micrite stable isotopes: implications for paleo-elevation reconstruction",
       "display_name": "Diagenetic fluid overprinting of micrite stable isotopes: implications for paleo-elevation reconstruction",
       "publication_year": 2026,
-      "publication_date": "2026-09-01",
+      "publication_date": "2026-09-23",
       "ids": {
         "openalex": "https://openalex.org/W7166007486",
         "doi": "https://doi.org/10.1016/j.gca.2026.09.026"
@@ -154160,16 +154160,16 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42608597,
+        "value": 0.42388719,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
+        "volume": "432",
         "issue": null,
-        "first_page": null,
-        "last_page": null
+        "first_page": "315",
+        "last_page": "328"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -154629,7 +154629,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-17T09:40:24.721904",
       "created_date": "2026-06-27T00:00:00"
     },
     {
