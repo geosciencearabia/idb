@@ -51261,11 +51261,11 @@
         "currency": "USD",
         "value_usd": 3300
       },
-      "fwci": 3.2273,
+      "fwci": 3.2219,
       "has_fulltext": true,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.91815857,
+        "value": 0.91810011,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -51566,7 +51566,7 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:https://nottingham-repository.worktribe.com/:2184702",
+          "id": "pmh:oai:nottingham-repository.worktribe.com:2184702",
           "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.revpalbo.2019.04.004",
@@ -51588,8 +51588,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -51659,6 +51659,37 @@
           "raw_type": "Publication - Article"
         },
         {
+          "id": "pmh:oai:https://nottingham-repository.worktribe.com/:2184702",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://nottingham-repository.worktribe.com/output/2184702",
+          "pdf_url": "https://nottingham-repository.worktribe.com/file/2184702/1/1-s2.0-S0034666718302859-main",
+          "source": {
+            "id": "https://openalex.org/S4306402483",
+            "display_name": "Repository@Nottingham (University of Nottingham)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I142263535",
+            "host_organization_name": "University of Nottingham",
+            "host_organization_lineage": [
+              "https://openalex.org/I142263535"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Journal Article"
+        },
+        {
           "id": "pmh:oai:figshare.com:article/10196120",
           "doi": null,
           "is_oa": true,
@@ -51718,37 +51749,6 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "",
-          "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:nottingham-repository.worktribe.com:2184702",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://nottingham-repository.worktribe.com/output/2184702",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402483",
-            "display_name": "Repository@Nottingham (University of Nottingham)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I142263535",
-            "host_organization_name": "University of Nottingham",
-            "host_organization_lineage": [
-              "https://openalex.org/I142263535"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
           "raw_type": "Journal Article"
         }
       ],
@@ -52902,7 +52902,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-17T09:40:24.721904",
+      "updated_date": "2026-10-19T09:35:57.686232",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -55522,11 +55522,11 @@
         "currency": "USD",
         "value_usd": 3050
       },
-      "fwci": 2.0882,
+      "fwci": 2.0847,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.86127257,
+        "value": 0.86122734,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55777,37 +55777,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:https://nottingham-repository.worktribe.com/:3635006",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.palaeo.2019.109423",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402483",
-            "display_name": "Repository@Nottingham (University of Nottingham)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I142263535",
-            "host_organization_name": "University of Nottingham",
-            "host_organization_lineage": [
-              "https://openalex.org/I142263535"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": null,
-          "raw_type": "Journal Article"
-        },
-        {
           "id": "pmh:oai:eprints.whiterose.ac.uk:152589",
           "doi": null,
           "is_oa": false,
@@ -55868,6 +55837,37 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Publication - Article"
+        },
+        {
+          "id": "pmh:oai:https://nottingham-repository.worktribe.com/:3635006",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.palaeo.2019.109423",
+          "pdf_url": "https://nottingham-repository.worktribe.com/file/3635006/1/1-s2.0-S0031018219307527-main",
+          "source": {
+            "id": "https://openalex.org/S4306402483",
+            "display_name": "Repository@Nottingham (University of Nottingham)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I142263535",
+            "host_organization_name": "University of Nottingham",
+            "host_organization_lineage": [
+              "https://openalex.org/I142263535"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Journal Article"
         },
         {
           "id": "pmh:oai:figshare.com:article/10211843",
@@ -57144,7 +57144,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-17T09:40:24.721904",
+      "updated_date": "2026-10-19T09:35:57.686232",
       "created_date": "2025-10-10T00:00:00"
     },
     {

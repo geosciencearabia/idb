@@ -79,7 +79,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
-    "publications": 210,
+    "publications": 211,
     "citations": 1640
   },
   {
@@ -97,7 +97,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
-    "publications": 169,
+    "publications": 170,
     "citations": 2557
   },
   {
@@ -115,7 +115,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11757",
     "name": "Seismic Waves and Analysis",
-    "publications": 118,
+    "publications": 119,
     "citations": 739
   },
   {
@@ -2392,13 +2392,13 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 1022,
+    "publications": 1023,
     "citations": 11493
   },
   {
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
-    "publications": 287,
+    "publications": 288,
     "citations": 5387
   },
   {
