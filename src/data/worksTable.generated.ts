@@ -85,8 +85,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-03-11",
     "year": 2025,
     "venue": "Applied Geochemistry",
-    "citations": 7,
-    "fwci": 3.4609,
+    "citations": 8,
+    "fwci": 3.8891,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Geochemistry and Geologic Mapping",
@@ -2995,8 +2995,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-05-12",
     "year": 2003,
     "venue": "Earth-Science Reviews",
-    "citations": 304,
-    "fwci": 4.367,
+    "citations": 305,
+    "fwci": 4.3671,
     "topics": [
       "Geological formations and processes",
       "Marine and environmental studies",
@@ -3256,6 +3256,35 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2063269370",
+    "doi": "https://doi.org/10.1111/j.1747-5457.2008.00416.x",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5010401681",
+    "allAuthorOpenAlexIds": [
+      "A5010401681",
+      "A5113977010"
+    ],
+    "firstAuthorLastName": "Alsharhan",
+    "allAuthors": [
+      "Abdulrahman S. Alsharhan",
+      "Esam A. Abd El-Gawad"
+    ],
+    "title": "GEOCHEMICAL CHARACTERIZATION OF POTENTIAL JURASSIC/CRETACEOUS SOURCE ROCKS IN THE SHUSHAN BASIN, NORTHERN WESTERN DESERT, EGYPT",
+    "publicationDate": "2008-04-01",
+    "year": 2008,
+    "venue": "Journal of Petroleum Geology",
+    "citations": 78,
+    "fwci": 2.6673,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological Studies and Exploration",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "United Arab Emirates University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2067604403",
     "doi": "https://doi.org/10.1016/0031-0182(94)00089-q",
     "program": "",
@@ -3283,35 +3312,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "United Arab Emirates University",
       "University of South Carolina"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2063269370",
-    "doi": "https://doi.org/10.1111/j.1747-5457.2008.00416.x",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5010401681",
-    "allAuthorOpenAlexIds": [
-      "A5010401681",
-      "A5113977010"
-    ],
-    "firstAuthorLastName": "Alsharhan",
-    "allAuthors": [
-      "Abdulrahman S. Alsharhan",
-      "Esam A. Abd El-Gawad"
-    ],
-    "title": "GEOCHEMICAL CHARACTERIZATION OF POTENTIAL JURASSIC/CRETACEOUS SOURCE ROCKS IN THE SHUSHAN BASIN, NORTHERN WESTERN DESERT, EGYPT",
-    "publicationDate": "2008-04-01",
-    "year": 2008,
-    "venue": "Journal of Petroleum Geology",
-    "citations": 77,
-    "fwci": 2.6711,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological Studies and Exploration",
-      "Geochemistry and Elemental Analysis"
-    ],
-    "institutions": [
-      "United Arab Emirates University"
     ]
   },
   {
@@ -8375,7 +8375,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Geochemistry Geophysics Geosystems",
     "citations": 200,
-    "fwci": 12.8943,
+    "fwci": 12.8822,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -8479,7 +8479,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "International Geology Review",
     "citations": 193,
-    "fwci": 16.016,
+    "fwci": 15.9899,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -8993,8 +8993,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-01-14",
     "year": 2017,
     "venue": "Chemical Geology",
-    "citations": 59,
-    "fwci": 6.4585,
+    "citations": 60,
+    "fwci": 6.4552,
     "topics": [
       "X-ray Spectroscopy and Fluorescence Analysis",
       "Geochemistry and Elemental Analysis",
@@ -9271,7 +9271,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Geological Society of America Bulletin",
     "citations": 35,
-    "fwci": 2.202,
+    "fwci": 2.2028,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -23006,7 +23006,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
     "citations": 57,
-    "fwci": 7.7757,
+    "fwci": 7.761,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -23318,7 +23318,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Minerals",
     "citations": 33,
-    "fwci": 2.849,
+    "fwci": 2.8494,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -23590,7 +23590,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Frontiers in Earth Science",
     "citations": 19,
-    "fwci": 1.7532,
+    "fwci": 1.7535,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Elemental Analysis",
@@ -28866,7 +28866,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 6,
-    "fwci": 0.3939,
+    "fwci": 0.3934,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -47404,7 +47404,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 3,
-    "fwci": 1.2601,
+    "fwci": 1.2532,
     "topics": [
       "Hydrology and Drought Analysis",
       "Urban Heat Island Mitigation",
@@ -47567,7 +47567,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Theoretical and Applied Climatology",
     "citations": 2,
-    "fwci": 6.3218,
+    "fwci": 6.2848,
     "topics": [
       "Hydrology and Drought Analysis",
       "Hydrological Forecasting Using AI",
@@ -47607,7 +47607,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2026,
     "venue": "Geomatics Natural Hazards and Risk",
     "citations": 2,
-    "fwci": 6.3218,
+    "fwci": 6.2848,
     "topics": [
       "Flood Risk Assessment and Management",
       "Coastal and Marine Dynamics",
@@ -66655,7 +66655,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "PLoS ONE",
     "citations": 130,
-    "fwci": 8.7026,
+    "fwci": 8.6883,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Origins and Evolution of Life",
@@ -73404,7 +73404,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Palaeontology",
     "citations": 26,
-    "fwci": 2.4696,
+    "fwci": 2.4632,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -80205,8 +80205,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-03-04",
     "year": 2013,
     "venue": "Ore Geology Reviews",
-    "citations": 91,
-    "fwci": 7.6841,
+    "citations": 92,
+    "fwci": 7.6844,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Remote-Sensing Image Classification",
@@ -84428,6 +84428,44 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4388043308",
+    "doi": "https://doi.org/10.2112/jcoastres-d-22-00129.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5044930714",
+    "allAuthorOpenAlexIds": [
+      "A5044930714",
+      "A5062734987",
+      "A5034675340",
+      "A5113033721",
+      "A5020462389",
+      "A5073580342"
+    ],
+    "firstAuthorLastName": "Nabhan",
+    "allAuthors": [
+      "Abdullah I. Nabhan",
+      "Nawaf Widinly",
+      "Abdullah M. Memesh",
+      "Mustafa Khorsheed",
+      "Abdelbaset S. El‐Sorogy",
+      "Mohamed Tawfik"
+    ],
+    "title": "Sedimentological and Geomorphological Characteristics of Jabal Kudumbul Island, Southeast Red Sea, Saudi Arabia",
+    "publicationDate": "2023-10-31",
+    "year": 2023,
+    "venue": "Journal of Coastal Research",
+    "citations": 2,
+    "fwci": 0.365,
+    "topics": [
+      "Coastal and Marine Dynamics",
+      "Geological formations and processes",
+      "Aeolian processes and effects"
+    ],
+    "institutions": [
+      "Zagazig University",
+      "King Saud University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4416430946",
     "doi": "https://doi.org/10.1371/journal.pone.0337005",
     "program": "",
@@ -84480,7 +84518,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "PLoS ONE",
     "citations": 1,
-    "fwci": 4.9954,
+    "fwci": 4.8927,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Archaeology and Historical Studies",
@@ -84533,44 +84571,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Bureau de Recherches Géologiques et Minières"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4388043308",
-    "doi": "https://doi.org/10.2112/jcoastres-d-22-00129.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5044930714",
-    "allAuthorOpenAlexIds": [
-      "A5044930714",
-      "A5062734987",
-      "A5034675340",
-      "A5113033721",
-      "A5020462389",
-      "A5073580342"
-    ],
-    "firstAuthorLastName": "Nabhan",
-    "allAuthors": [
-      "Abdullah I. Nabhan",
-      "Nawaf Widinly",
-      "Abdullah M. Memesh",
-      "Mustafa Khorsheed",
-      "Abdelbaset S. El‐Sorogy",
-      "Mohamed Tawfik"
-    ],
-    "title": "Sedimentological and Geomorphological Characteristics of Jabal Kudumbul Island, Southeast Red Sea, Saudi Arabia",
-    "publicationDate": "2023-10-31",
-    "year": 2023,
-    "venue": "Journal of Coastal Research",
-    "citations": 1,
-    "fwci": 0.1839,
-    "topics": [
-      "Coastal and Marine Dynamics",
-      "Geological formations and processes",
-      "Aeolian processes and effects"
-    ],
-    "institutions": [
-      "Zagazig University",
-      "King Saud University"
     ]
   },
   {
@@ -104855,8 +104855,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-04-22",
     "year": 2024,
     "venue": "Journal of environmental chemical engineering",
-    "citations": 54,
-    "fwci": 6.339,
+    "citations": 55,
+    "fwci": 6.4257,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Geothermal Energy Systems and Applications",
@@ -106239,7 +106239,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Arabian Journal of Geosciences",
     "citations": 11,
-    "fwci": 1.7021,
+    "fwci": 1.6945,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Seismic Waves and Analysis",
@@ -112950,6 +112950,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1821990314",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2015.10.017",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5085007251",
+      "A5034902990",
+      "A5103499964"
+    ],
+    "firstAuthorLastName": "Koeshidayatullah",
+    "allAuthors": [
+      "Ardiansyah Koeshidayatullah",
+      "Khalid A. Al-Ramadan",
+      "Richard Collier",
+      "Geraint Wyn Hughes"
+    ],
+    "title": "Variations in architecture and cyclicity in fault-bounded carbonate platforms: Early Miocene Red Sea Rift, NW Saudi Arabia",
+    "publicationDate": "2015-11-03",
+    "year": 2015,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 42,
+    "fwci": 2.4654,
+    "topics": [
+      "Geological formations and processes",
+      "Geological and Geophysical Studies",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Leeds"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3123231680",
     "doi": "https://doi.org/10.1130/b35927.1",
     "program": "",
@@ -112993,40 +113027,6 @@ export const worksTable: WorkTableRecord[] = [
       "Northwest Institute of Eco-Environment and Resources",
       "University of Miami",
       "University of Liverpool"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1821990314",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2015.10.017",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5085007251",
-      "A5034902990",
-      "A5103499964"
-    ],
-    "firstAuthorLastName": "Koeshidayatullah",
-    "allAuthors": [
-      "Ardiansyah Koeshidayatullah",
-      "Khalid A. Al-Ramadan",
-      "Richard Collier",
-      "Geraint Wyn Hughes"
-    ],
-    "title": "Variations in architecture and cyclicity in fault-bounded carbonate platforms: Early Miocene Red Sea Rift, NW Saudi Arabia",
-    "publicationDate": "2015-11-03",
-    "year": 2015,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 41,
-    "fwci": 2.4667,
-    "topics": [
-      "Geological formations and processes",
-      "Geological and Geophysical Studies",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Leeds"
     ]
   },
   {
@@ -113329,8 +113329,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-11-15",
     "year": 2022,
     "venue": "Geophysical Research Letters",
-    "citations": 15,
-    "fwci": 1.7872,
+    "citations": 16,
+    "fwci": 1.7841,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -113341,6 +113341,35 @@ export const worksTable: WorkTableRecord[] = [
       "California Institute of Technology",
       "King Fahd University of Petroleum and Minerals",
       "Stanford University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4382998613",
+    "doi": "https://doi.org/10.1109/access.2023.3291620",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5047078924"
+    ],
+    "firstAuthorLastName": "Ferreira",
+    "allAuthors": [
+      "Ivan Ferreira",
+      "Ardiansyah Koeshidayatullah"
+    ],
+    "title": "ForamViT-GAN: Exploring New Paradigms in Deep Learning for Micropaleontological Image Analysis",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "IEEE Access",
+    "citations": 15,
+    "fwci": 1.3512,
+    "topics": [
+      "Generative Adversarial Networks and Image Synthesis",
+      "Advanced Neural Network Applications",
+      "Domain Adaptation and Few-Shot Learning"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -113425,35 +113454,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Manchester",
       "University of Miami",
       "Scottish Universities Environmental Research Centre"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4382998613",
-    "doi": "https://doi.org/10.1109/access.2023.3291620",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5047078924"
-    ],
-    "firstAuthorLastName": "Ferreira",
-    "allAuthors": [
-      "Ivan Ferreira",
-      "Ardiansyah Koeshidayatullah"
-    ],
-    "title": "ForamViT-GAN: Exploring New Paradigms in Deep Learning for Micropaleontological Image Analysis",
-    "publicationDate": "2023-01-01",
-    "year": 2023,
-    "venue": "IEEE Access",
-    "citations": 14,
-    "fwci": 1.2658,
-    "topics": [
-      "Generative Adversarial Networks and Image Synthesis",
-      "Advanced Neural Network Applications",
-      "Domain Adaptation and Few-Shot Learning"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -131538,7 +131538,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Stratigraphy & timescales",
     "citations": 26,
-    "fwci": 11.0579,
+    "fwci": 11.098,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -133351,7 +133351,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Global and Planetary Change",
     "citations": 16,
-    "fwci": 1.1419,
+    "fwci": 1.141,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -136344,8 +136344,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-07-20",
     "year": 2010,
     "venue": "AAPG Bulletin",
-    "citations": 751,
-    "fwci": 11.188,
+    "citations": 752,
+    "fwci": 11.1826,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -136866,7 +136866,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Sedimentary Geology",
     "citations": 9,
-    "fwci": 0.9754,
+    "fwci": 0.9758,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "CO2 Sequestration and Geologic Interactions",
@@ -138878,8 +138878,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-12-27",
     "year": 2019,
     "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 36,
-    "fwci": 3.2587,
+    "citations": 37,
+    "fwci": 3.2582,
     "topics": [
       "Enhanced Oil Recovery Techniques",
       "Reservoir Engineering and Simulation Methods",

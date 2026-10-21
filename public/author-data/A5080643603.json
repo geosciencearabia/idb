@@ -2265,9 +2265,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -3087,9 +3087,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4099999964237213,
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "study_designs": [],
@@ -4321,9 +4321,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -6503,9 +6503,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7876,9 +7876,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7400000095367432,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -8555,7 +8555,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -8595,7 +8595,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -9143,6 +9143,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -9154,11 +9155,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.7021,
+      "fwci": 1.6945,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80552822,
+        "value": 0.80551226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9455,9 +9456,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7099999785423279,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -9551,7 +9552,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-20T09:52:01.089006",
+      "updated_date": "2026-10-21T09:56:26.102985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15698,9 +15699,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4699999988079071,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -19493,16 +19494,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20212,9 +20213,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7799999713897705,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -21513,9 +21514,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -23225,9 +23226,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -23724,9 +23725,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -25416,9 +25417,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5699999928474426,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],

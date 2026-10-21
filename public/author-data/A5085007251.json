@@ -24,9 +24,9 @@
     ],
     "full_name": "Khalid A. Al-Ramadan",
     "works_count": 163,
-    "cited_by_count": 2568,
+    "cited_by_count": 2569,
     "summary_stats": {
-      "2yr_mean_citedness": 3.607142857142857,
+      "2yr_mean_citedness": 3.625,
       "h_index": 27,
       "i10_index": 64
     },
@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001155,
+        "value": 0.0001154,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -242,7 +242,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000985,
+        "value": 0.0000984,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -259,7 +259,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000644,
+        "value": 0.0000643,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -425,7 +425,7 @@
         "year": 2025,
         "works_count": 16,
         "oa_works_count": 10,
-        "cited_by_count": 44
+        "cited_by_count": 45
       },
       {
         "year": 2026,
@@ -452,7 +452,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5085007251",
-    "updated_date": "2026-10-17T12:28:47",
+    "updated_date": "2026-10-20T12:29:05",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -721,11 +721,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 11.188,
+      "fwci": 11.1826,
       "has_fulltext": false,
-      "cited_by_count": 751,
+      "cited_by_count": 752,
       "citation_normalized_percentile": {
-        "value": 0.98898747,
+        "value": 0.98898374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2352,7 +2352,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 52
+          "cited_by_count": 53
         },
         {
           "year": 2025,
@@ -2411,7 +2411,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-21T09:56:26.102985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13789,11 +13789,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.4667,
+      "fwci": 2.4654,
       "has_fulltext": false,
-      "cited_by_count": 41,
+      "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.86451719,
+        "value": 0.86453263,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14229,7 +14229,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2025,
@@ -14272,7 +14272,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-21T09:56:26.102985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19211,11 +19211,11 @@
         "currency": "CHF",
         "value_usd": 2094
       },
-      "fwci": 2.849,
+      "fwci": 2.8494,
       "has_fulltext": true,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.91488251,
+        "value": 0.91488485,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19546,6 +19546,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:https://durham-repository.worktribe.com/:1208402",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/min12050555",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400188",
+            "display_name": "Durham Research Online (Durham University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I190082696",
+            "host_organization_name": "Durham University",
+            "host_organization_lineage": [
+              "https://openalex.org/I190082696"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": null,
+          "raw_type": "Journal Article"
+        },
+        {
           "id": "pmh:oai:dro.dur.ac.uk.OAI2:36177",
           "doi": null,
           "is_oa": true,
@@ -19604,37 +19635,6 @@
           "is_published": false,
           "raw_source_name": "Minerals, Vol 12, Iss 555, p 555 (2022)",
           "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:durham-repository.worktribe.com:1208402",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://durham-repository.worktribe.com/output/1208402",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400188",
-            "display_name": "Durham Research Online (Durham University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I190082696",
-            "host_organization_name": "Durham University",
-            "host_organization_lineage": [
-              "https://openalex.org/I190082696"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Journal Article"
         }
       ],
       "best_oa_location": {
@@ -20460,7 +20460,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-21T09:56:26.102985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35684,11 +35684,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.7532,
+      "fwci": 1.7535,
       "has_fulltext": true,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.8238285,
+        "value": 0.82383334,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36015,7 +36015,7 @@
           "raw_type": "Article"
         },
         {
-          "id": "pmh:oai:durham-repository.worktribe.com:1197016",
+          "id": "pmh:oai:https://durham-repository.worktribe.com/:1197016",
           "doi": null,
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3389/feart.2022.952690",
@@ -36037,8 +36037,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
           "version": "acceptedVersion",
           "is_accepted": true,
           "is_published": false,
@@ -36867,7 +36867,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-21T09:56:26.102985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -81145,11 +81145,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.9754,
+      "fwci": 0.9758,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.66635959,
+        "value": 0.66653511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -81533,8 +81533,8 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "Blinkenberg , K H , Anderskouv , K , Sølling , T I , Al-Ramadan , K & Stemmerik , L 2021 , ' The influence of silica on carbonate diagenesis in chalk – Ekofisk Formation, Danish Central Graben ' , Sedimentary Geology , vol. 415 , 105846 . https://doi.org/10.1016/j.sedgeo.2020.105846",
-          "raw_type": "article"
+          "raw_source_name": "Blinkenberg, K H, Anderskouv, K, Sølling, T I, Al-Ramadan, K & Stemmerik, L 2021, 'The influence of silica on carbonate diagenesis in chalk – Ekofisk Formation, Danish Central Graben', Sedimentary Geology, vol. 415, 105846. https://doi.org/10.1016/j.sedgeo.2020.105846",
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": null,
@@ -81643,7 +81643,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-21T09:56:26.102985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
