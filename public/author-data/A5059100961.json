@@ -14,7 +14,7 @@
     ],
     "full_name": "Ayman Fazea Al-Lehyani",
     "works_count": 9,
-    "cited_by_count": 89,
+    "cited_by_count": 90,
     "summary_stats": {
       "2yr_mean_citedness": 1.6666666666666667,
       "h_index": 4,
@@ -151,7 +151,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0000263,
+        "value": 0.0000217,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -168,7 +168,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0000208,
+        "value": 0.0000196,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -185,7 +185,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0000202,
+        "value": 0.0000183,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -202,7 +202,7 @@
       {
         "id": "https://openalex.org/T11609",
         "display_name": "Geophysical Methods and Applications",
-        "value": 0.0000163,
+        "value": 0.0000145,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -219,7 +219,7 @@
       {
         "id": "https://openalex.org/T13121",
         "display_name": "Radio Wave Propagation Studies",
-        "value": 0.0000091,
+        "value": 0.0000083,
         "subfield": {
           "id": "https://openalex.org/subfields/2202",
           "display_name": "Aerospace Engineering"
@@ -283,7 +283,7 @@
         "year": 2011,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 60
+        "cited_by_count": 61
       },
       {
         "year": 2013,
@@ -318,7 +318,7 @@
     ],
     "block_key": "a al-lehyani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059100961",
-    "updated_date": "2026-10-10T12:59:14",
+    "updated_date": "2026-10-23T12:28:23",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -825,8 +825,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy"
         }
       ],
@@ -3799,8 +3799,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -5992,8 +5992,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],

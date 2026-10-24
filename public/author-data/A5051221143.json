@@ -198,7 +198,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001577,
+        "value": 0.0001532,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -215,7 +215,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000573,
+        "value": 0.0000542,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -232,7 +232,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000402,
+        "value": 0.0000383,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -249,7 +249,7 @@
       {
         "id": "https://openalex.org/T11672",
         "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
-        "value": 0.0000268,
+        "value": 0.0000261,
         "subfield": {
           "id": "https://openalex.org/subfields/2215",
           "display_name": "Building and Construction"
@@ -266,7 +266,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000153,
+        "value": 0.000015,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -413,7 +413,7 @@
     ],
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-10-13T12:33:52",
+    "updated_date": "2026-10-23T12:28:23",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1064,9 +1064,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -2933,9 +2933,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858,
-          "display_name": "Life below water"
+          "score": 0.5600000023841858
         }
       ],
       "study_designs": [],
@@ -5337,19 +5337,19 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 1,
-          "display_name": "Responsible consumption and production"
+          "score": 1
         },
         {
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157,
-          "display_name": "Clean water and sanitation"
+          "score": 0.6618000268936157
         },
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4943999946117401,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.4943999946117401
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -6570,9 +6570,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -7157,9 +7157,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "score": 0.47999998927116394
         }
       ],
       "study_designs": [],
@@ -9285,9 +9285,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "score": 0.5799999833106995
         }
       ],
       "study_designs": [],
@@ -10518,9 +10518,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -10965,9 +10965,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4000000059604645,
-          "display_name": "Life below water"
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -12433,9 +12433,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5699999928474426,
-          "display_name": "Sustainable cities and communities"
+          "score": 0.5699999928474426
         }
       ],
       "study_designs": [],
@@ -13908,9 +13908,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "study_designs": [],
@@ -14356,9 +14356,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -16790,9 +16790,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "score": 0.6600000262260437
         }
       ],
       "study_designs": [],
@@ -19348,9 +19348,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334,
-          "display_name": "Responsible consumption and production"
+          "score": 0.7811999917030334
         }
       ],
       "sustainable_development_goals_aurora": [],

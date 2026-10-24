@@ -922,8 +922,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -2400,8 +2400,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5,
           "display_name": "Life on land",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -3717,8 +3717,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
           "display_name": "Life below water",
+          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -4416,8 +4416,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5483,8 +5483,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6291,8 +6291,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.699999988079071,
           "display_name": "Life below water",
+          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8019,8 +8019,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6600000262260437,
           "display_name": "Life on land",
+          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -8201,10 +8201,10 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://insu.hal.science/insu-01094288",
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -8419,11 +8419,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.9315,
+      "fwci": 1.9304,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.84432879,
+        "value": 0.84427422,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8633,7 +8633,7 @@
         {
           "id": "pmh:oai:HAL:insu-01094288v1",
           "doi": null,
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://insu.hal.science/insu-01094288",
           "pdf_url": null,
           "source": {
@@ -8653,8 +8653,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": null,
-          "license_id": null,
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -8662,12 +8662,42 @@
           "raw_type": "info:eu-repo/semantics/article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "pmh:oai:HAL:insu-01094288v1",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://insu.hal.science/insu-01094288",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Review of Palaeobotany and Palynology, 2015, 212, pp.127-186. &#x27E8;10.1016/j.revpalbo.2014.08.010&#x27E9;",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Life below water",
+          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8778,7 +8808,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-24T09:50:30.924529",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8845,10 +8875,10 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://insu.hal.science/insu-01094285",
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -9067,11 +9097,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.6901,
+      "fwci": 1.6891,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.81501607,
+        "value": 0.8150134,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9336,7 +9366,7 @@
         {
           "id": "pmh:oai:HAL:insu-01094285v1",
           "doi": null,
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://insu.hal.science/insu-01094285",
           "pdf_url": null,
           "source": {
@@ -9356,8 +9386,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": null,
-          "license_id": null,
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -9365,12 +9395,42 @@
           "raw_type": "info:eu-repo/semantics/article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "pmh:oai:HAL:insu-01094285v1",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://insu.hal.science/insu-01094285",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Review of Palaeobotany and Palynology, 2015, 212, pp.85-96. &#x27E8;10.1016/j.revpalbo.2014.08.013&#x27E9;",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9489,7 +9549,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-24T09:50:30.924529",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9939,8 +9999,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Life below water",
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -10517,15 +10577,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "display_name": "Life below water",
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12222,11 +12282,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.68,
+      "fwci": 4.67,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.90578158,
+        "value": 0.9055794,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12476,8 +12536,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12514,11 +12574,785 @@
         "https://openalex.org/W1901758035"
       ],
       "abstract_inverted_index": {
-        "International": [
+        "58": [
+          3
+        ],
+        "A": [
           0
         ],
-        "audience": [
-          1
+        "total": [
+          1,
+          170
+        ],
+        "of": [
+          2,
+          45,
+          74,
+          80,
+          147,
+          153,
+          172,
+          185,
+          198,
+          201,
+          214,
+          230,
+          271,
+          331
+        ],
+        "core": [
+          4,
+          9,
+          27
+        ],
+        "samples": [
+          5,
+          28,
+          250
+        ],
+        "from": [
+          6,
+          66,
+          144
+        ],
+        "three": [
+          7,
+          108,
+          276
+        ],
+        "shallow": [
+          8,
+          277
+        ],
+        "holes": [
+          10
+        ],
+        "(Qusaiba-1,": [
+          11
+        ],
+        "Baq'a-3": [
+          12
+        ],
+        "and": [
+          13,
+          35,
+          39,
+          53,
+          72,
+          103,
+          165,
+          181,
+          194,
+          200,
+          292,
+          315,
+          321
+        ],
+        "Baq'a-4)": [
+          14
+        ],
+        "penetrating": [
+          15
+        ],
+        "the": [
+          16,
+          46,
+          67,
+          70,
+          78,
+          87,
+          90,
+          124,
+          131,
+          135,
+          145,
+          148,
+          169,
+          183,
+          209,
+          221,
+          228,
+          231,
+          237,
+          242,
+          247,
+          257,
+          269,
+          272,
+          275,
+          293,
+          299,
+          305,
+          311,
+          322,
+          336
+        ],
+        "Qalibah": [
+          17
+        ],
+        "Formation": [
+          18
+        ],
+        "in": [
+          19,
+          116,
+          134,
+          208,
+          220,
+          246,
+          256,
+          267,
+          274,
+          327
+        ],
+        "Central": [
+          20
+        ],
+        "Saudi": [
+          21,
+          117
+        ],
+        "Arabia": [
+          22,
+          118
+        ],
+        "have": [
+          23,
+          112
+        ],
+        "been": [
+          24,
+          113
+        ],
+        "investigated.": [
+          25
+        ],
+        "The": [
+          26,
+          107,
+          161,
+          212,
+          290,
+          319
+        ],
+        "are": [
+          29,
+          50,
+          84,
+          93,
+          128,
+          158,
+          205,
+          239,
+          333
+        ],
+        "grey-greenish": [
+          30
+        ],
+        "hemipelagic": [
+          31
+        ],
+        "shale": [
+          32
+        ],
+        "or": [
+          33
+        ],
+        "silty-shale": [
+          34
+        ],
+        "yield": [
+          36
+        ],
+        "very": [
+          37
+        ],
+        "well-preserved": [
+          38
+        ],
+        "abundant": [
+          40,
+          192
+        ],
+        "Early": [
+          41
+        ],
+        "Silurian": [
+          42
+        ],
+        "chitinozoans.": [
+          43
+        ],
+        "Most": [
+          44
+        ],
+        "recorded": [
+          47
+        ],
+        "chitinozoan": [
+          48,
+          63,
+          295,
+          307,
+          324
+        ],
+        "assemblages": [
+          49
+        ],
+        "highly": [
+          51,
+          174
+        ],
+        "diverse": [
+          52
+        ],
+        "include": [
+          54
+        ],
+        "several": [
+          55,
+          173
+        ],
+        "new": [
+          56
+        ],
+        "taxa": [
+          57
+        ],
+        "coexisting": [
+          58
+        ],
+        "with": [
+          59,
+          227
+        ],
+        "well-known": [
+          60
+        ],
+        "species.": [
+          61,
+          347
+        ],
+        "Five": [
+          62
+        ],
+        "biozones": [
+          64,
+          111,
+          188,
+          296,
+          325
+        ],
+        "ranging": [
+          65
+        ],
+        "Aeronian": [
+          68
+        ],
+        "to": [
+          69,
+          89,
+          177,
+          298,
+          335
+        ],
+        "Telychian,": [
+          71
+        ],
+        "considered": [
+          73
+        ],
+        "regional": [
+          75,
+          110
+        ],
+        "value": [
+          76
+        ],
+        "at": [
+          77,
+          154
+        ],
+        "scale": [
+          79
+        ],
+        "Northern": [
+          81
+        ],
+        "Gondwana": [
+          82
+        ],
+        "regions,": [
+          83
+        ],
+        "identified.": [
+          85
+        ],
+        "From": [
+          86
+        ],
+        "oldest": [
+          88
+        ],
+        "youngest": [
+          91,
+          126,
+          248
+        ],
+        "they": [
+          92,
+          340
+        ],
+        "the:": [
+          94
+        ],
+        "Conochitina": [
+          95
+        ],
+        "alargada,": [
+          96
+        ],
+        "Angochitina": [
+          97,
+          99
+        ],
+        "hemeri,": [
+          98
+        ],
+        "maclurei,": [
+          100
+        ],
+        "Tanuchitina": [
+          101
+        ],
+        "obtusa": [
+          102,
+          320
+        ],
+        "Euconochitina": [
+          104
+        ],
+        "silurica": [
+          105,
+          323
+        ],
+        "biozones.": [
+          106,
+          318
+        ],
+        "older": [
+          109
+        ],
+        "already": [
+          114
+        ],
+        "reported": [
+          115
+        ],
+        "(Paris": [
+          119
+        ],
+        "et": [
+          120,
+          263
+        ],
+        "al.": [
+          121,
+          264
+        ],
+        "1995)": [
+          122
+        ],
+        "whereas": [
+          123,
+          304
+        ],
+        "two": [
+          125
+        ],
+        "ones": [
+          127
+        ],
+        "documented": [
+          129
+        ],
+        "for": [
+          130
+        ],
+        "first": [
+          132
+        ],
+        "time": [
+          133
+        ],
+        "Arabian": [
+          136
+        ],
+        "Peninsula.": [
+          137
+        ],
+        "Their": [
+          138
+        ],
+        "eponymous": [
+          139
+        ],
+        "index": [
+          140
+        ],
+        "species": [
+          141
+        ],
+        "were": [
+          142
+        ],
+        "described": [
+          143
+        ],
+        "subsurface": [
+          146
+        ],
+        "Algerian": [
+          149
+        ],
+        "Sahara.": [
+          150
+        ],
+        "Several": [
+          151
+        ],
+        "sub-biozones": [
+          152
+        ],
+        "least": [
+          155
+        ],
+        "local": [
+          156
+        ],
+        "application": [
+          157
+        ],
+        "also": [
+          159,
+          206
+        ],
+        "defined.": [
+          160
+        ],
+        "fairly": [
+          162
+        ],
+        "closely": [
+          163
+        ],
+        "spaced": [
+          164
+        ],
+        "regular": [
+          166
+        ],
+        "sampling": [
+          167
+        ],
+        "permits": [
+          168
+        ],
+        "range": [
+          171,
+          270
+        ],
+        "diagnostic": [
+          175
+        ],
+        "forms": [
+          176
+        ],
+        "be": [
+          178
+        ],
+        "better": [
+          179
+        ],
+        "constrained": [
+          180
+        ],
+        "thus": [
+          182
+        ],
+        "interval": [
+          184,
+          329
+        ],
+        "uncertainty": [
+          186
+        ],
+        "between": [
+          187
+        ],
+        "is": [
+          189,
+          225
+        ],
+        "reduced.": [
+          190
+        ],
+        "Beside": [
+          191
+        ],
+        "chitinozoans": [
+          193
+        ],
+        "acritarchs,": [
+          195
+        ],
+        "sporadic": [
+          196
+        ],
+        "occurrences": [
+          197
+        ],
+        "scolecodonts": [
+          199
+        ],
+        "eurypterid": [
+          202
+        ],
+        "cuticle": [
+          203
+        ],
+        "fragments": [
+          204
+        ],
+        "noted": [
+          207
+        ],
+        "organic": [
+          210
+        ],
+        "residues.": [
+          211
+        ],
+        "presence": [
+          213
+        ],
+        "eurypterids": [
+          215
+        ],
+        "suggests": [
+          216
+        ],
+        "a": [
+          217
+        ],
+        "shallowing": [
+          218
+        ],
+        "trend": [
+          219
+        ],
+        "sedimentary": [
+          222
+        ],
+        "record,": [
+          223
+        ],
+        "which": [
+          224
+        ],
+        "consistent": [
+          226
+        ],
+        "distribution": [
+          229
+        ],
+        "graptolites": [
+          232,
+          238,
+          273,
+          332
+        ],
+        "sicula": [
+          233
+        ],
+        "and/or": [
+          234
+        ],
+        "rhabdosomes.": [
+          235
+        ],
+        "Indeed,": [
+          236
+        ],
+        "frequent": [
+          240
+        ],
+        "through": [
+          241,
+          310
+        ],
+        "Qusaiba": [
+          243
+        ],
+        "Member,": [
+          244
+        ],
+        "except": [
+          245
+        ],
+        "examined": [
+          249
+        ],
+        "where": [
+          251
+        ],
+        "shallower": [
+          252
+        ],
+        "environments": [
+          253
+        ],
+        "like": [
+          254
+        ],
+        "those": [
+          255
+        ],
+        "Sharawra": [
+          258
+        ],
+        "Member": [
+          259
+        ],
+        "begin.": [
+          260
+        ],
+        "Recently,": [
+          261
+        ],
+        "Zalasiewicz": [
+          262
+        ],
+        "(2007)": [
+          265
+        ],
+        "studied": [
+          266
+        ],
+        "detail": [
+          268
+        ],
+        "cores.": [
+          278
+        ],
+        "These": [
+          279
+        ],
+        "graptolite": [
+          280,
+          302,
+          317
+        ],
+        "data": [
+          281
+        ],
+        "provide": [
+          282
+        ],
+        "independent": [
+          283
+        ],
+        "chronostratigraphical": [
+          284
+        ],
+        "control": [
+          285
+        ],
+        "refining": [
+          286
+        ],
+        "previous": [
+          287
+        ],
+        "age": [
+          288
+        ],
+        "assignments.": [
+          289
+        ],
+        "alargada": [
+          291
+        ],
+        "hemeri": [
+          294
+        ],
+        "correspond": [
+          297
+        ],
+        "mid-Aeronian": [
+          300
+        ],
+        "convolutus": [
+          301
+        ],
+        "biozone": [
+          303,
+          308
+        ],
+        "maclurei": [
+          306
+        ],
+        "extends": [
+          309
+        ],
+        "early": [
+          312
+        ],
+        "Telychian": [
+          313,
+          338
+        ],
+        "guerichi": [
+          314
+        ],
+        "turriculatus": [
+          316
+        ],
+        "occur": [
+          326
+        ],
+        "an": [
+          328
+        ],
+        "devoid": [
+          330
+        ],
+        "referred": [
+          334
+        ],
+        "mid-late": [
+          337
+        ],
+        "as": [
+          339
+        ],
+        "do": [
+          341
+        ],
+        "not": [
+          342
+        ],
+        "contain": [
+          343
+        ],
+        "yet": [
+          344
+        ],
+        "typical": [
+          345
+        ],
+        "Sheinwoodian": [
+          346
         ]
       },
       "counts_by_year": [
@@ -12527,7 +13361,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-24T09:50:30.924529",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14785,8 +15619,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16153,11 +16987,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.0891,
+      "fwci": 5,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.93762183,
+        "value": 0.93641618,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16383,8 +17217,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16421,11 +17255,696 @@
         "https://openalex.org/W2757585333"
       ],
       "abstract_inverted_index": {
-        "International": [
-          0
+        "39": [
+          49
         ],
-        "audience": [
+        "The": [
+          0,
+          16,
+          33,
+          114,
+          177,
+          213,
+          274
+        ],
+        "QUSAIBA-1": [
           1
+        ],
+        "shallow": [
+          2
+        ],
+        "core": [
+          3,
+          44,
+          50,
+          220
+        ],
+        "drilled": [
+          4
+        ],
+        "in": [
+          5,
+          217,
+          263
+        ],
+        "NW": [
+          6
+        ],
+        "Saudi": [
+          7
+        ],
+        "Arabia": [
+          8
+        ],
+        "penetrated": [
+          9
+        ],
+        "the": [
+          10,
+          22,
+          26,
+          38,
+          43,
+          53,
+          59,
+          63,
+          72,
+          126,
+          132,
+          163,
+          218,
+          244,
+          252,
+          270,
+          302
+        ],
+        "Qalibah,": [
+          11
+        ],
+        "Sarah": [
+          12,
+          55
+        ],
+        "and": [
+          13,
+          19,
+          57,
+          77,
+          86,
+          130,
+          155,
+          169,
+          183,
+          201,
+          226,
+          239,
+          266,
+          282,
+          292
+        ],
+        "Qasim": [
+          14,
+          64
+        ],
+        "formations.": [
+          15
+        ],
+        "Silurian": [
+          17
+        ],
+        "graptolites": [
+          18
+        ],
+        "chitinozoans": [
+          20
+        ],
+        "from": [
+          21,
+          52,
+          58,
+          90
+        ],
+        "Qusaiba": [
+          23
+        ],
+        "Member": [
+          24
+        ],
+        "of": [
+          25,
+          42,
+          48,
+          62,
+          71,
+          101,
+          135,
+          152,
+          195,
+          198,
+          204,
+          301
+        ],
+        "Qalibah": [
+          27
+        ],
+        "Formation": [
+          28,
+          56,
+          65
+        ],
+        "have": [
+          29,
+          257
+        ],
+        "been": [
+          30,
+          258
+        ],
+        "investigated": [
+          31
+        ],
+        "previously.": [
+          32
+        ],
+        "present": [
+          34
+        ],
+        "study": [
+          35
+        ],
+        "focuses": [
+          36
+        ],
+        "on": [
+          37
+        ],
+        "Upper": [
+          39
+        ],
+        "Ordovician": [
+          40,
+          104,
+          166
+        ],
+        "part": [
+          41,
+          61
+        ],
+        "hole.": [
+          45
+        ],
+        "A": [
+          46
+        ],
+        "total": [
+          47
+        ],
+        "samples": [
+          51,
+          89,
+          121,
+          221
+        ],
+        "glacio-marine": [
+          54
+        ],
+        "upper": [
+          60
+        ],
+        "were": [
+          66
+        ],
+        "processed": [
+          67,
+          276
+        ],
+        "for": [
+          68
+        ],
+        "chitinozoans.": [
+          69
+        ],
+        "Part": [
+          70
+        ],
+        "sample": [
+          73,
+          277
+        ],
+        "set": [
+          74
+        ],
+        "yielded": [
+          75
+        ],
+        "abundant": [
+          76,
+          223
+        ],
+        "well-preserved": [
+          78
+        ],
+        "specimens": [
+          79,
+          197
+        ],
+        "associated": [
+          80,
+          148,
+          230
+        ],
+        "with": [
+          81,
+          149,
+          231
+        ],
+        "graptolite": [
+          82
+        ],
+        "remains,": [
+          83
+        ],
+        "scolecodonts,": [
+          84
+        ],
+        "acritarchs": [
+          85
+        ],
+        "cryptospores.": [
+          87
+        ],
+        "Other": [
+          88
+        ],
+        "glacially": [
+          91
+        ],
+        "related": [
+          92
+        ],
+        "sediments": [
+          93
+        ],
+        "contained": [
+          94
+        ],
+        "only": [
+          95
+        ],
+        "a": [
+          96,
+          190
+        ],
+        "few": [
+          97
+        ],
+        "fragmented": [
+          98
+        ],
+        "chitinozoan": [
+          99,
+          110,
+          167,
+          247
+        ],
+        "vesicles": [
+          100
+        ],
+        "early": [
+          102,
+          171
+        ],
+        "Late": [
+          103,
+          165
+        ],
+        "species": [
+          105,
+          144,
+          228,
+          256
+        ],
+        "suggesting": [
+          106
+        ],
+        "reworking.": [
+          107
+        ],
+        "Four": [
+          108
+        ],
+        "different": [
+          109
+        ],
+        "assemblages": [
+          111
+        ],
+        "are": [
+          112,
+          229
+        ],
+        "identified.": [
+          113
+        ],
+        "youngest": [
+          115
+        ],
+        "one": [
+          116
+        ],
+        "is": [
+          117,
+          140,
+          174,
+          180,
+          267
+        ],
+        "restricted": [
+          118
+        ],
+        "to": [
+          119,
+          125,
+          131,
+          251,
+          269
+        ],
+        "two": [
+          120
+        ],
+        "located": [
+          122
+        ],
+        "very": [
+          123
+        ],
+        "close": [
+          124
+        ],
+        "gamma": [
+          127
+        ],
+        "ray": [
+          128
+        ],
+        "peak": [
+          129
+        ],
+        "highest": [
+          133
+        ],
+        "evidence": [
+          134
+        ],
+        "glacial": [
+          136,
+          211
+        ],
+        "sediments.": [
+          137
+        ],
+        "This": [
+          138,
+          158,
+          187,
+          242,
+          260,
+          285
+        ],
+        "assemblage": [
+          139,
+          159,
+          192,
+          261
+        ],
+        "dominated": [
+          141
+        ],
+        "by": [
+          142
+        ],
+        "Cyathochitina": [
+          143
+        ],
+        "including": [
+          145
+        ],
+        "C.": [
+          146
+        ],
+        "caputoi,": [
+          147
+        ],
+        "subordinate": [
+          150
+        ],
+        "numbers": [
+          151
+        ],
+        "Ancyrochitina,": [
+          153
+        ],
+        "Euconochitina": [
+          154,
+          233,
+          283
+        ],
+        "Belonechitina": [
+          156
+        ],
+        "species.": [
+          157,
+          284
+        ],
+        "does": [
+          160
+        ],
+        "not": [
+          161
+        ],
+        "contain": [
+          162
+        ],
+        "classical": [
+          164,
+          253
+        ],
+        "taxa": [
+          168
+        ],
+        "an": [
+          170,
+          294
+        ],
+        "Rhuddanian": [
+          172
+        ],
+        "age": [
+          173,
+          296
+        ],
+        "considered": [
+          175
+        ],
+        "possible.": [
+          176
+        ],
+        "underlying": [
+          178
+        ],
+        "interval": [
+          179,
+          188
+        ],
+        "less": [
+          181
+        ],
+        "productive": [
+          182
+        ],
+        "sometimes": [
+          184
+        ],
+        "virtually": [
+          185
+        ],
+        "barren.": [
+          186
+        ],
+        "yields": [
+          189
+        ],
+        "second": [
+          191
+        ],
+        "mainly": [
+          193
+        ],
+        "composed": [
+          194
+        ],
+        "broken": [
+          196
+        ],
+        "Tanuchitina,": [
+          199
+        ],
+        "Cyathochitina,": [
+          200
+        ],
+        "Euconochitina.": [
+          202
+        ],
+        "Most": [
+          203
+        ],
+        "these": [
+          205
+        ],
+        "forms": [
+          206
+        ],
+        "seem": [
+          207
+        ],
+        "reworked,": [
+          208
+        ],
+        "probably": [
+          209
+        ],
+        "through": [
+          210
+        ],
+        "erosion.": [
+          212
+        ],
+        "composition": [
+          214
+        ],
+        "changes": [
+          215
+        ],
+        "drastically": [
+          216
+        ],
+        "older": [
+          219,
+          295
+        ],
+        "where": [
+          222
+        ],
+        "Armoricochitina": [
+          224
+        ],
+        "nigerica": [
+          225,
+          291
+        ],
+        "Ancyrochitina": [
+          227
+        ],
+        "e.g.,": [
+          232
+        ],
+        "lepta,": [
+          234
+        ],
+        "Calpichitina": [
+          235
+        ],
+        "lenticularis,": [
+          236
+        ],
+        "Acanthochitina": [
+          237
+        ],
+        "barbata": [
+          238
+        ],
+        "Desmochitina": [
+          240
+        ],
+        "minor.": [
+          241
+        ],
+        "constitutes": [
+          243
+        ],
+        "third": [
+          245
+        ],
+        "recovered": [
+          246
+        ],
+        "assemblage.": [
+          248
+        ],
+        "In": [
+          249
+        ],
+        "addition": [
+          250
+        ],
+        "components,": [
+          254
+        ],
+        "new": [
+          255
+        ],
+        "observed.": [
+          259
+        ],
+        "occurs": [
+          262
+        ],
+        "pre-glacial": [
+          264
+        ],
+        "strata": [
+          265
+        ],
+        "assigned": [
+          268
+        ],
+        "late": [
+          271,
+          299
+        ],
+        "Katian": [
+          272
+        ],
+        "(Ashgill).": [
+          273
+        ],
+        "oldest": [
+          275
+        ],
+        "contains": [
+          278
+        ],
+        "Belonechitina,": [
+          279
+        ],
+        "Hercochitina,": [
+          280
+        ],
+        "Conochitina": [
+          281
+        ],
+        "fourth": [
+          286
+        ],
+        "assemblage,": [
+          287
+        ],
+        "however,": [
+          288
+        ],
+        "lacks": [
+          289
+        ],
+        "A.": [
+          290
+        ],
+        "suggests": [
+          293
+        ],
+        "assignment": [
+          297
+        ],
+        "(e.g.,": [
+          298
+        ],
+        "Caradoc": [
+          300
+        ],
+        "British": [
+          303
+        ],
+        "chronostratigraphy).": [
+          304
         ]
       },
       "counts_by_year": [
@@ -16434,7 +17953,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-24T09:50:30.924529",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16604,7 +18123,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.20342612,
+        "value": 0.20386266,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16848,15 +18367,15 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "display_name": "Life below water",
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16893,11 +18412,265 @@
         "https://openalex.org/W2095852662"
       ],
       "abstract_inverted_index": {
-        "1": [
-          0
+        "This": [
+          0,
+          84
         ],
-        "p.": [
+        "paper": [
           1
+        ],
+        "describes": [
+          2
+        ],
+        "a": [
+          3,
+          7,
+          14,
+          29
+        ],
+        "rare": [
+          4
+        ],
+        "occurrence": [
+          5
+        ],
+        "of": [
+          6,
+          24,
+          97
+        ],
+        "rich": [
+          8
+        ],
+        "and": [
+          9,
+          32,
+          52,
+          56,
+          75
+        ],
+        "diverse": [
+          10
+        ],
+        "palynological": [
+          11
+        ],
+        "assemblage": [
+          12,
+          26,
+          43,
+          85
+        ],
+        "from": [
+          13,
+          92
+        ],
+        "controversial": [
+          15
+        ],
+        "stratigraphic": [
+          16
+        ],
+        "unit": [
+          17
+        ],
+        "in": [
+          18,
+          101
+        ],
+        "northwestern": [
+          19,
+          102
+        ],
+        "Saudi": [
+          20
+        ],
+        "Arabia.": [
+          21
+        ],
+        "The": [
+          22,
+          42
+        ],
+        "composition": [
+          23
+        ],
+        "this": [
+          25
+        ],
+        "strongly": [
+          27
+        ],
+        "suggests": [
+          28
+        ],
+        "Pridoli": [
+          30,
+          81
+        ],
+        "age": [
+          31,
+          82
+        ],
+        "therefore": [
+          33
+        ],
+        "it": [
+          34
+        ],
+        "is": [
+          35
+        ],
+        "referred": [
+          36
+        ],
+        "her": [
+          37
+        ],
+        "to": [
+          38
+        ],
+        "the": [
+          39,
+          80,
+          93,
+          98
+        ],
+        "Tawil": [
+          40
+        ],
+        "Formation.": [
+          41
+        ],
+        "encountered": [
+          44
+        ],
+        "contains": [
+          45
+        ],
+        "very": [
+          46,
+          87
+        ],
+        "characteristic": [
+          47
+        ],
+        "chitinozoans,": [
+          48
+        ],
+        "acritarchs,": [
+          49
+        ],
+        "tasmanities,": [
+          50
+        ],
+        "scolecodonts": [
+          51
+        ],
+        "some": [
+          53
+        ],
+        "land-derived": [
+          54
+        ],
+        "miospores": [
+          55
+        ],
+        "hilate": [
+          57
+        ],
+        "spores.": [
+          58
+        ],
+        "Chitinozoans": [
+          59
+        ],
+        "such": [
+          60
+        ],
+        "as": [
+          61
+        ],
+        "Margachitina": [
+          62
+        ],
+        "elegans,": [
+          63
+        ],
+        "Ancyrochitina": [
+          64,
+          67
+        ],
+        "fragilis": [
+          65
+        ],
+        "brevis,": [
+          66
+        ],
+        "fragilis,": [
+          68
+        ],
+        "Sphaerochitina": [
+          69
+        ],
+        "sphaerocephala,": [
+          70
+        ],
+        "Urnochitina": [
+          71
+        ],
+        "urna,": [
+          72
+        ],
+        "Pseudochlathrochitina": [
+          73
+        ],
+        "carmenchui": [
+          74
+        ],
+        "Lagenochitina": [
+          76
+        ],
+        "brevicollis": [
+          77
+        ],
+        "confers": [
+          78
+        ],
+        "with": [
+          79,
+          89
+        ],
+        "assignment.": [
+          83
+        ],
+        "correlates": [
+          86
+        ],
+        "well": [
+          88,
+          100
+        ],
+        "Assemblage": [
+          90
+        ],
+        "D": [
+          91
+        ],
+        "Alternances": [
+          94
+        ],
+        "Greso-Argileuses": [
+          95
+        ],
+        "Formation": [
+          96
+        ],
+        "A1-61": [
+          99
+        ],
+        "Libya.": [
+          103
         ]
       },
       "counts_by_year": [
@@ -16906,7 +18679,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-08T09:06:37.294493",
+      "updated_date": "2026-10-24T09:50:30.924529",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17791,8 +19564,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Climate action",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -18260,8 +20033,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -18619,8 +20392,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.550000011920929,
           "display_name": "Climate action",
+          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -20763,8 +22536,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Climate action",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -21220,8 +22993,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Life below water",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -21625,8 +23398,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Climate action",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -21966,8 +23739,8 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5299999713897705,
           "display_name": "Climate action",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
