@@ -21,9 +21,9 @@
     ],
     "full_name": "Ardiansyah Ibnu Koeshidayatullah",
     "works_count": 160,
-    "cited_by_count": 1441,
+    "cited_by_count": 1442,
     "summary_stats": {
-      "2yr_mean_citedness": 2.9767441860465116,
+      "2yr_mean_citedness": 2.988372093023256,
       "h_index": 22,
       "i10_index": 39
     },
@@ -281,7 +281,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0001187,
+        "value": 0.0001188,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -439,7 +439,7 @@
         "year": 2025,
         "works_count": 28,
         "oa_works_count": 16,
-        "cited_by_count": 113
+        "cited_by_count": 114
       },
       {
         "year": 2026,
@@ -462,7 +462,7 @@
     ],
     "block_key": "a koeshidayatullah",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059881838",
-    "updated_date": "2026-10-23T12:28:23",
+    "updated_date": "2026-10-24T12:28:35",
     "created_date": "2020-03-23T00:00:00"
   },
   "works": [
@@ -160306,7 +160306,7 @@
       "primary_location": {
         "id": "doi:10.1016/j.cretres.2026.106486",
         "doi": "https://doi.org/10.1016/j.cretres.2026.106486",
-        "is_oa": true,
+        "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.cretres.2026.106486",
         "pdf_url": null,
         "source": {
@@ -160338,8 +160338,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "license": null,
+        "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -160352,9 +160352,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1016/j.cretres.2026.106486",
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -160851,16 +160851,12 @@
         "currency": "USD",
         "value_usd": 3560
       },
-      "apc_paid": {
-        "value": 3560,
-        "currency": "USD",
-        "value_usd": 3560
-      },
+      "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71384833,
+        "value": 0.68248716,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -161085,7 +161081,7 @@
         {
           "id": "doi:10.1016/j.cretres.2026.106486",
           "doi": "https://doi.org/10.1016/j.cretres.2026.106486",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.cretres.2026.106486",
           "pdf_url": null,
           "source": {
@@ -161117,8 +161113,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "license": null,
+          "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -161126,49 +161122,7 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.cretres.2026.106486",
-        "doi": "https://doi.org/10.1016/j.cretres.2026.106486",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.cretres.2026.106486",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S48852984",
-          "display_name": "Cretaceous Research",
-          "issn_l": "0195-6671",
-          "issn": [
-            "0195-6671",
-            "1095-998X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-a",
-            "jufo-1",
-            "norway-1",
-            "poland-70",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Cretaceous Research",
-        "raw_type": "journal-article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
@@ -161367,582 +161321,9 @@
         "https://openalex.org/W7168547433"
       ],
       "related_works": [],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          131,
-          181
-        ],
-        "early": [
-          1
-        ],
-        "Aptian": [
-          2,
-          110,
-          186
-        ],
-        "was": [
-          3
-        ],
-        "marked": [
-          4
-        ],
-        "by": [
-          5,
-          224
-        ],
-        "Oceanic": [
-          6
-        ],
-        "Anoxic": [
-          7
-        ],
-        "Event": [
-          8
-        ],
-        "1a": [
-          9,
-          114,
-          210
-        ],
-        "(OAE": [
-          10
-        ],
-        "1a),": [
-          11
-        ],
-        "global": [
-          12,
-          34,
-          193,
-          219
-        ],
-        "sea-level": [
-          13
-        ],
-        "oscillations,": [
-          14
-        ],
-        "and": [
-          15,
-          37,
-          57,
-          108,
-          127,
-          153,
-          160,
-          178,
-          226
-        ],
-        "tectonic": [
-          16,
-          228
-        ],
-        "reorganization.": [
-          17
-        ],
-        "This": [
-          18
-        ],
-        "study": [
-          19
-        ],
-        "examines": [
-          20
-        ],
-        "how": [
-          21,
-          218
-        ],
-        "the": [
-          22,
-          31,
-          106,
-          139,
-          144,
-          168,
-          201
-        ],
-        "Dariyan": [
-          23,
-          202
-        ],
-        "Formation": [
-          24,
-          203
-        ],
-        "(Interior": [
-          25
-        ],
-        "Fars": [
-          26
-        ],
-        "Zone,": [
-          27,
-          134
-        ],
-        "Zagros": [
-          28
-        ],
-        "Basin)": [
-          29
-        ],
-        "recorded": [
-          30
-        ],
-        "interplay": [
-          32
-        ],
-        "of": [
-          33,
-          50,
-          143,
-          167,
-          208
-        ],
-        "environmental": [
-          35,
-          220
-        ],
-        "changes": [
-          36
-        ],
-        "local": [
-          38,
-          198,
-          227
-        ],
-        "tectonics": [
-          39
-        ],
-        "within": [
-          40,
-          105
-        ],
-        "a": [
-          41,
-          61,
-          74,
-          80,
-          116,
-          205,
-          212
-        ],
-        "shallow": [
-          42
-        ],
-        "carbonate": [
-          43,
-          120
-        ],
-        "platform-intrashelf": [
-          44
-        ],
-        "basin": [
-          45,
-          141,
-          151
-        ],
-        "system.": [
-          46
-        ],
-        "Through": [
-          47
-        ],
-        "integrated": [
-          48
-        ],
-        "analysis": [
-          49
-        ],
-        "calcareous": [
-          51
-        ],
-        "nannofossil": [
-          52
-        ],
-        "paleoecology,": [
-          53
-        ],
-        "microfacies,": [
-          54
-        ],
-        "sequence": [
-          55
-        ],
-        "stratigraphy,": [
-          56
-        ],
-        "stable": [
-          58
-        ],
-        "isotopes": [
-          59
-        ],
-        "from": [
-          60,
-          82,
-          93,
-          192
-        ],
-        "241.5": [
-          62
-        ],
-        "m-thick": [
-          63
-        ],
-        "outcrop": [
-          64
-        ],
-        "section,": [
-          65
-        ],
-        "we": [
-          66
-        ],
-        "link": [
-          67
-        ],
-        "ecological": [
-          68,
-          125
-        ],
-        "restructuring": [
-          69
-        ],
-        "with": [
-          70,
-          147,
-          165
-        ],
-        "stratigraphic": [
-          71
-        ],
-        "development": [
-          72
-        ],
-        "across": [
-          73
-        ],
-        "ramp-to-basin": [
-          75
-        ],
-        "transect.": [
-          76
-        ],
-        "Nannofossil": [
-          77
-        ],
-        "assemblages": [
-          78
-        ],
-        "reveal": [
-          79
-        ],
-        "transition": [
-          81
-        ],
-        "oligotrophic": [
-          83
-        ],
-        "to": [
-          84,
-          96
-        ],
-        "mesotrophic-eutrophic": [
-          85
-        ],
-        "conditions": [
-          86
-        ],
-        "during": [
-          87,
-          136
-        ],
-        "OAE": [
-          88,
-          113,
-          209
-        ],
-        "1a.": [
-          89
-        ],
-        "Microfacies": [
-          90
-        ],
-        "document": [
-          91
-        ],
-        "environments": [
-          92
-        ],
-        "restricted": [
-          94
-        ],
-        "lagoons": [
-          95
-        ],
-        "deep": [
-          97
-        ],
-        "basinal": [
-          98
-        ],
-        "settings,": [
-          99
-        ],
-        "organized": [
-          100
-        ],
-        "into": [
-          101
-        ],
-        "five": [
-          102
-        ],
-        "third-order": [
-          103
-        ],
-        "sequences": [
-          104
-        ],
-        "lower": [
-          107
-        ],
-        "upper": [
-          109
-        ],
-        "second-order": [
-          111
-        ],
-        "cycles.": [
-          112
-        ],
-        "exerted": [
-          115
-        ],
-        "primary": [
-          117
-        ],
-        "control": [
-          118
-        ],
-        "on": [
-          119
-        ],
-        "production,": [
-          121
-        ],
-        "driving": [
-          122
-        ],
-        "nutrient": [
-          123
-        ],
-        "enrichment,": [
-          124
-        ],
-        "stress,": [
-          126
-        ],
-        "episodic": [
-          128
-        ],
-        "platform": [
-          129
-        ],
-        "recovery.": [
-          130
-        ],
-        "Radiolarian": [
-          132
-        ],
-        "Flood": [
-          133
-        ],
-        "developed": [
-          135
-        ],
-        "DS2,": [
-          137
-        ],
-        "represents": [
-          138
-        ],
-        "intrashelf": [
-          140,
-          215
-        ],
-        "expression": [
-          142
-        ],
-        "Selli": [
-          145
-        ],
-        "Level,": [
-          146
-        ],
-        "organic-rich": [
-          148
-        ],
-        "condensation": [
-          149
-        ],
-        "in": [
-          150,
-          211
-        ],
-        "centers": [
-          152
-        ],
-        "coeval": [
-          154
-        ],
-        "progradation": [
-          155
-        ],
-        "along": [
-          156
-        ],
-        "margins.": [
-          157
-        ],
-        "Stratigraphic": [
-          158
-        ],
-        "patterns": [
-          159
-        ],
-        "thickness": [
-          161
-        ],
-        "trends": [
-          162
-        ],
-        "are": [
-          163
-        ],
-        "consistent": [
-          164
-        ],
-        "reactivation": [
-          166
-        ],
-        "Kazerun": [
-          169
-        ],
-        "Fault": [
-          170
-        ],
-        "System,": [
-          171
-        ],
-        "whose": [
-          172
-        ],
-        "differential": [
-          173
-        ],
-        "subsidence": [
-          174
-        ],
-        "influenced": [
-          175
-        ],
-        "facies": [
-          176
-        ],
-        "partitioning": [
-          177
-        ],
-        "accumulation": [
-          179
-        ],
-        "rates.": [
-          180
-        ],
-        "carbon-isotope": [
-          182
-        ],
-        "record": [
-          183,
-          207
-        ],
-        "broadly": [
-          184
-        ],
-        "captures": [
-          185
-        ],
-        "carbon-cycle": [
-          187
-        ],
-        "perturbations,": [
-          188
-        ],
-        "though": [
-          189
-        ],
-        "some": [
-          190
-        ],
-        "departures": [
-          191
-        ],
-        "reference": [
-          194
-        ],
-        "curves": [
-          195
-        ],
-        "may": [
-          196
-        ],
-        "reflect": [
-          197
-        ],
-        "overprints.": [
-          199
-        ],
-        "Overall,": [
-          200
-        ],
-        "provides": [
-          204
-        ],
-        "sensitive": [
-          206
-        ],
-        "tectonically": [
-          213
-        ],
-        "segmented": [
-          214
-        ],
-        "basin,": [
-          216
-        ],
-        "highlighting": [
-          217
-        ],
-        "perturbations": [
-          221
-        ],
-        "were": [
-          222
-        ],
-        "modulated": [
-          223
-        ],
-        "eustatic": [
-          225
-        ],
-        "controls.": [
-          229
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2026-09-11T00:00:00"
     },
     {

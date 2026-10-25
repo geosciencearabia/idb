@@ -401,7 +401,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002051,
+        "value": 0.0002052,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -435,7 +435,7 @@
       {
         "id": "https://openalex.org/T13811",
         "display_name": "Earth Systems and Cosmic Evolution",
-        "value": 0.0001054,
+        "value": 0.0001053,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -469,7 +469,7 @@
       {
         "id": "https://openalex.org/T11879",
         "display_name": "Protist diversity and phylogeny",
-        "value": 0.0000795,
+        "value": 0.0000797,
         "subfield": {
           "id": "https://openalex.org/subfields/1312",
           "display_name": "Molecular Biology"
@@ -616,7 +616,7 @@
       {
         "year": 2011,
         "works_count": 9,
-        "oa_works_count": 0,
+        "oa_works_count": 1,
         "cited_by_count": 391
       },
       {
@@ -722,7 +722,7 @@
     ],
     "block_key": "m vecoli",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039685767",
-    "updated_date": "2026-10-23T12:28:23",
+    "updated_date": "2026-10-24T12:28:35",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1139,11 +1139,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 7.8973,
+      "fwci": 7.899,
       "has_fulltext": false,
       "cited_by_count": 221,
       "citation_normalized_percentile": {
-        "value": 0.98123827,
+        "value": 0.98124414,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1429,17 +1429,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -2095,7 +2095,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5846,11 +5846,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 8.6866,
+      "fwci": 8.6879,
       "has_fulltext": false,
       "cited_by_count": 130,
       "citation_normalized_percentile": {
-        "value": 0.98491,
+        "value": 0.98490884,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6479,17 +6479,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -7563,7 +7563,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7732,11 +7732,11 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 7.3413,
+      "fwci": 7.333,
       "has_fulltext": false,
       "cited_by_count": 139,
       "citation_normalized_percentile": {
-        "value": 0.97695795,
+        "value": 0.97694924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8080,17 +8080,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -8385,7 +8385,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13823,11 +13823,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 2.288,
+      "fwci": 2.2869,
       "has_fulltext": true,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.87312257,
+        "value": 0.87297752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14128,17 +14128,17 @@
           "pdf_url": "https://insu.hal.science/insu-00145699v1/document",
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -14159,17 +14159,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -14191,17 +14191,17 @@
         "pdf_url": "https://insu.hal.science/insu-00145699v1/document",
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -14383,7 +14383,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15543,11 +15543,11 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 2.7965,
+      "fwci": 2.7951,
       "has_fulltext": true,
       "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.90410671,
+        "value": 0.90397142,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15873,17 +15873,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -16210,7 +16210,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17603,11 +17603,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.3364,
+      "fwci": 1.3363,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.78605611,
+        "value": 0.78603604,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17924,17 +17924,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -17987,17 +17987,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -18224,7 +18224,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19280,11 +19280,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7793,
+      "fwci": 1.7787,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.84364821,
+        "value": 0.84355957,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19532,17 +19532,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -20174,7 +20174,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22977,11 +22977,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 2.288,
+      "fwci": 2.2869,
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.87291251,
+        "value": 0.87276739,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23195,17 +23195,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -23376,7 +23376,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28250,11 +28250,11 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 2.8863,
+      "fwci": 2.886,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.90021686,
+        "value": 0.90017081,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -28492,17 +28492,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -28523,17 +28523,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -28554,17 +28554,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -28648,17 +28648,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -28778,7 +28778,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29328,11 +29328,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 2.3404,
+      "fwci": 2.3379,
       "has_fulltext": true,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.88121735,
+        "value": 0.88112736,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29637,17 +29637,17 @@
           "pdf_url": "https://hal.science/hal-02408751/document",
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -29668,17 +29668,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -29762,17 +29762,17 @@
         "pdf_url": "https://hal.science/hal-02408751/document",
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -30701,7 +30701,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2017-10-20T00:00:00"
     },
     {
@@ -30889,11 +30889,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.3455,
+      "fwci": 1.3496,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.81485671,
+        "value": 0.81529921,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31252,17 +31252,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -31470,7 +31470,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -32107,11 +32107,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 3.314,
+      "fwci": 3.3092,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.92194812,
+        "value": 0.92184273,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -32429,17 +32429,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -32523,17 +32523,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -32754,7 +32754,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39673,11 +39673,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 1.5602,
+      "fwci": 1.5586,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.81800288,
+        "value": 0.81778923,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39928,17 +39928,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -40240,7 +40240,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45736,11 +45736,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.3865,
+      "fwci": 1.3848,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.79365745,
+        "value": 0.79351321,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46077,8 +46077,8 @@
           "landing_page_url": "https://research-repository.uwa.edu.au/en/publications/5e6b39b3-2a88-47ae-a36c-e4bf62717cdb",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402523",
-            "display_name": "UWA Profiles and Research Repository (University of Western Australia)",
+            "id": "https://openalex.org/S4306402492",
+            "display_name": "UWA Profiles and Research Repository (UWA)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -46259,7 +46259,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48180,11 +48180,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.5254,
+      "fwci": 1.5246,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.81357,
+        "value": 0.81340618,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48493,17 +48493,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -48693,7 +48693,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51226,11 +51226,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 1.2711,
+      "fwci": 1.2705,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.79581977,
+        "value": 0.79565035,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51534,17 +51534,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -51754,7 +51754,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -53255,11 +53255,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.0167,
+      "fwci": 1.0164,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.74687401,
+        "value": 0.74679555,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53504,17 +53504,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -53535,17 +53535,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -53692,7 +53692,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -64869,11 +64869,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.2824,
+      "fwci": 0.282,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.58348023,
+        "value": 0.58269303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -65125,17 +65125,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -65822,7 +65822,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68299,11 +68299,11 @@
         "value_usd": 4190
       },
       "apc_paid": null,
-      "fwci": 1.2746,
+      "fwci": 1.274,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.77996665,
+        "value": 0.77972283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68563,17 +68563,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -68671,7 +68671,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -71659,11 +71659,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.4984,
+      "fwci": 0.4985,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.66200117,
+        "value": 0.66211026,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71948,17 +71948,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -72042,17 +72042,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -72212,7 +72212,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -77386,11 +77386,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5785,
+      "fwci": 0.5784,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.66728495,
+        "value": 0.66713043,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77589,17 +77589,17 @@
           "pdf_url": "https://hal.science/hal-00167984v1/document",
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -77693,7 +77693,7 @@
         {
           "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 1
+          "score": 0.7778000235557556
         }
       ],
       "sustainable_development_goals_aurora": [
@@ -77740,7 +77740,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78095,7 +78095,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.66887255,
+        "value": 0.66885226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -78351,17 +78351,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -78516,7 +78516,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79816,17 +79816,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -79938,7 +79938,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.34779868,
+        "value": 0.34765707,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -80121,17 +80121,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -80152,17 +80152,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -80635,7 +80635,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -80657,17 +80657,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -80897,7 +80897,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.56761566,
+        "value": 0.5704859,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -81115,17 +81115,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -82181,7 +82181,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -84632,17 +84632,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -84964,17 +84964,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -85021,7 +85021,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -85044,17 +85044,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -85288,17 +85288,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -85379,7 +85379,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -86925,17 +86925,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -87219,17 +87219,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -87282,7 +87282,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -96153,17 +96153,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -96445,17 +96445,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -96496,7 +96496,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -99477,17 +99477,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -99912,17 +99912,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -99943,17 +99943,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -99972,7 +99972,7 @@
         {
           "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "score": 0.7605999708175659
+          "score": 0.4390000104904175
         }
       ],
       "sustainable_development_goals_aurora": [
@@ -100006,7 +100006,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -100922,17 +100922,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -101121,7 +101121,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39961014,
+        "value": 0.39499037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -101324,17 +101324,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -101355,17 +101355,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -101406,7 +101406,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -101755,17 +101755,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -102007,7 +102007,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35818673,
+        "value": 0.35809364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -102231,17 +102231,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -102659,7 +102659,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {

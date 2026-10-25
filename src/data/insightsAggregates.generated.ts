@@ -3483,7 +3483,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2011,
     "pubs": 14,
-    "cites": 1466
+    "cites": 1467
   },
   {
     "topic": "Geochemistry and Elemental Analysis",
@@ -4077,7 +4077,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2003,
     "pubs": 19,
-    "cites": 1410
+    "cites": 1411
   },
   {
     "topic": "Geological and Geochemical Analysis",
@@ -4119,13 +4119,13 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2010,
     "pubs": 12,
-    "cites": 1150
+    "cites": 1151
   },
   {
     "topic": "Geological and Geochemical Analysis",
     "year": 2011,
     "pubs": 16,
-    "cites": 2187
+    "cites": 2188
   },
   {
     "topic": "Geological and Geochemical Analysis",
@@ -4383,7 +4383,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2003,
     "pubs": 29,
-    "cites": 1620
+    "cites": 1621
   },
   {
     "topic": "Geological and Geophysical Studies",
@@ -4425,13 +4425,13 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2010,
     "pubs": 13,
-    "cites": 1114
+    "cites": 1115
   },
   {
     "topic": "Geological and Geophysical Studies",
     "year": 2011,
     "pubs": 12,
-    "cites": 1549
+    "cites": 1550
   },
   {
     "topic": "Geological and Geophysical Studies",
@@ -5517,7 +5517,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2003,
     "pubs": 27,
-    "cites": 1492
+    "cites": 1493
   },
   {
     "topic": "Geological Studies and Exploration",
@@ -5559,7 +5559,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2010,
     "pubs": 42,
-    "cites": 1498
+    "cites": 1499
   },
   {
     "topic": "Geological Studies and Exploration",
@@ -40284,7 +40284,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2011,
     "pubs": 2,
-    "cites": 484
+    "cites": 485
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -40522,7 +40522,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2011,
     "pubs": 3,
-    "cites": 484
+    "cites": 485
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -40676,7 +40676,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2011,
     "pubs": 2,
-    "cites": 432
+    "cites": 433
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -47480,21 +47480,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2003,
     "pubs": 1,
-    "cites": 505
+    "cites": 506
   },
   {
     "authorOpenAlexId": "A5014025524",
     "topic": "Geological and Geophysical Studies",
     "year": 2003,
     "pubs": 1,
-    "cites": 505
+    "cites": 506
   },
   {
     "authorOpenAlexId": "A5014025524",
     "topic": "Geological Studies and Exploration",
     "year": 2003,
     "pubs": 1,
-    "cites": 505
+    "cites": 506
   },
   {
     "authorOpenAlexId": "A5014045729",
@@ -95738,7 +95738,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2011,
     "pubs": 1,
-    "cites": 432
+    "cites": 433
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -95836,14 +95836,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2010,
     "pubs": 2,
-    "cites": 781
+    "cites": 782
   },
   {
     "authorOpenAlexId": "A5035240990",
     "topic": "Geological and Geochemical Analysis",
     "year": 2011,
     "pubs": 3,
-    "cites": 1260
+    "cites": 1261
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -95941,14 +95941,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2010,
     "pubs": 1,
-    "cites": 712
+    "cites": 713
   },
   {
     "authorOpenAlexId": "A5035240990",
     "topic": "Geological and Geophysical Studies",
     "year": 2011,
     "pubs": 2,
-    "cites": 1249
+    "cites": 1250
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -96109,7 +96109,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2010,
     "pubs": 1,
-    "cites": 712
+    "cites": 713
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -257102,7 +257102,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2003,
     "pubs": 4,
-    "cites": 844
+    "cites": 845
   },
   {
     "authorOpenAlexId": "A5103098706",
@@ -257144,7 +257144,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2010,
     "pubs": 3,
-    "cites": 972
+    "cites": 973
   },
   {
     "authorOpenAlexId": "A5103098706",
@@ -257298,7 +257298,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2003,
     "pubs": 3,
-    "cites": 707
+    "cites": 708
   },
   {
     "authorOpenAlexId": "A5103098706",
@@ -257333,7 +257333,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 2010,
     "pubs": 1,
-    "cites": 712
+    "cites": 713
   },
   {
     "authorOpenAlexId": "A5103098706",
@@ -257536,7 +257536,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2003,
     "pubs": 3,
-    "cites": 707
+    "cites": 708
   },
   {
     "authorOpenAlexId": "A5103098706",
@@ -257557,7 +257557,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 2010,
     "pubs": 1,
-    "cites": 712
+    "cites": 713
   },
   {
     "authorOpenAlexId": "A5103098706",

@@ -38,25 +38,25 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
     "publications": 885,
-    "citations": 21953
+    "citations": 21955
   },
   {
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
     "publications": 837,
-    "citations": 19867
+    "citations": 19868
   },
   {
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 703,
-    "citations": 30711
+    "citations": 30714
   },
   {
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
     "publications": 596,
-    "citations": 28397
+    "citations": 28400
   },
   {
     "id": "https://openalex.org/T10017",
@@ -2561,7 +2561,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I162577319",
     "name": "The University of Texas at Dallas",
     "publications": 30,
-    "citations": 5754
+    "citations": 5756
   },
   {
     "id": "https://openalex.org/I2279609970",
@@ -2822,6 +2822,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 624
   },
   {
+    "id": "https://openalex.org/I74413500",
+    "name": "University of Windsor",
+    "publications": 17,
+    "citations": 356
+  },
+  {
     "id": "https://openalex.org/I108714496",
     "name": "Tunis University",
     "publications": 17,
@@ -2856,12 +2862,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Soran University",
     "publications": 16,
     "citations": 393
-  },
-  {
-    "id": "https://openalex.org/I74413500",
-    "name": "University of Windsor",
-    "publications": 16,
-    "citations": 340
   },
   {
     "id": "https://openalex.org/I139660479",
@@ -4325,7 +4325,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I128212801",
     "name": "Smithsonian Tropical Research Institute",
     "publications": 4,
-    "citations": 550
+    "citations": 551
   },
   {
     "id": "https://openalex.org/I4210104942",
@@ -5333,7 +5333,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I86539363",
     "name": "University of Asmara",
     "publications": 2,
-    "citations": 1314
+    "citations": 1315
   },
   {
     "id": "https://openalex.org/I15680801",

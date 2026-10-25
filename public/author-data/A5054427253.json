@@ -399,7 +399,7 @@
     ],
     "block_key": "y le nindre",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
-    "updated_date": "2026-10-23T12:28:23",
+    "updated_date": "2026-10-24T12:28:35",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1467,21 +1467,21 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 1,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.571399986743927,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals",
           "score": 0.4300000071525574,
-          "display_name": "Partnerships for the goals"
+          "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "study_designs": [],
@@ -2149,7 +2149,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1805,
+      "fwci": 3.1811,
       "has_fulltext": false,
       "cited_by_count": 91,
       "citation_normalized_percentile": {
@@ -2421,17 +2421,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -2483,9 +2483,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -3713,7 +3713,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3955,16 +3955,16 @@
         "value_usd": 5000
       },
       "apc_paid": null,
-      "fwci": 4.0622,
+      "fwci": 4.0487,
       "has_fulltext": false,
       "cited_by_count": 81,
       "citation_normalized_percentile": {
-        "value": 0.93598516,
+        "value": 0.93588406,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -4243,17 +4243,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -4271,9 +4271,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -4702,7 +4702,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4965,11 +4965,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.7431,
+      "fwci": 3.7444,
       "has_fulltext": false,
       "cited_by_count": 73,
       "citation_normalized_percentile": {
-        "value": 0.90746436,
+        "value": 0.9073893,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5242,17 +5242,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -5270,9 +5270,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5388,7 +5388,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5946,9 +5946,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -6779,11 +6779,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3443,
+      "fwci": 4.3487,
       "has_fulltext": true,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.92797306,
+        "value": 0.92802035,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7123,17 +7123,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -7185,9 +7185,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -8940,7 +8940,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9556,16 +9556,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 1,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -10039,11 +10039,11 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 3.0076,
+      "fwci": 3.0081,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.89542169,
+        "value": 0.89545375,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10366,17 +10366,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -10393,14 +10393,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 1,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.4000000059604645,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -10545,7 +10545,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10740,11 +10740,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0732,
+      "fwci": 3.072,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.90126365,
+        "value": 0.90118831,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11042,17 +11042,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -11104,9 +11104,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land",
           "score": 0.41999998688697815,
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -12270,7 +12270,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12557,11 +12557,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6445,
+      "fwci": 1.6443,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.83961408,
+        "value": 0.83958454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12811,17 +12811,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -13787,7 +13787,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14361,9 +14361,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -17086,9 +17086,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -18213,11 +18213,11 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 4.1333,
+      "fwci": 4.1108,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.92526005,
+        "value": 0.92502247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18552,17 +18552,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -18579,9 +18579,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 1,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -18683,7 +18683,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18981,11 +18981,11 @@
         "value_usd": 2500
       },
       "apc_paid": null,
-      "fwci": 1.8711,
+      "fwci": 1.8697,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81880734,
+        "value": 0.81877023,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19329,17 +19329,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -19402,9 +19402,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -19575,7 +19575,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19934,16 +19934,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7941,
+      "fwci": 0.7913,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.69557147,
+        "value": 0.69418636,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -20296,17 +20296,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -20361,14 +20361,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 1,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.878000020980835,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -21182,7 +21182,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21604,16 +21604,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22240,11 +22240,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1081,
+      "fwci": 1.1091,
       "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.7926998,
+        "value": 0.79293842,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22501,17 +22501,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -23103,7 +23103,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23412,11 +23412,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9421,
+      "fwci": 0.9419,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.76040167,
+        "value": 0.76037046,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23697,17 +23697,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -23798,16 +23798,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -24325,7 +24325,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -24547,11 +24547,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4313,
+      "fwci": 2.438,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.86353506,
+        "value": 0.86366746,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24848,17 +24848,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -24910,9 +24910,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -25979,7 +25979,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -26531,9 +26531,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -27597,9 +27597,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -28380,9 +28380,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -29321,9 +29321,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -29854,6 +29854,7 @@
           "listed_in": [
             "anvur-scientific",
             "cwts-core",
+            "ddh",
             "doaj",
             "dongbi-c",
             "jufo-1",
@@ -30319,11 +30320,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6066,
+      "fwci": 0.6019,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.57980617,
+        "value": 0.57847312,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30625,6 +30626,7 @@
             "listed_in": [
               "anvur-scientific",
               "cwts-core",
+              "ddh",
               "doaj",
               "dongbi-c",
               "jufo-1",
@@ -30658,17 +30660,17 @@
           "pdf_url": "https://brgm.hal.science/hal-04438935v1/file/CRGEOS_2023__355_S2_A7_0.pdf",
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -30789,6 +30791,7 @@
           "listed_in": [
             "anvur-scientific",
             "cwts-core",
+            "ddh",
             "doaj",
             "dongbi-c",
             "jufo-1",
@@ -31498,7 +31501,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31887,17 +31890,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -31915,9 +31918,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -32345,7 +32348,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -32765,16 +32768,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -33164,9 +33167,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -33699,11 +33702,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9602,
+      "fwci": 3.9151,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.94571046,
+        "value": 0.94644068,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34016,17 +34019,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -34043,9 +34046,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -34375,7 +34378,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36021,7 +36024,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1344471,
+        "value": 0.13458986,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36334,17 +36337,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -36399,19 +36402,19 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 1,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.5378999710083008,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -37272,7 +37275,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37601,9 +37604,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -38284,9 +38287,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -39962,17 +39965,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -40201,7 +40204,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3969697,
+        "value": 0.39522059,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40396,17 +40399,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -41410,7 +41413,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-21T07:43:02.447757",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41433,17 +41436,17 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
           "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
+            "https://openalex.org/I4405252976"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -41599,7 +41602,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38454012,
+        "value": 0.38408813,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41777,17 +41780,17 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
             "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
+              "https://openalex.org/I4405252976"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -41804,16 +41807,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.6618000268936157,
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -42737,7 +42740,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -43667,9 +43670,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -43728,17 +43731,19 @@
         "landing_page_url": "https://brgm.hal.science/hal-00658080",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4406922276",
-          "display_name": "INRIA a CCSD electronic archive server",
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
+          "host_organization_lineage": [
+            "https://openalex.org/I4405252976"
+          ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -43942,7 +43947,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.55203078,
+        "value": 0.55217243,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44186,17 +44191,19 @@
           "landing_page_url": "https://brgm.hal.science/hal-00658080",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922276",
-            "display_name": "INRIA a CCSD electronic archive server",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
+            "host_organization_lineage": [
+              "https://openalex.org/I4405252976"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -44210,7 +44217,13 @@
         }
       ],
       "best_oa_location": null,
-      "sustainable_development_goals": [],
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "score": 0.46149998903274536,
+          "id": "https://metadata.un.org/sdg/13"
+        }
+      ],
       "sustainable_development_goals_aurora": [],
       "study_designs": [],
       "awards": [],
@@ -44851,7 +44864,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44872,17 +44885,19 @@
         "landing_page_url": "https://hal.science/hal-00022141",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4406922276",
-          "display_name": "INRIA a CCSD electronic archive server",
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I4405252976",
+          "host_organization_name": "Centre pour la Communication Scientifique Directe",
+          "host_organization_lineage": [
+            "https://openalex.org/I4405252976"
+          ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -45040,7 +45055,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37642013,
+        "value": 0.37634783,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45239,17 +45254,19 @@
           "landing_page_url": "https://hal.science/hal-00022141",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4406922276",
-            "display_name": "INRIA a CCSD electronic archive server",
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I4405252976",
+            "host_organization_name": "Centre pour la Communication Scientifique Directe",
+            "host_organization_lineage": [
+              "https://openalex.org/I4405252976"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -45266,9 +45283,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -45588,7 +45605,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

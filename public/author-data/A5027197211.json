@@ -21,9 +21,9 @@
     ],
     "full_name": "Abduljamiu Olalekan Amao",
     "works_count": 151,
-    "cited_by_count": 1581,
+    "cited_by_count": 1583,
     "summary_stats": {
-      "2yr_mean_citedness": 7.74,
+      "2yr_mean_citedness": 7.76,
       "h_index": 23,
       "i10_index": 62
     },
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001615,
+        "value": 0.0001614,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -246,7 +246,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000717,
+        "value": 0.0000718,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -357,7 +357,7 @@
         "year": 2022,
         "works_count": 23,
         "oa_works_count": 12,
-        "cited_by_count": 292
+        "cited_by_count": 293
       },
       {
         "year": 2023,
@@ -368,8 +368,8 @@
       {
         "year": 2024,
         "works_count": 25,
-        "oa_works_count": 11,
-        "cited_by_count": 295
+        "oa_works_count": 10,
+        "cited_by_count": 296
       },
       {
         "year": 2025,
@@ -399,7 +399,7 @@
     ],
     "block_key": "a amao",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5027197211",
-    "updated_date": "2026-10-23T12:28:23",
+    "updated_date": "2026-10-24T12:28:35",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -68812,7 +68812,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mohd Yusuf Khan",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), King Fahd University of Petroleum & Minerals, Box 5040, Dhahran, 31261, Saudi Arabia",
@@ -68857,7 +68857,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mohd Yusuf Khan",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), King Fahd University of Petroleum & Minerals, Box 5040, Dhahran, 31261, Saudi Arabia",
@@ -69110,7 +69110,8 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5017037187"
+        "https://openalex.org/A5017037187",
+        "https://openalex.org/A5042532738"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -69121,11 +69122,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.3918,
+      "fwci": 0.3914,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.46617265,
+        "value": 0.46582003,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69532,7 +69533,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-24T09:50:30.924529",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -148698,7 +148699,7 @@
       "primary_location": {
         "id": "doi:10.1016/j.est.2026.125077",
         "doi": "https://doi.org/10.1016/j.est.2026.125077",
-        "is_oa": true,
+        "is_oa": false,
         "landing_page_url": "https://doi.org/10.1016/j.est.2026.125077",
         "pdf_url": null,
         "source": {
@@ -148731,8 +148732,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "license": null,
+        "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -148745,9 +148746,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1016/j.est.2026.125077",
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -148984,16 +148985,12 @@
         "currency": "USD",
         "value_usd": 3560
       },
-      "apc_paid": {
-        "value": 3560,
-        "currency": "USD",
-        "value_usd": 3560
-      },
+      "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7808646,
+        "value": 0.73896702,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -149283,7 +149280,7 @@
         {
           "id": "doi:10.1016/j.est.2026.125077",
           "doi": "https://doi.org/10.1016/j.est.2026.125077",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doi.org/10.1016/j.est.2026.125077",
           "pdf_url": null,
           "source": {
@@ -149316,8 +149313,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "license": null,
+          "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -149325,50 +149322,7 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.est.2026.125077",
-        "doi": "https://doi.org/10.1016/j.est.2026.125077",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.est.2026.125077",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764865925",
-          "display_name": "Journal of Energy Storage",
-          "issn_l": "2352-152X",
-          "issn": [
-            "2352-152X",
-            "2352-1538"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-c",
-            "jufo-2",
-            "norway-1",
-            "poland-100",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Energy Storage",
-        "raw_type": "journal-article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
@@ -149476,727 +149430,9 @@
         "https://openalex.org/W7201864814"
       ],
       "related_works": [],
-      "abstract_inverted_index": {
-        "2": [
-          19,
-          46,
-          62,
-          66,
-          75,
-          161
-        ],
-        "4": [
-          70
-        ],
-        "42": [
-          77
-        ],
-        "60": [
-          83
-        ],
-        "1350": [
-          80
-        ],
-        "Hydrogen": [
-          0,
-          183
-        ],
-        "geo-storage": [
-          1
-        ],
-        "in": [
-          2,
-          17
-        ],
-        "porous": [
-          3
-        ],
-        "media": [
-          4
-        ],
-        "is": [
-          5
-        ],
-        "a": [
-          6,
-          56,
-          90,
-          101
-        ],
-        "key": [
-          7
-        ],
-        "option": [
-          8
-        ],
-        "for": [
-          9,
-          82,
-          93
-        ],
-        "large-scale": [
-          10
-        ],
-        "energy": [
-          11
-        ],
-        "storage,": [
-          12
-        ],
-        "yet": [
-          13
-        ],
-        "abiotic": [
-          14,
-          275
-        ],
-        "geochemical": [
-          15,
-          36
-        ],
-        "interactions": [
-          16
-        ],
-        "CO": [
-          18,
-          65,
-          160
-        ],
-        "-rich": [
-          20
-        ],
-        "systems": [
-          21
-        ],
-        "containing": [
-          22,
-          50
-        ],
-        "low": [
-          23
-        ],
-        "concentrations": [
-          24
-        ],
-        "of": [
-          25,
-          40,
-          59,
-          103,
-          134,
-          188,
-          231
-        ],
-        "organic": [
-          26,
-          96
-        ],
-        "acids": [
-          27,
-          97
-        ],
-        "remain": [
-          28
-        ],
-        "insufficiently": [
-          29
-        ],
-        "understood.": [
-          30
-        ],
-        "This": [
-          31,
-          203
-        ],
-        "study": [
-          32
-        ],
-        "investigated": [
-          33
-        ],
-        "the": [
-          34,
-          140,
-          158,
-          172,
-          185,
-          189,
-          242,
-          266,
-          273
-        ],
-        "coupled": [
-          35
-        ],
-        "and": [
-          37,
-          55,
-          72,
-          79,
-          108,
-          118,
-          123,
-          125,
-          148,
-          218,
-          226,
-          233,
-          247,
-          283
-        ],
-        "petrophysical": [
-          38
-        ],
-        "responses": [
-          39
-        ],
-        "Bandera": [
-          41
-        ],
-        "Grey": [
-          42
-        ],
-        "sandstone": [
-          43
-        ],
-        "exposed": [
-          44
-        ],
-        "to": [
-          45,
-          200,
-          241,
-          289
-        ],
-        "wt%": [
-          47,
-          52
-        ],
-        "NaCl": [
-          48
-        ],
-        "brine": [
-          49
-        ],
-        "0.01": [
-          51
-        ],
-        "acetic": [
-          53
-        ],
-        "acid": [
-          54,
-          86
-        ],
-        "gas": [
-          57,
-          121,
-          191
-        ],
-        "mixture": [
-          58
-        ],
-        "50%": [
-          60,
-          199
-        ],
-        "H": [
-          61
-        ],
-        ",": [
-          63,
-          67,
-          71
-        ],
-        "40%": [
-          64
-        ],
-        "5%": [
-          68,
-          73
-        ],
-        "CH": [
-          69
-        ],
-        "N": [
-          74
-        ],
-        "at": [
-          76
-        ],
-        "°C": [
-          78
-        ],
-        "psi": [
-          81
-        ],
-        "days.": [
-          84
-        ],
-        "Acetic": [
-          85
-        ],
-        "was": [
-          87,
-          205
-        ],
-        "used": [
-          88
-        ],
-        "as": [
-          89,
-          100,
-          207,
-          258
-        ],
-        "controlled": [
-          91
-        ],
-        "proxy": [
-          92
-        ],
-        "potential": [
-          94
-        ],
-        "microbial": [
-          95,
-          105
-        ],
-        "rather": [
-          98,
-          220,
-          261
-        ],
-        "than": [
-          99,
-          221,
-          262
-        ],
-        "representation": [
-          102
-        ],
-        "active": [
-          104
-        ],
-        "processes.": [
-          106
-        ],
-        "Pre-": [
-          107
-        ],
-        "post-aging": [
-          109
-        ],
-        "characterization": [
-          110
-        ],
-        "included": [
-          111
-        ],
-        "XRD,": [
-          112
-        ],
-        "XRF,": [
-          113
-        ],
-        "FTIR,": [
-          114
-        ],
-        "SEM-EDX,": [
-          115
-        ],
-        "ex-situ": [
-          116,
-          149
-        ],
-        "pH": [
-          117,
-          150
-        ],
-        "dissolved-ion": [
-          119
-        ],
-        "measurements,": [
-          120
-        ],
-        "chromatography,": [
-          122
-        ],
-        "porosity": [
-          124
-        ],
-        "permeability": [
-          126,
-          227
-        ],
-        "measurements.": [
-          127
-        ],
-        "The": [
-          128,
-          278
-        ],
-        "mineralogical": [
-          129
-        ],
-        "results": [
-          130,
-          267
-        ],
-        "indicate": [
-          131,
-          268
-        ],
-        "localized": [
-          132,
-          167,
-          269
-        ],
-        "dissolution": [
-          133
-        ],
-        "carbonate": [
-          135,
-          155
-        ],
-        "cement,": [
-          136
-        ],
-        "particularly": [
-          137
-        ],
-        "dolomite,": [
-          138
-        ],
-        "while": [
-          139,
-          171
-        ],
-        "quartz-feldspar": [
-          141
-        ],
-        "framework": [
-          142,
-          181
-        ],
-        "remained": [
-          143,
-          184
-        ],
-        "largely": [
-          144
-        ],
-        "preserved.": [
-          145
-        ],
-        "Ion": [
-          146
-        ],
-        "chemistry": [
-          147
-        ],
-        "measurements": [
-          151
-        ],
-        "were": [
-          152,
-          239,
-          248,
-          256
-        ],
-        "consistent": [
-          153
-        ],
-        "with": [
-          154
-        ],
-        "buffering": [
-          156
-        ],
-        "within": [
-          157
-        ],
-        "combined": [
-          159
-        ],
-        "-rich,": [
-          162
-        ],
-        "acetic-acid-containing": [
-          163
-        ],
-        "system.": [
-          164
-        ],
-        "SEM-EDX": [
-          165
-        ],
-        "revealed": [
-          166
-        ],
-        "mineral-specific": [
-          168
-        ],
-        "surface": [
-          169
-        ],
-        "alteration,": [
-          170
-        ],
-        "integrated": [
-          173
-        ],
-        "evidence": [
-          174
-        ],
-        "suggested": [
-          175
-        ],
-        "possible": [
-          176
-        ],
-        "pore-throat": [
-          177
-        ],
-        "modification": [
-          178
-        ],
-        "without": [
-          179
-        ],
-        "pervasive": [
-          180
-        ],
-        "degradation.": [
-          182
-        ],
-        "dominant": [
-          186
-        ],
-        "component": [
-          187
-        ],
-        "recovered": [
-          190
-        ],
-        "phase,": [
-          192
-        ],
-        "although": [
-          193
-        ],
-        "its": [
-          194
-        ],
-        "normalized": [
-          195
-        ],
-        "fraction": [
-          196
-        ],
-        "decreased": [
-          197
-        ],
-        "from": [
-          198,
-          250
-        ],
-        "approximately": [
-          201
-        ],
-        "42%.": [
-          202
-        ],
-        "change": [
-          204
-        ],
-        "interpreted": [
-          206
-        ],
-        "apparent": [
-          208
-        ],
-        "gas-phase": [
-          209
-        ],
-        "redistribution": [
-          210
-        ],
-        "influenced": [
-          211
-        ],
-        "by": [
-          212
-        ],
-        "gas-brine": [
-          213
-        ],
-        "partitioning,": [
-          214
-        ],
-        "differential": [
-          215
-        ],
-        "solubility,": [
-          216
-        ],
-        "depressurization,": [
-          217
-        ],
-        "sampling": [
-          219
-        ],
-        "quantitative": [
-          222
-        ],
-        "hydrogen": [
-          223
-        ],
-        "loss.": [
-          224
-        ],
-        "Porosity": [
-          225
-        ],
-        "showed": [
-          228
-        ],
-        "directional": [
-          229
-        ],
-        "changes": [
-          230,
-          238
-        ],
-        "0.9–3.1%": [
-          232
-        ],
-        "3–11%,": [
-          234
-        ],
-        "respectively.": [
-          235
-        ],
-        "Because": [
-          236
-        ],
-        "these": [
-          237
-        ],
-        "comparable": [
-          240
-        ],
-        "reported": [
-          243
-        ],
-        "±10%": [
-          244
-        ],
-        "analytical": [
-          245
-        ],
-        "uncertainty": [
-          246
-        ],
-        "obtained": [
-          249
-        ],
-        "only": [
-          251
-        ],
-        "two": [
-          252
-        ],
-        "core": [
-          253
-        ],
-        "plugs,": [
-          254
-        ],
-        "they": [
-          255
-        ],
-        "treated": [
-          257
-        ],
-        "indicative": [
-          259
-        ],
-        "trends": [
-          260
-        ],
-        "confirmed": [
-          263
-        ],
-        "enhancements.": [
-          264
-        ],
-        "Overall,": [
-          265
-        ],
-        "carbonate-cement": [
-          270
-        ],
-        "alteration": [
-          271
-        ],
-        "under": [
-          272
-        ],
-        "tested": [
-          274
-        ],
-        "batch": [
-          276
-        ],
-        "conditions.": [
-          277
-        ],
-        "findings": [
-          279
-        ],
-        "represent": [
-          280
-        ],
-        "early-stage": [
-          281
-        ],
-        "behavior": [
-          282
-        ],
-        "should": [
-          284
-        ],
-        "not": [
-          285
-        ],
-        "be": [
-          286
-        ],
-        "directly": [
-          287
-        ],
-        "extrapolated": [
-          288
-        ],
-        "long-term": [
-          290
-        ],
-        "or": [
-          291
-        ],
-        "field-scale": [
-          292
-        ],
-        "hydrogen-storage": [
-          293
-        ],
-        "performance.": [
-          294
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2026-10-11T00:00:00"
     },
     {

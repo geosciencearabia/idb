@@ -297,7 +297,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0002928,
+        "value": 0.000293,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -331,7 +331,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001615,
+        "value": 0.0001614,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -564,7 +564,7 @@
     ],
     "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-10-23T12:28:23",
+    "updated_date": "2026-10-24T12:28:35",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -1732,8 +1732,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8299999833106995,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8299999833106995
         }
       ],
       "study_designs": [],
@@ -2952,8 +2952,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -4899,15 +4899,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8399999737739563,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -6785,8 +6785,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -8214,8 +8214,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46149998903274536
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -9316,8 +9316,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8899999856948853,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -11955,30 +11955,30 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.8999999761581421
         },
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.8518999814987183,
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.8518999814987183
         },
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.821399986743927
         },
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7250000238418579,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.7250000238418579
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7900000214576721,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
@@ -12986,8 +12986,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -13518,8 +13518,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7300000190734863,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7300000190734863
         }
       ],
       "study_designs": [],
@@ -16288,8 +16288,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.800000011920929,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -17286,8 +17286,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -18339,13 +18339,13 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5
         },
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.46000000834465027,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.46000000834465027
         }
       ],
       "study_designs": [],
@@ -19401,15 +19401,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5351999998092651
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
         }
       ],
       "study_designs": [],
@@ -20425,8 +20425,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7099999785423279
         }
       ],
       "study_designs": [],
@@ -21109,8 +21109,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7599999904632568
         }
       ],
       "study_designs": [],
@@ -22364,13 +22364,13 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         },
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46149998903274536
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -24985,8 +24985,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568,
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
@@ -26234,8 +26234,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5899999737739563
         }
       ],
       "study_designs": [],
@@ -27579,8 +27579,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.428600013256073,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.428600013256073
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -32966,8 +32966,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -36022,8 +36022,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5400000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5400000214576721
         }
       ],
       "study_designs": [],
@@ -37429,8 +37429,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -41451,8 +41451,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6200000047683716,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6200000047683716
         }
       ],
       "study_designs": [],
@@ -42181,8 +42181,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5199999809265137,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
@@ -47813,46 +47813,6 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111604304",
-            "display_name": "Abdullah A. Alshuhail",
-            "orcid": "https://orcid.org/0000-0001-5392-3261",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5392-3261"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
           "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
@@ -47894,6 +47854,46 @@
             "SA"
           ],
           "is_corresponding": true,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111604304",
+            "display_name": "Abdullah A. Alshuhail",
+            "orcid": "https://orcid.org/0000-0001-5392-3261",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5392-3261"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -47940,7 +47940,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullah A. Alshuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia",
@@ -48401,7 +48401,6 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -48413,11 +48412,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 1.6945,
+      "fwci": 1.6937,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80551226,
+        "value": 0.80545417,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48715,8 +48714,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7099999785423279,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7099999785423279
         }
       ],
       "study_designs": [],
@@ -48810,7 +48809,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-21T09:56:26.102985",
+      "updated_date": "2026-10-25T09:29:13.331239",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52312,8 +52311,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -55915,8 +55914,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5
         }
       ],
       "study_designs": [],
@@ -57934,8 +57933,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8999999761581421,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
@@ -59091,8 +59090,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -62672,8 +62671,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.550000011920929,
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.550000011920929
         }
       ],
       "study_designs": [],
@@ -63463,8 +63462,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -69240,8 +69239,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7900000214576721,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
@@ -70008,8 +70007,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7300000190734863
         }
       ],
       "study_designs": [],
@@ -72184,8 +72183,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.41999998688697815,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.41999998688697815
         }
       ],
       "study_designs": [],
@@ -73301,8 +73300,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -74180,8 +74179,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "study_designs": [],
@@ -79286,8 +79285,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8700000047683716,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
@@ -80686,15 +80685,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6800000071525574
         }
       ],
       "study_designs": [],
@@ -81606,15 +81605,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -82710,8 +82709,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -84918,8 +84917,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
@@ -88777,8 +88776,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6100000143051147,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6100000143051147
         }
       ],
       "study_designs": [],
@@ -89236,8 +89235,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5899999737739563,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5899999737739563
         }
       ],
       "study_designs": [],
@@ -91841,8 +91840,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.49000000953674316,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.49000000953674316
         }
       ],
       "study_designs": [],
@@ -92264,8 +92263,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5799999833106995,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5799999833106995
         }
       ],
       "study_designs": [],
@@ -92788,8 +92787,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
@@ -94743,8 +94742,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.6399999856948853,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.6399999856948853
         }
       ],
       "study_designs": [],
@@ -96064,8 +96063,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4099999964237213,
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
@@ -97046,8 +97045,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.800000011920929,
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -98455,8 +98454,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.7799999713897705,
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "score": 0.7799999713897705
         }
       ],
       "study_designs": [],
@@ -103265,8 +103264,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6800000071525574,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6800000071525574
         }
       ],
       "study_designs": [],
@@ -104195,8 +104194,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5799999833106995,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5799999833106995
         }
       ],
       "study_designs": [],
@@ -105465,8 +105464,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.821399986743927
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -109542,8 +109541,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4300000071525574,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -110603,8 +110602,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
       "study_designs": [],
@@ -111409,8 +111408,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5899999737739563,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5899999737739563
         }
       ],
       "study_designs": [],
@@ -111699,8 +111698,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6899999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6899999976158142
         }
       ],
       "study_designs": [],
@@ -112108,8 +112107,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6000000238418579,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6000000238418579
         }
       ],
       "study_designs": [],
@@ -113077,8 +113076,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8199999928474426,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8199999928474426
         }
       ],
       "study_designs": [],
@@ -113926,8 +113925,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/1",
-          "score": 0.5099999904632568,
-          "display_name": "No poverty"
+          "display_name": "No poverty",
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
@@ -114692,8 +114691,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.550000011920929,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.550000011920929
         }
       ],
       "study_designs": [],
@@ -115601,8 +115600,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6600000262260437,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6600000262260437
         }
       ],
       "study_designs": [],
@@ -116590,15 +116589,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.9090999960899353
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -117022,8 +117021,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.75
         }
       ],
       "study_designs": [],
@@ -117429,8 +117428,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.699999988079071,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -117867,8 +117866,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6000000238418579,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6000000238418579
         }
       ],
       "study_designs": [],
@@ -119056,15 +119055,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5378999710083008,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.5378999710083008
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         }
       ],
       "study_designs": [],
@@ -119932,8 +119931,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5099999904632568,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
@@ -124154,8 +124153,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -125053,8 +125052,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5299999713897705,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5299999713897705
         }
       ],
       "study_designs": [],
@@ -125905,8 +125904,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4000000059604645,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -130272,8 +130271,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46000000834465027
         }
       ],
       "study_designs": [],
@@ -132927,8 +132926,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -133871,8 +133870,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -137231,8 +137230,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4000000059604645,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -140343,8 +140342,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7200000286102295,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7200000286102295
         }
       ],
       "study_designs": [],
@@ -140709,8 +140708,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6800000071525574
         }
       ],
       "study_designs": [],
@@ -141120,8 +141119,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.800000011920929
         }
       ],
       "study_designs": [],
@@ -141927,8 +141926,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.6000000238418579,
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "score": 0.6000000238418579
         }
       ],
       "study_designs": [],
@@ -142609,8 +142608,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6600000262260437
         }
       ],
       "study_designs": [],
@@ -143555,8 +143554,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "study_designs": [],
@@ -144234,20 +144233,20 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         },
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4399999976158142
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4699999988079071,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4699999988079071
         }
       ],
       "study_designs": [],
@@ -145773,13 +145772,13 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         },
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5690000057220459
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -149090,8 +149089,8 @@
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.699999988079071
         }
       ],
       "study_designs": [],
@@ -150297,15 +150296,15 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5142999887466431,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5142999887466431
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
@@ -153676,8 +153675,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.428600013256073,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.428600013256073
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -158289,8 +158288,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.9786999821662903
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -160661,8 +160660,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         }
       ],
       "sustainable_development_goals_aurora": [],
