@@ -305,7 +305,7 @@
       {
         "id": "https://openalex.org/T13811",
         "display_name": "Earth Systems and Cosmic Evolution",
-        "value": 0.0001317,
+        "value": 0.0001316,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -322,7 +322,7 @@
       {
         "id": "https://openalex.org/T12615",
         "display_name": "Climate Change and Geoengineering",
-        "value": 0.0001042,
+        "value": 0.0001041,
         "subfield": {
           "id": "https://openalex.org/subfields/2306",
           "display_name": "Global and Planetary Change"
@@ -597,7 +597,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-10-24T12:28:35",
+    "updated_date": "2026-10-25T12:29:02",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -29083,7 +29083,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": "article-journal"
         }
@@ -36664,7 +36664,7 @@
           "license_id": "https://openalex.org/licenses/cc-by",
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": "article-journal"
         }
@@ -60785,7 +60785,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": "article-journal"
         }
@@ -64161,7 +64161,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": "article-journal"
         }
@@ -72192,7 +72192,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -74279,7 +74279,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -77482,7 +77482,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": "article-journal"
         }
@@ -83194,7 +83194,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -85046,7 +85046,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": "article-journal"
         }
@@ -87176,7 +87176,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -89168,7 +89168,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -90285,7 +90285,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": "article-journal"
         }
@@ -96784,7 +96784,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -97899,6 +97899,7 @@
             "anvur-class-a",
             "anvur-scientific",
             "cwts-core",
+            "ddh",
             "doaj",
             "dongbi-c",
             "jufo-1",
@@ -98024,16 +98025,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.609,
+      "fwci": 0.6018,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.54941142,
+        "value": 0.54658877,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 96
       },
       "biblio": {
@@ -98281,6 +98282,7 @@
               "anvur-class-a",
               "anvur-scientific",
               "cwts-core",
+              "ddh",
               "doaj",
               "dongbi-c",
               "jufo-1",
@@ -98419,6 +98421,7 @@
             "anvur-class-a",
             "anvur-scientific",
             "cwts-core",
+            "ddh",
             "doaj",
             "dongbi-c",
             "jufo-1",
@@ -102102,21 +102105,8 @@
               "https://orcid.org/0000-0002-9881-1578"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I63327873",
-              "display_name": "Gulf University",
-              "ror": "https://ror.org/01dfpjy51",
-              "country_code": "RS",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63327873"
-              ]
-            }
-          ],
-          "countries": [
-            "RS"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
@@ -102126,9 +102116,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Gulf PetroLink , Bahrain",
-              "institution_ids": [
-                "https://openalex.org/I63327873"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -102142,21 +102130,8 @@
               "https://orcid.org/0000-0003-0778-5771"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I63327873",
-              "display_name": "Gulf University",
-              "ror": "https://ror.org/01dfpjy51",
-              "country_code": "RS",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63327873"
-              ]
-            }
-          ],
-          "countries": [
-            "RS"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Lucia Angiolini",
           "raw_affiliation_strings": [
@@ -102166,9 +102141,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Gulf PetroLink , Bahrain",
-              "institution_ids": [
-                "https://openalex.org/I63327873"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -102182,21 +102155,8 @@
               "https://orcid.org/0000-0003-1115-5166"
             ]
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I63327873",
-              "display_name": "Gulf University",
-              "ror": "https://ror.org/01dfpjy51",
-              "country_code": "RS",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63327873"
-              ]
-            }
-          ],
-          "countries": [
-            "RS"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Melanie J. Leng",
           "raw_affiliation_strings": [
@@ -102206,9 +102166,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Gulf PetroLink , Bahrain",
-              "institution_ids": [
-                "https://openalex.org/I63327873"
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -102220,21 +102178,8 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I63327873",
-              "display_name": "Gulf University",
-              "ror": "https://ror.org/01dfpjy51",
-              "country_code": "RS",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I63327873"
-              ]
-            }
-          ],
-          "countries": [
-            "RS"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "D.P. Fiona Darbyshire",
           "raw_affiliation_strings": [
@@ -102244,27 +102189,23 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Gulf PetroLink , Bahrain",
-              "institution_ids": [
-                "https://openalex.org/I63327873"
-              ]
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I63327873"
-      ],
+      "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4775,
+      "fwci": 0.4771,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.60935043,
+        "value": 0.60896215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -103237,7 +103178,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-26T11:51:55.731654",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -104241,7 +104182,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": "article-journal"
         }
@@ -113876,7 +113817,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": "Oil & gas journal/Oil and gas journal",
           "raw_type": null
         }
@@ -114995,7 +114936,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -115599,7 +115540,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -115927,7 +115868,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -118575,7 +118516,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -119312,7 +119253,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": "EGUGA",
           "raw_type": null
         }
@@ -120059,7 +120000,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -120683,7 +120624,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -124169,7 +124110,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -125095,7 +125036,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -125401,7 +125342,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -127742,7 +127683,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -128179,7 +128120,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -128664,7 +128605,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -129041,7 +128982,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -130572,7 +130513,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
@@ -131007,7 +130948,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": "EGUGA",
           "raw_type": null
         }
@@ -131489,7 +131430,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": "EGU General Assembly Conference Abstracts",
           "raw_type": null
         }
@@ -131883,7 +131824,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": "EGU General Assembly Conference Abstracts",
           "raw_type": null
         }
@@ -134737,7 +134678,7 @@
           "license_id": null,
           "version": null,
           "is_accepted": false,
-          "is_published": null,
+          "is_published": false,
           "raw_source_name": null,
           "raw_type": null
         }
