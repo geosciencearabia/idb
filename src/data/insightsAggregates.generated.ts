@@ -421,6 +421,12 @@ export const topicYearStats: TopicYearStats[] = [
   },
   {
     "topic": "Air Quality Monitoring and Forecasting",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
+  },
+  {
+    "topic": "Air Quality Monitoring and Forecasting",
     "year": 2026,
     "pubs": 1,
     "cites": 0
@@ -984,6 +990,12 @@ export const topicYearStats: TopicYearStats[] = [
     "cites": 3
   },
   {
+    "topic": "Building Energy and Comfort Optimization",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
+  },
+  {
     "topic": "Building materials and conservation",
     "year": 2021,
     "pubs": 1,
@@ -1386,12 +1398,6 @@ export const topicYearStats: TopicYearStats[] = [
     "cites": 0
   },
   {
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
     "topic": "CO2 Reduction Techniques and Catalysts",
     "year": 2024,
     "pubs": 3,
@@ -1413,7 +1419,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 1999,
     "pubs": 1,
-    "cites": 239
+    "cites": 240
   },
   {
     "topic": "CO2 Sequestration and Geologic Interactions",
@@ -1509,13 +1515,13 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 21,
-    "cites": 658
+    "cites": 660
   },
   {
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 34,
-    "cites": 430
+    "cites": 431
   },
   {
     "topic": "CO2 Sequestration and Geologic Interactions",
@@ -2595,7 +2601,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 15,
-    "cites": 236
+    "cites": 237
   },
   {
     "topic": "Enhanced Oil Recovery Techniques",
@@ -3051,7 +3057,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Evolution and Paleontology Studies",
     "year": 2019,
     "pubs": 8,
-    "cites": 220
+    "cites": 221
   },
   {
     "topic": "Evolution and Paleontology Studies",
@@ -3555,7 +3561,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2023,
     "pubs": 50,
-    "cites": 471
+    "cites": 472
   },
   {
     "topic": "Geochemistry and Elemental Analysis",
@@ -4197,7 +4203,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 39,
-    "cites": 276
+    "cites": 277
   },
   {
     "topic": "Geological and Geochemical Analysis",
@@ -4311,7 +4317,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 1991,
     "pubs": 25,
-    "cites": 738
+    "cites": 737
   },
   {
     "topic": "Geological and Geophysical Studies",
@@ -4791,7 +4797,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Tectonic Studies in Latin America",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "topic": "Geological formations and processes",
@@ -4911,7 +4917,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 1991,
     "pubs": 16,
-    "cites": 321
+    "cites": 320
   },
   {
     "topic": "Geological formations and processes",
@@ -4959,7 +4965,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 1999,
     "pubs": 10,
-    "cites": 564
+    "cites": 565
   },
   {
     "topic": "Geological formations and processes",
@@ -5090,7 +5096,7 @@ export const topicYearStats: TopicYearStats[] = [
   {
     "topic": "Geological formations and processes",
     "year": 2021,
-    "pubs": 52,
+    "pubs": 53,
     "cites": 616
   },
   {
@@ -5445,7 +5451,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 1991,
     "pubs": 25,
-    "cites": 738
+    "cites": 737
   },
   {
     "topic": "Geological Studies and Exploration",
@@ -7149,7 +7155,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hybrid Renewable Energy Systems",
     "year": 2023,
     "pubs": 4,
-    "cites": 210
+    "cites": 211
   },
   {
     "topic": "Hybrid Renewable Energy Systems",
@@ -7413,7 +7419,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 1999,
     "pubs": 3,
-    "cites": 298
+    "cites": 299
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
@@ -7557,13 +7563,13 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 76,
-    "cites": 972
+    "cites": 973
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 117,
-    "cites": 728
+    "cites": 729
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
@@ -7593,7 +7599,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 7,
-    "cites": 126
+    "cites": 127
   },
   {
     "topic": "Hydrogen Storage and Materials",
@@ -7623,7 +7629,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 4,
-    "cites": 152
+    "cites": 153
   },
   {
     "topic": "Hydrological Forecasting Using AI",
@@ -7646,12 +7652,6 @@ export const topicYearStats: TopicYearStats[] = [
   {
     "topic": "Hydrology and Drought Analysis",
     "year": 2020,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
     "pubs": 1,
     "cites": 3
   },
@@ -7798,6 +7798,12 @@ export const topicYearStats: TopicYearStats[] = [
     "year": 2026,
     "pubs": 1,
     "cites": 0
+  },
+  {
+    "topic": "Indoor Air Quality and Microbial Exposure",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
   },
   {
     "topic": "Industrial Gas Emission Control",
@@ -8847,7 +8853,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 5,
-    "cites": 176
+    "cites": 177
   },
   {
     "topic": "Membrane Separation Technologies",
@@ -9717,7 +9723,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Paleontology and Evolutionary Biology",
     "year": 2019,
     "pubs": 13,
-    "cites": 289
+    "cites": 290
   },
   {
     "topic": "Paleontology and Evolutionary Biology",
@@ -9728,7 +9734,7 @@ export const topicYearStats: TopicYearStats[] = [
   {
     "topic": "Paleontology and Evolutionary Biology",
     "year": 2021,
-    "pubs": 13,
+    "pubs": 14,
     "cites": 141
   },
   {
@@ -10077,7 +10083,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2019,
     "pubs": 65,
-    "cites": 876
+    "cites": 877
   },
   {
     "topic": "Paleontology and Stratigraphy of Fossils",
@@ -10088,7 +10094,7 @@ export const topicYearStats: TopicYearStats[] = [
   {
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2021,
-    "pubs": 59,
+    "pubs": 60,
     "cites": 693
   },
   {
@@ -11193,7 +11199,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2023,
     "pubs": 6,
-    "cites": 172
+    "cites": 173
   },
   {
     "topic": "Reservoir Engineering and Simulation Methods",
@@ -12189,7 +12195,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 2,
-    "cites": 65
+    "cites": 66
   },
   {
     "topic": "Surfactants and Colloidal Systems",
@@ -12442,12 +12448,6 @@ export const topicYearStats: TopicYearStats[] = [
     "year": 2023,
     "pubs": 1,
     "cites": 14
-  },
-  {
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
   },
   {
     "topic": "Urban Heat Island Mitigation",
@@ -13474,7 +13474,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 2,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5000537987",
@@ -13488,14 +13488,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 2,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5000537987",
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5000541549",
@@ -23085,7 +23085,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Evolution and Paleontology Studies",
     "year": 2019,
     "pubs": 1,
-    "cites": 136
+    "cites": 137
   },
   {
     "authorOpenAlexId": "A5005081494",
@@ -23113,7 +23113,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Evolutionary Biology",
     "year": 2019,
     "pubs": 1,
-    "cites": 136
+    "cites": 137
   },
   {
     "authorOpenAlexId": "A5005081494",
@@ -23134,7 +23134,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2019,
     "pubs": 1,
-    "cites": 136
+    "cites": 137
   },
   {
     "authorOpenAlexId": "A5005081494",
@@ -24121,7 +24121,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5005766058",
@@ -24142,7 +24142,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5005766058",
@@ -24156,7 +24156,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5005830513",
@@ -24741,20 +24741,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5006012418",
-    "topic": "Hydrological Forecasting Using AI",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 1
-  },
-  {
-    "authorOpenAlexId": "A5006012418",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 1
-  },
-  {
-    "authorOpenAlexId": "A5006012418",
     "topic": "Land Use and Ecosystem Services",
     "year": 2026,
     "pubs": 1,
@@ -24785,8 +24771,8 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "authorOpenAlexId": "A5006012418",
     "topic": "Water resources management and optimization",
     "year": 2026,
-    "pubs": 2,
-    "cites": 1
+    "pubs": 1,
+    "cites": 0
   },
   {
     "authorOpenAlexId": "A5006019310",
@@ -31415,7 +31401,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5008820196",
@@ -31429,7 +31415,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5008820196",
@@ -31443,7 +31429,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5008820196",
@@ -40354,7 +40340,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2023,
     "pubs": 11,
-    "cites": 113
+    "cites": 114
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -40606,7 +40592,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 12,
-    "cites": 126
+    "cites": 127
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -40893,7 +40879,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Tectonic Studies in Latin America",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5011750653",
@@ -43724,27 +43710,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "cites": 57
   },
   {
-    "authorOpenAlexId": "A5013053211",
-    "topic": "Geological Studies and Exploration",
-    "year": 2019,
-    "pubs": 1,
-    "cites": 11
-  },
-  {
-    "authorOpenAlexId": "A5013053211",
-    "topic": "Seismic Imaging and Inversion Techniques",
-    "year": 2019,
-    "pubs": 1,
-    "cites": 11
-  },
-  {
-    "authorOpenAlexId": "A5013053211",
-    "topic": "Seismic Waves and Analysis",
-    "year": 2019,
-    "pubs": 1,
-    "cites": 11
-  },
-  {
     "authorOpenAlexId": "A5013074507",
     "topic": "Geological formations and processes",
     "year": 1993,
@@ -44533,7 +44498,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Evolution and Paleontology Studies",
     "year": 2019,
     "pubs": 4,
-    "cites": 181
+    "cites": 182
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -45086,7 +45051,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Evolutionary Biology",
     "year": 2019,
     "pubs": 6,
-    "cites": 193
+    "cites": 194
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -45261,7 +45226,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2019,
     "pubs": 7,
-    "cites": 199
+    "cites": 200
   },
   {
     "authorOpenAlexId": "A5013195813",
@@ -46262,7 +46227,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Evolution and Paleontology Studies",
     "year": 2019,
     "pubs": 1,
-    "cites": 136
+    "cites": 137
   },
   {
     "authorOpenAlexId": "A5013751176",
@@ -46311,7 +46276,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Evolutionary Biology",
     "year": 2019,
     "pubs": 1,
-    "cites": 136
+    "cites": 137
   },
   {
     "authorOpenAlexId": "A5013751176",
@@ -46346,7 +46311,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2019,
     "pubs": 1,
-    "cites": 136
+    "cites": 137
   },
   {
     "authorOpenAlexId": "A5013751176",
@@ -48034,27 +47999,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2012,
     "pubs": 1,
     "cites": 7
-  },
-  {
-    "authorOpenAlexId": "A5014606576",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5014606576",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5014606576",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
   },
   {
     "authorOpenAlexId": "A5014644075",
@@ -51057,7 +51001,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5016134712",
@@ -51071,7 +51015,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5016134712",
@@ -51085,7 +51029,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Tectonic Studies in Latin America",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5016147794",
@@ -58449,21 +58393,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 1,
-    "cites": 52
+    "cites": 53
   },
   {
     "authorOpenAlexId": "A5019919875",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 1,
-    "cites": 52
+    "cites": 53
   },
   {
     "authorOpenAlexId": "A5019919875",
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 1,
-    "cites": 52
+    "cites": 53
   },
   {
     "authorOpenAlexId": "A5019972279",
@@ -60122,7 +60066,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5020849954",
@@ -60136,7 +60080,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5020849954",
@@ -60150,7 +60094,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5020849954",
@@ -67314,27 +67258,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "cites": 73
   },
   {
-    "authorOpenAlexId": "A5024020559",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5024020559",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5024020559",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
     "authorOpenAlexId": "A5024022389",
     "topic": "Analytical chemistry methods development",
     "year": 2022,
@@ -71260,27 +71183,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2021,
     "pubs": 1,
     "cites": 48
-  },
-  {
-    "authorOpenAlexId": "A5025618130",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5025618130",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5025618130",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
   },
   {
     "authorOpenAlexId": "A5025628629",
@@ -83513,27 +83415,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5030371811",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
-    "topic": "Coastal and Marine Dynamics",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
-    "topic": "Earthquake and Tsunami Effects",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
     "topic": "Environmental Toxicology and Ecotoxicology",
     "year": 2026,
     "pubs": 1,
@@ -83552,13 +83433,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2023,
     "pubs": 1,
     "cites": 33
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
-    "topic": "Flood Risk Assessment and Management",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
   },
   {
     "authorOpenAlexId": "A5030371811",
@@ -83642,7 +83516,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 4,
-    "cites": 152
+    "cites": 153
   },
   {
     "authorOpenAlexId": "A5030371811",
@@ -83657,27 +83531,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2025,
     "pubs": 1,
     "cites": 8
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
-    "topic": "Hydrological Forecasting Using AI",
-    "year": 2026,
-    "pubs": 2,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2026,
-    "pubs": 2,
-    "cites": 3
   },
   {
     "authorOpenAlexId": "A5030371811",
@@ -83712,7 +83565,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 5,
-    "cites": 176
+    "cites": 177
   },
   {
     "authorOpenAlexId": "A5030371811",
@@ -83775,14 +83628,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5030371811",
@@ -83867,13 +83713,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2025,
     "pubs": 1,
     "cites": 8
-  },
-  {
-    "authorOpenAlexId": "A5030371811",
-    "topic": "Water resources management and optimization",
-    "year": 2026,
-    "pubs": 2,
-    "cites": 3
   },
   {
     "authorOpenAlexId": "A5030390580",
@@ -85960,48 +85799,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2001,
     "pubs": 1,
     "cites": 7
-  },
-  {
-    "authorOpenAlexId": "A5031593698",
-    "topic": "Coastal and Marine Dynamics",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
-  },
-  {
-    "authorOpenAlexId": "A5031593698",
-    "topic": "Earthquake and Tsunami Effects",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
-  },
-  {
-    "authorOpenAlexId": "A5031593698",
-    "topic": "Flood Risk Assessment and Management",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
-  },
-  {
-    "authorOpenAlexId": "A5031593698",
-    "topic": "Hydrological Forecasting Using AI",
-    "year": 2026,
-    "pubs": 2,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5031593698",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2026,
-    "pubs": 2,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5031593698",
-    "topic": "Water resources management and optimization",
-    "year": 2026,
-    "pubs": 2,
-    "cites": 3
   },
   {
     "authorOpenAlexId": "A5031601919",
@@ -88612,7 +88409,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 2,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5032669797",
@@ -88626,14 +88423,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 2,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5032669797",
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5032678644",
@@ -93775,13 +93572,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5034568196",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5034568196",
     "topic": "CO2 Reduction Techniques and Catalysts",
     "year": 2024,
     "pubs": 2,
@@ -94261,7 +94051,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 4,
-    "cites": 152
+    "cites": 153
   },
   {
     "authorOpenAlexId": "A5034568196",
@@ -94282,13 +94072,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2026,
     "pubs": 2,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5034568196",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
     "cites": 3
   },
   {
@@ -94366,7 +94149,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 5,
-    "cites": 176
+    "cites": 177
   },
   {
     "authorOpenAlexId": "A5034568196",
@@ -94548,7 +94331,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5034568196",
@@ -94584,13 +94367,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2026,
     "pubs": 1,
     "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5034568196",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
   },
   {
     "authorOpenAlexId": "A5034568196",
@@ -97193,7 +96969,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "authorOpenAlexId": "A5035537771",
     "topic": "Geological formations and processes",
     "year": 2021,
-    "pubs": 4,
+    "pubs": 5,
     "cites": 50
   },
   {
@@ -97423,6 +97199,13 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   {
     "authorOpenAlexId": "A5035537771",
     "topic": "Paleontology and Evolutionary Biology",
+    "year": 2021,
+    "pubs": 1,
+    "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5035537771",
+    "topic": "Paleontology and Evolutionary Biology",
     "year": 2022,
     "pubs": 2,
     "cites": 0
@@ -97447,6 +97230,13 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2020,
     "pubs": 2,
     "cites": 67
+  },
+  {
+    "authorOpenAlexId": "A5035537771",
+    "topic": "Paleontology and Stratigraphy of Fossils",
+    "year": 2021,
+    "pubs": 1,
+    "cites": 0
   },
   {
     "authorOpenAlexId": "A5035537771",
@@ -97678,27 +97468,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2022,
     "pubs": 1,
     "cites": 15
-  },
-  {
-    "authorOpenAlexId": "A5035619951",
-    "topic": "Geological Studies and Exploration",
-    "year": 2019,
-    "pubs": 1,
-    "cites": 11
-  },
-  {
-    "authorOpenAlexId": "A5035619951",
-    "topic": "Seismic Imaging and Inversion Techniques",
-    "year": 2019,
-    "pubs": 1,
-    "cites": 11
-  },
-  {
-    "authorOpenAlexId": "A5035619951",
-    "topic": "Seismic Waves and Analysis",
-    "year": 2019,
-    "pubs": 1,
-    "cites": 11
   },
   {
     "authorOpenAlexId": "A5035630470",
@@ -103225,45 +102994,10 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5036616600",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5036616600",
     "topic": "Hydrological Forecasting Using AI",
     "year": 2025,
     "pubs": 1,
     "cites": 8
-  },
-  {
-    "authorOpenAlexId": "A5036616600",
-    "topic": "Hydrological Forecasting Using AI",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
-  },
-  {
-    "authorOpenAlexId": "A5036616600",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5036616600",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
-  },
-  {
-    "authorOpenAlexId": "A5036616600",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
   },
   {
     "authorOpenAlexId": "A5036616600",
@@ -103278,13 +103012,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2025,
     "pubs": 1,
     "cites": 8
-  },
-  {
-    "authorOpenAlexId": "A5036616600",
-    "topic": "Water resources management and optimization",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
   },
   {
     "authorOpenAlexId": "A5036619751",
@@ -104957,7 +104684,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5037540489",
@@ -104971,14 +104698,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5037540489",
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5037540489",
@@ -112216,7 +111943,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 1999,
     "pubs": 1,
-    "cites": 239
+    "cites": 240
   },
   {
     "authorOpenAlexId": "A5039734802",
@@ -112356,7 +112083,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 1999,
     "pubs": 1,
-    "cites": 239
+    "cites": 240
   },
   {
     "authorOpenAlexId": "A5039734802",
@@ -112622,7 +112349,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 1999,
     "pubs": 1,
-    "cites": 239
+    "cites": 240
   },
   {
     "authorOpenAlexId": "A5039734802",
@@ -126076,7 +125803,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 2,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5044382284",
@@ -126090,14 +125817,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 2,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5044382284",
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5044399708",
@@ -134938,14 +134665,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5047318535",
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5047318535",
@@ -134959,7 +134686,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5047318535",
@@ -134973,14 +134700,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5047318535",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5047318535",
@@ -134994,7 +134721,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5047343947",
@@ -158402,21 +158129,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5056148149",
     "topic": "Hybrid Renewable Energy Systems",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5056148149",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5056155361",
@@ -162799,27 +162526,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2025,
     "pubs": 1,
     "cites": 1
-  },
-  {
-    "authorOpenAlexId": "A5057920339",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5057920339",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5057920339",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
   },
   {
     "authorOpenAlexId": "A5057923629",
@@ -172514,7 +172220,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5060928668",
@@ -172535,7 +172241,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5060928668",
@@ -172549,7 +172255,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5060932213",
@@ -176483,7 +176189,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 4,
-    "cites": 152
+    "cites": 153
   },
   {
     "authorOpenAlexId": "A5062007467",
@@ -176518,7 +176224,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 5,
-    "cites": 176
+    "cites": 177
   },
   {
     "authorOpenAlexId": "A5062007467",
@@ -176539,7 +176245,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5062007467",
@@ -184404,6 +184110,13 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5066339016",
+    "topic": "Air Quality Monitoring and Forecasting",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
+  },
+  {
+    "authorOpenAlexId": "A5066339016",
     "topic": "Analytical chemistry methods development",
     "year": 2026,
     "pubs": 1,
@@ -184411,10 +184124,24 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5066339016",
+    "topic": "Building Energy and Comfort Optimization",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
+  },
+  {
+    "authorOpenAlexId": "A5066339016",
     "topic": "Environmental and Analytical Chemistry Studies",
     "year": 2026,
     "pubs": 1,
     "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5066339016",
+    "topic": "Indoor Air Quality and Microbial Exposure",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
   },
   {
     "authorOpenAlexId": "A5066339016",
@@ -188229,14 +187956,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 3,
-    "cites": 200
+    "cites": 201
   },
   {
     "authorOpenAlexId": "A5067974945",
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 9,
-    "cites": 98
+    "cites": 99
   },
   {
     "authorOpenAlexId": "A5067974945",
@@ -188264,7 +187991,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5067974945",
@@ -188418,14 +188145,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5067974945",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 3,
-    "cites": 83
+    "cites": 84
   },
   {
     "authorOpenAlexId": "A5067974945",
@@ -188439,7 +188166,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 4,
-    "cites": 82
+    "cites": 83
   },
   {
     "authorOpenAlexId": "A5067974945",
@@ -192597,14 +192324,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5069887411",
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5069887411",
@@ -192618,7 +192345,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5069887411",
@@ -192632,14 +192359,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5069887411",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5069887411",
@@ -192653,7 +192380,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5069920487",
@@ -193588,10 +193315,24 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5070411489",
+    "topic": "Air Quality Monitoring and Forecasting",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
+  },
+  {
+    "authorOpenAlexId": "A5070411489",
     "topic": "Analytical chemistry methods development",
     "year": 2026,
     "pubs": 1,
     "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5070411489",
+    "topic": "Building Energy and Comfort Optimization",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
   },
   {
     "authorOpenAlexId": "A5070411489",
@@ -194600,6 +194341,13 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2025,
     "pubs": 4,
     "cites": 4
+  },
+  {
+    "authorOpenAlexId": "A5070411489",
+    "topic": "Indoor Air Quality and Microbial Exposure",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 6
   },
   {
     "authorOpenAlexId": "A5070411489",
@@ -199191,7 +198939,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 3,
-    "cites": 121
+    "cites": 122
   },
   {
     "authorOpenAlexId": "A5072286524",
@@ -199212,7 +198960,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 4,
-    "cites": 145
+    "cites": 146
   },
   {
     "authorOpenAlexId": "A5072286524",
@@ -199247,7 +198995,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5072286524",
@@ -203664,7 +203412,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 5,
-    "cites": 238
+    "cites": 239
   },
   {
     "authorOpenAlexId": "A5074794653",
@@ -204294,7 +204042,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hybrid Renewable Energy Systems",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5074794653",
@@ -204504,7 +204252,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5074794653",
@@ -208459,21 +208207,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5076107517",
     "topic": "Hybrid Renewable Energy Systems",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5076107517",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5076126164",
@@ -216705,14 +216453,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 3,
-    "cites": 187
+    "cites": 188
   },
   {
     "authorOpenAlexId": "A5079903196",
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 4,
-    "cites": 77
+    "cites": 78
   },
   {
     "authorOpenAlexId": "A5079903196",
@@ -216817,7 +216565,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 2,
-    "cites": 136
+    "cites": 137
   },
   {
     "authorOpenAlexId": "A5079903196",
@@ -217279,14 +217027,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 7,
-    "cites": 240
+    "cites": 241
   },
   {
     "authorOpenAlexId": "A5079903196",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 14,
-    "cites": 148
+    "cites": 149
   },
   {
     "authorOpenAlexId": "A5079903196",
@@ -217307,7 +217055,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5079903196",
@@ -219757,21 +219505,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5081032657",
     "topic": "Hybrid Renewable Energy Systems",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5081032657",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5081086844",
@@ -222319,7 +222067,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geophysical Studies",
     "year": 1991,
     "pubs": 3,
-    "cites": 100
+    "cites": 99
   },
   {
     "authorOpenAlexId": "A5081811780",
@@ -222389,7 +222137,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 1991,
     "pubs": 2,
-    "cites": 93
+    "cites": 92
   },
   {
     "authorOpenAlexId": "A5081811780",
@@ -222550,7 +222298,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological Studies and Exploration",
     "year": 1991,
     "pubs": 4,
-    "cites": 112
+    "cites": 111
   },
   {
     "authorOpenAlexId": "A5081811780",
@@ -223096,21 +222844,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5081818143",
     "topic": "Hybrid Renewable Energy Systems",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5081818143",
     "topic": "Reservoir Engineering and Simulation Methods",
     "year": 2023,
     "pubs": 2,
-    "cites": 119
+    "cites": 120
   },
   {
     "authorOpenAlexId": "A5081821644",
@@ -234506,7 +234254,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 3,
-    "cites": 174
+    "cites": 175
   },
   {
     "authorOpenAlexId": "A5086234953",
@@ -234520,7 +234268,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 2,
-    "cites": 123
+    "cites": 124
   },
   {
     "authorOpenAlexId": "A5086234953",
@@ -234541,7 +234289,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 3,
-    "cites": 174
+    "cites": 175
   },
   {
     "authorOpenAlexId": "A5086234953",
@@ -236032,21 +235780,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5086592024",
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5086592024",
     "topic": "Geological and Tectonic Studies in Latin America",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5086662700",
@@ -236158,7 +235906,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrological Forecasting Using AI",
     "year": 2023,
     "pubs": 2,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5086759595",
@@ -236172,14 +235920,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Membrane Separation Technologies",
     "year": 2023,
     "pubs": 2,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5086759595",
     "topic": "Surface Modification and Superhydrophobicity",
     "year": 2023,
     "pubs": 1,
-    "cites": 51
+    "cites": 52
   },
   {
     "authorOpenAlexId": "A5086795464",
@@ -238062,7 +237810,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2023,
     "pubs": 2,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5087693955",
@@ -238104,7 +237852,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 2,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5087693955",
@@ -238153,7 +237901,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Tectonic Studies in Latin America",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5087693955",
@@ -241744,7 +241492,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 1999,
     "pubs": 1,
-    "cites": 239
+    "cites": 240
   },
   {
     "authorOpenAlexId": "A5089518847",
@@ -241765,7 +241513,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 1999,
     "pubs": 1,
-    "cites": 239
+    "cites": 240
   },
   {
     "authorOpenAlexId": "A5089518847",
@@ -241779,7 +241527,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 1999,
     "pubs": 1,
-    "cites": 239
+    "cites": 240
   },
   {
     "authorOpenAlexId": "A5089518847",
@@ -249664,27 +249412,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "cites": 1
   },
   {
-    "authorOpenAlexId": "A5095780465",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5095780465",
-    "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5095780465",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
     "authorOpenAlexId": "A5096007867",
     "topic": "Aeolian processes and effects",
     "year": 1998,
@@ -256402,7 +256129,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2023,
     "pubs": 2,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5102958146",
@@ -256430,7 +256157,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 2,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5102958146",
@@ -256472,7 +256199,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Tectonic Studies in Latin America",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5102962250",
@@ -257774,14 +257501,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5103178727",
     "topic": "CO2 Sequestration and Geologic Interactions",
     "year": 2024,
     "pubs": 3,
-    "cites": 80
+    "cites": 81
   },
   {
     "authorOpenAlexId": "A5103178727",
@@ -257795,7 +257522,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Enhanced Oil Recovery Techniques",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5103178727",
@@ -257816,14 +257543,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 115
+    "cites": 116
   },
   {
     "authorOpenAlexId": "A5103178727",
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 2024,
     "pubs": 2,
-    "cites": 72
+    "cites": 73
   },
   {
     "authorOpenAlexId": "A5103178727",
@@ -257837,7 +257564,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrogen Storage and Materials",
     "year": 2024,
     "pubs": 3,
-    "cites": 80
+    "cites": 81
   },
   {
     "authorOpenAlexId": "A5103179318",
@@ -262996,21 +262723,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Elemental Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5108283720",
     "topic": "Geological and Geochemical Analysis",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5108283720",
     "topic": "Geological and Tectonic Studies in Latin America",
     "year": 2023,
     "pubs": 1,
-    "cites": 2
+    "cites": 3
   },
   {
     "authorOpenAlexId": "A5108291309",
@@ -265653,13 +265380,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5109707707",
-    "topic": "Climate variability and models",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5109707707",
     "topic": "Disaster Management and Resilience",
     "year": 2026,
     "pubs": 1,
@@ -265689,22 +265409,8 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   {
     "authorOpenAlexId": "A5109707707",
     "topic": "Hydrology and Drought Analysis",
-    "year": 2025,
-    "pubs": 1,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5109707707",
-    "topic": "Hydrology and Drought Analysis",
     "year": 2026,
     "pubs": 2,
-    "cites": 3
-  },
-  {
-    "authorOpenAlexId": "A5109707707",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2025,
-    "pubs": 1,
     "cites": 3
   },
   {
@@ -281193,27 +280899,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5129661867",
-    "topic": "Impact of Light on Environment and Health",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5129661867",
-    "topic": "Land Use and Ecosystem Services",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5129661867",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5129661867",
     "topic": "Water resources management and optimization",
     "year": 2026,
     "pubs": 2,
@@ -281242,24 +280927,10 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   },
   {
     "authorOpenAlexId": "A5129708590",
-    "topic": "Coastal and Marine Dynamics",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
-  },
-  {
-    "authorOpenAlexId": "A5129708590",
     "topic": "Disaster Management and Resilience",
     "year": 2026,
     "pubs": 1,
     "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5129708590",
-    "topic": "Earthquake and Tsunami Effects",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 2
   },
   {
     "authorOpenAlexId": "A5129708590",
@@ -281272,8 +280943,8 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "authorOpenAlexId": "A5129708590",
     "topic": "Flood Risk Assessment and Management",
     "year": 2026,
-    "pubs": 2,
-    "cites": 2
+    "pubs": 1,
+    "cites": 0
   },
   {
     "authorOpenAlexId": "A5129708590",
@@ -281537,6 +281208,13 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
   {
     "authorOpenAlexId": "A5133308938",
     "topic": "Global Energy and Sustainability Research",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5133308938",
+    "topic": "Global Energy and Sustainability Research",
     "year": 2026,
     "pubs": 1,
     "cites": 0
@@ -281554,6 +281232,20 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2026,
     "pubs": 1,
     "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5133308938",
+    "topic": "Research, Science, and Academia",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5133308938",
+    "topic": "scientometrics and bibliometrics research",
+    "year": 2025,
+    "pubs": 1,
+    "cites": 2
   },
   {
     "authorOpenAlexId": "A5133314714",
@@ -282277,27 +281969,6 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "cites": 0
   },
   {
-    "authorOpenAlexId": "A5135351984",
-    "topic": "Impact of Light on Environment and Health",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5135351984",
-    "topic": "Land Use and Ecosystem Services",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
-  },
-  {
-    "authorOpenAlexId": "A5135351984",
-    "topic": "Urban Heat Island Mitigation",
-    "year": 2026,
-    "pubs": 1,
-    "cites": 0
-  },
-  {
     "authorOpenAlexId": "A5135467568",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2026,
@@ -282653,6 +282324,27 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2026,
     "pubs": 1,
     "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5137727075",
+    "topic": "Coastal and Marine Dynamics",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5137727075",
+    "topic": "Earthquake and Tsunami Effects",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5137727075",
+    "topic": "Flood Risk Assessment and Management",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
   },
   {
     "authorOpenAlexId": "A5138152327",
@@ -284375,5 +284067,152 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "year": 2026,
     "pubs": 1,
     "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5159579728",
+    "topic": "Coastal and Marine Dynamics",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159579728",
+    "topic": "Earthquake and Tsunami Effects",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159579728",
+    "topic": "Flood Risk Assessment and Management",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159579728",
+    "topic": "Hydrological Forecasting Using AI",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159579728",
+    "topic": "Hydrology and Drought Analysis",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159579728",
+    "topic": "Water resources management and optimization",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159658023",
+    "topic": "Hydrological Forecasting Using AI",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 1
+  },
+  {
+    "authorOpenAlexId": "A5159658023",
+    "topic": "Hydrology and Drought Analysis",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 1
+  },
+  {
+    "authorOpenAlexId": "A5159658023",
+    "topic": "Water resources management and optimization",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 1
+  },
+  {
+    "authorOpenAlexId": "A5159659173",
+    "topic": "Hydrological Forecasting Using AI",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 1
+  },
+  {
+    "authorOpenAlexId": "A5159659173",
+    "topic": "Hydrology and Drought Analysis",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 1
+  },
+  {
+    "authorOpenAlexId": "A5159659173",
+    "topic": "Water resources management and optimization",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 1
+  },
+  {
+    "authorOpenAlexId": "A5159696745",
+    "topic": "Impact of Light on Environment and Health",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5159696745",
+    "topic": "Land Use and Ecosystem Services",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5159696745",
+    "topic": "Urban Heat Island Mitigation",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 0
+  },
+  {
+    "authorOpenAlexId": "A5159711458",
+    "topic": "Coastal and Marine Dynamics",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159711458",
+    "topic": "Earthquake and Tsunami Effects",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159711458",
+    "topic": "Flood Risk Assessment and Management",
+    "year": 2026,
+    "pubs": 1,
+    "cites": 2
+  },
+  {
+    "authorOpenAlexId": "A5159711458",
+    "topic": "Hydrological Forecasting Using AI",
+    "year": 2026,
+    "pubs": 2,
+    "cites": 3
+  },
+  {
+    "authorOpenAlexId": "A5159711458",
+    "topic": "Hydrology and Drought Analysis",
+    "year": 2026,
+    "pubs": 2,
+    "cites": 3
+  },
+  {
+    "authorOpenAlexId": "A5159711458",
+    "topic": "Water resources management and optimization",
+    "year": 2026,
+    "pubs": 2,
+    "cites": 3
   }
 ];

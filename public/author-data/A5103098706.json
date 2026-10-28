@@ -21,7 +21,7 @@
     ],
     "full_name": "Johnson, Peter Roland Andrew",
     "works_count": 68,
-    "cited_by_count": 5707,
+    "cited_by_count": 5713,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 31,
@@ -417,7 +417,7 @@
         "year": 2003,
         "works_count": 6,
         "oa_works_count": 0,
-        "cited_by_count": 845
+        "cited_by_count": 846
       },
       {
         "year": 2004,
@@ -441,7 +441,7 @@
         "year": 2008,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 53
+        "cited_by_count": 54
       },
       {
         "year": 2009,
@@ -453,13 +453,13 @@
         "year": 2010,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 973
+        "cited_by_count": 974
       },
       {
         "year": 2011,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 830
+        "cited_by_count": 831
       },
       {
         "year": 2013,
@@ -483,7 +483,7 @@
         "year": 2016,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 81
+        "cited_by_count": 82
       },
       {
         "year": 2017,
@@ -513,7 +513,7 @@
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 36
+        "cited_by_count": 37
       },
       {
         "year": 2022,
@@ -549,7 +549,7 @@
     ],
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-10-25T12:29:02",
+    "updated_date": "2026-10-26T12:28:34",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -886,7 +886,7 @@
               "id": "https://openalex.org/I4391767817",
               "display_name": "State Key Laboratory of Geological Processes and Mineral Resources",
               "ror": "https://ror.org/04sg95s75",
-              "country_code": null,
+              "country_code": "CN",
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I3124059619",
@@ -967,11 +967,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 27.1865,
+      "fwci": 27.0985,
       "has_fulltext": false,
       "cited_by_count": 820,
       "citation_normalized_percentile": {
-        "value": 0.99860589,
+        "value": 0.99860162,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1306,9 +1306,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1779,8 +1779,8 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-10-26T11:51:55.731654",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-10-27T15:51:10.671819",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W1982712732",
@@ -1843,7 +1843,7 @@
         "raw_type": "journal-article"
       },
       "volume": null,
-      "type": "article",
+      "type": "review",
       "indexed_in": [
         "crossref",
         "pubmed"
@@ -2451,11 +2451,11 @@
         "currency": "USD",
         "value_usd": 3370
       },
-      "fwci": 31.1519,
+      "fwci": 7.7717,
       "has_fulltext": false,
       "cited_by_count": 810,
       "citation_normalized_percentile": {
-        "value": 0.99909253,
+        "value": 1,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2739,6 +2739,68 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:europepmc.org:3791806",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4802517",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400806",
+            "display_name": "Europe PMC (PubMed Central)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1303153112",
+            "host_organization_name": "European Bioinformatics Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/I1303153112"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": null,
+          "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:4802517",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4802517",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "J Afr Earth Sci",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:27065752",
           "doi": null,
           "is_oa": false,
@@ -2768,68 +2830,6 @@
           "is_published": true,
           "raw_source_name": "Journal of African earth sciences (Oxford, England : 1994)",
           "raw_type": "Review"
-        },
-        {
-          "id": "pmh:oai:europepmc.org:3791806",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4802517",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400806",
-            "display_name": "Europe PMC (PubMed Central)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1303153112",
-            "host_organization_name": "European Bioinformatics Institute",
-            "host_organization_lineage": [
-              "https://openalex.org/I1303153112"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Text"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:4802517",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4802517",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "J Afr Earth Sci",
-          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:cris.unibo.it:11585/569745",
@@ -2943,9 +2943,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -4082,8 +4082,8 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-10-27T15:51:10.671819",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2029292238",
@@ -4637,9 +4637,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5358,9 +5358,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.49000000953674316,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -6530,9 +6530,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7252,9 +7252,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -8132,9 +8132,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -9933,9 +9933,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5199999809265137,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -10938,7 +10938,7 @@
               "id": "https://openalex.org/I4391767817",
               "display_name": "State Key Laboratory of Geological Processes and Mineral Resources",
               "ror": "https://ror.org/04sg95s75",
-              "country_code": null,
+              "country_code": "CN",
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I3124059619",
@@ -11070,11 +11070,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 4.9711,
+      "fwci": 4.9638,
       "has_fulltext": false,
       "cited_by_count": 110,
       "citation_normalized_percentile": {
-        "value": 0.94347756,
+        "value": 0.94336249,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11431,9 +11431,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -12100,7 +12100,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-27T15:51:10.671819",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12280,7 +12280,7 @@
               "id": "https://openalex.org/I4391767817",
               "display_name": "State Key Laboratory of Geological Processes and Mineral Resources",
               "ror": "https://ror.org/04sg95s75",
-              "country_code": null,
+              "country_code": "CN",
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I3124059619",
@@ -12362,11 +12362,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 6.4366,
+      "fwci": 6.4361,
       "has_fulltext": false,
       "cited_by_count": 104,
       "citation_normalized_percentile": {
-        "value": 0.98031335,
+        "value": 0.98041877,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12681,9 +12681,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -12946,8 +12946,8 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-10-27T15:51:10.671819",
+      "created_date": "2019-06-27T00:00:00"
     },
     {
       "id": "https://openalex.org/W2766757858",
@@ -13471,9 +13471,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15484,9 +15484,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -16738,9 +16738,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -17997,9 +17997,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -18670,9 +18670,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -19304,9 +19304,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land",
           "score": 0.44999998807907104,
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -20003,9 +20003,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20598,9 +20598,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21369,9 +21369,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6000000238418579,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22027,9 +22027,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -22645,9 +22645,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -23454,9 +23454,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -24084,9 +24084,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/16",
+          "display_name": "Peace, justice, and strong institutions",
           "score": 0.4300000071525574,
-          "display_name": "Peace, justice, and strong institutions"
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "study_designs": [],
@@ -25215,11 +25215,11 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 1.3662,
+      "fwci": 1.367,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.78866732,
+        "value": 0.7882517,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25500,8 +25500,8 @@
           "landing_page_url": "https://scholarworks.boisestate.edu/geo_facpubs/192",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400258",
-            "display_name": "ScholarWorks (Boise State University)",
+            "id": "https://openalex.org/S4377196366",
+            "display_name": "Scholar Works  (Boise State University)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -25560,9 +25560,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -26108,7 +26108,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-27T15:51:10.671819",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -26717,9 +26717,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -27649,7 +27649,7 @@
               "id": "https://openalex.org/I4387152300",
               "display_name": "State Key Laboratory of Palaeobiology and Stratigraphy",
               "ror": "https://ror.org/03cz18e20",
-              "country_code": null,
+              "country_code": "CN",
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I19820366",
@@ -28353,16 +28353,16 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 2.712,
+      "fwci": 2.7307,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.91050413,
+        "value": 0.91157128,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -28832,9 +28832,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -29044,8 +29044,8 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-10-27T15:51:10.671819",
+      "created_date": "2020-04-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W2079727754",
@@ -29408,9 +29408,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6800000071525574,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -31278,16 +31278,16 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.3957,
+      "fwci": 3.402,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.93126473,
+        "value": 0.93170295,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 99
       },
       "biblio": {
@@ -31569,8 +31569,8 @@
           "landing_page_url": "https://scholarworks.boisestate.edu/geo_facpubs/629",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400258",
-            "display_name": "ScholarWorks (Boise State University)",
+            "id": "https://openalex.org/S4377196366",
+            "display_name": "Scholar Works  (Boise State University)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -31598,9 +31598,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -31710,8 +31710,8 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-10-27T15:51:10.671819",
+      "created_date": "2022-04-29T00:00:00"
     },
     {
       "id": "https://openalex.org/W2181689138",
@@ -32133,9 +32133,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -34945,9 +34945,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.699999988079071,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -35513,9 +35513,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -36640,13 +36640,36 @@
               "https://orcid.org/0000-0002-4653-7095"
             ]
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I5681781",
+              "display_name": "The University of Adelaide",
+              "ror": "https://ror.org/00892tw58",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405259444",
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Alan S. Collins",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Tectonics and Earth Systems Group (TES), School of Physics, Chemistry and Earth Sciences, Adelaide University, SA 5005, Australia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Tectonics and Earth Systems Group (TES), School of Physics, Chemistry and Earth Sciences, Adelaide University, SA 5005, Australia",
+              "institution_ids": [
+                "https://openalex.org/I5681781"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36676,13 +36699,35 @@
               "https://orcid.org/0000-0002-3513-5285"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Pierre Nehlig",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Bureau de Recherches Géologiques et Minières, France"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36692,13 +36737,35 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I157614274",
+              "display_name": "University of Cape Town",
+              "ror": "https://ror.org/03p74gp79",
+              "country_code": "ZA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157614274"
+              ]
+            }
+          ],
+          "countries": [
+            "ZA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Paul H. Macey",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Department of Geological Sciences, University of Cape Town, South Africa"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geological Sciences, University of Cape Town, South Africa",
+              "institution_ids": [
+                "https://openalex.org/I157614274"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36708,13 +36775,35 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4432739",
+              "display_name": "University of Bergen",
+              "ror": "https://ror.org/03zga2b32",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4432739"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Joachim Jacobs",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Department of Earth Science, University of Bergen, Norway"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science, University of Bergen, Norway",
+              "institution_ids": [
+                "https://openalex.org/I4432739"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36726,13 +36815,35 @@
               "https://orcid.org/0000-0002-3685-7255"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I197323543",
+              "display_name": "Johannes Gutenberg University Mainz",
+              "ror": "https://ror.org/023b0x485",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I197323543"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Cees W. Passchier",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Earth Sciences Institute, Johannes Gutenberg-University, Germany"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Institute, Johannes Gutenberg-University, Germany",
+              "institution_ids": [
+                "https://openalex.org/I197323543"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36742,13 +36853,46 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210099699",
+              "display_name": "University of Jeddah",
+              "ror": "https://ror.org/015ya8798",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210099699"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210149826",
+              "display_name": "King Fahad Hospital Jeddah",
+              "ror": "https://ror.org/04ws1n245",
+              "country_code": "SA",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I4210149826"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Fayek H. Kattan",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Nozha District, Jeddah, Kingdom of Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Nozha District, Jeddah, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210099699",
+                "https://openalex.org/I4210149826"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36760,13 +36904,35 @@
               "https://orcid.org/0000-0003-2227-577X"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801711128",
+              "display_name": "Swedish Museum of Natural History",
+              "ror": "https://ror.org/05k323c76",
+              "country_code": "SE",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I2801711128"
+              ]
+            }
+          ],
+          "countries": [
+            "SE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Martin J. Whitehouse",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Swedish Museum of Natural History, Sweden"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Swedish Museum of Natural History, Sweden",
+              "institution_ids": [
+                "https://openalex.org/I2801711128"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36776,13 +36942,35 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Rami A. Bakhsh",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Faculty of Earth Sciences, King Abdulaziz University, Kingdom of Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty of Earth Sciences, King Abdulaziz University, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36812,9 +37000,16 @@
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Mohammed B. Elkomi",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "China National Geological and Mining Corporation, Jeddah, Kingdom of Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "China National Geological and Mining Corporation, Jeddah, Kingdom of Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36830,9 +37025,16 @@
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Peter R. Johnson",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Portland, Oregon, United States of America"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Portland, Oregon, United States of America",
+              "institution_ids": []
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36842,13 +37044,46 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I162577319",
+              "display_name": "The University of Texas at Dallas",
+              "ror": "https://ror.org/049emcs32",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I162577319"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I87573096",
+              "display_name": "University of North Texas at Dallas",
+              "ror": "https://ror.org/01n51v443",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I87573096"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Robert J. Stern",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "School of Natural Sciences and Mathematics, University of Texas at Dallas, United States of America"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Natural Sciences and Mathematics, University of Texas at Dallas, United States of America",
+              "institution_ids": [
+                "https://openalex.org/I162577319",
+                "https://openalex.org/I87573096"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36858,13 +37093,37 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Fahd M.H. Harbi",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Kingdom of Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36874,13 +37133,37 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Nawaf N. Rimi",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Kingdom of Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -36906,20 +37189,48 @@
             "orcid": null,
             "observed_orcids": []
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Wadee A. Kashghari",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Kingdom of Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "countries_distinct_count": 9,
+      "institutions_distinct_count": 12,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5046466285"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I5681781"
+      ],
       "apc_list": {
         "value": 5120,
         "currency": "USD",
@@ -36930,11 +37241,11 @@
         "currency": "USD",
         "value_usd": 5120
       },
-      "fwci": 7.4629,
+      "fwci": 7.482,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.97838219,
+        "value": 0.97856601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37589,7 +37900,7 @@
         "surface": [
           50
         ],
-        "systems-the": [
+        "systems—the": [
           51
         ],
         "significance": [
@@ -37892,7 +38203,7 @@
         "Rayn": [
           225
         ],
-        "terrane-the": [
+        "terrane—the": [
           226
         ],
         "easternmost": [
@@ -37914,7 +38225,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-10-27T15:51:10.671819",
       "created_date": "2026-08-12T00:00:00"
     },
     {
@@ -38466,9 +38777,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -39724,9 +40035,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -40946,9 +41257,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -41414,9 +41725,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life on land",
           "score": 0.6899999976158142,
-          "display_name": "Life on land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -43074,9 +43385,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6399999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -43454,1113 +43765,6 @@
         }
       ],
       "updated_date": "2026-10-14T16:39:01.820549",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2768236725",
-      "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
-      "title": "Mineral Deposits of North Africa (Mohammed Bouabdellah and John F. Slack, eds.)",
-      "display_name": "Mineral Deposits of North Africa (Mohammed Bouabdellah and John F. Slack, eds.)",
-      "publication_year": 2017,
-      "publication_date": "2017-11-15",
-      "ids": {
-        "openalex": "https://openalex.org/W2768236725",
-        "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
-        "mag": "2768236725"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.5382/econgeo.112.8.br02",
-        "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.5382/econgeo.112.8.br02",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210182989",
-          "display_name": "Economic Geology",
-          "issn_l": "0361-0128",
-          "issn": [
-            "0361-0128",
-            "1554-0774"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-b",
-            "jufo-2",
-            "norway-1",
-            "poland-140",
-            "russia-white-list-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Economic Geology",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4697-3882"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Peter R. Johnson",
-          "raw_affiliation_strings": [
-            "Portland, Oregon September 28, 2017"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Portland, Oregon September 28, 2017",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103098706"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.15232033,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": "112",
-        "issue": "8",
-        "first_page": "2062",
-        "last_page": "2066"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10001",
-        "display_name": "Geological and Geochemical Analysis",
-        "score": 0.2281000018119812,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.2281000018119812,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.19709999859333038,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.14339999854564667,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/mineral-deposits",
-          "display_name": "mineral deposits",
-          "score": 0.8569999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/rare-metal-granites",
-          "display_name": "rare-metal granites",
-          "score": 0.8600000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/pegmatite",
-          "display_name": "pegmatite",
-          "score": 0.8740000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/volcanogenic-massive-sulphide-deposits",
-          "display_name": "volcanogenic massive sulfide deposits",
-          "score": 0.8650000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-exhalative-deposits",
-          "display_name": "sedimentary exhalative deposits",
-          "score": 0.8370000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/orogenic-gold-deposits",
-          "display_name": "orogenic gold deposits",
-          "score": 0.8970000147819519
-        },
-        {
-          "id": "https://openalex.org/keywords/iron-oxide-copper-gold-deposits",
-          "display_name": "iron oxide-copper-gold deposits",
-          "score": 0.9039999842643738
-        },
-        {
-          "id": "https://openalex.org/keywords/banded-iron-formations",
-          "display_name": "banded iron formations",
-          "score": 0.9940000176429749
-        },
-        {
-          "id": "https://openalex.org/keywords/mississippi-valley-type-deposits",
-          "display_name": "Mississippi Valley-type deposits",
-          "score": 0.878000020980835
-        },
-        {
-          "id": "https://openalex.org/keywords/north-africa",
-          "display_name": "North Africa",
-          "score": 0.30399999022483826
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2778805511",
-          "wikidata": "https://www.wikidata.org/wiki/Q1713",
-          "display_name": "Citation",
-          "level": 2,
-          "score": 0.6443317532539368
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5893526673316956
-        },
-        {
-          "id": "https://openalex.org/C66264921",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mineral exploration",
-          "level": 2,
-          "score": 0.482543408870697
-        },
-        {
-          "id": "https://openalex.org/C161191863",
-          "wikidata": "https://www.wikidata.org/wiki/Q199655",
-          "display_name": "Library science",
-          "level": 1,
-          "score": 0.4811312258243561
-        },
-        {
-          "id": "https://openalex.org/C125171110",
-          "wikidata": "https://www.wikidata.org/wiki/Q853915",
-          "display_name": "Economic geology",
-          "level": 4,
-          "score": 0.456320583820343
-        },
-        {
-          "id": "https://openalex.org/C2780154274",
-          "wikidata": "https://www.wikidata.org/wiki/Q7126717",
-          "display_name": "Download",
-          "level": 2,
-          "score": 0.4320608377456665
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.4310700297355652
-        },
-        {
-          "id": "https://openalex.org/C126457475",
-          "wikidata": "https://www.wikidata.org/wiki/Q12131447",
-          "display_name": "Mineral resource classification",
-          "level": 2,
-          "score": 0.4249758720397949
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.348847895860672
-        },
-        {
-          "id": "https://openalex.org/C95457728",
-          "wikidata": "https://www.wikidata.org/wiki/Q309",
-          "display_name": "History",
-          "level": 0,
-          "score": 0.23841631412506104
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.20628473162651062
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.19409093260765076
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.18628421425819397
-        },
-        {
-          "id": "https://openalex.org/C6363049",
-          "wikidata": "https://www.wikidata.org/wiki/Q505748",
-          "display_name": "Volcanism",
-          "level": 3,
-          "score": 0.08998855948448181
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.5382/econgeo.112.8.br02",
-          "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.5382/econgeo.112.8.br02",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210182989",
-            "display_name": "Economic Geology",
-            "issn_l": "0361-0128",
-            "issn": [
-              "0361-0128",
-              "1554-0774"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-b",
-              "jufo-2",
-              "norway-1",
-              "poland-140",
-              "russia-white-list-1"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Economic Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2351175542",
-        "https://openalex.org/W2357668143",
-        "https://openalex.org/W2390425815",
-        "https://openalex.org/W3005195243",
-        "https://openalex.org/W2387044841",
-        "https://openalex.org/W2045410078",
-        "https://openalex.org/W2371530974",
-        "https://openalex.org/W3122214981",
-        "https://openalex.org/W2368241536",
-        "https://openalex.org/W2550862327"
-      ],
-      "abstract_inverted_index": {
-        "15": [
-          58,
-          83
-        ],
-        "112": [
-          75,
-          127
-        ],
-        "2017": [
-          4,
-          27,
-          50,
-          60,
-          68,
-          85
-        ],
-        "Research": [
-          0
-        ],
-        "Article|": [
-          1
-        ],
-        "December": [
-          2
-        ],
-        "01,": [
-          3
-        ],
-        "Mineral": [
-          5,
-          112
-        ],
-        "Deposits": [
-          6,
-          113
-        ],
-        "of": [
-          7,
-          53,
-          114,
-          173,
-          181,
-          252,
-          262
-        ],
-        "North": [
-          8,
-          115,
-          255
-        ],
-        "Africa": [
-          9,
-          116,
-          256
-        ],
-        "(Mohammed": [
-          10,
-          117
-        ],
-        "Bouabdellah": [
-          11,
-          118
-        ],
-        "and": [
-          12,
-          40,
-          119,
-          204,
-          217,
-          221,
-          233,
-          244
-        ],
-        "John": [
-          13,
-          120
-        ],
-        "F.": [
-          14,
-          121
-        ],
-        "Slack,": [
-          15,
-          122
-        ],
-        "eds.)": [
-          16
-        ],
-        "Peter": [
-          17,
-          20,
-          43,
-          109
-        ],
-        "R.": [
-          18,
-          21,
-          44,
-          110
-        ],
-        "Johnson": [
-          19,
-          22,
-          45
-        ],
-        "Portland,": [
-          23,
-          46
-        ],
-        "Oregon": [
-          24,
-          47
-        ],
-        "September": [
-          25,
-          48
-        ],
-        "28,": [
-          26,
-          49
-        ],
-        "Search": [
-          28,
-          106,
-          147,
-          154,
-          165,
-          167
-        ],
-        "for": [
-          29
-        ],
-        "other": [
-          30
-        ],
-        "works": [
-          31
-        ],
-        "by": [
-          32
-        ],
-        "this": [
-          33,
-          274
-        ],
-        "author": [
-          34
-        ],
-        "on:": [
-          35
-        ],
-        "GSW": [
-          36
-        ],
-        "Google": [
-          37
-        ],
-        "Scholar": [
-          38
-        ],
-        "Author": [
-          39
-        ],
-        "Article": [
-          41,
-          79
-        ],
-        "Information": [
-          42
-        ],
-        "Publisher:": [
-          51
-        ],
-        "Society": [
-          52
-        ],
-        "Economic": [
-          54,
-          69,
-          72,
-          124
-        ],
-        "Geologists": [
-          55
-        ],
-        "First": [
-          56,
-          81
-        ],
-        "Online:": [
-          57,
-          82
-        ],
-        "Nov": [
-          59,
-          84
-        ],
-        "Online": [
-          61
-        ],
-        "Issn:": [
-          62,
-          65
-        ],
-        "1554-0774": [
-          63
-        ],
-        "Print": [
-          64
-        ],
-        "0361-0128": [
-          66
-        ],
-        "©": [
-          67
-        ],
-        "GeologyEconomic": [
-          70
-        ],
-        "Geology": [
-          71,
-          73,
-          125,
-          164
-        ],
-        "(2017)": [
-          74
-        ],
-        "(8):": [
-          76,
-          128
-        ],
-        "2062–2066.": [
-          77,
-          129
-        ],
-        "https://doi.org/10.5382/econgeo.112.8.br02": [
-          78,
-          131
-        ],
-        "history": [
-          80
-        ],
-        "Cite": [
-          86
-        ],
-        "View": [
-          87
-        ],
-        "This": [
-          88,
-          168
-        ],
-        "Citation": [
-          89,
-          92,
-          108
-        ],
-        "Add": [
-          90
-        ],
-        "to": [
-          91,
-          201,
-          273,
-          278
-        ],
-        "Manager": [
-          93
-        ],
-        "Share": [
-          94,
-          96
-        ],
-        "Icon": [
-          95,
-          102
-        ],
-        "Facebook": [
-          97
-        ],
-        "Twitter": [
-          98
-        ],
-        "LinkedIn": [
-          99
-        ],
-        "MailTo": [
-          100
-        ],
-        "Tools": [
-          101,
-          103
-        ],
-        "Get": [
-          104
-        ],
-        "Permissions": [
-          105
-        ],
-        "Site": [
-          107
-        ],
-        "Johnson;": [
-          111
-        ],
-        "eds.).": [
-          123
-        ],
-        "2017;;": [
-          126
-        ],
-        "doi:": [
-          130
-        ],
-        "Download": [
-          132
-        ],
-        "citation": [
-          133
-        ],
-        "file:": [
-          134
-        ],
-        "Ris": [
-          135
-        ],
-        "(Zotero)": [
-          136
-        ],
-        "Refmanager": [
-          137
-        ],
-        "EasyBib": [
-          138
-        ],
-        "Bookends": [
-          139
-        ],
-        "Mendeley": [
-          140
-        ],
-        "Papers": [
-          141
-        ],
-        "EndNote": [
-          142
-        ],
-        "RefWorks": [
-          143
-        ],
-        "BibTex": [
-          144
-        ],
-        "toolbar": [
-          145,
-          150
-        ],
-        "search": [
-          146,
-          151,
-          152,
-          160
-        ],
-        "Dropdown": [
-          148
-        ],
-        "Menu": [
-          149
-        ],
-        "input": [
-          153,
-          155
-        ],
-        "auto": [
-          156
-        ],
-        "suggest": [
-          157
-        ],
-        "filter": [
-          158
-        ],
-        "your": [
-          159,
-          279
-        ],
-        "All": [
-          161
-        ],
-        "ContentBy": [
-          162
-        ],
-        "SocietyEconomic": [
-          163
-        ],
-        "Advanced": [
-          166
-        ],
-        "book": [
-          169
-        ],
-        "is": [
-          170,
-          257
-        ],
-        "a": [
-          171
-        ],
-        "review": [
-          172
-        ],
-        "selected": [
-          174
-        ],
-        "mineral": [
-          175
-        ],
-        "deposits": [
-          176,
-          186,
-          191
-        ],
-        "in": [
-          177,
-          187
-        ],
-        "the": [
-          178,
-          182,
-          199,
-          202,
-          250,
-          253,
-          258
-        ],
-        "northern": [
-          179
-        ],
-        "part": [
-          180
-        ],
-        "African": [
-          183,
-          259
-        ],
-        "continent,": [
-          184
-        ],
-        "referencing": [
-          185
-        ],
-        "eight": [
-          188
-        ],
-        "countries.": [
-          189
-        ],
-        "The": [
-          190
-        ],
-        "result": [
-          192
-        ],
-        "from": [
-          193,
-          198
-        ],
-        "mineralizing": [
-          194
-        ],
-        "processes": [
-          195
-        ],
-        "that": [
-          196
-        ],
-        "range": [
-          197
-        ],
-        "Mesoarchean": [
-          200
-        ],
-        "Cenozoic": [
-          203
-        ],
-        "include": [
-          205
-        ],
-        "types": [
-          206
-        ],
-        "as": [
-          207,
-          209
-        ],
-        "varied": [
-          208
-        ],
-        "orthomagmatic": [
-          210
-        ],
-        "chromium-nickel-platinum": [
-          211
-        ],
-        "group": [
-          212
-        ],
-        "elements": [
-          213
-        ],
-        "(PGE);": [
-          214
-        ],
-        "rare-metal": [
-          215
-        ],
-        "granites": [
-          216
-        ],
-        "pegmatites": [
-          218
-        ],
-        "(tantalum,": [
-          219
-        ],
-        "niobium,": [
-          220
-        ],
-        "rare-earth": [
-          222
-        ],
-        "elements);": [
-          223
-        ],
-        "volcanic-hosted": [
-          224
-        ],
-        "massive": [
-          225
-        ],
-        "sulfide": [
-          226
-        ],
-        "copper-zinc-lead-gold;": [
-          227
-        ],
-        "sedimentary": [
-          228
-        ],
-        "exhalative": [
-          229
-        ],
-        "(SEDEX)": [
-          230
-        ],
-        "zinc-lead-silver;": [
-          231
-        ],
-        "orogenic": [
-          232
-        ],
-        "intrusion-related": [
-          234
-        ],
-        "gold;": [
-          235
-        ],
-        "iron": [
-          236,
-          241
-        ],
-        "oxide": [
-          237
-        ],
-        "copper-gold": [
-          238
-        ],
-        "(IOCG);": [
-          239
-        ],
-        "banded": [
-          240
-        ],
-        "formation": [
-          242
-        ],
-        "(BIF);": [
-          243
-        ],
-        "Mississippi": [
-          245
-        ],
-        "Valley-type": [
-          246
-        ],
-        "(MVT)": [
-          247
-        ],
-        "zinc-lead.": [
-          248
-        ],
-        "For": [
-          249
-        ],
-        "purpose": [
-          251
-        ],
-        "book,": [
-          254
-        ],
-        "continent": [
-          260
-        ],
-        "north": [
-          261
-        ],
-        "about": [
-          263
-        ],
-        "15°N,": [
-          264
-        ],
-        "covering": [
-          265
-        ],
-        "an": [
-          266
-        ],
-        "area...": [
-          267
-        ],
-        "You": [
-          268
-        ],
-        "do": [
-          269
-        ],
-        "not": [
-          270
-        ],
-        "have": [
-          271,
-          287
-        ],
-        "access": [
-          272
-        ],
-        "content,": [
-          275
-        ],
-        "please": [
-          276
-        ],
-        "speak": [
-          277
-        ],
-        "institutional": [
-          280
-        ],
-        "administrator": [
-          281
-        ],
-        "if": [
-          282
-        ],
-        "you": [
-          283,
-          285
-        ],
-        "feel": [
-          284
-        ],
-        "should": [
-          286
-        ],
-        "access.": [
-          288
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45027,9 +44231,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -46507,9 +45711,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -48483,6 +47687,1106 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2768236725",
+      "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
+      "title": "Mineral Deposits of North Africa (Mohammed Bouabdellah and John F. Slack, eds.)",
+      "display_name": "Mineral Deposits of North Africa (Mohammed Bouabdellah and John F. Slack, eds.)",
+      "publication_year": 2017,
+      "publication_date": "2017-11-15",
+      "ids": {
+        "openalex": "https://openalex.org/W2768236725",
+        "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
+        "mag": "2768236725"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.5382/econgeo.112.8.br02",
+        "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.5382/econgeo.112.8.br02",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210182989",
+          "display_name": "Economic Geology",
+          "issn_l": "0361-0128",
+          "issn": [
+            "0361-0128",
+            "1554-0774"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Economic Geology",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "book-review",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103098706",
+            "display_name": "Peter R. Johnson",
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Peter R. Johnson",
+          "raw_affiliation_strings": [
+            "Portland, Oregon September 28, 2017"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Portland, Oregon September 28, 2017",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103098706"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "112",
+        "issue": "8",
+        "first_page": "2062",
+        "last_page": "2066"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10001",
+        "display_name": "Geological and Geochemical Analysis",
+        "score": 0.2281000018119812,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.2281000018119812,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.19709999859333038,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.14339999854564667,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mineral-deposits",
+          "display_name": "mineral deposits",
+          "score": 0.8569999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/rare-metal-granites",
+          "display_name": "rare-metal granites",
+          "score": 0.8600000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/pegmatite",
+          "display_name": "pegmatite",
+          "score": 0.8740000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/volcanogenic-massive-sulphide-deposits",
+          "display_name": "volcanogenic massive sulfide deposits",
+          "score": 0.8650000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-exhalative-deposits",
+          "display_name": "sedimentary exhalative deposits",
+          "score": 0.8370000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/orogenic-gold-deposits",
+          "display_name": "orogenic gold deposits",
+          "score": 0.8970000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/iron-oxide-copper-gold-deposits",
+          "display_name": "iron oxide-copper-gold deposits",
+          "score": 0.9039999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/banded-iron-formations",
+          "display_name": "banded iron formations",
+          "score": 0.9940000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/mississippi-valley-type-deposits",
+          "display_name": "Mississippi Valley-type deposits",
+          "score": 0.878000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/north-africa",
+          "display_name": "North Africa",
+          "score": 0.30399999022483826
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778805511",
+          "wikidata": "https://www.wikidata.org/wiki/Q1713",
+          "display_name": "Citation",
+          "level": 2,
+          "score": 0.6443317532539368
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5893526673316956
+        },
+        {
+          "id": "https://openalex.org/C66264921",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mineral exploration",
+          "level": 2,
+          "score": 0.482543408870697
+        },
+        {
+          "id": "https://openalex.org/C161191863",
+          "wikidata": "https://www.wikidata.org/wiki/Q199655",
+          "display_name": "Library science",
+          "level": 1,
+          "score": 0.4811312258243561
+        },
+        {
+          "id": "https://openalex.org/C125171110",
+          "wikidata": "https://www.wikidata.org/wiki/Q853915",
+          "display_name": "Economic geology",
+          "level": 4,
+          "score": 0.456320583820343
+        },
+        {
+          "id": "https://openalex.org/C2780154274",
+          "wikidata": "https://www.wikidata.org/wiki/Q7126717",
+          "display_name": "Download",
+          "level": 2,
+          "score": 0.4320608377456665
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4310700297355652
+        },
+        {
+          "id": "https://openalex.org/C126457475",
+          "wikidata": "https://www.wikidata.org/wiki/Q12131447",
+          "display_name": "Mineral resource classification",
+          "level": 2,
+          "score": 0.4249758720397949
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.348847895860672
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.23841631412506104
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.20628473162651062
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.19409093260765076
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.18628421425819397
+        },
+        {
+          "id": "https://openalex.org/C6363049",
+          "wikidata": "https://www.wikidata.org/wiki/Q505748",
+          "display_name": "Volcanism",
+          "level": 3,
+          "score": 0.08998855948448181
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.5382/econgeo.112.8.br02",
+          "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.5382/econgeo.112.8.br02",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210182989",
+            "display_name": "Economic Geology",
+            "issn_l": "0361-0128",
+            "issn": [
+              "0361-0128",
+              "1554-0774"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-b",
+              "jufo-2",
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Economic Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2351175542",
+        "https://openalex.org/W2357668143",
+        "https://openalex.org/W2390425815",
+        "https://openalex.org/W3005195243",
+        "https://openalex.org/W2387044841",
+        "https://openalex.org/W2045410078",
+        "https://openalex.org/W2371530974",
+        "https://openalex.org/W3122214981",
+        "https://openalex.org/W2368241536",
+        "https://openalex.org/W2550862327"
+      ],
+      "abstract_inverted_index": {
+        "15": [
+          58,
+          83
+        ],
+        "112": [
+          75,
+          127
+        ],
+        "2017": [
+          4,
+          27,
+          50,
+          60,
+          68,
+          85
+        ],
+        "Research": [
+          0
+        ],
+        "Article|": [
+          1
+        ],
+        "December": [
+          2
+        ],
+        "01,": [
+          3
+        ],
+        "Mineral": [
+          5,
+          112
+        ],
+        "Deposits": [
+          6,
+          113
+        ],
+        "of": [
+          7,
+          53,
+          114,
+          173,
+          181,
+          252,
+          262
+        ],
+        "North": [
+          8,
+          115,
+          255
+        ],
+        "Africa": [
+          9,
+          116,
+          256
+        ],
+        "(Mohammed": [
+          10,
+          117
+        ],
+        "Bouabdellah": [
+          11,
+          118
+        ],
+        "and": [
+          12,
+          40,
+          119,
+          204,
+          217,
+          221,
+          233,
+          244
+        ],
+        "John": [
+          13,
+          120
+        ],
+        "F.": [
+          14,
+          121
+        ],
+        "Slack,": [
+          15,
+          122
+        ],
+        "eds.)": [
+          16
+        ],
+        "Peter": [
+          17,
+          20,
+          43,
+          109
+        ],
+        "R.": [
+          18,
+          21,
+          44,
+          110
+        ],
+        "Johnson": [
+          19,
+          22,
+          45
+        ],
+        "Portland,": [
+          23,
+          46
+        ],
+        "Oregon": [
+          24,
+          47
+        ],
+        "September": [
+          25,
+          48
+        ],
+        "28,": [
+          26,
+          49
+        ],
+        "Search": [
+          28,
+          106,
+          147,
+          154,
+          165,
+          167
+        ],
+        "for": [
+          29
+        ],
+        "other": [
+          30
+        ],
+        "works": [
+          31
+        ],
+        "by": [
+          32
+        ],
+        "this": [
+          33,
+          274
+        ],
+        "author": [
+          34
+        ],
+        "on:": [
+          35
+        ],
+        "GSW": [
+          36
+        ],
+        "Google": [
+          37
+        ],
+        "Scholar": [
+          38
+        ],
+        "Author": [
+          39
+        ],
+        "Article": [
+          41,
+          79
+        ],
+        "Information": [
+          42
+        ],
+        "Publisher:": [
+          51
+        ],
+        "Society": [
+          52
+        ],
+        "Economic": [
+          54,
+          69,
+          72,
+          124
+        ],
+        "Geologists": [
+          55
+        ],
+        "First": [
+          56,
+          81
+        ],
+        "Online:": [
+          57,
+          82
+        ],
+        "Nov": [
+          59,
+          84
+        ],
+        "Online": [
+          61
+        ],
+        "Issn:": [
+          62,
+          65
+        ],
+        "1554-0774": [
+          63
+        ],
+        "Print": [
+          64
+        ],
+        "0361-0128": [
+          66
+        ],
+        "©": [
+          67
+        ],
+        "GeologyEconomic": [
+          70
+        ],
+        "Geology": [
+          71,
+          73,
+          125,
+          164
+        ],
+        "(2017)": [
+          74
+        ],
+        "(8):": [
+          76,
+          128
+        ],
+        "2062–2066.": [
+          77,
+          129
+        ],
+        "https://doi.org/10.5382/econgeo.112.8.br02": [
+          78,
+          131
+        ],
+        "history": [
+          80
+        ],
+        "Cite": [
+          86
+        ],
+        "View": [
+          87
+        ],
+        "This": [
+          88,
+          168
+        ],
+        "Citation": [
+          89,
+          92,
+          108
+        ],
+        "Add": [
+          90
+        ],
+        "to": [
+          91,
+          201,
+          273,
+          278
+        ],
+        "Manager": [
+          93
+        ],
+        "Share": [
+          94,
+          96
+        ],
+        "Icon": [
+          95,
+          102
+        ],
+        "Facebook": [
+          97
+        ],
+        "Twitter": [
+          98
+        ],
+        "LinkedIn": [
+          99
+        ],
+        "MailTo": [
+          100
+        ],
+        "Tools": [
+          101,
+          103
+        ],
+        "Get": [
+          104
+        ],
+        "Permissions": [
+          105
+        ],
+        "Site": [
+          107
+        ],
+        "Johnson;": [
+          111
+        ],
+        "eds.).": [
+          123
+        ],
+        "2017;;": [
+          126
+        ],
+        "doi:": [
+          130
+        ],
+        "Download": [
+          132
+        ],
+        "citation": [
+          133
+        ],
+        "file:": [
+          134
+        ],
+        "Ris": [
+          135
+        ],
+        "(Zotero)": [
+          136
+        ],
+        "Refmanager": [
+          137
+        ],
+        "EasyBib": [
+          138
+        ],
+        "Bookends": [
+          139
+        ],
+        "Mendeley": [
+          140
+        ],
+        "Papers": [
+          141
+        ],
+        "EndNote": [
+          142
+        ],
+        "RefWorks": [
+          143
+        ],
+        "BibTex": [
+          144
+        ],
+        "toolbar": [
+          145,
+          150
+        ],
+        "search": [
+          146,
+          151,
+          152,
+          160
+        ],
+        "Dropdown": [
+          148
+        ],
+        "Menu": [
+          149
+        ],
+        "input": [
+          153,
+          155
+        ],
+        "auto": [
+          156
+        ],
+        "suggest": [
+          157
+        ],
+        "filter": [
+          158
+        ],
+        "your": [
+          159,
+          279
+        ],
+        "All": [
+          161
+        ],
+        "ContentBy": [
+          162
+        ],
+        "SocietyEconomic": [
+          163
+        ],
+        "Advanced": [
+          166
+        ],
+        "book": [
+          169
+        ],
+        "is": [
+          170,
+          257
+        ],
+        "a": [
+          171
+        ],
+        "review": [
+          172
+        ],
+        "selected": [
+          174
+        ],
+        "mineral": [
+          175
+        ],
+        "deposits": [
+          176,
+          186,
+          191
+        ],
+        "in": [
+          177,
+          187
+        ],
+        "the": [
+          178,
+          182,
+          199,
+          202,
+          250,
+          253,
+          258
+        ],
+        "northern": [
+          179
+        ],
+        "part": [
+          180
+        ],
+        "African": [
+          183,
+          259
+        ],
+        "continent,": [
+          184
+        ],
+        "referencing": [
+          185
+        ],
+        "eight": [
+          188
+        ],
+        "countries.": [
+          189
+        ],
+        "The": [
+          190
+        ],
+        "result": [
+          192
+        ],
+        "from": [
+          193,
+          198
+        ],
+        "mineralizing": [
+          194
+        ],
+        "processes": [
+          195
+        ],
+        "that": [
+          196
+        ],
+        "range": [
+          197
+        ],
+        "Mesoarchean": [
+          200
+        ],
+        "Cenozoic": [
+          203
+        ],
+        "include": [
+          205
+        ],
+        "types": [
+          206
+        ],
+        "as": [
+          207,
+          209
+        ],
+        "varied": [
+          208
+        ],
+        "orthomagmatic": [
+          210
+        ],
+        "chromium-nickel-platinum": [
+          211
+        ],
+        "group": [
+          212
+        ],
+        "elements": [
+          213
+        ],
+        "(PGE);": [
+          214
+        ],
+        "rare-metal": [
+          215
+        ],
+        "granites": [
+          216
+        ],
+        "pegmatites": [
+          218
+        ],
+        "(tantalum,": [
+          219
+        ],
+        "niobium,": [
+          220
+        ],
+        "rare-earth": [
+          222
+        ],
+        "elements);": [
+          223
+        ],
+        "volcanic-hosted": [
+          224
+        ],
+        "massive": [
+          225
+        ],
+        "sulfide": [
+          226
+        ],
+        "copper-zinc-lead-gold;": [
+          227
+        ],
+        "sedimentary": [
+          228
+        ],
+        "exhalative": [
+          229
+        ],
+        "(SEDEX)": [
+          230
+        ],
+        "zinc-lead-silver;": [
+          231
+        ],
+        "orogenic": [
+          232
+        ],
+        "intrusion-related": [
+          234
+        ],
+        "gold;": [
+          235
+        ],
+        "iron": [
+          236,
+          241
+        ],
+        "oxide": [
+          237
+        ],
+        "copper-gold": [
+          238
+        ],
+        "(IOCG);": [
+          239
+        ],
+        "banded": [
+          240
+        ],
+        "formation": [
+          242
+        ],
+        "(BIF);": [
+          243
+        ],
+        "Mississippi": [
+          245
+        ],
+        "Valley-type": [
+          246
+        ],
+        "(MVT)": [
+          247
+        ],
+        "zinc-lead.": [
+          248
+        ],
+        "For": [
+          249
+        ],
+        "purpose": [
+          251
+        ],
+        "book,": [
+          254
+        ],
+        "continent": [
+          260
+        ],
+        "north": [
+          261
+        ],
+        "about": [
+          263
+        ],
+        "15°N,": [
+          264
+        ],
+        "covering": [
+          265
+        ],
+        "an": [
+          266
+        ],
+        "area...": [
+          267
+        ],
+        "You": [
+          268
+        ],
+        "do": [
+          269
+        ],
+        "not": [
+          270
+        ],
+        "have": [
+          271,
+          287
+        ],
+        "access": [
+          272
+        ],
+        "content,": [
+          275
+        ],
+        "please": [
+          276
+        ],
+        "speak": [
+          277
+        ],
+        "institutional": [
+          280
+        ],
+        "administrator": [
+          281
+        ],
+        "if": [
+          282
+        ],
+        "you": [
+          283,
+          285
+        ],
+        "feel": [
+          284
+        ],
+        "should": [
+          286
+        ],
+        "access.": [
+          288
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-27T15:51:10.671819",
+      "created_date": "2017-12-04T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2990161943",
       "doi": null,
       "title": "What is the Significance of Adakitic Granitoids and Zircon Inheritance in Juvenile Arc Rocks of the Neoproterozoic Makkah Batholith, Saudi Arabia?",
@@ -49259,9 +49563,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -49676,9 +49980,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4699999988079071,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -52122,9 +52426,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -53999,9 +54303,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -54411,9 +54715,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
