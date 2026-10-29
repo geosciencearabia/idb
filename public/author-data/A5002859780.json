@@ -161,7 +161,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000161,
+        "value": 0.0000159,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -178,7 +178,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000126,
+        "value": 0.0000125,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T13790",
         "display_name": "Waste Management and Environmental Impact",
-        "value": 0.0000124,
+        "value": 0.0000121,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -212,7 +212,7 @@
       {
         "id": "https://openalex.org/T11284",
         "display_name": "Coal Properties and Utilization",
-        "value": 0.0000103,
+        "value": 0.0000101,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -229,7 +229,7 @@
       {
         "id": "https://openalex.org/T12218",
         "display_name": "Coal and Its By-products",
-        "value": 0.0000092,
+        "value": 0.000009,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -287,13 +287,13 @@
         "year": 2001,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 57
+        "cited_by_count": 0
       },
       {
         "year": 2008,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 1
+        "cited_by_count": 0
       },
       {
         "year": 2009,
@@ -308,16 +308,88 @@
         "cited_by_count": 0
       },
       {
+        "year": 2012,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2013,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 1
+      },
+      {
         "year": 2014,
         "works_count": 2,
         "oa_works_count": 0,
+        "cited_by_count": 2
+      },
+      {
+        "year": 2016,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 5
+      },
+      {
+        "year": 2017,
+        "works_count": 0,
+        "oa_works_count": 0,
         "cited_by_count": 6
+      },
+      {
+        "year": 2018,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 2
       },
       {
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 2
+        "cited_by_count": 4
+      },
+      {
+        "year": 2020,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2021,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2022,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 6
+      },
+      {
+        "year": 2023,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 4
+      },
+      {
+        "year": 2024,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 7
+      },
+      {
+        "year": 2025,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 8
+      },
+      {
+        "year": 2026,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 4
       }
     ],
     "display_name_alternatives": [
@@ -327,8 +399,8 @@
     ],
     "block_key": "a al-duaiji",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
-    "updated_date": "2026-10-12T12:34:37",
-    "created_date": "2019-12-05T00:00:00"
+    "updated_date": "2026-10-28T12:34:19",
+    "created_date": "2016-06-24T00:00:00"
   },
   "works": [
     {
@@ -507,7 +579,7 @@
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.49084435,
+        "value": 0.48949257,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -811,17 +883,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -866,16 +938,16 @@
         "https://openalex.org/W7073780791"
       ],
       "related_works": [
-        "https://openalex.org/W2311936561",
-        "https://openalex.org/W2338737908",
-        "https://openalex.org/W3147507244",
-        "https://openalex.org/W2417515348",
-        "https://openalex.org/W2128709841",
-        "https://openalex.org/W154525844",
-        "https://openalex.org/W2123310939",
-        "https://openalex.org/W2802690134",
-        "https://openalex.org/W2235278235",
-        "https://openalex.org/W1981062320"
+        "https://openalex.org/W3201594851",
+        "https://openalex.org/W2007218904",
+        "https://openalex.org/W7140063934",
+        "https://openalex.org/W2000061974",
+        "https://openalex.org/W3036591066",
+        "https://openalex.org/W2044475616",
+        "https://openalex.org/W2934075027",
+        "https://openalex.org/W3127689467",
+        "https://openalex.org/W4239821348",
+        "https://openalex.org/W2031485164"
       ],
       "abstract_inverted_index": {
         "200": [
@@ -1676,7 +1748,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2019-12-13T00:00:00"
     },
     {
       "id": "https://openalex.org/W2042373016",
@@ -1878,16 +1950,16 @@
         "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 0.3451,
+      "fwci": 0.3453,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.63247781,
+        "value": 0.63234836,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 89,
         "max": 94
       },
       "biblio": {
@@ -2148,9 +2220,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.875,
           "display_name": "Affordable and clean energy",
-          "score": 0.875
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -2164,8 +2236,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -2193,16 +2265,16 @@
         "https://openalex.org/W6678618728"
       ],
       "related_works": [
-        "https://openalex.org/W2375677716",
-        "https://openalex.org/W2365913310",
-        "https://openalex.org/W2357973555",
-        "https://openalex.org/W88808524",
-        "https://openalex.org/W2380060951",
-        "https://openalex.org/W2359299073",
-        "https://openalex.org/W2606585349",
-        "https://openalex.org/W2371161093",
-        "https://openalex.org/W2971585752",
-        "https://openalex.org/W2804465512"
+        "https://openalex.org/W2350971892",
+        "https://openalex.org/W7167186980",
+        "https://openalex.org/W2036242646",
+        "https://openalex.org/W2118850941",
+        "https://openalex.org/W2617043958",
+        "https://openalex.org/W2356881213",
+        "https://openalex.org/W2512626307",
+        "https://openalex.org/W3093697837",
+        "https://openalex.org/W6963160677",
+        "https://openalex.org/W7162305052"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -2232,7 +2304,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2991480490",
@@ -2404,16 +2476,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8009,
+      "fwci": 0.783,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.7370892,
+        "value": 0.73887588,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 89,
         "max": 94
       },
       "biblio": {
@@ -2717,17 +2789,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -2775,16 +2847,16 @@
         "https://openalex.org/W6678618728"
       ],
       "related_works": [
-        "https://openalex.org/W2046656234",
-        "https://openalex.org/W2253758817",
-        "https://openalex.org/W1990061839",
-        "https://openalex.org/W2063624879",
-        "https://openalex.org/W1993775336",
-        "https://openalex.org/W3213551545",
-        "https://openalex.org/W2185546898",
-        "https://openalex.org/W2391375398",
-        "https://openalex.org/W2792405296",
-        "https://openalex.org/W1930835970"
+        "https://openalex.org/W2586174234",
+        "https://openalex.org/W2964097576",
+        "https://openalex.org/W3092335825",
+        "https://openalex.org/W1831163486",
+        "https://openalex.org/W2328640643",
+        "https://openalex.org/W2269763771",
+        "https://openalex.org/W2306129383",
+        "https://openalex.org/W3128695080",
+        "https://openalex.org/W2079375834",
+        "https://openalex.org/W2933151505"
       ],
       "abstract_inverted_index": {
         "170": [
@@ -4095,7 +4167,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.45076923,
+        "value": 0.44891071,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4486,23 +4558,23 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W2042649162",
-        "https://openalex.org/W3091720334",
-        "https://openalex.org/W2050202559",
-        "https://openalex.org/W2003814941",
-        "https://openalex.org/W3146054596",
-        "https://openalex.org/W2322583966",
-        "https://openalex.org/W2619076781",
-        "https://openalex.org/W3197460002",
-        "https://openalex.org/W3118409167",
-        "https://openalex.org/W2130587675"
+        "https://openalex.org/W2078590541",
+        "https://openalex.org/W2159153002",
+        "https://openalex.org/W4256043761",
+        "https://openalex.org/W2009378559",
+        "https://openalex.org/W1986375803",
+        "https://openalex.org/W3022883869",
+        "https://openalex.org/W3023046974",
+        "https://openalex.org/W2107891009",
+        "https://openalex.org/W2001065766",
+        "https://openalex.org/W2388283069"
       ],
       "abstract_inverted_index": {
         "Pressure": [
@@ -5078,7 +5150,7 @@
         }
       ],
       "updated_date": "2026-10-14T16:39:01.820549",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2020-05-13T00:00:00"
     },
     {
       "id": "https://openalex.org/W1970024393",
@@ -5618,19 +5690,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "score": 1,
           "display_name": "Responsible consumption and production",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -5638,23 +5710,23 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W1986091279",
-        "https://openalex.org/W4322153514",
-        "https://openalex.org/W1967082265",
-        "https://openalex.org/W2767042012",
-        "https://openalex.org/W2884044608",
-        "https://openalex.org/W2169635947",
-        "https://openalex.org/W4205950109",
-        "https://openalex.org/W2369017888",
-        "https://openalex.org/W2121251546",
-        "https://openalex.org/W2904613008"
+        "https://openalex.org/W2080106644",
+        "https://openalex.org/W7146020487",
+        "https://openalex.org/W1574284959",
+        "https://openalex.org/W653649485",
+        "https://openalex.org/W4292622570",
+        "https://openalex.org/W2586399489",
+        "https://openalex.org/W635759566",
+        "https://openalex.org/W4245919884",
+        "https://openalex.org/W2796679147",
+        "https://openalex.org/W2206766602"
       ],
       "abstract_inverted_index": {
         "600": [
@@ -6164,7 +6236,21 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609.20147151",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407121346",
+          "display_name": "EAGE Workshop on Tight Gas Reservoirs",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "conference"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -6263,7 +6349,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12665685,
+        "value": 0.12558026,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6554,7 +6640,21 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609.20147151",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407121346",
+            "display_name": "EAGE Workshop on Tight Gas Reservoirs",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "conference"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -6568,32 +6668,32 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.699999988079071,
           "display_name": "Reduced inequalities",
-          "score": 0.699999988079071
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W2118173942",
-        "https://openalex.org/W2069424847",
-        "https://openalex.org/W2021514111",
-        "https://openalex.org/W2389027070",
-        "https://openalex.org/W2529335127",
-        "https://openalex.org/W2335648515",
-        "https://openalex.org/W2904189605",
-        "https://openalex.org/W2394018321",
-        "https://openalex.org/W2084944775",
-        "https://openalex.org/W1969530877"
+        "https://openalex.org/W3022379030",
+        "https://openalex.org/W4414383397",
+        "https://openalex.org/W2464087788",
+        "https://openalex.org/W2928455925",
+        "https://openalex.org/W4415732462",
+        "https://openalex.org/W7128070128",
+        "https://openalex.org/W2748365334",
+        "https://openalex.org/W2122936974",
+        "https://openalex.org/W2990549936",
+        "https://openalex.org/W2907861027"
       ],
       "abstract_inverted_index": {
         "Unconventional": [
@@ -6925,8 +7025,8 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-12T09:40:04.860316",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-10-28T10:33:24.094632",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2276535086",
@@ -7205,33 +7305,23 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W3092335825",
+        "https://openalex.org/W7167164465",
         "https://openalex.org/W2586174234",
+        "https://openalex.org/W2788399772",
+        "https://openalex.org/W2276994691",
+        "https://openalex.org/W3092335825",
         "https://openalex.org/W3014205103",
-        "https://openalex.org/W2525116058",
-        "https://openalex.org/W2333128635",
-        "https://openalex.org/W3128695080",
-        "https://openalex.org/W2068101248",
-        "https://openalex.org/W3023346821",
-        "https://openalex.org/W2931176256",
-        "https://openalex.org/W2279848058",
-        "https://openalex.org/W2620705869",
-        "https://openalex.org/W2323938673",
-        "https://openalex.org/W2074973090",
-        "https://openalex.org/W1747876392",
-        "https://openalex.org/W1983485169",
-        "https://openalex.org/W2928602162",
-        "https://openalex.org/W2333346163",
-        "https://openalex.org/W2027638037",
-        "https://openalex.org/W2053493272",
-        "https://openalex.org/W2034485780"
+        "https://openalex.org/W755176809",
+        "https://openalex.org/W7167157425",
+        "https://openalex.org/W2079375834",
+        "https://openalex.org/W6991576013"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
@@ -7370,7 +7460,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34517426,
+        "value": 0.34844384,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7646,32 +7736,32 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W4317201260",
-        "https://openalex.org/W2348717233",
-        "https://openalex.org/W2743211649",
-        "https://openalex.org/W2986318339",
-        "https://openalex.org/W2909025569",
-        "https://openalex.org/W2514668757",
-        "https://openalex.org/W2758277530",
-        "https://openalex.org/W4212821518",
-        "https://openalex.org/W4233333616",
-        "https://openalex.org/W2091635026"
+        "https://openalex.org/W4246415414",
+        "https://openalex.org/W1992579125",
+        "https://openalex.org/W2891037720",
+        "https://openalex.org/W4415226112",
+        "https://openalex.org/W4414237698",
+        "https://openalex.org/W2043747755",
+        "https://openalex.org/W2306129383",
+        "https://openalex.org/W2072533478",
+        "https://openalex.org/W7101192396",
+        "https://openalex.org/W2954777774"
       ],
       "abstract_inverted_index": {
         "High": [
@@ -8252,7 +8342,7 @@
       },
       "counts_by_year": [],
       "updated_date": "2026-10-12T09:40:04.860316",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2017-02-17T00:00:00"
     },
     {
       "id": "https://openalex.org/W4246415414",
@@ -8351,7 +8441,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.51280277,
+        "value": 0.51037344,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8640,32 +8730,32 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W2989273719",
-        "https://openalex.org/W3017596526",
-        "https://openalex.org/W1516351198",
-        "https://openalex.org/W1551524564",
-        "https://openalex.org/W2348717233",
-        "https://openalex.org/W2029956090",
-        "https://openalex.org/W1993560026",
-        "https://openalex.org/W2020783798",
-        "https://openalex.org/W2158159657",
-        "https://openalex.org/W2595011624"
+        "https://openalex.org/W2587344789",
+        "https://openalex.org/W1992579125",
+        "https://openalex.org/W2891037720",
+        "https://openalex.org/W4415226112",
+        "https://openalex.org/W4414237698",
+        "https://openalex.org/W2043747755",
+        "https://openalex.org/W2072533478",
+        "https://openalex.org/W2306129383",
+        "https://openalex.org/W7101192396",
+        "https://openalex.org/W2954777774"
       ],
       "abstract_inverted_index": {
         "High-resolution": [
@@ -9212,7 +9302,7 @@
       },
       "counts_by_year": [],
       "updated_date": "2026-08-21T09:56:20.448147",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2022-05-12T00:00:00"
     }
   ]
 }

@@ -13,10 +13,10 @@
       "SALISU, ANAS MUHAM"
     ],
     "full_name": "Anas Muhammad Salisu",
-    "works_count": 27,
+    "works_count": 29,
     "cited_by_count": 238,
     "summary_stats": {
-      "2yr_mean_citedness": 7,
+      "2yr_mean_citedness": 6.416666666666667,
       "h_index": 10,
       "i10_index": 12
     },
@@ -28,6 +28,21 @@
       ]
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I12789410",
+          "ror": "https://ror.org/019apvn83",
+          "display_name": "Ahmadu Bello University",
+          "country_code": "NG",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12789410"
+          ]
+        },
+        "years": [
+          2025
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I134085113",
@@ -151,7 +166,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000566,
+        "value": 0.0000567,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -168,7 +183,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000525,
+        "value": 0.0000527,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -202,7 +217,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000307,
+        "value": 0.0000308,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -271,31 +286,31 @@
         "year": 2022,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 18
+        "cited_by_count": 2
       },
       {
         "year": 2023,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 66
+        "cited_by_count": 8
       },
       {
         "year": 2024,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 85
+        "cited_by_count": 40
       },
       {
         "year": 2025,
-        "works_count": 7,
-        "oa_works_count": 4,
-        "cited_by_count": 58
+        "works_count": 9,
+        "oa_works_count": 6,
+        "cited_by_count": 67
       },
       {
         "year": 2026,
         "works_count": 9,
         "oa_works_count": 5,
-        "cited_by_count": 11
+        "cited_by_count": 121
       }
     ],
     "display_name_alternatives": [
@@ -306,7 +321,7 @@
     ],
     "block_key": "a salisu",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5072935704",
-    "updated_date": "2026-10-25T12:29:02",
+    "updated_date": "2026-10-28T12:34:19",
     "created_date": "2022-01-25T00:00:00"
   },
   "works": [
@@ -637,11 +652,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.3217,
+      "fwci": 3.2723,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.93847108,
+        "value": 0.93670984,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -983,17 +998,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -1102,16 +1117,16 @@
         "https://openalex.org/W6728268514"
       ],
       "related_works": [
-        "https://openalex.org/W127180227",
-        "https://openalex.org/W2068230831",
-        "https://openalex.org/W2905921901",
-        "https://openalex.org/W2355854193",
-        "https://openalex.org/W2188111331",
-        "https://openalex.org/W2348770016",
-        "https://openalex.org/W2588374251",
-        "https://openalex.org/W2525052636",
-        "https://openalex.org/W1535683959",
-        "https://openalex.org/W2745984289"
+        "https://openalex.org/W4387760936",
+        "https://openalex.org/W4306916641",
+        "https://openalex.org/W7168136597",
+        "https://openalex.org/W4414919776",
+        "https://openalex.org/W2938127762",
+        "https://openalex.org/W3134191898",
+        "https://openalex.org/W4319441783",
+        "https://openalex.org/W4321369000",
+        "https://openalex.org/W2763842988",
+        "https://openalex.org/W2079375834"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -1129,7 +1144,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2024-10-11T00:00:00"
     },
     {
       "id": "https://openalex.org/W4410313152",
@@ -1413,11 +1428,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.8432,
+      "fwci": 4.7054,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.96623088,
+        "value": 0.96487453,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1663,8 +1678,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -1744,16 +1759,16 @@
         "https://openalex.org/W4404794745"
       ],
       "related_works": [
-        "https://openalex.org/W2018935598",
-        "https://openalex.org/W4312386917",
-        "https://openalex.org/W791328991",
-        "https://openalex.org/W2075415235",
-        "https://openalex.org/W2132869817",
-        "https://openalex.org/W2064504981",
-        "https://openalex.org/W2033033055",
-        "https://openalex.org/W3085332107",
-        "https://openalex.org/W2079158970",
-        "https://openalex.org/W3152012094"
+        "https://openalex.org/W7167713482",
+        "https://openalex.org/W2531203368",
+        "https://openalex.org/W4402577576",
+        "https://openalex.org/W2303042025",
+        "https://openalex.org/W2796958756",
+        "https://openalex.org/W4417503339",
+        "https://openalex.org/W2072396794",
+        "https://openalex.org/W4292081009",
+        "https://openalex.org/W2983215747",
+        "https://openalex.org/W7163885047"
       ],
       "abstract_inverted_index": {
         "200": [
@@ -2586,7 +2601,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2025-05-13T00:00:00"
     },
     {
       "id": "https://openalex.org/W4417503339",
@@ -2838,11 +2853,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 3.2411,
+      "fwci": 3.1369,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.93383665,
+        "value": 0.9303776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3199,8 +3214,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -3238,7 +3253,18 @@
         "https://openalex.org/W4410313152",
         "https://openalex.org/W4414459744"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W7135180718",
+        "https://openalex.org/W7163885047",
+        "https://openalex.org/W3123972940",
+        "https://openalex.org/W1942639861",
+        "https://openalex.org/W2598717631",
+        "https://openalex.org/W2021442825",
+        "https://openalex.org/W2796958756",
+        "https://openalex.org/W4414281647",
+        "https://openalex.org/W2034744635",
+        "https://openalex.org/W3183522332"
+      ],
       "abstract_inverted_index": {
         "80": [
           125
@@ -4183,16 +4209,16 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.1252,
+      "fwci": 3.1153,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.92990881,
+        "value": 0.92974949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -4452,8 +4478,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -4546,16 +4572,16 @@
         "https://openalex.org/W6726116531"
       ],
       "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2434158672",
-        "https://openalex.org/W4388168157",
-        "https://openalex.org/W3141950295",
-        "https://openalex.org/W2046951665",
-        "https://openalex.org/W2598041317",
-        "https://openalex.org/W2132869817",
-        "https://openalex.org/W2064504981",
-        "https://openalex.org/W2033033055",
-        "https://openalex.org/W3085332107"
+        "https://openalex.org/W2734284688",
+        "https://openalex.org/W7171634573",
+        "https://openalex.org/W2600089442",
+        "https://openalex.org/W4412853043",
+        "https://openalex.org/W2767534216",
+        "https://openalex.org/W4231612273",
+        "https://openalex.org/W2381283715",
+        "https://openalex.org/W2134260018",
+        "https://openalex.org/W2377829933",
+        "https://openalex.org/W2152548514"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -4577,7 +4603,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2023-11-02T00:00:00"
     },
     {
       "id": "https://openalex.org/W4382051178",
@@ -5272,11 +5298,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.9281,
+      "fwci": 4.9235,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.96632556,
+        "value": 0.96628544,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5555,17 +5581,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -5673,16 +5699,16 @@
         "https://openalex.org/W6636246099"
       ],
       "related_works": [
-        "https://openalex.org/W2366661441",
-        "https://openalex.org/W2070199798",
-        "https://openalex.org/W2365621732",
-        "https://openalex.org/W4385895535",
-        "https://openalex.org/W4313208625",
-        "https://openalex.org/W4213163261",
-        "https://openalex.org/W127180227",
-        "https://openalex.org/W2377518074",
-        "https://openalex.org/W2768565527",
-        "https://openalex.org/W4361215143"
+        "https://openalex.org/W6941150898",
+        "https://openalex.org/W3007191688",
+        "https://openalex.org/W1880740094",
+        "https://openalex.org/W4403310698",
+        "https://openalex.org/W2907872826",
+        "https://openalex.org/W2103809450",
+        "https://openalex.org/W405183971",
+        "https://openalex.org/W213323610",
+        "https://openalex.org/W2344665683",
+        "https://openalex.org/W4414919776"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -6447,16 +6473,16 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.1311,
+      "fwci": 3.1236,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.92970551,
+        "value": 0.9292487,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 96,
         "max": 99
       },
       "biblio": {
@@ -6717,9 +6743,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -6732,8 +6758,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 110,
@@ -6850,16 +6876,16 @@
         "https://openalex.org/W6636077317"
       ],
       "related_works": [
-        "https://openalex.org/W2758836683",
-        "https://openalex.org/W2192680519",
-        "https://openalex.org/W2889217151",
-        "https://openalex.org/W2010232619",
-        "https://openalex.org/W1993883941",
-        "https://openalex.org/W1971721508",
-        "https://openalex.org/W3205965100",
-        "https://openalex.org/W3088766260",
-        "https://openalex.org/W3037412489",
-        "https://openalex.org/W3174442230"
+        "https://openalex.org/W2103809450",
+        "https://openalex.org/W7217773662",
+        "https://openalex.org/W4399072009",
+        "https://openalex.org/W4414134393",
+        "https://openalex.org/W3043368508",
+        "https://openalex.org/W2046008208",
+        "https://openalex.org/W7217024219",
+        "https://openalex.org/W4382051178",
+        "https://openalex.org/W3017576025",
+        "https://openalex.org/W3203367653"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -7137,11 +7163,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.5341,
+      "fwci": 1.5441,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.78392195,
+        "value": 0.78497145,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7449,9 +7475,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -7464,8 +7490,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -7540,16 +7566,16 @@
         "https://openalex.org/W6678618728"
       ],
       "related_works": [
-        "https://openalex.org/W2083876416",
-        "https://openalex.org/W1524124313",
-        "https://openalex.org/W2063845072",
-        "https://openalex.org/W1991475175",
-        "https://openalex.org/W1607524432",
-        "https://openalex.org/W561675821",
-        "https://openalex.org/W2378731230",
-        "https://openalex.org/W2313505207",
-        "https://openalex.org/W1491596545",
-        "https://openalex.org/W1856352393"
+        "https://openalex.org/W4205343768",
+        "https://openalex.org/W4309606991",
+        "https://openalex.org/W2284628479",
+        "https://openalex.org/W2884502747",
+        "https://openalex.org/W2085980194",
+        "https://openalex.org/W2083638006",
+        "https://openalex.org/W2773818116",
+        "https://openalex.org/W2531188643",
+        "https://openalex.org/W2157891449",
+        "https://openalex.org/W3091930250"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -7575,7 +7601,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2022-04-03T00:00:00"
     },
     {
       "id": "https://openalex.org/W4399072009",
@@ -7958,11 +7984,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 2.4158,
+      "fwci": 2.3799,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.8876968,
+        "value": 0.88497409,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8197,17 +8223,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -8281,16 +8307,16 @@
         "https://openalex.org/W6683503873"
       ],
       "related_works": [
-        "https://openalex.org/W1536319771",
-        "https://openalex.org/W4306165787",
-        "https://openalex.org/W4304959200",
-        "https://openalex.org/W2965980634",
-        "https://openalex.org/W1604750782",
-        "https://openalex.org/W4319960981",
-        "https://openalex.org/W2386996042",
-        "https://openalex.org/W2387677607",
-        "https://openalex.org/W2185650860",
-        "https://openalex.org/W1914083369"
+        "https://openalex.org/W2079375834",
+        "https://openalex.org/W2955285409",
+        "https://openalex.org/W2020943660",
+        "https://openalex.org/W6887928221",
+        "https://openalex.org/W3017576025",
+        "https://openalex.org/W2031853021",
+        "https://openalex.org/W2895756044",
+        "https://openalex.org/W643509770",
+        "https://openalex.org/W2315915692",
+        "https://openalex.org/W3139368949"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -8308,7 +8334,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2024-05-29T00:00:00"
     },
     {
       "id": "https://openalex.org/W4404794745",
@@ -9069,11 +9095,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.2365,
+      "fwci": 2.2311,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.87868114,
+        "value": 0.87810881,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9341,8 +9367,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -9481,16 +9507,16 @@
         "https://openalex.org/W6632509500"
       ],
       "related_works": [
-        "https://openalex.org/W3105465214",
-        "https://openalex.org/W3109035206",
-        "https://openalex.org/W2357589434",
-        "https://openalex.org/W3119813359",
-        "https://openalex.org/W145363829",
-        "https://openalex.org/W2380746250",
-        "https://openalex.org/W2361360173",
-        "https://openalex.org/W3112790282",
-        "https://openalex.org/W3106807097",
-        "https://openalex.org/W3127776457"
+        "https://openalex.org/W4387801558",
+        "https://openalex.org/W2141598340",
+        "https://openalex.org/W2972228046",
+        "https://openalex.org/W2050189679",
+        "https://openalex.org/W3203367653",
+        "https://openalex.org/W3033490969",
+        "https://openalex.org/W4401946709",
+        "https://openalex.org/W6906578862",
+        "https://openalex.org/W1973989066",
+        "https://openalex.org/W3023033146"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -9812,11 +9838,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.933,
+      "fwci": 5.737,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.9697724,
+        "value": 0.96866046,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10058,8 +10084,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -10198,16 +10224,16 @@
         "https://openalex.org/W6703334057"
       ],
       "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W4308514784",
-        "https://openalex.org/W4387879748",
-        "https://openalex.org/W2061220994",
-        "https://openalex.org/W1982013615",
-        "https://openalex.org/W1993477065",
-        "https://openalex.org/W2348200030",
-        "https://openalex.org/W2060473030",
-        "https://openalex.org/W586398602",
-        "https://openalex.org/W2374323181"
+        "https://openalex.org/W7163885047",
+        "https://openalex.org/W1972535403",
+        "https://openalex.org/W1992542138",
+        "https://openalex.org/W2107682063",
+        "https://openalex.org/W7167713482",
+        "https://openalex.org/W9649271",
+        "https://openalex.org/W3156922280",
+        "https://openalex.org/W7099455984",
+        "https://openalex.org/W3182614349",
+        "https://openalex.org/W2049909428"
       ],
       "abstract_inverted_index": {
         "150": [
@@ -11130,7 +11156,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2025-03-20T00:00:00"
     },
     {
       "id": "https://openalex.org/W4387996609",
@@ -11142,7 +11168,8 @@
       "ids": {
         "openalex": "https://openalex.org/W4387996609",
         "doi": "https://doi.org/10.1038/s41598-023-45563-9",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37891355"
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/37891355",
+        "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/10611803"
       },
       "language": "en",
       "primary_location": {
@@ -11473,11 +11500,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.0232,
+      "fwci": 2.0059,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.85377135,
+        "value": 0.85167977,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11871,9 +11898,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -11886,8 +11913,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -11965,16 +11992,16 @@
         "https://openalex.org/W6922324949"
       ],
       "related_works": [
-        "https://openalex.org/W1604238926",
-        "https://openalex.org/W4313208625",
-        "https://openalex.org/W2768565527",
-        "https://openalex.org/W4361215143",
-        "https://openalex.org/W2368062105",
-        "https://openalex.org/W1176257464",
-        "https://openalex.org/W2906461088",
-        "https://openalex.org/W3021886491",
-        "https://openalex.org/W2377029182",
-        "https://openalex.org/W3140727949"
+        "https://openalex.org/W3195332584",
+        "https://openalex.org/W2181974882",
+        "https://openalex.org/W2597823511",
+        "https://openalex.org/W2274985252",
+        "https://openalex.org/W4415216046",
+        "https://openalex.org/W2008293205",
+        "https://openalex.org/W2081280985",
+        "https://openalex.org/W2988120526",
+        "https://openalex.org/W4214589948",
+        "https://openalex.org/W7167301984"
       ],
       "abstract_inverted_index": {
         "Ferruginous": [
@@ -12598,8 +12625,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-10-28T10:33:24.094632",
+      "created_date": "2023-10-29T00:00:00"
     },
     {
       "id": "https://openalex.org/W4408588305",
@@ -12853,11 +12880,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 4.9442,
+      "fwci": 4.7809,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.9583926,
+        "value": 0.95612464,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13181,8 +13208,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -13283,16 +13310,16 @@
         "https://openalex.org/W6871681836"
       ],
       "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W1536319771",
-        "https://openalex.org/W2965980634",
-        "https://openalex.org/W1604750782",
-        "https://openalex.org/W2386996042",
-        "https://openalex.org/W2387677607",
-        "https://openalex.org/W3127204477",
-        "https://openalex.org/W3150214429",
-        "https://openalex.org/W2355912982",
-        "https://openalex.org/W2021484268"
+        "https://openalex.org/W7213227099",
+        "https://openalex.org/W2050231331",
+        "https://openalex.org/W763085077",
+        "https://openalex.org/W2946489644",
+        "https://openalex.org/W1999515736",
+        "https://openalex.org/W2905017064",
+        "https://openalex.org/W4417503339",
+        "https://openalex.org/W7163885047",
+        "https://openalex.org/W4401946709",
+        "https://openalex.org/W2343270021"
       ],
       "abstract_inverted_index": {
         "14": [
@@ -14020,7 +14047,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2025-03-19T00:00:00"
     },
     {
       "id": "https://openalex.org/W4414459744",
@@ -14267,11 +14294,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4702,
+      "fwci": 4.3028,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.95536191,
+        "value": 0.9534384,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14623,8 +14650,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -14653,7 +14680,18 @@
         "https://openalex.org/W4391387761",
         "https://openalex.org/W4410313152"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W2907494230",
+        "https://openalex.org/W2512222923",
+        "https://openalex.org/W7223566996",
+        "https://openalex.org/W2345213496",
+        "https://openalex.org/W4390127518",
+        "https://openalex.org/W4417503339",
+        "https://openalex.org/W7128523486",
+        "https://openalex.org/W2241952350",
+        "https://openalex.org/W4205572839",
+        "https://openalex.org/W7167713482"
+      ],
       "abstract_inverted_index": {
         "200": [
           100
@@ -15121,7 +15159,8 @@
       "ids": {
         "openalex": "https://openalex.org/W7133693243",
         "doi": "https://doi.org/10.1038/s41598-026-42250-3",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/41786862"
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/41786862",
+        "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/13079741"
       },
       "language": "en",
       "primary_location": {
@@ -15457,11 +15496,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 9.4551,
+      "fwci": 9.2429,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.98351249,
+        "value": 0.9825586,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15991,8 +16030,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -16058,7 +16097,18 @@
         "https://openalex.org/W4417503339",
         "https://openalex.org/W7128601178"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W3157059139",
+        "https://openalex.org/W2340689945",
+        "https://openalex.org/W2334286572",
+        "https://openalex.org/W2312958568",
+        "https://openalex.org/W4221128968",
+        "https://openalex.org/W2013113948",
+        "https://openalex.org/W1985287944",
+        "https://openalex.org/W847027102",
+        "https://openalex.org/W2059473764",
+        "https://openalex.org/W2994908330"
+      ],
       "abstract_inverted_index": {
         "2": [
           68
@@ -16549,7 +16599,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-10-28T10:33:24.094632",
       "created_date": "2026-03-06T00:00:00"
     },
     {
@@ -16847,11 +16897,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.0569,
+      "fwci": 1.0412,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.70070577,
+        "value": 0.69645078,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17087,8 +17137,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -17174,16 +17224,16 @@
         "https://openalex.org/W6871681836"
       ],
       "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W3107994849",
-        "https://openalex.org/W4247143848",
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2009883749",
-        "https://openalex.org/W2735573198",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W29442446",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078"
+        "https://openalex.org/W4411485386",
+        "https://openalex.org/W6965410615",
+        "https://openalex.org/W2939082477",
+        "https://openalex.org/W4401646659",
+        "https://openalex.org/W2156608310",
+        "https://openalex.org/W3193938947",
+        "https://openalex.org/W1869147931",
+        "https://openalex.org/W3088402807",
+        "https://openalex.org/W4400977977",
+        "https://openalex.org/W2982997906"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
@@ -17517,11 +17567,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.5703,
+      "fwci": 10.0999,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.98165558,
+        "value": 0.97921178,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17900,8 +17950,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -17994,7 +18044,18 @@
         "https://openalex.org/W4411969153",
         "https://openalex.org/W4414459744"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W2595443034",
+        "https://openalex.org/W2034485780",
+        "https://openalex.org/W7167181867",
+        "https://openalex.org/W2620939757",
+        "https://openalex.org/W1999461864",
+        "https://openalex.org/W4388805478",
+        "https://openalex.org/W4285611916",
+        "https://openalex.org/W4413289465",
+        "https://openalex.org/W2343600396",
+        "https://openalex.org/W2292017358"
+      ],
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
@@ -18015,7 +18076,8 @@
       "ids": {
         "openalex": "https://openalex.org/W4401646659",
         "doi": "https://doi.org/10.1021/acsomega.4c02592",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/39220536"
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/39220536",
+        "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/11360038"
       },
       "language": "en",
       "primary_location": {
@@ -18041,6 +18103,7 @@
             "jufo-1",
             "ki-jl-1",
             "norway-1",
+            "oarl",
             "poland-70",
             "russia-white-list-1",
             "vabb-shw"
@@ -18390,11 +18453,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.6039,
+      "fwci": 0.595,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.55321734,
+        "value": 0.54974093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18589,6 +18652,7 @@
               "jufo-1",
               "ki-jl-1",
               "norway-1",
+              "oarl",
               "poland-70",
               "russia-white-list-1",
               "vabb-shw"
@@ -18726,6 +18790,7 @@
             "jufo-1",
             "ki-jl-1",
             "norway-1",
+            "oarl",
             "poland-70",
             "russia-white-list-1",
             "vabb-shw"
@@ -18760,8 +18825,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -18852,16 +18917,16 @@
         "https://openalex.org/W4395699692"
       ],
       "related_works": [
-        "https://openalex.org/W1563872154",
-        "https://openalex.org/W2475043292",
-        "https://openalex.org/W2017375776",
-        "https://openalex.org/W2525674576",
-        "https://openalex.org/W3194038809",
-        "https://openalex.org/W2230133835",
-        "https://openalex.org/W2789082068",
-        "https://openalex.org/W2041160442",
-        "https://openalex.org/W2041281109",
-        "https://openalex.org/W34883379"
+        "https://openalex.org/W2469086254",
+        "https://openalex.org/W2467349280",
+        "https://openalex.org/W1984702065",
+        "https://openalex.org/W2038869317",
+        "https://openalex.org/W2020368394",
+        "https://openalex.org/W2809253161",
+        "https://openalex.org/W2939082477",
+        "https://openalex.org/W2799677801",
+        "https://openalex.org/W4403558876",
+        "https://openalex.org/W7149884121"
       ],
       "abstract_inverted_index": {
         "2": [
@@ -19568,8 +19633,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "updated_date": "2026-10-28T10:33:24.094632",
+      "created_date": "2024-08-17T00:00:00"
     },
     {
       "id": "https://openalex.org/W4407393621",
@@ -19605,6 +19670,7 @@
             "doaj",
             "dongbi-c",
             "norway-1",
+            "oarl",
             "poland-70",
             "russia-white-list-2"
           ],
@@ -19914,11 +19980,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 0.6458,
+      "fwci": 0.6274,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.54944763,
+        "value": 0.54003288,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20193,6 +20259,7 @@
               "doaj",
               "dongbi-c",
               "norway-1",
+              "oarl",
               "poland-70",
               "russia-white-list-2"
             ],
@@ -20266,6 +20333,7 @@
             "doaj",
             "dongbi-c",
             "norway-1",
+            "oarl",
             "poland-70",
             "russia-white-list-2"
           ],
@@ -20293,8 +20361,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -20357,16 +20425,16 @@
         "https://openalex.org/W4403558876"
       ],
       "related_works": [
-        "https://openalex.org/W1966018702",
-        "https://openalex.org/W4244074133",
-        "https://openalex.org/W2078704581",
-        "https://openalex.org/W2390326989",
-        "https://openalex.org/W4402965069",
-        "https://openalex.org/W2372412760",
-        "https://openalex.org/W4387216249",
-        "https://openalex.org/W2359822476",
-        "https://openalex.org/W2059585431",
-        "https://openalex.org/W2811147918"
+        "https://openalex.org/W4414226470",
+        "https://openalex.org/W4417124572",
+        "https://openalex.org/W6964482684",
+        "https://openalex.org/W4360602049",
+        "https://openalex.org/W3128039934",
+        "https://openalex.org/W7168188589",
+        "https://openalex.org/W2334106041",
+        "https://openalex.org/W6921987052",
+        "https://openalex.org/W4390198130",
+        "https://openalex.org/W4407136194"
       ],
       "abstract_inverted_index": {
         "45": [
@@ -20936,7 +21004,7 @@
         }
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2025-10-10T00:00:00"
+      "created_date": "2025-02-12T00:00:00"
     },
     {
       "id": "https://openalex.org/W7167713482",
@@ -21190,11 +21258,11 @@
         "value_usd": 3810
       },
       "apc_paid": null,
-      "fwci": 2.0218,
+      "fwci": 1.9078,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.89222249,
+        "value": 0.88252775,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21554,9 +21622,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8751643896102905,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -21569,8 +21637,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -21636,7 +21704,18 @@
         "https://openalex.org/W4408660286",
         "https://openalex.org/W4410313152"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W4410313152",
+        "https://openalex.org/W4402577576",
+        "https://openalex.org/W7163885047",
+        "https://openalex.org/W2531203368",
+        "https://openalex.org/W4408660286",
+        "https://openalex.org/W3144791798",
+        "https://openalex.org/W2364001006",
+        "https://openalex.org/W3187279533",
+        "https://openalex.org/W2353491186",
+        "https://openalex.org/W7214226277"
+      ],
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
@@ -22181,32 +22260,32 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.6700000166893005,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W1976985527",
-        "https://openalex.org/W2969927268",
-        "https://openalex.org/W2387374232",
-        "https://openalex.org/W2756056973",
-        "https://openalex.org/W1963716487",
-        "https://openalex.org/W2354034738",
-        "https://openalex.org/W4318327267",
-        "https://openalex.org/W2388723608",
-        "https://openalex.org/W1536805899",
-        "https://openalex.org/W3197170386"
+        "https://openalex.org/W4220873824",
+        "https://openalex.org/W4309606991",
+        "https://openalex.org/W2284628479",
+        "https://openalex.org/W2085980194",
+        "https://openalex.org/W2083638006",
+        "https://openalex.org/W2773818116",
+        "https://openalex.org/W2995034329",
+        "https://openalex.org/W2884502747",
+        "https://openalex.org/W2157891449",
+        "https://openalex.org/W4398781102"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
@@ -22977,7 +23056,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16130435,
+        "value": 0.16067562,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23370,16 +23449,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.46149998903274536,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.5982216000556946,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -23405,8 +23484,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -23514,7 +23593,18 @@
         "https://openalex.org/W7128601178",
         "https://openalex.org/W7133693243"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W7128313871",
+        "https://openalex.org/W4237790493",
+        "https://openalex.org/W2105621431",
+        "https://openalex.org/W2092950357",
+        "https://openalex.org/W2313296710",
+        "https://openalex.org/W3022020070",
+        "https://openalex.org/W3122477839",
+        "https://openalex.org/W7169875536",
+        "https://openalex.org/W4294845226",
+        "https://openalex.org/W3217732816"
+      ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
       "updated_date": "2026-10-27T15:51:10.671819",
@@ -23555,6 +23645,7 @@
             "dongbi-b",
             "jufo-1",
             "norway-1",
+            "oarl",
             "poland-140",
             "vabb-shw"
           ],
@@ -23827,7 +23918,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3437285,
+        "value": 0.31637072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24124,6 +24215,7 @@
               "dongbi-b",
               "jufo-1",
               "norway-1",
+              "oarl",
               "poland-140",
               "vabb-shw"
             ],
@@ -24169,6 +24261,7 @@
             "dongbi-b",
             "jufo-1",
             "norway-1",
+            "oarl",
             "poland-140",
             "vabb-shw"
           ],
@@ -24193,9 +24286,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8707032203674316,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -24208,8 +24301,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -24248,7 +24341,18 @@
         "https://openalex.org/W4319441783",
         "https://openalex.org/W4372218208"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W2773597787",
+        "https://openalex.org/W4396507467",
+        "https://openalex.org/W3161136184",
+        "https://openalex.org/W4386697388",
+        "https://openalex.org/W4389516474",
+        "https://openalex.org/W3185393715",
+        "https://openalex.org/W6963542041",
+        "https://openalex.org/W4210665428",
+        "https://openalex.org/W4406918155",
+        "https://openalex.org/W4400944806"
+      ],
       "abstract_inverted_index": {
         "Rift-related": [
           0
@@ -25464,7 +25568,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32549294,
+        "value": 0.30067302,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25864,17 +25968,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8677359223365784,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -25943,7 +26047,18 @@
         "https://openalex.org/W4417503339",
         "https://openalex.org/W7133693243"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W7163885047",
+        "https://openalex.org/W2586594375",
+        "https://openalex.org/W1553986772",
+        "https://openalex.org/W4417503339",
+        "https://openalex.org/W4412320058",
+        "https://openalex.org/W2326459227",
+        "https://openalex.org/W3123972940",
+        "https://openalex.org/W2048829928",
+        "https://openalex.org/W4408660286",
+        "https://openalex.org/W1992542138"
+      ],
       "abstract_inverted_index": {
         "21": [
           91
@@ -26813,7 +26928,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32588851,
+        "value": 0.30105177,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27210,17 +27325,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8754722476005554,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -27267,7 +27382,18 @@
         "https://openalex.org/W4414459744",
         "https://openalex.org/W4417503339"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W4408660286",
+        "https://openalex.org/W7163876794",
+        "https://openalex.org/W4417503339",
+        "https://openalex.org/W7167713482",
+        "https://openalex.org/W1992542138",
+        "https://openalex.org/W2062661188",
+        "https://openalex.org/W2102394579",
+        "https://openalex.org/W2033993178",
+        "https://openalex.org/W2378948041",
+        "https://openalex.org/W2186959959"
+      ],
       "abstract_inverted_index": {
         "14": [
           94
@@ -28299,17 +28425,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "score": 0.8721182346343994,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7167189447.pdf",
@@ -28317,43 +28443,2164 @@
       },
       "referenced_works_count": 0,
       "referenced_works": [],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W2235848478",
+        "https://openalex.org/W3010590953",
+        "https://openalex.org/W2515720001",
+        "https://openalex.org/W2520092935",
+        "https://openalex.org/W2810825849",
+        "https://openalex.org/W2061847470",
+        "https://openalex.org/W2529961741",
+        "https://openalex.org/W2512006861",
+        "https://openalex.org/W4389353707",
+        "https://openalex.org/W4404860723"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-10-28T10:33:24.094632",
+      "created_date": "2026-07-03T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7204475104",
+      "doi": "https://doi.org/10.54117/y6amd296",
+      "title": "Measurement and Evaluation of Organ Doses during Intravenous Urography (IVU) Procedure in Yobe State, Nigerian Hospitals: Implications for Radiation Safety in Clinical Practice",
+      "display_name": "Measurement and Evaluation of Organ Doses during Intravenous Urography (IVU) Procedure in Yobe State, Nigerian Hospitals: Implications for Radiation Safety in Clinical Practice",
+      "publication_year": 2025,
+      "publication_date": "2025-06-30",
+      "ids": {
+        "openalex": "https://openalex.org/W7204475104",
+        "doi": "https://doi.org/10.54117/y6amd296"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.54117/y6amd296",
+        "doi": "https://doi.org/10.54117/y6amd296",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.54117/y6amd296",
+        "pdf_url": "https://gadaufos.com/gjpas/index.php/journal/article/download/204/88",
+        "source": {
+          "id": "https://openalex.org/S4387282353",
+          "display_name": "Gadau Journal of Pure and Allied Sciences",
+          "issn_l": "2955-1722",
+          "issn": [
+            "2955-1722"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Gadau Journal of Pure and Allied Sciences",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://gadaufos.com/gjpas/index.php/journal/article/download/204/88",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "orcid": "https://orcid.org/0009-0002-6134-0511",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-6134-0511"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anas Muhammad Salisu",
+          "raw_affiliation_strings": [
+            "Ahmadu Bello University Zaria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ahmadu Bello University Zaria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5148455789",
+            "display_name": "Tukur Yakubu Muhammad",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tukur Yakubu Muhammad",
+          "raw_affiliation_strings": [
+            "Ahmadu Bello University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ahmadu Bello University",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081161425",
+            "display_name": "Nuraddeen Nasiru Garba",
+            "orcid": "https://orcid.org/0000-0002-1620-4214",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1620-4214"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nuraddeen Nasiru Garba",
+          "raw_affiliation_strings": [
+            "Ahmadu Bello University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ahmadu Bello University",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064487843",
+            "display_name": "Bashir Danladi Jatau",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bashir Dalladi Jatau",
+          "raw_affiliation_strings": [
+            "Ahmadu Bello University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ahmadu Bello University",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5148418058",
+            "display_name": "Aliyu Muhammad",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Aliyu Muhammad",
+          "raw_affiliation_strings": [
+            "Ahmadu Bello University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ahmadu Bello University",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I12789410"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.53532278,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "4",
+        "issue": "1",
+        "first_page": "54",
+        "last_page": "58"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10844",
+        "display_name": "Radiation Dose and Imaging",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2741",
+          "display_name": "Radiology, Nuclear Medicine and Imaging"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10844",
+          "display_name": "Radiation Dose and Imaging",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2741",
+            "display_name": "Radiology, Nuclear Medicine and Imaging"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10358",
+          "display_name": "Advanced Radiotherapy Techniques",
+          "score": 0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3108",
+            "display_name": "Radiation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11361",
+          "display_name": "Digital Radiography and Breast Imaging",
+          "score": 0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2740",
+            "display_name": "Pulmonary and Respiratory Medicine"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/intravenous-urography",
+          "display_name": "intravenous urography",
+          "score": 0.9919999837875366
+        },
+        {
+          "id": "https://openalex.org/keywords/radiation-dosimetry",
+          "display_name": "radiation dosimetry",
+          "score": 0.6930000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/kidney-dose",
+          "display_name": "kidney dose",
+          "score": 0.7540000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/bladder-dose",
+          "display_name": "bladder dose",
+          "score": 0.9079999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/cancer-risk-assessment",
+          "display_name": "cancer risk assessment",
+          "score": 0.8270000219345093
+        },
+        {
+          "id": "https://openalex.org/keywords/radiation-protection",
+          "display_name": "radiation protection",
+          "score": 0.765999972820282
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.9016000032424927
+        },
+        {
+          "id": "https://openalex.org/C3020512807",
+          "wikidata": "https://www.wikidata.org/wiki/Q1567532",
+          "display_name": "Intravenous urography",
+          "level": 3,
+          "score": 0.6215999722480774
+        },
+        {
+          "id": "https://openalex.org/C2779974597",
+          "wikidata": "https://www.wikidata.org/wiki/Q28448986",
+          "display_name": "Clinical Practice",
+          "level": 2,
+          "score": 0.5151000022888184
+        },
+        {
+          "id": "https://openalex.org/C2780352672",
+          "wikidata": "https://www.wikidata.org/wiki/Q504775",
+          "display_name": "Bladder cancer",
+          "level": 3,
+          "score": 0.4629000127315521
+        },
+        {
+          "id": "https://openalex.org/C105636585",
+          "wikidata": "https://www.wikidata.org/wiki/Q303665",
+          "display_name": "Dosimeter",
+          "level": 3,
+          "score": 0.45660001039505005
+        },
+        {
+          "id": "https://openalex.org/C126838900",
+          "wikidata": "https://www.wikidata.org/wiki/Q77604",
+          "display_name": "Radiology",
+          "level": 1,
+          "score": 0.4115000069141388
+        },
+        {
+          "id": "https://openalex.org/C121608353",
+          "wikidata": "https://www.wikidata.org/wiki/Q12078",
+          "display_name": "Cancer",
+          "level": 2,
+          "score": 0.40869998931884766
+        },
+        {
+          "id": "https://openalex.org/C509974204",
+          "wikidata": "https://www.wikidata.org/wiki/Q180507",
+          "display_name": "Radiation therapy",
+          "level": 2,
+          "score": 0.35010001063346863
+        },
+        {
+          "id": "https://openalex.org/C2779925993",
+          "wikidata": "https://www.wikidata.org/wiki/Q336938",
+          "display_name": "Radiation exposure",
+          "level": 2,
+          "score": 0.33959999680519104
+        },
+        {
+          "id": "https://openalex.org/C2987700449",
+          "wikidata": "https://www.wikidata.org/wiki/Q186161",
+          "display_name": "Radiation dose",
+          "level": 2,
+          "score": 0.32749998569488525
+        },
+        {
+          "id": "https://openalex.org/C2779328685",
+          "wikidata": "https://www.wikidata.org/wiki/Q1475557",
+          "display_name": "Patient safety",
+          "level": 3,
+          "score": 0.32510000467300415
+        },
+        {
+          "id": "https://openalex.org/C141071460",
+          "wikidata": "https://www.wikidata.org/wiki/Q40821",
+          "display_name": "Surgery",
+          "level": 1,
+          "score": 0.31790000200271606
+        },
+        {
+          "id": "https://openalex.org/C2908696374",
+          "wikidata": "https://www.wikidata.org/wiki/Q1567532",
+          "display_name": "Intravenous Pyelogram",
+          "level": 3,
+          "score": 0.3160000145435333
+        },
+        {
+          "id": "https://openalex.org/C177713679",
+          "wikidata": "https://www.wikidata.org/wiki/Q679690",
+          "display_name": "Intensive care medicine",
+          "level": 1,
+          "score": 0.2944999933242798
+        },
+        {
+          "id": "https://openalex.org/C2781068499",
+          "wikidata": "https://www.wikidata.org/wiki/Q3242950",
+          "display_name": "Kidney cancer",
+          "level": 3,
+          "score": 0.2944999933242798
+        },
+        {
+          "id": "https://openalex.org/C2779399171",
+          "wikidata": "https://www.wikidata.org/wiki/Q1483951",
+          "display_name": "Malignancy",
+          "level": 2,
+          "score": 0.29249998927116394
+        },
+        {
+          "id": "https://openalex.org/C204465174",
+          "wikidata": "https://www.wikidata.org/wiki/Q1567532",
+          "display_name": "Pyelogram",
+          "level": 2,
+          "score": 0.2903999984264374
+        },
+        {
+          "id": "https://openalex.org/C81182388",
+          "wikidata": "https://www.wikidata.org/wiki/Q353963",
+          "display_name": "Complication",
+          "level": 2,
+          "score": 0.2865000069141388
+        },
+        {
+          "id": "https://openalex.org/C149857219",
+          "wikidata": "https://www.wikidata.org/wiki/Q5239054",
+          "display_name": "Effective dose (radiation)",
+          "level": 2,
+          "score": 0.2824000120162964
+        },
+        {
+          "id": "https://openalex.org/C2993797112",
+          "wikidata": "https://www.wikidata.org/wiki/Q121176",
+          "display_name": "Nursing practice",
+          "level": 2,
+          "score": 0.275299996137619
+        },
+        {
+          "id": "https://openalex.org/C2777620619",
+          "wikidata": "https://www.wikidata.org/wiki/Q1574099",
+          "display_name": "Radiation protection",
+          "level": 2,
+          "score": 0.27469998598098755
+        },
+        {
+          "id": "https://openalex.org/C77411442",
+          "wikidata": "https://www.wikidata.org/wiki/Q181100",
+          "display_name": "Urinary system",
+          "level": 2,
+          "score": 0.2720000147819519
+        },
+        {
+          "id": "https://openalex.org/C3018799218",
+          "wikidata": "https://www.wikidata.org/wiki/Q188193",
+          "display_name": "Organ system",
+          "level": 3,
+          "score": 0.2615000009536743
+        },
+        {
+          "id": "https://openalex.org/C194828623",
+          "wikidata": "https://www.wikidata.org/wiki/Q2861470",
+          "display_name": "Emergency medicine",
+          "level": 1,
+          "score": 0.25949999690055847
+        },
+        {
+          "id": "https://openalex.org/C2776805002",
+          "wikidata": "https://www.wikidata.org/wiki/Q614984",
+          "display_name": "Fluoroscopy",
+          "level": 2,
+          "score": 0.25290000438690186
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.54117/y6amd296",
+          "doi": "https://doi.org/10.54117/y6amd296",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.54117/y6amd296",
+          "pdf_url": "https://gadaufos.com/gjpas/index.php/journal/article/download/204/88",
+          "source": {
+            "id": "https://openalex.org/S4387282353",
+            "display_name": "Gadau Journal of Pure and Allied Sciences",
+            "issn_l": "2955-1722",
+            "issn": [
+              "2955-1722"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Gadau Journal of Pure and Allied Sciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.54117/y6amd296",
+        "doi": "https://doi.org/10.54117/y6amd296",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.54117/y6amd296",
+        "pdf_url": "https://gadaufos.com/gjpas/index.php/journal/article/download/204/88",
+        "source": {
+          "id": "https://openalex.org/S4387282353",
+          "display_name": "Gadau Journal of Pure and Allied Sciences",
+          "issn_l": "2955-1722",
+          "issn": [
+            "2955-1722"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Gadau Journal of Pure and Allied Sciences",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.98580002784729,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "sustainable_development_goals_aurora": [
+        {
+          "score": 0.4293944239616394,
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
+        }
+      ],
+      "study_designs": [
+        {
+          "id": "https://openalex.org/study-designs/observational-study",
+          "display_name": "Observational Study"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W7204475104.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7204475104.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W7161263637",
+        "https://openalex.org/W7214288223",
+        "https://openalex.org/W3041193223",
+        "https://openalex.org/W4283270670",
+        "https://openalex.org/W2032445576",
+        "https://openalex.org/W2043388339",
+        "https://openalex.org/W2747445107",
+        "https://openalex.org/W2334540211",
+        "https://openalex.org/W2918596820",
+        "https://openalex.org/W2341614756"
+      ],
       "abstract_inverted_index": {
-        "Pursuing": [
+        "35": [
+          168
+        ],
+        "50": [
+          59
+        ],
+        "This": [
           0
         ],
-        "a": [
+        "study": [
           1,
-          4
+          57,
+          188
         ],
-        "PhD": [
+        "aimed": [
           2
         ],
-        "is": [
-          3
+        "to": [
+          3,
+          46,
+          76,
+          123,
+          142,
+          199,
+          210
         ],
-        "challenging": [
-          5
-        ],
-        "endeavor": [
-          6
-        ],
-        "anywhere": [
-          7
-        ],
-        "in": [
-          8
+        "assess": [
+          4
         ],
         "the": [
+          5,
+          19,
+          48,
+          53,
+          78,
+          87,
+          90,
+          99,
+          160,
+          190
+        ],
+        "organ": [
+          6,
+          83,
+          120,
+          138,
+          181
+        ],
+        "doses": [
+          7,
+          84,
+          121,
+          139,
+          182
+        ],
+        "received": [
+          8,
+          89,
+          101
+        ],
+        "by": [
           9
         ],
-        "world": [
-          10
+        "patients": [
+          10,
+          70,
+          116
+        ],
+        "during": [
+          11,
+          203
+        ],
+        "Intravenous": [
+          12
+        ],
+        "Urography": [
+          13
+        ],
+        "(IVU)": [
+          14
+        ],
+        "procedures,": [
+          15
+        ],
+        "specifically": [
+          16
+        ],
+        "focusing": [
+          17
+        ],
+        "on": [
+          18,
+          163
+        ],
+        "adrenal": [
+          20
+        ],
+        "glands,": [
+          21
+        ],
+        "bladder,": [
+          22
+        ],
+        "ureter,": [
+          23
+        ],
+        "and": [
+          24,
+          33,
+          45,
+          127,
+          149
+        ],
+        "kidneys": [
+          25,
+          88
+        ],
+        "at": [
+          26,
+          96,
+          155
+        ],
+        "Yobe": [
+          27,
+          34
+        ],
+        "State": [
+          28,
+          35
+        ],
+        "University": [
+          29
+        ],
+        "Teaching": [
+          30
+        ],
+        "Hospital": [
+          31,
+          37
+        ],
+        "(YSUTH)": [
+          32
+        ],
+        "Specialist": [
+          36
+        ],
+        "(YSSHD)": [
+          38
+        ],
+        "in": [
+          39
+        ],
+        "Nigeria.": [
+          40
+        ],
+        "Utilizing": [
+          41
+        ],
+        "thermo-luminescent": [
+          42
+        ],
+        "dosimeters": [
+          43
+        ],
+        "(TLDs)": [
+          44
+        ],
+        "estimate": [
+          47,
+          77
+        ],
+        "associated": [
+          49,
+          135
+        ],
+        "cancer": [
+          50,
+          132
+        ],
+        "risks": [
+          51
+        ],
+        "using": [
+          52
+        ],
+        "CALDose_X": [
+          54
+        ],
+        "software.": [
+          55
+        ],
+        "The": [
+          56,
+          81,
+          110,
+          130
+        ],
+        "involved": [
+          58
+        ],
+        "patients,": [
+          60
+        ],
+        "with": [
+          61,
+          136
+        ],
+        "demographic": [
+          62
+        ],
+        "data": [
+          63
+        ],
+        "recorded": [
+          64
+        ],
+        "alongside": [
+          65
+        ],
+        "radiographic": [
+          66
+        ],
+        "exposure": [
+          67,
+          125,
+          197
+        ],
+        "parameters.": [
+          68
+        ],
+        "Twenty-five": [
+          69
+        ],
+        "from": [
+          71,
+          215
+        ],
+        "each": [
+          72
+        ],
+        "facility": [
+          73
+        ],
+        "were": [
+          74,
+          140
+        ],
+        "analyzed": [
+          75
+        ],
+        "radiation": [
+          79,
+          196
+        ],
+        "doses.": [
+          80
+        ],
+        "measured": [
+          82
+        ],
+        "indicated": [
+          85
+        ],
+        "that": [
+          86,
+          114
+        ],
+        "highest": [
+          91
+        ],
+        "dose,": [
+          92
+        ],
+        "averaging": [
+          93
+        ],
+        "0.352": [
+          94
+        ],
+        "mGy": [
+          95,
+          106
+        ],
+        "YSSHD,": [
+          97,
+          156
+        ],
+        "while": [
+          98,
+          180
+        ],
+        "bladder": [
+          100
+        ],
+        "lower": [
+          102,
+          158
+        ],
+        "doses,": [
+          103
+        ],
+        "approximately": [
+          104
+        ],
+        "0.010": [
+          105
+        ],
+        "across": [
+          107
+        ],
+        "both": [
+          108
+        ],
+        "centers.": [
+          109
+        ],
+        "findings": [
+          111
+        ],
+        "also": [
+          112
+        ],
+        "highlighted": [
+          113
+        ],
+        "YSSHD": [
+          115
+        ],
+        "experienced": [
+          117
+        ],
+        "higher": [
+          118
+        ],
+        "overall": [
+          119
+        ],
+        "due": [
+          122
+        ],
+        "elevated": [
+          124
+        ],
+        "parameters": [
+          126
+        ],
+        "aging": [
+          128
+        ],
+        "equipment.": [
+          129
+        ],
+        "estimated": [
+          131
+        ],
+        "risk": [
+          133
+        ],
+        "incidents": [
+          134
+        ],
+        "these": [
+          137,
+          216
+        ],
+        "found": [
+          141
+        ],
+        "be": [
+          143
+        ],
+        "2.231": [
+          144
+        ],
+        "×": [
+          145,
+          151
+        ],
+        "10⁵": [
+          146,
+          152
+        ],
+        "for": [
+          147,
+          153,
+          169,
+          192
+        ],
+        "males": [
+          148
+        ],
+        "3.536": [
+          150
+        ],
+        "females": [
+          154
+        ],
+        "considerably": [
+          157
+        ],
+        "than": [
+          159
+        ],
+        "International": [
+          161
+        ],
+        "Commission": [
+          162
+        ],
+        "Radiation": [
+          164
+        ],
+        "Protection": [
+          165
+        ],
+        "(ICRP)": [
+          166
+        ],
+        "recommendations,": [
+          167
+        ],
+        "1,000,000": [
+          170
+        ],
+        "represented": [
+          171
+        ],
+        "as": [
+          172
+        ],
+        "(35": [
+          173
+        ],
+        "´": [
+          174
+        ],
+        "10ˉ6)": [
+          175
+        ],
+        "(ICRP,": [
+          176
+        ],
+        "2022).": [
+          177
+        ],
+        "In": [
+          178
+        ],
+        "conclusion,": [
+          179
+        ],
+        "remained": [
+          183
+        ],
+        "within": [
+          184
+        ],
+        "acceptable": [
+          185
+        ],
+        "limits,": [
+          186
+        ],
+        "this": [
+          187
+        ],
+        "underscores": [
+          189
+        ],
+        "necessity": [
+          191
+        ],
+        "ongoing": [
+          193
+        ],
+        "optimization": [
+          194
+        ],
+        "of": [
+          195
+        ],
+        "protocols": [
+          198
+        ],
+        "enhance": [
+          200
+        ],
+        "patient": [
+          201
+        ],
+        "safety": [
+          202
+        ],
+        "IVU": [
+          204
+        ],
+        "procedures.": [
+          205
+        ],
+        "Further": [
+          206
+        ],
+        "research": [
+          207
+        ],
+        "is": [
+          208
+        ],
+        "encouraged": [
+          209
+        ],
+        "monitor": [
+          211
+        ],
+        "long-term": [
+          212
+        ],
+        "health": [
+          213
+        ],
+        "effects": [
+          214
+        ],
+        "exposures.": [
+          217
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
-      "created_date": "2026-07-03T00:00:00"
+      "updated_date": "2026-10-28T10:33:24.094632",
+      "created_date": "2026-08-28T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7204476743",
+      "doi": "https://doi.org/10.54117/7ep0r712",
+      "title": "Silicon and Phosphorous cross section Determination and Full energy efficiency calibration of 1273 keV and 1779 keV gamma lines using curve fitting",
+      "display_name": "Silicon and Phosphorous cross section Determination and Full energy efficiency calibration of 1273 keV and 1779 keV gamma lines using curve fitting",
+      "publication_year": 2025,
+      "publication_date": "2025-06-30",
+      "ids": {
+        "openalex": "https://openalex.org/W7204476743",
+        "doi": "https://doi.org/10.54117/7ep0r712"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.54117/7ep0r712",
+        "doi": "https://doi.org/10.54117/7ep0r712",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.54117/7ep0r712",
+        "pdf_url": "https://gadaufos.com/gjpas/index.php/journal/article/download/205/89",
+        "source": {
+          "id": "https://openalex.org/S4387282353",
+          "display_name": "Gadau Journal of Pure and Allied Sciences",
+          "issn_l": "2955-1722",
+          "issn": [
+            "2955-1722"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Gadau Journal of Pure and Allied Sciences",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://gadaufos.com/gjpas/index.php/journal/article/download/205/89",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5072935704",
+            "display_name": "Anas Muhammad Salisu",
+            "orcid": "https://orcid.org/0009-0002-6134-0511",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-6134-0511"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anas Muhammad Salisu",
+          "raw_affiliation_strings": [
+            "Ahmadu Bello University Zaria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ahmadu Bello University Zaria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5148430347",
+            "display_name": "Darius Audu Gajere",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Darius Audu Gajere",
+          "raw_affiliation_strings": [
+            "Ahmadu Bello University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ahmadu Bello University",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112893042",
+            "display_name": "Sunday Adesunloye Jonah",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12789410",
+              "display_name": "Ahmadu Bello University",
+              "ror": "https://ror.org/019apvn83",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sunday A. Jonah",
+          "raw_affiliation_strings": [
+            "Centre for Energy Research and Training, Amadu Bello University, Zaria-Nigeria"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Energy Research and Training, Amadu Bello University, Zaria-Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I12789410"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I12789410"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.55395952,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "4",
+        "issue": "1",
+        "first_page": "59",
+        "last_page": "64"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11216",
+        "display_name": "Radiation Detection and Scintillator Technologies",
+        "score": 0.5112000107765198,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3108",
+          "display_name": "Radiation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/31",
+          "display_name": "Physics and Astronomy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11216",
+          "display_name": "Radiation Detection and Scintillator Technologies",
+          "score": 0.5112000107765198,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3108",
+            "display_name": "Radiation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13414",
+          "display_name": "Radioactive Decay and Measurement Techniques",
+          "score": 0.482699990272522,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3108",
+            "display_name": "Radiation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10946",
+          "display_name": "Radioactivity and Radon Measurements",
+          "score": 0.0012000000569969416,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3614",
+            "display_name": "Radiological and Ultrasound Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/full-energy-peak-efficiency",
+          "display_name": "full-energy peak efficiency",
+          "score": 0.9319999814033508
+        },
+        {
+          "id": "https://openalex.org/keywords/detector-geometry",
+          "display_name": "detector geometry",
+          "score": 0.48899999260902405
+        },
+        {
+          "id": "https://openalex.org/keywords/silicon-detectors",
+          "display_name": "silicon detectors",
+          "score": 0.5120000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/gamma-ray-spectroscopy",
+          "display_name": "gamma-ray spectroscopy",
+          "score": 0.652999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/efficiency-calibration",
+          "display_name": "efficiency calibration",
+          "score": 0.6370000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/curve-fitting",
+          "display_name": "curve fitting",
+          "score": 0.6710000038146973
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C94915269",
+          "wikidata": "https://www.wikidata.org/wiki/Q1834857",
+          "display_name": "Detector",
+          "level": 2,
+          "score": 0.8306999802589417
+        },
+        {
+          "id": "https://openalex.org/C165838908",
+          "wikidata": "https://www.wikidata.org/wiki/Q736777",
+          "display_name": "Calibration",
+          "level": 2,
+          "score": 0.6919999718666077
+        },
+        {
+          "id": "https://openalex.org/C186370098",
+          "wikidata": "https://www.wikidata.org/wiki/Q442787",
+          "display_name": "Energy (signal processing)",
+          "level": 2,
+          "score": 0.5400000214576721
+        },
+        {
+          "id": "https://openalex.org/C184389593",
+          "wikidata": "https://www.wikidata.org/wiki/Q603159",
+          "display_name": "Curve fitting",
+          "level": 2,
+          "score": 0.5139999985694885
+        },
+        {
+          "id": "https://openalex.org/C90119067",
+          "wikidata": "https://www.wikidata.org/wiki/Q43260",
+          "display_name": "Polynomial",
+          "level": 2,
+          "score": 0.5008999705314636
+        },
+        {
+          "id": "https://openalex.org/C7910260",
+          "wikidata": "https://www.wikidata.org/wiki/Q11523",
+          "display_name": "Gamma ray",
+          "level": 2,
+          "score": 0.491100013256073
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.4894999861717224
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0.4837999939918518
+        },
+        {
+          "id": "https://openalex.org/C30475298",
+          "wikidata": "https://www.wikidata.org/wiki/Q909554",
+          "display_name": "Computational physics",
+          "level": 1,
+          "score": 0.4708000123500824
+        },
+        {
+          "id": "https://openalex.org/C52234038",
+          "wikidata": "https://www.wikidata.org/wiki/Q17128025",
+          "display_name": "Cross section (physics)",
+          "level": 2,
+          "score": 0.4652999937534332
+        },
+        {
+          "id": "https://openalex.org/C23531484",
+          "wikidata": "https://www.wikidata.org/wiki/Q3196863",
+          "display_name": "Calibration curve",
+          "level": 3,
+          "score": 0.4350999891757965
+        },
+        {
+          "id": "https://openalex.org/C166070808",
+          "wikidata": "https://www.wikidata.org/wiki/Q208476",
+          "display_name": "Solid angle",
+          "level": 3,
+          "score": 0.35089999437332153
+        },
+        {
+          "id": "https://openalex.org/C185544564",
+          "wikidata": "https://www.wikidata.org/wiki/Q81197",
+          "display_name": "Nuclear physics",
+          "level": 1,
+          "score": 0.34950000047683716
+        },
+        {
+          "id": "https://openalex.org/C544956773",
+          "wikidata": "https://www.wikidata.org/wiki/Q670",
+          "display_name": "Silicon",
+          "level": 2,
+          "score": 0.3474999964237213
+        },
+        {
+          "id": "https://openalex.org/C2777962739",
+          "wikidata": "https://www.wikidata.org/wiki/Q2115507",
+          "display_name": "Radioactive source",
+          "level": 3,
+          "score": 0.3416999876499176
+        },
+        {
+          "id": "https://openalex.org/C183680338",
+          "wikidata": "https://www.wikidata.org/wiki/Q736634",
+          "display_name": "Particle detector",
+          "level": 3,
+          "score": 0.33970001339912415
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.3312999904155731
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.3212999999523163
+        },
+        {
+          "id": "https://openalex.org/C148704626",
+          "wikidata": "https://www.wikidata.org/wiki/Q257415",
+          "display_name": "Semiconductor detector",
+          "level": 3,
+          "score": 0.3059999942779541
+        },
+        {
+          "id": "https://openalex.org/C2780009758",
+          "wikidata": "https://www.wikidata.org/wiki/Q6804172",
+          "display_name": "Measure (data warehouse)",
+          "level": 2,
+          "score": 0.3043000102043152
+        },
+        {
+          "id": "https://openalex.org/C2992664116",
+          "wikidata": "https://www.wikidata.org/wiki/Q906816",
+          "display_name": "Gamma ray spectrometry",
+          "level": 2,
+          "score": 0.30399999022483826
+        },
+        {
+          "id": "https://openalex.org/C206550106",
+          "wikidata": "https://www.wikidata.org/wiki/Q906816",
+          "display_name": "Gamma spectroscopy",
+          "level": 3,
+          "score": 0.303600013256073
+        },
+        {
+          "id": "https://openalex.org/C62646347",
+          "wikidata": "https://www.wikidata.org/wiki/Q2041172",
+          "display_name": "Measuring instrument",
+          "level": 2,
+          "score": 0.26260000467300415
+        },
+        {
+          "id": "https://openalex.org/C138029060",
+          "wikidata": "https://www.wikidata.org/wiki/Q7226633",
+          "display_name": "Polynomial and rational function modeling",
+          "level": 3,
+          "score": 0.2526000142097473
+        },
+        {
+          "id": "https://openalex.org/C120068334",
+          "wikidata": "https://www.wikidata.org/wiki/Q45343",
+          "display_name": "Polynomial regression",
+          "level": 3,
+          "score": 0.25110000371932983
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.54117/7ep0r712",
+          "doi": "https://doi.org/10.54117/7ep0r712",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.54117/7ep0r712",
+          "pdf_url": "https://gadaufos.com/gjpas/index.php/journal/article/download/205/89",
+          "source": {
+            "id": "https://openalex.org/S4387282353",
+            "display_name": "Gadau Journal of Pure and Allied Sciences",
+            "issn_l": "2955-1722",
+            "issn": [
+              "2955-1722"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Gadau Journal of Pure and Allied Sciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.54117/7ep0r712",
+        "doi": "https://doi.org/10.54117/7ep0r712",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.54117/7ep0r712",
+        "pdf_url": "https://gadaufos.com/gjpas/index.php/journal/article/download/205/89",
+        "source": {
+          "id": "https://openalex.org/S4387282353",
+          "display_name": "Gadau Journal of Pure and Allied Sciences",
+          "issn_l": "2955-1722",
+          "issn": [
+            "2955-1722"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Gadau Journal of Pure and Allied Sciences",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "score": 0.9105650782585144,
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W7204476743.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7204476743.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W3139275908",
+        "https://openalex.org/W2010653412",
+        "https://openalex.org/W2081893238",
+        "https://openalex.org/W254909284",
+        "https://openalex.org/W4297823400",
+        "https://openalex.org/W2464804700",
+        "https://openalex.org/W4394935906",
+        "https://openalex.org/W2771001157",
+        "https://openalex.org/W3117111300",
+        "https://openalex.org/W2588292046"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "full": [
+          1
+        ],
+        "energy": [
+          2
+        ],
+        "peak": [
+          3,
+          44
+        ],
+        "efficiency": [
+          4,
+          98
+        ],
+        "(FEPE)": [
+          5
+        ],
+        "of": [
+          6,
+          38,
+          55,
+          59,
+          75,
+          83,
+          99,
+          125,
+          136,
+          140
+        ],
+        "a": [
+          7,
+          50,
+          134
+        ],
+        "detector": [
+          8,
+          21,
+          26,
+          29,
+          40
+        ],
+        "system": [
+          9
+        ],
+        "is": [
+          10,
+          57
+        ],
+        "related": [
+          11
+        ],
+        "to": [
+          12,
+          69,
+          121
+        ],
+        "the": [
+          13,
+          18,
+          24,
+          34,
+          39,
+          47,
+          60,
+          81,
+          90,
+          97,
+          114,
+          123,
+          126,
+          138,
+          151
+        ],
+        "measurement": [
+          14
+        ],
+        "conditions": [
+          15
+        ],
+        "such": [
+          16
+        ],
+        "as": [
+          17
+        ],
+        "source": [
+          19
+        ],
+        "and": [
+          20,
+          23,
+          36,
+          71,
+          85,
+          104,
+          142,
+          149
+        ],
+        "geometry,": [
+          22
+        ],
+        "various": [
+          25
+        ],
+        "parameters": [
+          27,
+          63
+        ],
+        "including": [
+          28
+        ],
+        "type": [
+          30
+        ],
+        "(scintillation,": [
+          31
+        ],
+        "solid": [
+          32
+        ],
+        "state),": [
+          33
+        ],
+        "density": [
+          35
+        ],
+        "size": [
+          37
+        ],
+        "material.": [
+          41
+        ],
+        "A": [
+          42,
+          108
+        ],
+        "full-energy": [
+          43
+        ],
+        "contains": [
+          45
+        ],
+        "all": [
+          46
+        ],
+        "information": [
+          48
+        ],
+        "about": [
+          49
+        ],
+        "radionuclide": [
+          51
+        ],
+        "therefore,": [
+          52
+        ],
+        "accurate": [
+          53
+        ],
+        "knowledge": [
+          54
+        ],
+        "FEPE": [
+          56,
+          82,
+          124,
+          139
+        ],
+        "one": [
+          58
+        ],
+        "most": [
+          61
+        ],
+        "important": [
+          62
+        ],
+        "in": [
+          64
+        ],
+        "gamma": [
+          65,
+          73,
+          128,
+          157
+        ],
+        "ray": [
+          66
+        ],
+        "spectrometry": [
+          67
+        ],
+        "practice": [
+          68
+        ],
+        "identify": [
+          70
+        ],
+        "quantify": [
+          72
+        ],
+        "activity": [
+          74
+        ],
+        "any": [
+          76
+        ],
+        "radionuclides.": [
+          77
+        ],
+        "For": [
+          78
+        ],
+        "this": [
+          79,
+          95
+        ],
+        "reason,": [
+          80
+        ],
+        "1273keV": [
+          84,
+          141
+        ],
+        "1779keV": [
+          86,
+          143
+        ],
+        "were": [
+          87
+        ],
+        "determined": [
+          88,
+          103
+        ],
+        "using": [
+          89
+        ],
+        "curve": [
+          91,
+          115
+        ],
+        "fitting": [
+          92
+        ],
+        "approach.": [
+          93
+        ],
+        "In": [
+          94
+        ],
+        "method": [
+          96
+        ],
+        "standard": [
+          100
+        ],
+        "sources": [
+          101
+        ],
+        "was": [
+          102,
+          119
+        ],
+        "plotted": [
+          105
+        ],
+        "against": [
+          106
+        ],
+        "energy.": [
+          107
+        ],
+        "third-degree": [
+          109
+        ],
+        "polynomial": [
+          110
+        ],
+        "equation": [
+          111
+        ],
+        "fitted": [
+          112
+        ],
+        "on": [
+          113
+        ],
+        "at": [
+          116,
+          133
+        ],
+        "each": [
+          117
+        ],
+        "geometry": [
+          118,
+          135,
+          153
+        ],
+        "used": [
+          120
+        ],
+        "evaluate": [
+          122
+        ],
+        "intended": [
+          127
+        ],
+        "line.": [
+          129
+        ],
+        "From": [
+          130
+        ],
+        "our": [
+          131
+        ],
+        "result,": [
+          132
+        ],
+        "2.20cm,": [
+          137
+        ],
+        "compares": [
+          144
+        ],
+        "closely": [
+          145
+        ],
+        "with": [
+          146
+        ],
+        "previous": [
+          147
+        ],
+        "authors": [
+          148
+        ],
+        "hence,": [
+          150
+        ],
+        "recommended": [
+          152
+        ],
+        "for": [
+          154
+        ],
+        "analyzing": [
+          155
+        ],
+        "these": [
+          156
+        ],
+        "lines.": [
+          158
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-10-28T10:33:24.094632",
+      "created_date": "2026-08-28T00:00:00"
     },
     {
       "id": "https://openalex.org/W7214226277",
@@ -28662,7 +30909,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69921018,
+        "value": 0.68514508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28915,17 +31162,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "score": 0.4896319806575775,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -28994,7 +31241,18 @@
         "https://openalex.org/W7133693243",
         "https://openalex.org/W7167713482"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W7061671600",
+        "https://openalex.org/W7167713482",
+        "https://openalex.org/W1606084425",
+        "https://openalex.org/W7061122350",
+        "https://openalex.org/W7131756145",
+        "https://openalex.org/W2007069906",
+        "https://openalex.org/W2547588655",
+        "https://openalex.org/W2496555658",
+        "https://openalex.org/W2230617157",
+        "https://openalex.org/W2796958756"
+      ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
       "updated_date": "2026-10-25T09:29:13.331239",
@@ -29032,6 +31290,7 @@
             "cwts-core",
             "doaj",
             "dongbi-c",
+            "oarl",
             "poland-20",
             "russia-white-list-4"
           ],
@@ -29251,7 +31510,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7116906,
+        "value": 0.66215074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29464,6 +31723,7 @@
               "cwts-core",
               "doaj",
               "dongbi-c",
+              "oarl",
               "poland-20",
               "russia-white-list-4"
             ],
@@ -29506,6 +31766,7 @@
             "cwts-core",
             "doaj",
             "dongbi-c",
+            "oarl",
             "poland-20",
             "russia-white-list-4"
           ],
@@ -29529,9 +31790,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -29539,8 +31800,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -29583,7 +31844,18 @@
         "https://openalex.org/W7133126414",
         "https://openalex.org/W7133693243"
       ],
-      "related_works": [],
+      "related_works": [
+        "https://openalex.org/W7204953441",
+        "https://openalex.org/W4416322224",
+        "https://openalex.org/W1988351418",
+        "https://openalex.org/W7134265509",
+        "https://openalex.org/W2953400694",
+        "https://openalex.org/W7164895806",
+        "https://openalex.org/W4413250846",
+        "https://openalex.org/W4417435904",
+        "https://openalex.org/W7135192292",
+        "https://openalex.org/W4411795423"
+      ],
       "abstract_inverted_index": {
         "2": [
           17,
