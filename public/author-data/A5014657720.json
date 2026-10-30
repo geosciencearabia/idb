@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000929,
+        "value": 0.000093,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000846,
+        "value": 0.0000848,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000736,
+        "value": 0.0000737,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -371,7 +371,7 @@
     ],
     "block_key": "a bello",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5014657720",
-    "updated_date": "2026-10-28T12:34:19",
+    "updated_date": "2026-10-29T12:27:34",
     "created_date": "2018-07-19T00:00:00"
   },
   "works": [
@@ -27483,11 +27483,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.0059,
+      "fwci": 2.0061,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.85167977,
+        "value": 0.85184744,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27736,6 +27736,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:10611803",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10611803",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sci Rep",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:37891355",
           "doi": null,
           "is_oa": false,
@@ -27765,37 +27796,6 @@
           "is_published": true,
           "raw_source_name": "Scientific reports",
           "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:10611803",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10611803",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Sci Rep",
-          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:ec2db9c3c7c54bc9b435a4b41cb5a1b7",
@@ -28608,7 +28608,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2023-10-29T00:00:00"
     },
     {
@@ -28872,11 +28872,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.2957,
+      "fwci": 1.2936,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.75470558,
+        "value": 0.75430952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29142,6 +29142,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11270704",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11270704",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11270704/pdf/ao4c01256.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:39072062",
           "doi": null,
           "is_oa": false,
@@ -29171,37 +29202,6 @@
           "is_published": true,
           "raw_source_name": "ACS omega",
           "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:11270704",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11270704",
-          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11270704/pdf/ao4c01256.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:0bc93a4389044e4aa5e9d5dac173640a",
@@ -30278,7 +30278,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2024-07-16T00:00:00"
     },
     {
@@ -34651,11 +34651,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 9.2429,
+      "fwci": 9.1874,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.9825586,
+        "value": 0.98251418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35068,6 +35068,37 @@
           "raw_type": "Journal Article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:13079741",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13079741/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sci Rep",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmh:oai:doaj.org/article:4f9bf8b16c4e487ca79ddd5fdb9d88cb",
           "doi": null,
           "is_oa": true,
@@ -35095,37 +35126,6 @@
           "is_published": false,
           "raw_source_name": "Scientific Reports, Vol 16, Iss 1 (2026)",
           "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:13079741",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13079741/",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Sci Rep",
-          "raw_type": "Text"
         }
       ],
       "best_oa_location": {
@@ -35754,7 +35754,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2026-03-06T00:00:00"
     },
     {
@@ -36449,11 +36449,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 2.4102,
+      "fwci": 2.4069,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.87931306,
+        "value": 0.87905512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36700,6 +36700,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11471202",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11471202",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11471202/pdf/main.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Heliyon",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:39397976",
           "doi": null,
           "is_oa": false,
@@ -36729,37 +36760,6 @@
           "is_published": true,
           "raw_source_name": "Heliyon",
           "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:11471202",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11471202",
-          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11471202/pdf/main.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Heliyon",
-          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:8c1e63172cef4d9b8819d7b6f1fa9476",
@@ -37726,7 +37726,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2024-10-01T00:00:00"
     },
     {
@@ -64912,22 +64912,18 @@
         "landing_page_url": "https://doi.org/10.2118/223052-ms",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S7407096084",
-          "display_name": "Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)",
+          "id": "https://openalex.org/S7407086369",
+          "display_name": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/P4322614974",
-          "host_organization_name": "Society of Petroleum Engineers",
-          "host_organization_lineage": [
-            "https://openalex.org/P4322614974"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Petroleum Engineers"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
           "type": "conference"
         },
         "license": null,
@@ -65205,7 +65201,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44870791,
+        "value": 0.44835681,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -65468,22 +65464,18 @@
           "landing_page_url": "https://doi.org/10.2118/223052-ms",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S7407096084",
-            "display_name": "Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)",
+            "id": "https://openalex.org/S7407086369",
+            "display_name": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/P4322614974",
-            "host_organization_name": "Society of Petroleum Engineers",
-            "host_organization_lineage": [
-              "https://openalex.org/P4322614974"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Petroleum Engineers"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
             "type": "conference"
           },
           "license": null,
@@ -66289,7 +66281,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-26T11:51:55.731654",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2024-11-04T00:00:00"
     },
     {

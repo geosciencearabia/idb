@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.000157,
+        "value": 0.0001571,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -209,7 +209,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0001436,
+        "value": 0.0001437,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -226,7 +226,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001385,
+        "value": 0.0001387,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -384,7 +384,7 @@
     ],
     "block_key": "i abu-mahfouz",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079903196",
-    "updated_date": "2026-10-28T12:34:19",
+    "updated_date": "2026-10-29T12:27:34",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1261,8 +1261,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4320719921.pdf",
@@ -2299,13 +2299,35 @@
               "https://orcid.org/0000-0002-7508-5913"
             ]
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Amer Alanazi",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2335,13 +2357,35 @@
               "https://orcid.org/0000-0001-5832-7354"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Israa S. Abu-Mahfouz",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2353,13 +2397,35 @@
               "https://orcid.org/0000-0002-2095-3939"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I199693650",
+              "display_name": "Umm al-Qura University",
+              "ror": "https://ror.org/01xjqrm90",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I199693650"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Saleh A. Bawazeer",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "College of Engineering and Architecture, Umm Al-Qura University, Makkah, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Engineering and Architecture, Umm Al-Qura University, Makkah, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I199693650"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2371,13 +2437,35 @@
               "https://orcid.org/0000-0002-8703-2755"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12079687",
+              "display_name": "Edith Cowan University",
+              "ror": "https://ror.org/05jhnwe22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Tawanda Matamba",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Petroleum Engineering Discipline, School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup 6027, W.A., Australia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Engineering Discipline, School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup 6027, W.A., Australia",
+              "institution_ids": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2389,13 +2477,35 @@
               "https://orcid.org/0000-0002-8091-961X"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12079687",
+              "display_name": "Edith Cowan University",
+              "ror": "https://ror.org/05jhnwe22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Alireza Keshavarz",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Petroleum Engineering Discipline, School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup 6027, W.A., Australia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Engineering Discipline, School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup 6027, W.A., Australia",
+              "institution_ids": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2407,13 +2517,35 @@
               "https://orcid.org/0000-0002-8080-1590"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I12079687",
+              "display_name": "Edith Cowan University",
+              "ror": "https://ror.org/05jhnwe22",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Stefan Iglauer",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Petroleum Engineering Discipline, School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup 6027, W.A., Australia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Engineering Discipline, School of Engineering, Edith Cowan University, 270 Joondalup Dr, Joondalup 6027, W.A., Australia",
+              "institution_ids": [
+                "https://openalex.org/I12079687"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -2425,20 +2557,46 @@
               "https://orcid.org/0000-0002-3900-7272"
             ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Hussein Hoteit",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Physical Science and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Physical Science and Engineering Division, King Abdullah University of Science and Technology (KAUST), Thuwal 23955, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103178727"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71920554"
+      ],
       "apc_list": {
         "value": 4200,
         "currency": "USD",
@@ -2449,11 +2607,11 @@
         "currency": "USD",
         "value_usd": 4200
       },
-      "fwci": 8.0321,
+      "fwci": 8.0175,
       "has_fulltext": false,
       "cited_by_count": 54,
       "citation_normalized_percentile": {
-        "value": 0.99295337,
+        "value": 0.99295099,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2857,8 +3015,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -2992,622 +3150,645 @@
         "https://openalex.org/W4404425831"
       ],
       "abstract_inverted_index": {
+        "2": [
+          5,
+          16,
+          22,
+          54,
+          72,
+          124,
+          158,
+          187,
+          196,
+          240,
+          252,
+          258,
+          263,
+          274,
+          294,
+          305
+        ],
         "45": [
-          98
+          105
         ],
         "333": [
-          90
+          97
         ],
         "The": [
           0,
-          15,
-          105,
-          144,
-          234,
-          247
+          19,
+          112,
+          152,
+          246,
+          261
         ],
         "geo-storage": [
           1
         ],
         "of": [
           2,
-          27,
-          47,
-          64,
-          107,
-          176,
-          184,
-          200,
-          227,
-          276
+          32,
+          52,
+          70,
+          114,
+          185,
+          194,
+          211,
+          238,
+          292
         ],
         "hydrogen": [
           3
         ],
-        "(H2)": [
+        "(H": [
           4
         ],
-        "is": [
-          5,
-          118,
-          187,
-          279
-        ],
-        "essential": [
+        ")": [
           6
         ],
-        "for": [
+        "is": [
           7,
-          223
+          126,
+          198,
+          296
         ],
-        "advancing": [
+        "essential": [
           8
         ],
-        "a": [
+        "for": [
           9,
-          20,
-          28,
-          35,
-          72,
-          102,
-          169,
-          193,
-          197
+          234
         ],
-        "robust": [
+        "advancing": [
           10
         ],
-        "and": [
+        "a": [
           11,
-          30,
-          58,
-          89,
-          92,
-          97,
-          110,
-          126,
-          133,
-          155,
-          196,
-          209,
-          254,
-          278
+          25,
+          33,
+          40,
+          79,
+          109,
+          178,
+          204,
+          208
         ],
-        "industrial-scale": [
+        "robust": [
           12
         ],
-        "H2-based": [
+        "and": [
           13,
-          287
+          35,
+          64,
+          96,
+          99,
+          104,
+          117,
+          134,
+          141,
+          164,
+          207,
+          220,
+          269,
+          295
+        ],
+        "industrial-scale": [
+          14
+        ],
+        "H": [
+          15,
+          21,
+          53,
+          71,
+          123,
+          157,
+          186,
+          195,
+          239,
+          251,
+          262,
+          273,
+          293,
+          304
+        ],
+        "-based": [
+          17,
+          306
         ],
         "economy.": [
-          14,
-          288
+          18,
+          307
         ],
         "efficient": [
-          16
-        ],
-        "H2": [
-          17,
-          48,
-          65,
-          116,
-          149,
-          177,
-          185,
-          228,
-          239,
-          248,
-          258,
-          277
+          20
         ],
         "storage": [
-          18
-        ],
-        "in": [
-          19,
-          50,
-          67,
-          189,
-          230,
-          260,
-          283
-        ],
-        "geological": [
-          21
-        ],
-        "formation": [
-          22,
-          78
-        ],
-        "depends": [
           23
         ],
-        "on": [
+        "in": [
           24,
-          44,
-          115
+          56,
+          74,
+          200,
+          242,
+          276,
+          300
         ],
-        "the": [
-          25,
-          39,
-          45,
-          62,
-          141,
-          148,
-          174,
-          182,
-          190,
-          204,
-          214,
-          225,
-          231,
-          238,
-          257,
-          273
-        ],
-        "presence": [
+        "geological": [
           26
         ],
-        "secure": [
-          29
-        ],
-        "impermeable": [
-          31
-        ],
-        "caprock,": [
-          32
-        ],
-        "such": [
-          33
-        ],
-        "as": [
-          34,
-          173
-        ],
-        "shale": [
-          36,
-          52,
-          69,
-          261
-        ],
-        "formation.": [
-          37
-        ],
-        "However,": [
-          38
-        ],
-        "existing": [
-          40
-        ],
-        "literature": [
-          41
-        ],
-        "lacks": [
-          42
-        ],
-        "information": [
-          43
-        ],
-        "kinetics": [
-          46,
-          63,
-          211,
-          226,
-          240,
-          275
-        ],
-        "adsorption": [
-          49,
-          66,
-          117,
-          135,
-          150,
-          165,
-          171,
-          186,
-          206,
-          210,
-          229,
-          274
-        ],
-        "actual": [
-          51
-        ],
-        "formations": [
-          53
-        ],
-        "with": [
-          54,
-          123,
-          153,
-          157,
-          192,
-          243,
-          252,
-          263
-        ],
-        "diverse": [
-          55
-        ],
-        "organic": [
-          56,
-          112
-        ],
-        "contents": [
-          57
-        ],
-        "mineral": [
-          59,
-          108
-        ],
-        "compositions.": [
-          60
-        ],
-        "Therefore,": [
-          61
-        ],
-        "organic-rich": [
-          68
-        ],
-        "samples": [
-          70,
-          122
-        ],
-        "from": [
-          71
-        ],
-        "Jordanian": [
-          73
-        ],
-        "oil": [
-          74
-        ],
-        "(JO)": [
-          75
-        ],
-        "source": [
-          76
-        ],
-        "rock": [
-          77
-        ],
-        "are": [
-          79,
-          131,
-          137
-        ],
-        "experimentally": [
-          80
-        ],
-        "investigated": [
-          81
-        ],
-        "herein": [
-          82
-        ],
-        "at": [
-          83
-        ],
-        "various": [
-          84
-        ],
-        "temperatures": [
+        "formation": [
+          27,
           85
         ],
-        "(193,": [
-          86
+        "depends": [
+          28
         ],
-        "273,": [
-          87
+        "on": [
+          29,
+          49,
+          122
         ],
-        "303,": [
-          88
+        "the": [
+          30,
+          44,
+          50,
+          68,
+          149,
+          156,
+          183,
+          192,
+          201,
+          215,
+          225,
+          236,
+          243,
+          250,
+          272,
+          289
         ],
-        "K)": [
-          91
+        "presence": [
+          31
         ],
-        "two": [
-          93,
-          121
+        "secure": [
+          34
         ],
-        "equilibrium": [
-          94
+        "impermeable": [
+          36
         ],
-        "pressures": [
-          95
+        "caprock,": [
+          37
         ],
-        "(15": [
-          96
+        "such": [
+          38
         ],
-        "bar)": [
-          99
+        "as": [
+          39,
+          182
         ],
-        "by": [
-          100,
-          161,
-          168
+        "shale": [
+          41,
+          58,
+          76,
+          277
         ],
-        "using": [
-          101,
-          120
+        "formation.": [
+          42
         ],
-        "volumetric": [
-          103
+        "However,": [
+          43
         ],
-        "method.": [
-          104
+        "existing": [
+          45
         ],
-        "impact": [
-          106
+        "literature": [
+          46
         ],
-        "compositions": [
-          109
+        "lacks": [
+          47
         ],
-        "total": [
-          111
+        "information": [
+          48
         ],
-        "content": [
-          113
+        "kinetics": [
+          51,
+          69,
+          222,
+          237,
+          253,
+          291
         ],
-        "(TOC)": [
-          114
+        "adsorption": [
+          55,
+          73,
+          125,
+          143,
+          159,
+          174,
+          180,
+          197,
+          217,
+          221,
+          241,
+          290
         ],
-        "studied": [
+        "actual": [
+          57
+        ],
+        "formations": [
+          59
+        ],
+        "with": [
+          60,
+          131,
+          162,
+          166,
+          203,
+          256,
+          267,
+          279
+        ],
+        "diverse": [
+          61
+        ],
+        "organic": [
+          62,
           119
         ],
-        "distinct": [
-          124
+        "contents": [
+          63
         ],
-        "mineralogy": [
-          125
+        "mineral": [
+          65,
+          115
         ],
-        "TOC": [
-          127,
-          195
+        "compositions.": [
+          66
         ],
-        "values.": [
-          128
+        "Therefore,": [
+          67
         ],
-        "Thermodynamic": [
-          129
+        "organic-rich": [
+          75
         ],
-        "calculations": [
+        "samples": [
+          77,
           130
         ],
-        "performed,": [
-          132
+        "from": [
+          78
         ],
-        "common": [
-          134
+        "Jordanian": [
+          80
         ],
-        "models": [
-          136,
-          208,
-          212
+        "oil": [
+          81
         ],
-        "used": [
-          138
+        "(JO)": [
+          82
         ],
-        "to": [
+        "source": [
+          83
+        ],
+        "rock": [
+          84
+        ],
+        "are": [
+          86,
           139,
-          281
-        ],
-        "analyze": [
-          140
-        ],
-        "experimental": [
-          142,
-          215
-        ],
-        "data.": [
-          143
-        ],
-        "results": [
           145
         ],
-        "indicate": [
+        "experimentally": [
+          87
+        ],
+        "investigated": [
+          88
+        ],
+        "herein": [
+          89
+        ],
+        "at": [
+          90
+        ],
+        "various": [
+          91
+        ],
+        "temperatures": [
+          92
+        ],
+        "(193,": [
+          93
+        ],
+        "273,": [
+          94
+        ],
+        "303,": [
+          95
+        ],
+        "K)": [
+          98
+        ],
+        "two": [
+          100,
+          129
+        ],
+        "equilibrium": [
+          101
+        ],
+        "pressures": [
+          102
+        ],
+        "(15": [
+          103
+        ],
+        "bar)": [
+          106
+        ],
+        "by": [
+          107,
+          170,
+          177
+        ],
+        "using": [
+          108,
+          128
+        ],
+        "volumetric": [
+          110
+        ],
+        "method.": [
+          111
+        ],
+        "impact": [
+          113
+        ],
+        "compositions": [
+          116
+        ],
+        "total": [
+          118
+        ],
+        "content": [
+          120
+        ],
+        "(TOC)": [
+          121
+        ],
+        "studied": [
+          127
+        ],
+        "distinct": [
+          132
+        ],
+        "mineralogy": [
+          133
+        ],
+        "TOC": [
+          135,
+          206
+        ],
+        "values.": [
+          136
+        ],
+        "Thermodynamic": [
+          137
+        ],
+        "calculations": [
+          138
+        ],
+        "performed,": [
+          140
+        ],
+        "common": [
+          142
+        ],
+        "models": [
+          144,
+          219,
+          223
+        ],
+        "used": [
           146
         ],
+        "to": [
+          147,
+          298
+        ],
+        "analyze": [
+          148
+        ],
+        "experimental": [
+          150,
+          226
+        ],
+        "data.": [
+          151
+        ],
+        "results": [
+          153
+        ],
+        "indicate": [
+          154
+        ],
         "that": [
-          147
+          155
         ],
         "rate": [
-          151,
-          183
+          160,
+          193
         ],
         "increases": [
-          152,
-          251
-        ],
-        "pressure": [
-          154,
-          253
-        ],
-        "decreases": [
-          156
-        ],
-        "temperature,": [
-          158,
-          255
-        ],
-        "being": [
-          159
-        ],
-        "characterized": [
-          160
-        ],
-        "an": [
-          162,
-          285
-        ],
-        "initial": [
-          163
-        ],
-        "rapid": [
-          164
-        ],
-        "phase": [
-          166
-        ],
-        "followed": [
-          167
-        ],
-        "slower": [
-          170
-        ],
-        "period": [
-          172
-        ],
-        "uptake": [
-          175
-        ],
-        "approaches": [
-          178
-        ],
-        "equilibrium.": [
-          179
-        ],
-        "More": [
-          180
-        ],
-        "interestingly,": [
-          181
-        ],
-        "higher": [
-          188
-        ],
-        "sample": [
-          191
-        ],
-        "high": [
-          194
-        ],
-        "richer": [
-          198
-        ],
-        "composition": [
-          199
-        ],
-        "carbonate": [
-          201
-        ],
-        "minerals.": [
-          202
-        ],
-        "Both": [
-          203
-        ],
-        "applied": [
-          205
-        ],
-        "isotherm": [
-          207
-        ],
-        "fit": [
-          213
-        ],
-        "data": [
-          216,
-          241
-        ],
-        "remarkably": [
-          217
-        ],
-        "well,": [
-          218,
-          242
-        ],
-        "thereby": [
-          219
-        ],
-        "indicating": [
-          220
-        ],
-        "their": [
-          221
-        ],
-        "suitability": [
-          222
-        ],
-        "analyzing": [
-          224
-        ],
-        "JO": [
-          232
-        ],
-        "shale.": [
-          233
-        ],
-        "unipore": [
-          235
-        ],
-        "model": [
-          236
-        ],
-        "matches": [
-          237
-        ],
-        "R2": [
-          244
-        ],
-        ">": [
-          245
-        ],
-        "0.91.": [
-          246
-        ],
-        "diffusion": [
-          249,
-          259
-        ],
-        "coefficient": [
-          250
-        ],
-        "where": [
-          256
-        ],
-        "accelerates": [
-          262
-        ],
-        "thermal": [
-          264
-        ],
-        "motion": [
-          265
-        ],
-        "intensity.": [
+          161,
           266
         ],
-        "This": [
-          267
-        ],
-        "study": [
+        "pressure": [
+          163,
           268
         ],
-        "provides": [
-          269
+        "decreases": [
+          165
         ],
-        "fundamental": [
+        "temperature,": [
+          167,
           270
         ],
-        "insights": [
+        "being": [
+          168
+        ],
+        "characterized": [
+          169
+        ],
+        "an": [
+          171,
+          302
+        ],
+        "initial": [
+          172
+        ],
+        "rapid": [
+          173
+        ],
+        "phase": [
+          175
+        ],
+        "followed": [
+          176
+        ],
+        "slower": [
+          179
+        ],
+        "period": [
+          181
+        ],
+        "uptake": [
+          184
+        ],
+        "approaches": [
+          188
+        ],
+        "equilibrium.": [
+          189
+        ],
+        "More": [
+          190
+        ],
+        "interestingly,": [
+          191
+        ],
+        "higher": [
+          199
+        ],
+        "sample": [
+          202
+        ],
+        "high": [
+          205
+        ],
+        "richer": [
+          209
+        ],
+        "composition": [
+          210
+        ],
+        "carbonate": [
+          212
+        ],
+        "minerals.": [
+          213
+        ],
+        "Both": [
+          214
+        ],
+        "applied": [
+          216
+        ],
+        "isotherm": [
+          218
+        ],
+        "fit": [
+          224
+        ],
+        "data": [
+          227,
+          254
+        ],
+        "remarkably": [
+          228
+        ],
+        "well,": [
+          229,
+          255
+        ],
+        "thereby": [
+          230
+        ],
+        "indicating": [
+          231
+        ],
+        "their": [
+          232
+        ],
+        "suitability": [
+          233
+        ],
+        "analyzing": [
+          235
+        ],
+        "JO": [
+          244
+        ],
+        "shale.": [
+          245
+        ],
+        "unipore": [
+          247
+        ],
+        "model": [
+          248
+        ],
+        "matches": [
+          249
+        ],
+        "R": [
+          257
+        ],
+        ">": [
+          259
+        ],
+        "0.91.": [
+          260
+        ],
+        "diffusion": [
+          264,
+          275
+        ],
+        "coefficient": [
+          265
+        ],
+        "where": [
           271
         ],
-        "into": [
-          272
+        "accelerates": [
+          278
         ],
-        "expected": [
+        "thermal": [
           280
         ],
-        "assist": [
+        "motion": [
+          281
+        ],
+        "intensity.": [
           282
         ],
-        "implementing": [
+        "This": [
+          283
+        ],
+        "study": [
           284
         ],
-        "industrial": [
+        "provides": [
+          285
+        ],
+        "fundamental": [
           286
+        ],
+        "insights": [
+          287
+        ],
+        "into": [
+          288
+        ],
+        "expected": [
+          297
+        ],
+        "assist": [
+          299
+        ],
+        "implementing": [
+          301
+        ],
+        "industrial": [
+          303
         ]
       },
       "counts_by_year": [
@@ -3624,7 +3805,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2024-09-05T00:00:00"
     },
     {
@@ -4261,8 +4442,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -5323,8 +5504,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -6626,8 +6807,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -7253,8 +7434,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -7935,8 +8116,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -9060,8 +9241,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -10675,8 +10856,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -11490,8 +11671,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -12915,8 +13096,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4319785709.pdf",
@@ -14320,8 +14501,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -15717,8 +15898,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4313320240.pdf",
@@ -17035,8 +17216,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -18328,8 +18509,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -19672,8 +19853,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -20389,8 +20570,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -22229,8 +22410,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -23388,11 +23569,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 2.8915,
+      "fwci": 2.8858,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.91613607,
+        "value": 0.91569556,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23695,6 +23876,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11480404",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11480404",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sci Rep",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:39406806",
           "doi": null,
           "is_oa": false,
@@ -23724,37 +23936,6 @@
           "is_published": true,
           "raw_source_name": "Scientific reports",
           "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:11480404",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11480404",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Sci Rep",
-          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:d1c4297b84a8451aa04d7935978f6857",
@@ -23869,8 +24050,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -24426,7 +24607,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2024-10-16T00:00:00"
     },
     {
@@ -25222,8 +25403,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410202094.pdf",
@@ -26808,8 +26989,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -27206,11 +27387,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.7794,
+      "fwci": 1.7759,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.83190831,
+        "value": 0.83139111,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27471,6 +27652,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11170715",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11170715",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11170715/pdf/ao4c01343.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:38882080",
           "doi": null,
           "is_oa": false,
@@ -27500,37 +27712,6 @@
           "is_published": true,
           "raw_source_name": "ACS omega",
           "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:11170715",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11170715",
-          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11170715/pdf/ao4c01343.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:9d9aee71a21741c1868c8b95b6fecbf2",
@@ -27634,8 +27815,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -28454,7 +28635,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2024-05-31T00:00:00"
     },
     {
@@ -29248,8 +29429,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -30830,8 +31011,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -31158,11 +31339,11 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 0.9728,
+      "fwci": 0.9695,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.69249146,
+        "value": 0.69143405,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31421,6 +31602,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11834046",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11834046",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11834046/pdf/main.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "MethodsX",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:39967719",
           "doi": null,
           "is_oa": false,
@@ -31450,37 +31662,6 @@
           "is_published": true,
           "raw_source_name": "MethodsX",
           "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:11834046",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11834046",
-          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11834046/pdf/main.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "MethodsX",
-          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:dfdebe9b6ec344969fcf4fb54f15f145",
@@ -31598,8 +31779,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -32130,7 +32311,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2025-01-29T00:00:00"
     },
     {
@@ -32610,8 +32791,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -33899,8 +34080,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -35359,8 +35540,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -36562,8 +36743,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -37189,8 +37370,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -38604,8 +38785,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -39938,8 +40119,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -41158,8 +41339,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -42097,8 +42278,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -43519,8 +43700,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -44115,8 +44296,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44751,11 +44932,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.8662,
+      "fwci": 0.8648,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.66563608,
+        "value": 0.66537478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44994,6 +45175,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:11256330",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11256330",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256330/pdf/ao4c04423.pdf",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:39035882",
           "doi": null,
           "is_oa": false,
@@ -45023,37 +45235,6 @@
           "is_published": true,
           "raw_source_name": "ACS omega",
           "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:11256330",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11256330",
-          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11256330/pdf/ao4c04423.pdf",
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:3c0531cb6fb94cc4be693f66894c69f8",
@@ -45154,8 +45335,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -45761,7 +45942,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2024-07-02T00:00:00"
     },
     {
@@ -46493,8 +46674,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -47535,8 +47716,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -48376,8 +48557,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415216698.pdf",
@@ -49912,8 +50093,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -50916,11 +51097,11 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 3.8157,
+      "fwci": 3.7912,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.92413251,
+        "value": 0.92373545,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -51242,9 +51423,9 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
           "raw_source_name": "MethodsX",
           "raw_type": "Text"
         }
@@ -51303,8 +51484,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -52037,7 +52218,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2026-03-21T00:00:00"
     },
     {
@@ -52780,8 +52961,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53141,22 +53322,18 @@
         "landing_page_url": "https://doi.org/10.2118/211794-ms",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S7407096084",
-          "display_name": "Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)",
+          "id": "https://openalex.org/S7407086369",
+          "display_name": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/P4322614974",
-          "host_organization_name": "Society of Petroleum Engineers",
-          "host_organization_lineage": [
-            "https://openalex.org/P4322614974"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Petroleum Engineers"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
           "type": "conference"
         },
         "license": null,
@@ -53545,11 +53722,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.1398,
+      "fwci": 6.1415,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.97108797,
+        "value": 0.97109589,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -53777,22 +53954,18 @@
           "landing_page_url": "https://doi.org/10.2118/211794-ms",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S7407096084",
-            "display_name": "Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)",
+            "id": "https://openalex.org/S7407086369",
+            "display_name": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/P4322614974",
-            "host_organization_name": "Society of Petroleum Engineers",
-            "host_organization_lineage": [
-              "https://openalex.org/P4322614974"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Petroleum Engineers"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
             "type": "conference"
           },
           "license": null,
@@ -53811,8 +53984,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -54534,7 +54707,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-26T11:51:55.731654",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2022-11-04T00:00:00"
     },
     {
@@ -54965,8 +55138,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56578,8 +56751,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4310398141.pdf",
@@ -58020,8 +58193,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -59435,8 +59608,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -59996,22 +60169,18 @@
         "landing_page_url": "https://doi.org/10.2118/216601-ms",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S7407096084",
-          "display_name": "Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)",
+          "id": "https://openalex.org/S7407086369",
+          "display_name": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
           "listed_in": [],
-          "host_organization": "https://openalex.org/P4322614974",
-          "host_organization_name": "Society of Petroleum Engineers",
-          "host_organization_lineage": [
-            "https://openalex.org/P4322614974"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Petroleum Engineers"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
           "type": "conference"
         },
         "license": null,
@@ -60284,11 +60453,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6634,
+      "fwci": 2.6605,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.88709889,
+        "value": 0.88698271,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60582,22 +60751,18 @@
           "landing_page_url": "https://doi.org/10.2118/216601-ms",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S7407096084",
-            "display_name": "Abu Dhabi International Petroleum Exhibition and Conference (ADIPEC)",
+            "id": "https://openalex.org/S7407086369",
+            "display_name": "Abu Dhabi International Petroleum Exhibition & Conference (ADIPEC)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
             "listed_in": [],
-            "host_organization": "https://openalex.org/P4322614974",
-            "host_organization_name": "Society of Petroleum Engineers",
-            "host_organization_lineage": [
-              "https://openalex.org/P4322614974"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Petroleum Engineers"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
             "type": "conference"
           },
           "license": null,
@@ -60622,8 +60787,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -61265,7 +61430,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-26T11:51:55.731654",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2023-10-02T00:00:00"
     },
     {
@@ -61806,8 +61971,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -62606,8 +62771,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -64004,8 +64169,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -64930,8 +65095,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -66207,8 +66372,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -67505,7 +67670,7 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "score": 0.8485000133514404,
+          "score": 0.878000020980835,
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -67514,8 +67679,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67969,7 +68134,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2023-10-18T00:00:00"
     },
     {
@@ -68300,8 +68465,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69569,8 +69734,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293014346.pdf",
@@ -70496,8 +70661,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71934,8 +72099,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -72387,8 +72552,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73703,8 +73868,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -74301,8 +74466,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -75018,7 +75183,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30370481,
+        "value": 0.30346476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75271,7 +75436,7 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "score": 0.75,
+          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -75286,8 +75451,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -75728,7 +75893,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2024-11-06T00:00:00"
     },
     {
@@ -76212,8 +76377,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -77175,8 +77340,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77701,8 +77866,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -79129,8 +79294,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -80682,8 +80847,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -82242,8 +82407,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -83431,8 +83596,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -84469,8 +84634,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -86129,8 +86294,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -87053,8 +87218,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -88770,8 +88935,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89899,8 +90064,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -90627,7 +90792,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24750974,
+        "value": 0.24590517,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90955,9 +91120,9 @@
           },
           "license": "cc-by-nc-nd",
           "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
           "raw_source_name": "MethodsX",
           "raw_type": "Text"
         }
@@ -91022,8 +91187,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -91401,7 +91566,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2026-05-05T00:00:00"
     },
     {
@@ -92432,8 +92597,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -93878,8 +94043,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -95269,8 +95434,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -96898,8 +97063,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7171327959.pdf",
@@ -98395,8 +98560,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7171831159.pdf",
@@ -99824,8 +99989,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7203874943.pdf",
@@ -101258,8 +101423,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7203890155.pdf",
@@ -102365,8 +102530,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -102810,7 +102975,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.69568511,
+        "value": 0.69134334,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -103221,6 +103386,37 @@
           "raw_type": "Journal Article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:13688491",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13688491/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACS Omega",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmh:oai:doaj.org/article:8d4b06e459194873805e2d973b5ac5d0",
           "doi": null,
           "is_oa": false,
@@ -103248,37 +103444,6 @@
           "is_published": false,
           "raw_source_name": "ACS Omega, Vol 11, Iss 41, Pp 62432-62442 (2026)",
           "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:13688491",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13688491/",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega",
-          "raw_type": "Text"
         }
       ],
       "best_oa_location": {
@@ -103363,8 +103528,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7220851773.pdf",
@@ -104061,7 +104226,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-29T09:56:32.521200",
       "created_date": "2026-10-08T00:00:00"
     }
   ]
