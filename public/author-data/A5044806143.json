@@ -34,7 +34,7 @@
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
     "works_count": 97,
-    "cited_by_count": 1465,
+    "cited_by_count": 1466,
     "summary_stats": {
       "2yr_mean_citedness": 2.1578947368421053,
       "h_index": 21,
@@ -233,7 +233,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000998,
+        "value": 0.0000999,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -250,7 +250,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000988,
+        "value": 0.000099,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -267,7 +267,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000747,
+        "value": 0.0000751,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -284,7 +284,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000522,
+        "value": 0.0000525,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -479,7 +479,7 @@
         "year": 2026,
         "works_count": 4,
         "oa_works_count": 4,
-        "cited_by_count": 94
+        "cited_by_count": 95
       }
     ],
     "display_name_alternatives": [
@@ -510,8 +510,8 @@
     ],
     "block_key": "m el-ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-10-29T12:27:34",
-    "created_date": "2016-06-24T00:00:00"
+    "updated_date": "2026-10-31T12:29:50",
+    "created_date": "2018-05-17T00:00:00"
   },
   "works": [
     {
@@ -14495,11 +14495,11 @@
         "value_usd": 4430
       },
       "apc_paid": null,
-      "fwci": 5.8635,
+      "fwci": 5.8549,
       "has_fulltext": true,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.97935133,
+        "value": 0.97932217,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14774,52 +14774,10 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000818",
-          "descriptor_name": "Animals",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000818",
-          "descriptor_name": "Animals",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D000860",
           "descriptor_name": "Hypoxia",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000860",
-          "descriptor_name": "Hypoxia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000860",
-          "descriptor_name": "Hypoxia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002247",
-          "descriptor_name": "Carbon Isotopes",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002247",
-          "descriptor_name": "Carbon Isotopes",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
           "is_major_topic": false
         },
         {
@@ -14837,34 +14795,6 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D009792",
-          "descriptor_name": "Oceans and Seas",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009792",
-          "descriptor_name": "Oceans and Seas",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D010100",
-          "descriptor_name": "Oxygen",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D010100",
-          "descriptor_name": "Oxygen",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D010100",
           "descriptor_name": "Oxygen",
           "qualifier_ui": "Q000032",
@@ -14879,53 +14809,11 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D012623",
-          "descriptor_name": "Seawater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D012623",
-          "descriptor_name": "Seawater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
           "descriptor_ui": "D014867",
           "descriptor_name": "Water",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D019015",
-          "descriptor_name": "Geologic Sediments",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D019015",
-          "descriptor_name": "Geologic Sediments",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
         },
         {
           "descriptor_ui": "D019015",
@@ -15828,7 +15716,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2023-05-10T00:00:00"
     },
     {
@@ -87874,9 +87762,531 @@
         "https://openalex.org/W4321495044",
         "https://openalex.org/W4404728151"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          11
+        ],
+        "7": [
+          135
+        ],
+        "30": [
+          126
+        ],
+        "Abstract": [
+          0
+        ],
+        "To": [
+          1
+        ],
+        "maximize": [
+          2
+        ],
+        "the": [
+          3,
+          39,
+          77,
+          100,
+          105,
+          165
+        ],
+        "utilization": [
+          4
+        ],
+        "of": [
+          5,
+          41,
+          70,
+          76,
+          83,
+          90
+        ],
+        "Mg-rich": [
+          6
+        ],
+        "natural": [
+          7,
+          43
+        ],
+        "resources": [
+          8
+        ],
+        "for": [
+          9,
+          152,
+          178
+        ],
+        "CO": [
+          10
+        ],
+        "removal": [
+          12
+        ],
+        "(CDR),": [
+          13
+        ],
+        "an": [
+          14,
+          45
+        ],
+        "integrated": [
+          15
+        ],
+        "strategy": [
+          16
+        ],
+        "has": [
+          17,
+          175
+        ],
+        "been": [
+          18
+        ],
+        "proposed": [
+          19
+        ],
+        "that": [
+          20,
+          172
+        ],
+        "focuses": [
+          21
+        ],
+        "on": [
+          22,
+          200
+        ],
+        "synthesizing": [
+          23
+        ],
+        "reactive": [
+          24,
+          65
+        ],
+        "CDR": [
+          25,
+          66
+        ],
+        "materials": [
+          26
+        ],
+        "aimed": [
+          27
+        ],
+        "at": [
+          28,
+          58
+        ],
+        "both": [
+          29
+        ],
+        "climate": [
+          30
+        ],
+        "change": [
+          31
+        ],
+        "mitigation": [
+          32
+        ],
+        "and": [
+          33,
+          47,
+          72,
+          87,
+          94,
+          120,
+          131,
+          138,
+          193
+        ],
+        "environmental": [
+          34
+        ],
+        "sustainability.": [
+          35
+        ],
+        "This": [
+          36,
+          197
+        ],
+        "study": [
+          37
+        ],
+        "demonstrates": [
+          38
+        ],
+        "use": [
+          40,
+          163
+        ],
+        "lizardite-rich": [
+          42
+        ],
+        "feedstock,": [
+          44
+        ],
+        "abundant": [
+          46
+        ],
+        "accessible": [
+          48
+        ],
+        "resource,": [
+          49
+        ],
+        "combined": [
+          50
+        ],
+        "with": [
+          51,
+          111,
+          162
+        ],
+        "industrial": [
+          52,
+          144,
+          190
+        ],
+        "marble": [
+          53
+        ],
+        "waste.": [
+          54
+        ],
+        "Through": [
+          55
+        ],
+        "thermal": [
+          56
+        ],
+        "treatment": [
+          57
+        ],
+        "elevated": [
+          59
+        ],
+        "temperatures,": [
+          60
+        ],
+        "this": [
+          61
+        ],
+        "mixture": [
+          62
+        ],
+        "yields": [
+          63
+        ],
+        "a": [
+          64
+        ],
+        "material": [
+          67,
+          79,
+          107,
+          174,
+          209
+        ],
+        "primarily": [
+          68
+        ],
+        "composed": [
+          69
+        ],
+        "forsterite": [
+          71,
+          91,
+          148
+        ],
+        "lime.": [
+          73
+        ],
+        "Carbonation": [
+          74
+        ],
+        "experiments": [
+          75
+        ],
+        "synthesized": [
+          78,
+          106
+        ],
+        "show": [
+          80
+        ],
+        "complete": [
+          81
+        ],
+        "transformation": [
+          82
+        ],
+        "lime": [
+          84
+        ],
+        "into": [
+          85,
+          92
+        ],
+        "calcite": [
+          86
+        ],
+        "substantial": [
+          88
+        ],
+        "weathering": [
+          89
+        ],
+        "hydrated": [
+          93
+        ],
+        "carbonated": [
+          95
+        ],
+        "secondary": [
+          96
+        ],
+        "minerals.": [
+          97
+        ],
+        "Compared": [
+          98
+        ],
+        "to": [
+          99,
+          204
+        ],
+        "Ca₂SiO₄": [
+          101,
+          158
+        ],
+        "+": [
+          102
+        ],
+        "MgO": [
+          103
+        ],
+        "system,": [
+          104
+        ],
+        "exhibits": [
+          108
+        ],
+        "higher": [
+          109
+        ],
+        "eco-efficiency": [
+          110
+        ],
+        "comparable": [
+          112
+        ],
+        "CO₂": [
+          113,
+          206
+        ],
+        "sequestration,": [
+          114
+        ],
+        "storing": [
+          115
+        ],
+        "~": [
+          116,
+          121,
+          129,
+          132
+        ],
+        "21%": [
+          117
+        ],
+        "as": [
+          118,
+          123
+        ],
+        "CaCO₃": [
+          119
+        ],
+        "6%": [
+          122
+        ],
+        "MgCO₃": [
+          124
+        ],
+        "in": [
+          125,
+          164,
+          181
+        ],
+        "days": [
+          127
+        ],
+        "versus": [
+          128
+        ],
+        "25%": [
+          130
+        ],
+        "5%": [
+          133
+        ],
+        "over": [
+          134
+        ],
+        "weeks": [
+          136
+        ],
+        "(Chen": [
+          137
+        ],
+        "Kanan": [
+          139
+        ],
+        "2025),": [
+          140
+        ],
+        "while": [
+          141
+        ],
+        "promoting": [
+          142
+        ],
+        "sustainable": [
+          143,
+          202
+        ],
+        "waste": [
+          145
+        ],
+        "valorization.": [
+          146
+        ],
+        "Additionally,": [
+          147
+        ],
+        "is": [
+          149,
+          159
+        ],
+        "more": [
+          150
+        ],
+        "suitable": [
+          151
+        ],
+        "ocean": [
+          153,
+          185
+        ],
+        "alkalinity": [
+          154,
+          186
+        ],
+        "enhancement": [
+          155
+        ],
+        "applications,": [
+          156
+        ],
+        "whereas": [
+          157
+        ],
+        "better": [
+          160
+        ],
+        "aligned": [
+          161
+        ],
+        "cement": [
+          166
+        ],
+        "industry.": [
+          167
+        ],
+        "Taken": [
+          168
+        ],
+        "together,": [
+          169
+        ],
+        "we": [
+          170
+        ],
+        "propose": [
+          171
+        ],
+        "our": [
+          173
+        ],
+        "strong": [
+          176
+        ],
+        "potential": [
+          177,
+          198
+        ],
+        "large-scale": [
+          179
+        ],
+        "deployment": [
+          180
+        ],
+        "ex-situ": [
+          182
+        ],
+        "carbon": [
+          183
+        ],
+        "mineralization,": [
+          184
+        ],
+        "enhancement,": [
+          187
+        ],
+        "soil": [
+          188
+        ],
+        "amendment,": [
+          189
+        ],
+        "point-source": [
+          191
+        ],
+        "capture,": [
+          192
+        ],
+        "in-situ": [
+          194
+        ],
+        "geological": [
+          195
+        ],
+        "carbonation.": [
+          196
+        ],
+        "depends": [
+          199
+        ],
+        "developing": [
+          201
+        ],
+        "infrastructure": [
+          203
+        ],
+        "capture": [
+          205
+        ],
+        "emissions": [
+          207
+        ],
+        "from": [
+          208
+        ],
+        "synthesis.": [
+          210
+        ]
+      },
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2025-11-18T00:00:00"
     },
     {

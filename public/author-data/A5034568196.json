@@ -16,9 +16,9 @@
     ],
     "full_name": "Benaafi, Mohammed",
     "works_count": 94,
-    "cited_by_count": 1157,
+    "cited_by_count": 1158,
     "summary_stats": {
-      "2yr_mean_citedness": 4.369565217391305,
+      "2yr_mean_citedness": 4.391304347826087,
       "h_index": 21,
       "i10_index": 33
     },
@@ -178,7 +178,7 @@
       {
         "id": "https://openalex.org/T13563",
         "display_name": "Chemical Analysis and Environmental Impact",
-        "value": 0.0001408,
+        "value": 0.0001409,
         "subfield": {
           "id": "https://openalex.org/subfields/2307",
           "display_name": "Health, Toxicology and Mutagenesis"
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001002,
+        "value": 0.0001004,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -212,7 +212,7 @@
       {
         "id": "https://openalex.org/T11634",
         "display_name": "Water Quality and Pollution Assessment",
-        "value": 0.0000875,
+        "value": 0.0000876,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -229,7 +229,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000577,
+        "value": 0.0000578,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -353,7 +353,7 @@
         "year": 2026,
         "works_count": 20,
         "oa_works_count": 14,
-        "cited_by_count": 244
+        "cited_by_count": 245
       }
     ],
     "display_name_alternatives": [
@@ -366,7 +366,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-10-29T12:27:34",
+    "updated_date": "2026-10-31T12:29:50",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -732,11 +732,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 6.3951,
+      "fwci": 6.3786,
       "has_fulltext": false,
       "cited_by_count": 80,
       "citation_normalized_percentile": {
-        "value": 0.98155538,
+        "value": 0.98151327,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1039,34 +1039,6 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000328",
-          "descriptor_name": "Adult",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000328",
-          "descriptor_name": "Adult",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000368",
-          "descriptor_name": "Aged",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000368",
-          "descriptor_name": "Aged",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D000368",
           "descriptor_name": "Aged",
           "qualifier_ui": null,
@@ -1076,34 +1048,6 @@
         {
           "descriptor_ui": "D002648",
           "descriptor_name": "Child",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002648",
-          "descriptor_name": "Child",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002648",
-          "descriptor_name": "Child",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -1125,34 +1069,6 @@
         {
           "descriptor_ui": "D005459",
           "descriptor_name": "Fluorides",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005459",
-          "descriptor_name": "Fluorides",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005459",
-          "descriptor_name": "Fluorides",
-          "qualifier_ui": "Q000633",
-          "qualifier_name": "toxicity",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005459",
-          "descriptor_name": "Fluorides",
-          "qualifier_ui": "Q000633",
-          "qualifier_name": "toxicity",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005459",
-          "descriptor_name": "Fluorides",
           "qualifier_ui": "Q000633",
           "qualifier_name": "toxicity",
           "is_major_topic": false
@@ -1160,34 +1076,6 @@
         {
           "descriptor_ui": "D006801",
           "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008297",
-          "descriptor_name": "Male",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008297",
-          "descriptor_name": "Male",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -1207,50 +1095,8 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D009566",
-          "descriptor_name": "Nitrates",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009566",
-          "descriptor_name": "Nitrates",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D009930",
           "descriptor_name": "Organic Chemicals",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009930",
-          "descriptor_name": "Organic Chemicals",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009930",
-          "descriptor_name": "Organic Chemicals",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -1270,34 +1116,6 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018570",
-          "descriptor_name": "Risk Assessment",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D018570",
-          "descriptor_name": "Risk Assessment",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D018570",
           "descriptor_name": "Risk Assessment",
           "qualifier_ui": null,
@@ -1310,34 +1128,6 @@
           "qualifier_ui": "Q000737",
           "qualifier_name": "chemistry",
           "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060753",
-          "descriptor_name": "Water Quality",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D060753",
-          "descriptor_name": "Water Quality",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
         },
         {
           "descriptor_ui": "D060753",
@@ -1429,14 +1219,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.8371999859809875
+          "score": 0.8371999859809875,
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -1444,8 +1234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -1540,7 +1330,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-10-23T09:35:12.469056",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2023-06-17T00:00:00"
     },
     {
@@ -2320,26 +2110,26 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5142999887466431
+          "score": 0.5142999887466431,
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -2352,8 +2142,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4308105876.pdf",
@@ -3771,16 +3561,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -3803,8 +3593,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -4380,11 +4170,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 3.5986,
+      "fwci": 3.5865,
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.95127038,
+        "value": 0.95121488,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4681,34 +4471,6 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D002516",
-          "descriptor_name": "Ceramics",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002516",
-          "descriptor_name": "Ceramics",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D014867",
           "descriptor_name": "Water",
           "qualifier_ui": null,
@@ -4723,53 +4485,11 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
           "descriptor_ui": "D057927",
           "descriptor_name": "Hydrophobic and Hydrophilic Interactions",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D057927",
-          "descriptor_name": "Hydrophobic and Hydrophilic Interactions",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D057927",
-          "descriptor_name": "Hydrophobic and Hydrophilic Interactions",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D062065",
-          "descriptor_name": "Wastewater",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D062065",
-          "descriptor_name": "Wastewater",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
         },
         {
           "descriptor_ui": "D062065",
@@ -4861,24 +4581,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8580999970436096
+          "score": 0.8580999970436096,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -4964,7 +4684,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2023-04-28T00:00:00"
     },
     {
@@ -5555,14 +5275,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5925999879837036
+          "score": 0.5925999879837036,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -5570,8 +5290,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -6401,9 +6121,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -6425,8 +6145,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4286265175.pdf",
@@ -7498,11 +7218,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 2.8454,
+      "fwci": 2.8432,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.91206252,
+        "value": 0.91189858,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7738,50 +7458,8 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000066506",
-          "descriptor_name": "Heuristics",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000066506",
-          "descriptor_name": "Heuristics",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D000465",
           "descriptor_name": "Algorithms",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000465",
-          "descriptor_name": "Algorithms",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000465",
-          "descriptor_name": "Algorithms",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001185",
-          "descriptor_name": "Artificial Intelligence",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001185",
-          "descriptor_name": "Artificial Intelligence",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -7801,34 +7479,6 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D015203",
-          "descriptor_name": "Reproducibility of Results",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D015203",
-          "descriptor_name": "Reproducibility of Results",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D015203",
           "descriptor_name": "Reproducibility of Results",
           "qualifier_ui": null,
@@ -7838,34 +7488,6 @@
         {
           "descriptor_ui": "D017143",
           "descriptor_name": "Fuzzy Logic",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D017143",
-          "descriptor_name": "Fuzzy Logic",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D017143",
-          "descriptor_name": "Fuzzy Logic",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": true
@@ -7961,9 +7583,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -7971,8 +7593,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -8096,7 +7718,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2022-11-08T00:00:00"
     },
     {
@@ -8515,11 +8137,11 @@
         "currency": "CHF",
         "value_usd": 2408
       },
-      "fwci": 5.2277,
+      "fwci": 5.2255,
       "has_fulltext": true,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.96907216,
+        "value": 0.96906057,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8790,52 +8412,10 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D006801",
           "descriptor_name": "Humans",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D007554",
-          "descriptor_name": "Isotopes",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D007554",
-          "descriptor_name": "Isotopes",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
           "is_major_topic": false
         },
         {
@@ -8853,50 +8433,8 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D012623",
           "descriptor_name": "Seawater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012623",
-          "descriptor_name": "Seawater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012623",
-          "descriptor_name": "Seawater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014867",
-          "descriptor_name": "Water",
           "qualifier_ui": "Q000032",
           "qualifier_name": "analysis",
           "is_major_topic": false
@@ -8916,34 +8454,6 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D019066",
-          "descriptor_name": "Facies",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D019066",
-          "descriptor_name": "Facies",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D019066",
           "descriptor_name": "Facies",
           "qualifier_ui": null,
@@ -8956,34 +8466,6 @@
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D054712",
-          "descriptor_name": "Salinity",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D054712",
-          "descriptor_name": "Salinity",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
         },
         {
           "descriptor_ui": "D060587",
@@ -9175,16 +8657,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9197,8 +8679,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4304806286.pdf",
@@ -9924,7 +9406,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2022-10-13T00:00:00"
     },
     {
@@ -10691,16 +10173,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -10726,8 +10208,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4382136343.pdf",
@@ -12210,16 +11692,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9556000232696533
+          "score": 0.9556000232696533,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -12240,8 +11722,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4289597232.pdf",
@@ -13823,14 +13305,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.5365999937057495
+          "score": 0.5365999937057495,
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -13857,8 +13339,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -15138,9 +14620,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -15162,8 +14644,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399208527.pdf",
@@ -16440,21 +15922,21 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.40450000762939453
+          "score": 0.40450000762939453,
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -16475,8 +15957,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4362580681.pdf",
@@ -17846,9 +17328,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -17862,8 +17344,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4212839989.pdf",
@@ -19053,9 +18535,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -19073,8 +18555,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -20061,9 +19543,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -20077,8 +19559,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -21229,29 +20711,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "score": 0.7778000235557556,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459
+          "score": 0.5690000057220459,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -22139,9 +21621,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -22154,8 +21636,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939371353.pdf",
@@ -23490,21 +22972,21 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 1
+          "score": 1,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -23525,8 +23007,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386774596.pdf",
@@ -24460,9 +23942,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -24470,8 +23952,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4213328516.pdf",
@@ -26015,24 +25497,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -26620,16 +26102,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -26642,8 +26124,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -27570,34 +27052,34 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5142999887466431
+          "score": 0.5142999887466431,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -29168,16 +28650,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -29203,8 +28685,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -30482,17 +29964,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -31711,29 +31193,29 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -32697,11 +32179,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.8691,
+      "fwci": 0.9315,
       "has_fulltext": false,
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.67072045,
+        "value": 0.69027094,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33025,16 +32507,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "score": 0.75,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -33047,8 +32529,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -33139,7 +32621,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -33150,7 +32632,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2024-09-15T00:00:00"
     },
     {
@@ -33871,14 +33353,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.5683000087738037
+          "score": 0.5683000087738037,
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -33900,8 +33382,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -34809,9 +34291,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8571000099182129
+          "score": 0.8571000099182129,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -34825,8 +34307,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 74,
@@ -35594,21 +35076,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.8371999859809875
+          "score": 0.8371999859809875,
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
@@ -35629,8 +35111,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -36555,9 +36037,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -36571,8 +36053,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -37944,9 +37426,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -37960,8 +37442,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415680432.pdf",
@@ -38952,11 +38434,11 @@
         "value_usd": 4010
       },
       "apc_paid": null,
-      "fwci": 7.9923,
+      "fwci": 7.8701,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.97235453,
+        "value": 0.97170328,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -39237,74 +38719,11 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
           "descriptor_ui": "D000327",
           "descriptor_name": "Adsorption",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
         },
         {
           "descriptor_ui": "D002606",
@@ -39321,62 +38740,6 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014227",
-          "descriptor_name": "Triazines",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014227",
-          "descriptor_name": "Triazines",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
           "descriptor_ui": "D014874",
           "descriptor_name": "Water Pollutants, Chemical",
           "qualifier_ui": "Q000032",
@@ -39388,48 +38751,6 @@
           "descriptor_name": "Water Pollutants, Chemical",
           "qualifier_ui": "Q000737",
           "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
           "is_major_topic": true
         },
         {
@@ -39445,34 +38766,6 @@
           "qualifier_ui": "Q000379",
           "qualifier_name": "methods",
           "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D052918",
-          "descriptor_name": "Environmental Restoration and Remediation",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
         },
         {
           "descriptor_ui": "D060587",
@@ -39564,21 +38857,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "score": 0.7811999917030334,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.831631600856781
+          "score": 0.831631600856781,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -39591,8 +38884,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -39669,7 +38962,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-09-26T08:19:03.415552",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2026-01-28T00:00:00"
     },
     {
@@ -40186,16 +39479,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -40208,8 +39501,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3179531231.pdf"
@@ -41465,17 +40758,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -41975,11 +41268,11 @@
         "currency": "CHF",
         "value_usd": 2408
       },
-      "fwci": 0.8312,
+      "fwci": 0.8303,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.64332112,
+        "value": 0.64324707,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42177,73 +41470,10 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000090022",
-          "descriptor_name": "Chemometrics",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000090022",
-          "descriptor_name": "Chemometrics",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000090022",
-          "descriptor_name": "Chemometrics",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D001185",
           "descriptor_name": "Artificial Intelligence",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001185",
-          "descriptor_name": "Artificial Intelligence",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001185",
-          "descriptor_name": "Artificial Intelligence",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001185",
-          "descriptor_name": "Artificial Intelligence",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002857",
-          "descriptor_name": "Chromium",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002857",
-          "descriptor_name": "Chromium",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002857",
-          "descriptor_name": "Chromium",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
           "is_major_topic": false
         },
         {
@@ -42261,71 +41491,8 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004784",
-          "descriptor_name": "Environmental Monitoring",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D008956",
           "descriptor_name": "Models, Chemical",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008956",
-          "descriptor_name": "Models, Chemical",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008956",
-          "descriptor_name": "Models, Chemical",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008956",
-          "descriptor_name": "Models, Chemical",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -42345,48 +41512,6 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D012987",
-          "descriptor_name": "Soil",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D012987",
-          "descriptor_name": "Soil",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D012987",
-          "descriptor_name": "Soil",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D012989",
-          "descriptor_name": "Soil Pollutants",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D012989",
-          "descriptor_name": "Soil Pollutants",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D012989",
-          "descriptor_name": "Soil Pollutants",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
           "descriptor_ui": "D012989",
           "descriptor_name": "Soil Pollutants",
           "qualifier_ui": "Q000032",
@@ -42401,74 +41526,11 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D015999",
-          "descriptor_name": "Multivariate Analysis",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D015999",
-          "descriptor_name": "Multivariate Analysis",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D015999",
-          "descriptor_name": "Multivariate Analysis",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D016571",
           "descriptor_name": "Neural Networks, Computer",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016571",
-          "descriptor_name": "Neural Networks, Computer",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016571",
-          "descriptor_name": "Neural Networks, Computer",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016571",
-          "descriptor_name": "Neural Networks, Computer",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D019216",
-          "descriptor_name": "Metals, Heavy",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D019216",
-          "descriptor_name": "Metals, Heavy",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D019216",
-          "descriptor_name": "Metals, Heavy",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
         },
         {
           "descriptor_ui": "D019216",
@@ -42660,16 +41722,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "score": 0.4390000104904175,
+          "display_name": "Life on land"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -42690,8 +41752,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4283746594.pdf",
@@ -43378,7 +42440,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2022-07-02T00:00:00"
     },
     {
@@ -43985,9 +43047,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -44008,8 +43070,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -44739,24 +43801,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -45515,9 +44577,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -45525,8 +44587,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -46032,16 +45094,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
@@ -46067,8 +45129,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -47163,8 +46225,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -48275,14 +47337,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "score": 1,
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -48304,8 +47366,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -49336,9 +48398,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -49351,8 +48413,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -50173,29 +49235,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -50651,11 +49713,11 @@
         "value_usd": 3690
       },
       "apc_paid": null,
-      "fwci": 0.4609,
+      "fwci": 0.4593,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.55819544,
+        "value": 0.55743018,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50997,16 +50059,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9710999727249146
+          "score": 0.9710999727249146,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -51019,8 +50081,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405386656.pdf",
@@ -51114,7 +50176,588 @@
         "https://openalex.org/W4321489324",
         "https://openalex.org/W2269752303"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2030": [
+          20
+        ],
+        "Abstract": [
+          0
+        ],
+        "Developing": [
+          1
+        ],
+        "an": [
+          2
+        ],
+        "efficient": [
+          3
+        ],
+        "and": [
+          4,
+          31,
+          43,
+          50,
+          61,
+          74,
+          82,
+          111,
+          126,
+          149,
+          168,
+          170,
+          186,
+          200,
+          205,
+          219
+        ],
+        "reliable": [
+          5
+        ],
+        "intelligent": [
+          6,
+          238
+        ],
+        "approach": [
+          7
+        ],
+        "to": [
+          8,
+          70
+        ],
+        "the": [
+          9,
+          22,
+          27,
+          79,
+          86,
+          142,
+          150,
+          163,
+          171,
+          193,
+          212,
+          224,
+          229,
+          233,
+          237
+        ],
+        "available": [
+          10
+        ],
+        "groundwater": [
+          11
+        ],
+        "(GW)": [
+          12
+        ],
+        "resources": [
+          13,
+          242
+        ],
+        "appears": [
+          14
+        ],
+        "crucial": [
+          15
+        ],
+        "for": [
+          16,
+          78,
+          133,
+          183,
+          198,
+          240
+        ],
+        "achieving": [
+          17
+        ],
+        "Saudi": [
+          18,
+          91
+        ],
+        "Vision": [
+          19
+        ],
+        "on": [
+          21,
+          39,
+          141
+        ],
+        "availability": [
+          23
+        ],
+        "of": [
+          24,
+          29,
+          89,
+          152,
+          162,
+          236
+        ],
+        "freshwater": [
+          25
+        ],
+        "resources,": [
+          26
+        ],
+        "prosperity": [
+          28
+        ],
+        "people,": [
+          30
+        ],
+        "economic": [
+          32
+        ],
+        "development.": [
+          33
+        ],
+        "The": [
+          34,
+          118,
+          129,
+          159,
+          188,
+          208
+        ],
+        "present": [
+          35
+        ],
+        "study": [
+          36
+        ],
+        "is": [
+          37
+        ],
+        "based": [
+          38,
+          140
+        ],
+        "a": [
+          40,
+          75,
+          104
+        ],
+        "real-field": [
+          41
+        ],
+        "investigation": [
+          42
+        ],
+        "experimental": [
+          44
+        ],
+        "analysis": [
+          45
+        ],
+        "using": [
+          46,
+          122,
+          156
+        ],
+        "ion": [
+          47
+        ],
+        "chromatography": [
+          48
+        ],
+        "(IC)": [
+          49
+        ],
+        "inductively": [
+          51
+        ],
+        "coupled": [
+          52
+        ],
+        "plasma": [
+          53
+        ],
+        "mass": [
+          54
+        ],
+        "spectrometry": [
+          55
+        ],
+        "(ICP-MS).": [
+          56
+        ],
+        "Subsequently,": [
+          57
+        ],
+        "ArcGIS": [
+          58
+        ],
+        "10.3": [
+          59
+        ],
+        "software": [
+          60
+        ],
+        "artificial": [
+          62
+        ],
+        "intelligence": [
+          63
+        ],
+        "(AI)-based": [
+          64
+        ],
+        "metaheuristic": [
+          65
+        ],
+        "optimization": [
+          66,
+          116
+        ],
+        "(MO)": [
+          67
+        ],
+        "were": [
+          68,
+          120
+        ],
+        "used": [
+          69,
+          102
+        ],
+        "create": [
+          71
+        ],
+        "vulnerability": [
+          72
+        ],
+        "maps": [
+          73
+        ],
+        "modelling": [
+          76
+        ],
+        "schema": [
+          77
+        ],
+        "potassium": [
+          80
+        ],
+        "(K+)": [
+          81
+        ],
+        "sodium": [
+          83
+        ],
+        "(Na+)": [
+          84
+        ],
+        "in": [
+          85
+        ],
+        "coastal": [
+          87
+        ],
+        "region": [
+          88
+        ],
+        "eastern": [
+          90
+        ],
+        "Arabia,": [
+          92
+        ],
+        "respectively.": [
+          93,
+          207
+        ],
+        "For": [
+          94
+        ],
+        "this": [
+          95
+        ],
+        "purpose,": [
+          96
+        ],
+        "extreme": [
+          97
+        ],
+        "gradient": [
+          98
+        ],
+        "boosting": [
+          99
+        ],
+        "(XG-Boost)": [
+          100
+        ],
+        "was": [
+          101,
+          154,
+          203
+        ],
+        "as": [
+          103,
+          115
+        ],
+        "standalone": [
+          105
+        ],
+        "model": [
+          106
+        ],
+        "while": [
+          107
+        ],
+        "differential": [
+          108
+        ],
+        "evolution": [
+          109
+        ],
+        "(DE)": [
+          110
+        ],
+        "firefly": [
+          112
+        ],
+        "algorithms": [
+          113,
+          177
+        ],
+        "(FA)": [
+          114
+        ],
+        "techniques.": [
+          117
+        ],
+        "results": [
+          119,
+          161,
+          209,
+          231
+        ],
+        "validated": [
+          121
+        ],
+        "different": [
+          123
+        ],
+        "statistical": [
+          124
+        ],
+        "indices": [
+          125
+        ],
+        "graphical": [
+          127
+        ],
+        "visualization.": [
+          128
+        ],
+        "optimal": [
+          130
+        ],
+        "objective": [
+          131
+        ],
+        "function": [
+          132
+        ],
+        "each": [
+          134
+        ],
+        "data": [
+          135
+        ],
+        "set": [
+          136
+        ],
+        "through": [
+          137
+        ],
+        "multiple": [
+          138
+        ],
+        "iterations": [
+          139
+        ],
+        "root": [
+          143
+        ],
+        "means": [
+          144
+        ],
+        "square": [
+          145
+        ],
+        "error": [
+          146,
+          196
+        ],
+        "(RMSE)": [
+          147
+        ],
+        "index": [
+          148
+        ],
+        "number": [
+          151
+        ],
+        "features": [
+          153
+        ],
+        "done": [
+          155
+        ],
+        "DE": [
+          157
+        ],
+        "algorithms.": [
+          158,
+          227
+        ],
+        "performance": [
+          160
+        ],
+        "optimized": [
+          164
+        ],
+        "XGBoost": [
+          165,
+          172
+        ],
+        "algorithm": [
+          166,
+          173
+        ],
+        "(DE-XGBoost": [
+          167
+        ],
+        "FA-XGBoost)": [
+          169
+        ],
+        "indicated": [
+          174
+        ],
+        "that": [
+          175,
+          192,
+          211
+        ],
+        "FA": [
+          176
+        ],
+        "outperformed": [
+          178
+        ],
+        "merit": [
+          179
+        ],
+        "with": [
+          180
+        ],
+        "high": [
+          181
+        ],
+        "accuracy": [
+          182
+        ],
+        "both": [
+          184
+        ],
+        "K+": [
+          185,
+          199,
+          218
+        ],
+        "Na+.": [
+          187
+        ],
+        "numerical": [
+          189
+        ],
+        "comparison": [
+          190
+        ],
+        "depicted": [
+          191
+        ],
+        "mean": [
+          194
+        ],
+        "absolute": [
+          195
+        ],
+        "(MAE)": [
+          197
+        ],
+        "Na+": [
+          201,
+          220
+        ],
+        "FA-XGBoost": [
+          202,
+          213
+        ],
+        "0.0173": [
+          204
+        ],
+        "0.028,": [
+          206
+        ],
+        "showed": [
+          210
+        ],
+        "method": [
+          214
+        ],
+        "produced": [
+          215
+        ],
+        "more": [
+          216
+        ],
+        "accurate": [
+          217
+        ],
+        "prediction": [
+          221
+        ],
+        "GIS-maps": [
+          222
+        ],
+        "than": [
+          223
+        ],
+        "other": [
+          225
+        ],
+        "two": [
+          226
+        ],
+        "Hence,": [
+          228
+        ],
+        "current": [
+          230
+        ],
+        "justified": [
+          232
+        ],
+        "potential": [
+          234
+        ],
+        "use": [
+          235
+        ],
+        "tool": [
+          239
+        ],
+        "water": [
+          241
+        ],
+        "management.": [
+          243
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -51125,7 +50768,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2024-12-14T00:00:00"
     },
     {
@@ -51734,16 +51377,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8485000133514404
+          "score": 0.8485000133514404,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -51764,8 +51407,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -52856,34 +52499,34 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4359000027179718
+          "score": 0.4359000027179718,
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.41343632340431213
+          "score": 0.41343632340431213,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -53840,36 +53483,36 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "score": 1,
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4943999946117401
+          "score": 0.4943999946117401,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5333158373832703
+          "score": 0.5333158373832703,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.40034809708595276
+          "score": 0.40034809708595276,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
@@ -53882,8 +53525,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7125473168.pdf",
@@ -55180,9 +54823,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -55200,8 +54843,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2167330935.pdf",
@@ -56414,9 +56057,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -56437,8 +56080,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -57255,9 +56898,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -57278,8 +56921,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3009319440.pdf",
@@ -58654,29 +58297,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 1
+          "score": 1,
+          "display_name": "Affordable and clean energy"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "score": 0.821399986743927,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -59315,14 +58958,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8598999977111816
+          "score": 0.8598999977111816,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -59344,8 +58987,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -61072,14 +60715,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "score": 0.7778000235557556,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.6875
+          "score": 0.6875,
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -61087,8 +60730,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -61929,29 +61572,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4835779368877411
+          "score": 0.4835779368877411,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -62771,21 +62414,21 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.4043000042438507
+          "score": 0.4043000042438507,
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5572254657745361
+          "score": 0.5572254657745361,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -62806,8 +62449,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7165841200.pdf",
@@ -64085,17 +63728,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64602,17 +64245,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -65694,17 +65337,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66832,9 +66475,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -66842,8 +66485,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -67409,17 +67052,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68604,9 +68247,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -68624,8 +68267,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4315434479.pdf",
@@ -69958,17 +69601,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2539001916.pdf",
@@ -71176,8 +70819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -72503,8 +72146,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -73566,8 +73209,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73960,8 +73603,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74415,17 +74058,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74964,24 +74607,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.6875
+          "score": 0.6875,
+          "display_name": "Zero hunger"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76049,24 +75692,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76517,24 +76160,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77703,29 +77346,29 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.5683000087738037
+          "score": 0.5683000087738037,
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79016,9 +78659,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -79026,8 +78669,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -80015,14 +79658,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.9074000120162964
+          "score": 0.9074000120162964,
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -80030,8 +79673,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -80999,9 +80642,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7778000235557556
+          "score": 0.7778000235557556,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -81009,8 +80652,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -82399,16 +82042,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4535079300403595
+          "score": 0.4535079300403595,
+          "display_name": "Zero hunger"
         }
       ],
       "study_designs": [],
@@ -82421,8 +82064,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128452096.pdf",
@@ -83374,7 +83017,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.05280602,
+        "value": 0.05266061,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83727,146 +83370,6 @@
         {
           "descriptor_ui": "D000077213",
           "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000077213",
-          "descriptor_name": "Lamotrigine",
           "qualifier_ui": "Q000737",
           "qualifier_name": "chemistry",
           "is_major_topic": false
@@ -83879,146 +83382,6 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000327",
-          "descriptor_name": "Adsorption",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D002110",
           "descriptor_name": "Caffeine",
           "qualifier_ui": "Q000302",
@@ -84033,220 +83396,10 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002110",
-          "descriptor_name": "Caffeine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D002220",
           "descriptor_name": "Carbamazepine",
           "qualifier_ui": "Q000302",
           "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002220",
-          "descriptor_name": "Carbamazepine",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
           "is_major_topic": false
         },
         {
@@ -84264,146 +83417,6 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002606",
-          "descriptor_name": "Charcoal",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D003102",
-          "descriptor_name": "Colloids",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D003102",
           "descriptor_name": "Colloids",
           "qualifier_ui": "Q000737",
@@ -84420,176 +83433,8 @@
         {
           "descriptor_ui": "D004364",
           "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
           "qualifier_ui": "Q000737",
           "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004364",
-          "descriptor_name": "Pharmaceutical Preparations",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D010316",
-          "descriptor_name": "Particle Size",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D010316",
-          "descriptor_name": "Particle Size",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D010316",
-          "descriptor_name": "Particle Size",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D010316",
-          "descriptor_name": "Particle Size",
-          "qualifier_ui": null,
-          "qualifier_name": null,
           "is_major_topic": false
         },
         {
@@ -84597,146 +83442,6 @@
           "descriptor_name": "Water Pollutants, Chemical",
           "qualifier_ui": "Q000302",
           "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000302",
-          "qualifier_name": "isolation & purification",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D014874",
-          "descriptor_name": "Water Pollutants, Chemical",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
           "is_major_topic": true
         },
         {
@@ -84751,146 +83456,6 @@
           "descriptor_name": "Water Purification",
           "qualifier_ui": "Q000379",
           "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018508",
-          "descriptor_name": "Water Purification",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D060587",
-          "descriptor_name": "Groundwater",
-          "qualifier_ui": "Q000737",
-          "qualifier_name": "chemistry",
           "is_major_topic": true
         },
         {
@@ -85099,34 +83664,34 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5171999931335449
+          "score": 0.5171999931335449,
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.4043000042438507
+          "score": 0.4043000042438507,
+          "display_name": "Good health and well-being"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7608427405357361
+          "score": 0.7608427405357361,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128704649.pdf",
@@ -85770,7 +84335,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2026-02-13T00:00:00"
     },
     {
@@ -86352,14 +84917,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "score": 0.7811999917030334,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -86367,8 +84932,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87522,24 +86087,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8431621193885803
+          "score": 0.8431621193885803,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88862,34 +87427,34 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.8787999749183655
+          "score": 0.8787999749183655,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6082315444946289
+          "score": 0.6082315444946289,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90046,29 +88611,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "score": 1,
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6109220385551453
+          "score": 0.6109220385551453,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -90857,24 +89422,24 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6860736012458801
+          "score": 0.6860736012458801,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155098166.pdf"
@@ -91377,29 +89942,29 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 1
+          "score": 1,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8365907669067383
+          "score": 0.8365907669067383,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92362,9 +90927,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -92372,8 +90937,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93083,9 +91648,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 1
+          "score": 1,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -93107,8 +91672,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -93508,8 +92073,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7167195421.pdf",
@@ -94251,14 +92816,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4943999946117401
+          "score": 0.4943999946117401,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -94266,8 +92831,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -95495,34 +94060,34 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "score": 1,
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5538976192474365
+          "score": 0.5538976192474365,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -96870,8 +95435,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -98253,26 +96818,26 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.9333000183105469
+          "score": 0.9333000183105469,
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8571000099182129
+          "score": 0.8571000099182129,
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "score": 0.821399986743927,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5348670482635498
+          "score": 0.5348670482635498,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
@@ -98285,8 +96850,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -99762,29 +98327,29 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 1
+          "score": 1,
+          "display_name": "Sustainable cities and communities"
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "score": 0.821399986743927,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7846640348434448
+          "score": 0.7846640348434448,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7202130880.pdf",
@@ -101018,16 +99583,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8302261233329773
+          "score": 0.8302261233329773,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -101040,8 +99605,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7203693229.pdf",

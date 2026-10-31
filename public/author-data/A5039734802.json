@@ -18,7 +18,7 @@
     ],
     "full_name": "Dave L. Cantrell",
     "works_count": 42,
-    "cited_by_count": 1360,
+    "cited_by_count": 1361,
     "summary_stats": {
       "2yr_mean_citedness": 1.75,
       "h_index": 21,
@@ -247,7 +247,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000703,
+        "value": 0.0000704,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -264,7 +264,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000313,
+        "value": 0.0000315,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -281,7 +281,7 @@
       {
         "id": "https://openalex.org/T12344",
         "display_name": "Silicon Effects in Agriculture",
-        "value": 0.000028,
+        "value": 0.0000281,
         "subfield": {
           "id": "https://openalex.org/subfields/1110",
           "display_name": "Plant Science"
@@ -298,7 +298,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000261,
+        "value": 0.0000263,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -523,7 +523,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 59
+        "cited_by_count": 60
       }
     ],
     "display_name_alternatives": [
@@ -538,7 +538,7 @@
     ],
     "block_key": "d cantrell",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039734802",
-    "updated_date": "2026-10-28T12:34:19",
+    "updated_date": "2026-10-31T12:29:50",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1066,8 +1066,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -2073,17 +2073,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6399999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -4359,9 +4359,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -4379,8 +4379,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -5666,17 +5666,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2941825081.pdf",
@@ -7015,17 +7015,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8342,8 +8342,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9317,8 +9317,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9945,17 +9945,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -10054,1188 +10054,6 @@
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2020-05-13T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2312299597",
-      "doi": "https://doi.org/10.1111/sed.12286",
-      "title": "Evidence for high temperature and 18O‐enriched fluids in the Arab‐D of the Ghawar Field, Saudi Arabia",
-      "display_name": "Evidence for high temperature and 18O‐enriched fluids in the Arab‐D of the Ghawar Field, Saudi Arabia",
-      "publication_year": 2016,
-      "publication_date": "2016-04-02",
-      "ids": {
-        "openalex": "https://openalex.org/W2312299597",
-        "doi": "https://doi.org/10.1111/sed.12286",
-        "mag": "2312299597"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1111/sed.12286",
-        "doi": "https://doi.org/10.1111/sed.12286",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1111/sed.12286",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S42573498",
-          "display_name": "Sedimentology",
-          "issn_l": "0037-0746",
-          "issn": [
-            "0037-0746",
-            "1365-3091",
-            "1469-3496"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-a",
-            "jufo-2",
-            "norway-2",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Sedimentology",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5050486511",
-            "display_name": "Peter Koenraad Swart",
-            "orcid": "https://orcid.org/0000-0002-6743-6162",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6743-6162"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I145608581",
-              "display_name": "University of Miami",
-              "ror": "https://ror.org/02dgjyy92",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I145608581"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Peter K. Swart",
-          "raw_affiliation_strings": [
-            "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
-              "institution_ids": [
-                "https://openalex.org/I145608581"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039734802",
-            "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3118-9769"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Dave L. Cantrell",
-          "raw_affiliation_strings": [
-            "EXPEC Advanced Research Center, Saudi Aramco, Dharan, 31311 Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dharan, 31311 Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008890165",
-            "display_name": "Monica M. Arienzo",
-            "orcid": "https://orcid.org/0000-0003-3444-9810",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3444-9810"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I145608581",
-              "display_name": "University of Miami",
-              "ror": "https://ror.org/02dgjyy92",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I145608581"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I60138030",
-              "display_name": "Desert Research Institute",
-              "ror": "https://ror.org/02vg22c33",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I60138030"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Monica M. Arienzo",
-          "raw_affiliation_strings": [
-            "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
-            "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
-              "institution_ids": [
-                "https://openalex.org/I60138030"
-              ]
-            },
-            {
-              "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
-              "institution_ids": [
-                "https://openalex.org/I145608581"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5075774703",
-            "display_name": "Sean T. Murray",
-            "orcid": "https://orcid.org/0000-0002-1416-4183",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-1416-4183"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I145608581",
-              "display_name": "University of Miami",
-              "ror": "https://ror.org/02dgjyy92",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I145608581"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sean T. Murray",
-          "raw_affiliation_strings": [
-            "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
-              "institution_ids": [
-                "https://openalex.org/I145608581"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5050486511"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I145608581"
-      ],
-      "apc_list": {
-        "value": 4250,
-        "currency": "USD",
-        "value_usd": 4250
-      },
-      "apc_paid": null,
-      "fwci": 2.5904,
-      "has_fulltext": false,
-      "cited_by_count": 42,
-      "citation_normalized_percentile": {
-        "value": 0.87038458,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "63",
-        "issue": "6",
-        "first_page": "1739",
-        "last_page": "1752"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9585000276565552,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9585000276565552,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.009999999776482582,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.007799999788403511,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/clumped-isotopes",
-          "display_name": "clumped isotopes",
-          "score": 0.8870000243186951
-        },
-        {
-          "id": "https://openalex.org/keywords/dolomitization",
-          "display_name": "dolomitization",
-          "score": 0.7789999842643738
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenetic-fluids",
-          "display_name": "diagenetic fluids",
-          "score": 0.8569999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/oxygen-isotopes",
-          "display_name": "oxygen isotopes",
-          "score": 0.765999972820282
-        },
-        {
-          "id": "https://openalex.org/keywords/high-temperature-fluids",
-          "display_name": "high-temperature fluids",
-          "score": 0.7250000238418579
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-reservoirs",
-          "display_name": "carbonate reservoirs",
-          "score": 0.597000002861023
-        },
-        {
-          "id": "https://openalex.org/keywords/ghawar-field",
-          "display_name": "Ghawar field",
-          "score": 0.7639999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/arab-d-reservoir",
-          "display_name": "Arab-D reservoir",
-          "score": 0.7049999833106995
-        },
-        {
-          "id": "https://openalex.org/keywords/limestone",
-          "display_name": "limestone",
-          "score": 0.4259999990463257
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780181037",
-          "wikidata": "https://www.wikidata.org/wiki/Q371542",
-          "display_name": "Dolomite",
-          "level": 2,
-          "score": 0.9056861400604248
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.8442617654800415
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.842441976070404
-        },
-        {
-          "id": "https://openalex.org/C63662990",
-          "wikidata": "https://www.wikidata.org/wiki/Q3736526",
-          "display_name": "Dolomitization",
-          "level": 4,
-          "score": 0.8051896095275879
-        },
-        {
-          "id": "https://openalex.org/C2780191791",
-          "wikidata": "https://www.wikidata.org/wiki/Q171917",
-          "display_name": "Calcite",
-          "level": 2,
-          "score": 0.7304085493087769
-        },
-        {
-          "id": "https://openalex.org/C195702682",
-          "wikidata": "https://www.wikidata.org/wiki/Q623318",
-          "display_name": "Recrystallization (geology)",
-          "level": 2,
-          "score": 0.6513656973838806
-        },
-        {
-          "id": "https://openalex.org/C71468253",
-          "wikidata": "https://www.wikidata.org/wiki/Q785643",
-          "display_name": "Isotopes of oxygen",
-          "level": 2,
-          "score": 0.5945537686347961
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.5497767925262451
-        },
-        {
-          "id": "https://openalex.org/C120882062",
-          "wikidata": "https://www.wikidata.org/wiki/Q28352",
-          "display_name": "Permeability (electromagnetism)",
-          "level": 3,
-          "score": 0.5278379917144775
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.44121846556663513
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.4203258454799652
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.19688305258750916
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.1359110176563263
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.10315209627151489
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.06074610352516174
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1111/sed.12286",
-          "doi": "https://doi.org/10.1111/sed.12286",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1111/sed.12286",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S42573498",
-            "display_name": "Sedimentology",
-            "issn_l": "0037-0746",
-            "issn": [
-              "0037-0746",
-              "1365-3091",
-              "1469-3496"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-a",
-              "jufo-2",
-              "norway-2",
-              "poland-140",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Sedimentology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320324706",
-          "display_name": "Saudi Aramco",
-          "ror": "https://ror.org/03ypap427"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 46,
-      "referenced_works": [
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W1498877843",
-        "https://openalex.org/W1531383480",
-        "https://openalex.org/W1552307154",
-        "https://openalex.org/W1803742928",
-        "https://openalex.org/W1847590186",
-        "https://openalex.org/W1967628674",
-        "https://openalex.org/W1970658925",
-        "https://openalex.org/W1978701258",
-        "https://openalex.org/W1980007034",
-        "https://openalex.org/W1981080891",
-        "https://openalex.org/W1987445809",
-        "https://openalex.org/W1998451426",
-        "https://openalex.org/W2005237573",
-        "https://openalex.org/W2005674369",
-        "https://openalex.org/W2008114507",
-        "https://openalex.org/W2012704052",
-        "https://openalex.org/W2015259745",
-        "https://openalex.org/W2017913935",
-        "https://openalex.org/W2019795776",
-        "https://openalex.org/W2029473169",
-        "https://openalex.org/W2056686100",
-        "https://openalex.org/W2057355903",
-        "https://openalex.org/W2074189613",
-        "https://openalex.org/W2077381422",
-        "https://openalex.org/W2084073868",
-        "https://openalex.org/W2098591024",
-        "https://openalex.org/W2102367050",
-        "https://openalex.org/W2104786000",
-        "https://openalex.org/W2112403694",
-        "https://openalex.org/W2118131194",
-        "https://openalex.org/W2132295818",
-        "https://openalex.org/W2138691371",
-        "https://openalex.org/W2139512662",
-        "https://openalex.org/W2141712144",
-        "https://openalex.org/W2155995866",
-        "https://openalex.org/W2159821300",
-        "https://openalex.org/W2162992874",
-        "https://openalex.org/W2205732784",
-        "https://openalex.org/W2500144445",
-        "https://openalex.org/W2505073848",
-        "https://openalex.org/W2941825081",
-        "https://openalex.org/W2953570489",
-        "https://openalex.org/W2990128836",
-        "https://openalex.org/W3041290506",
-        "https://openalex.org/W4239752076"
-      ],
-      "related_works": [
-        "https://openalex.org/W2138691371",
-        "https://openalex.org/W2584251030",
-        "https://openalex.org/W2024113763",
-        "https://openalex.org/W2056686100",
-        "https://openalex.org/W7162651287",
-        "https://openalex.org/W2593631792",
-        "https://openalex.org/W4392760617",
-        "https://openalex.org/W4324032607",
-        "https://openalex.org/W1970397113",
-        "https://openalex.org/W2529533530"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Using": [
-          1
-        ],
-        "the": [
-          2,
-          6,
-          14,
-          20,
-          31,
-          34,
-          37,
-          42,
-          49,
-          54,
-          58,
-          68,
-          71,
-          74,
-          85,
-          89,
-          102,
-          109,
-          115,
-          118,
-          121,
-          127,
-          134,
-          146,
-          167,
-          175,
-          181,
-          191,
-          208
-        ],
-        "clumped": [
-          3,
-          192
-        ],
-        "isotope": [
-          4,
-          193
-        ],
-        "method,": [
-          5
-        ],
-        "temperature": [
-          7
-        ],
-        "of": [
-          8,
-          19,
-          33,
-          57,
-          73,
-          88,
-          117,
-          136,
-          169,
-          177,
-          183,
-          211
-        ],
-        "dolomite": [
-          9,
-          170,
-          178
-        ],
-        "and": [
-          10,
-          13,
-          51,
-          66,
-          124,
-          130,
-          149,
-          171,
-          198
-        ],
-        "calcite": [
-          11
-        ],
-        "formation": [
-          12,
-          168,
-          176
-        ],
-        "oxygen": [
-          15
-        ],
-        "isotopic": [
-          16
-        ],
-        "composition": [
-          17
-        ],
-        "(δ18Ow)": [
-          18
-        ],
-        "diagenetic": [
-          21,
-          90
-        ],
-        "fluids": [
-          22,
-          91,
-          159
-        ],
-        "have": [
-          23,
-          154
-        ],
-        "been": [
-          24
-        ],
-        "determined": [
-          25
-        ],
-        "in": [
-          26,
-          41,
-          166
-        ],
-        "a": [
-          27
-        ],
-        "core": [
-          28
-        ],
-        "taken": [
-          29
-        ],
-        "from": [
-          30,
-          96
-        ],
-        "Arab‐D": [
-          32
-        ],
-        "Ghawar": [
-          35
-        ],
-        "field,": [
-          36
-        ],
-        "largest": [
-          38
-        ],
-        "oil": [
-          39
-        ],
-        "reservoir": [
-          40,
-          59,
-          75,
-          119
-        ],
-        "world.": [
-          43
-        ],
-        "These": [
-          44,
-          152,
-          186
-        ],
-        "analyses": [
-          45
-        ],
-        "show": [
-          46,
-          92,
-          195
-        ],
-        "that": [
-          47,
-          158
-        ],
-        "while": [
-          48
-        ],
-        "dolomites": [
-          50,
-          129,
-          131
-        ],
-        "limestones": [
-          52
-        ],
-        "throughout": [
-          53
-        ],
-        "major": [
-          55
-        ],
-        "zones": [
-          56
-        ],
-        "recrystallized": [
-          60
-        ],
-        "at": [
-          61,
-          77
-        ],
-        "temperatures": [
-          62,
-          80,
-          219
-        ],
-        "between": [
-          63,
-          145
-        ],
-        "ca": [
-          64,
-          97,
-          100
-        ],
-        "80°C": [
-          65
-        ],
-        "100°C,": [
-          67
-        ],
-        "carbonates": [
-          69
-        ],
-        "near": [
-          70
-        ],
-        "top": [
-          72
-        ],
-        "formed": [
-          76
-        ],
-        "significantly": [
-          78
-        ],
-        "lower": [
-          79
-        ],
-        "(20": [
-          81
-        ],
-        "to": [
-          82,
-          99,
-          174,
-          215
-        ],
-        "30°C).": [
-          83
-        ],
-        "Although": [
-          84
-        ],
-        "δ18O": [
-          86,
-          209
-        ],
-        "values": [
-          87,
-          111,
-          148,
-          163,
-          206,
-          210
-        ],
-        "large": [
-          93
-        ],
-        "variations": [
-          94,
-          103
-        ],
-        "ranging": [
-          95
-        ],
-        "<0‰": [
-          98
-        ],
-        "+8‰,": [
-          101
-        ],
-        "exhibit": [
-          104
-        ],
-        "consistent": [
-          105
-        ],
-        "downhole": [
-          106
-        ],
-        "changes,": [
-          107
-        ],
-        "with": [
-          108,
-          114,
-          120,
-          133,
-          160,
-          180,
-          203
-        ],
-        "highest": [
-          110,
-          122
-        ],
-        "being": [
-          112
-        ],
-        "associated": [
-          113,
-          132,
-          179
-        ],
-        "portion": [
-          116
-        ],
-        "permeability": [
-          123
-        ],
-        "porosity.": [
-          125
-        ],
-        "Within": [
-          126
-        ],
-        "limestones,": [
-          128
-        ],
-        "zone": [
-          135,
-          182
-        ],
-        "high": [
-          137,
-          184
-        ],
-        "permeability,": [
-          138
-        ],
-        "there": [
-          139
-        ],
-        "are": [
-          140
-        ],
-        "statistically": [
-          141
-        ],
-        "significant": [
-          142
-        ],
-        "different": [
-          143,
-          155
-        ],
-        "trends": [
-          144
-        ],
-        "δ18Ow": [
-          147,
-          162,
-          205
-        ],
-        "recrystallization": [
-          150,
-          199
-        ],
-        "temperature.": [
-          151
-        ],
-        "relationships": [
-          153
-        ],
-        "intercepts": [
-          156
-        ],
-        "suggesting": [
-          157
-        ],
-        "varying": [
-          161
-        ],
-        "were": [
-          164
-        ],
-        "involved": [
-          165
-        ],
-        "limestone": [
-          172
-        ],
-        "compared": [
-          173
-        ],
-        "permeability.": [
-          185
-        ],
-        "new": [
-          187
-        ],
-        "data": [
-          188
-        ],
-        "obtained": [
-          189
-        ],
-        "using": [
-          190
-        ],
-        "technique": [
-          194
-        ],
-        "how": [
-          196
-        ],
-        "dolomitization": [
-          197
-        ],
-        "by": [
-          200
-        ],
-        "deep‐seated": [
-          201
-        ],
-        "brines": [
-          202
-        ],
-        "elevated": [
-          204
-        ],
-        "influence": [
-          207
-        ],
-        "carbonates,": [
-          212
-        ],
-        "possibly": [
-          213
-        ],
-        "leading": [
-          214
-        ],
-        "erroneous": [
-          216
-        ],
-        "interpretations": [
-          217
-        ],
-        "unless": [
-          218
-        ],
-        "can": [
-          220
-        ],
-        "be": [
-          221
-        ],
-        "adequately": [
-          222
-        ],
-        "constrained.": [
-          223
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-10-30T12:39:25.321706",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W1803742928",
@@ -11404,11 +10222,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 4.3673,
+      "fwci": 4.361,
       "has_fulltext": false,
-      "cited_by_count": 41,
+      "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.93397963,
+        "value": 0.93388719,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11691,9 +10509,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -11706,8 +10524,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -12457,7 +11275,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2024,
@@ -12494,6 +11312,1188 @@
         {
           "year": 2016,
           "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-10-31T12:09:11.096373",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2312299597",
+      "doi": "https://doi.org/10.1111/sed.12286",
+      "title": "Evidence for high temperature and 18O‐enriched fluids in the Arab‐D of the Ghawar Field, Saudi Arabia",
+      "display_name": "Evidence for high temperature and 18O‐enriched fluids in the Arab‐D of the Ghawar Field, Saudi Arabia",
+      "publication_year": 2016,
+      "publication_date": "2016-04-02",
+      "ids": {
+        "openalex": "https://openalex.org/W2312299597",
+        "doi": "https://doi.org/10.1111/sed.12286",
+        "mag": "2312299597"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1111/sed.12286",
+        "doi": "https://doi.org/10.1111/sed.12286",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1111/sed.12286",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S42573498",
+          "display_name": "Sedimentology",
+          "issn_l": "0037-0746",
+          "issn": [
+            "0037-0746",
+            "1365-3091",
+            "1469-3496"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-a",
+            "jufo-2",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sedimentology",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5050486511",
+            "display_name": "Peter Koenraad Swart",
+            "orcid": "https://orcid.org/0000-0002-6743-6162",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6743-6162"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I145608581",
+              "display_name": "University of Miami",
+              "ror": "https://ror.org/02dgjyy92",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145608581"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Peter K. Swart",
+          "raw_affiliation_strings": [
+            "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
+              "institution_ids": [
+                "https://openalex.org/I145608581"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039734802",
+            "display_name": "Dave L. Cantrell",
+            "orcid": "https://orcid.org/0000-0003-3118-9769",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3118-9769"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dave L. Cantrell",
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Saudi Aramco, Dharan, 31311 Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dharan, 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008890165",
+            "display_name": "Monica M. Arienzo",
+            "orcid": "https://orcid.org/0000-0003-3444-9810",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3444-9810"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I145608581",
+              "display_name": "University of Miami",
+              "ror": "https://ror.org/02dgjyy92",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145608581"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I60138030",
+              "display_name": "Desert Research Institute",
+              "ror": "https://ror.org/02vg22c33",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I60138030"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Monica M. Arienzo",
+          "raw_affiliation_strings": [
+            "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
+            "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
+              "institution_ids": [
+                "https://openalex.org/I60138030"
+              ]
+            },
+            {
+              "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
+              "institution_ids": [
+                "https://openalex.org/I145608581"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5075774703",
+            "display_name": "Sean T. Murray",
+            "orcid": "https://orcid.org/0000-0002-1416-4183",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-1416-4183"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I145608581",
+              "display_name": "University of Miami",
+              "ror": "https://ror.org/02dgjyy92",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I145608581"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sean T. Murray",
+          "raw_affiliation_strings": [
+            "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
+              "institution_ids": [
+                "https://openalex.org/I145608581"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050486511"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I145608581"
+      ],
+      "apc_list": {
+        "value": 4250,
+        "currency": "USD",
+        "value_usd": 4250
+      },
+      "apc_paid": null,
+      "fwci": 2.5904,
+      "has_fulltext": false,
+      "cited_by_count": 42,
+      "citation_normalized_percentile": {
+        "value": 0.87038458,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "63",
+        "issue": "6",
+        "first_page": "1739",
+        "last_page": "1752"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9585000276565552,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9585000276565552,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.009999999776482582,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.007799999788403511,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/clumped-isotopes",
+          "display_name": "clumped isotopes",
+          "score": 0.8870000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/dolomitization",
+          "display_name": "dolomitization",
+          "score": 0.7789999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenetic-fluids",
+          "display_name": "diagenetic fluids",
+          "score": 0.8569999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/oxygen-isotopes",
+          "display_name": "oxygen isotopes",
+          "score": 0.765999972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/high-temperature-fluids",
+          "display_name": "high-temperature fluids",
+          "score": 0.7250000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.597000002861023
+        },
+        {
+          "id": "https://openalex.org/keywords/ghawar-field",
+          "display_name": "Ghawar field",
+          "score": 0.7639999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/arab-d-reservoir",
+          "display_name": "Arab-D reservoir",
+          "score": 0.7049999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/limestone",
+          "display_name": "limestone",
+          "score": 0.4259999990463257
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.9056861400604248
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.8442617654800415
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.842441976070404
+        },
+        {
+          "id": "https://openalex.org/C63662990",
+          "wikidata": "https://www.wikidata.org/wiki/Q3736526",
+          "display_name": "Dolomitization",
+          "level": 4,
+          "score": 0.8051896095275879
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.7304085493087769
+        },
+        {
+          "id": "https://openalex.org/C195702682",
+          "wikidata": "https://www.wikidata.org/wiki/Q623318",
+          "display_name": "Recrystallization (geology)",
+          "level": 2,
+          "score": 0.6513656973838806
+        },
+        {
+          "id": "https://openalex.org/C71468253",
+          "wikidata": "https://www.wikidata.org/wiki/Q785643",
+          "display_name": "Isotopes of oxygen",
+          "level": 2,
+          "score": 0.5945537686347961
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.5497767925262451
+        },
+        {
+          "id": "https://openalex.org/C120882062",
+          "wikidata": "https://www.wikidata.org/wiki/Q28352",
+          "display_name": "Permeability (electromagnetism)",
+          "level": 3,
+          "score": 0.5278379917144775
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.44121846556663513
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.4203258454799652
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.19688305258750916
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.1359110176563263
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.10315209627151489
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.06074610352516174
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41625074",
+          "wikidata": "https://www.wikidata.org/wiki/Q176088",
+          "display_name": "Membrane",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1111/sed.12286",
+          "doi": "https://doi.org/10.1111/sed.12286",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1111/sed.12286",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S42573498",
+            "display_name": "Sedimentology",
+            "issn_l": "0037-0746",
+            "issn": [
+              "0037-0746",
+              "1365-3091",
+              "1469-3496"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-a",
+              "jufo-2",
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sedimentology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 46,
+      "referenced_works": [
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1498877843",
+        "https://openalex.org/W1531383480",
+        "https://openalex.org/W1552307154",
+        "https://openalex.org/W1803742928",
+        "https://openalex.org/W1847590186",
+        "https://openalex.org/W1967628674",
+        "https://openalex.org/W1970658925",
+        "https://openalex.org/W1978701258",
+        "https://openalex.org/W1980007034",
+        "https://openalex.org/W1981080891",
+        "https://openalex.org/W1987445809",
+        "https://openalex.org/W1998451426",
+        "https://openalex.org/W2005237573",
+        "https://openalex.org/W2005674369",
+        "https://openalex.org/W2008114507",
+        "https://openalex.org/W2012704052",
+        "https://openalex.org/W2015259745",
+        "https://openalex.org/W2017913935",
+        "https://openalex.org/W2019795776",
+        "https://openalex.org/W2029473169",
+        "https://openalex.org/W2056686100",
+        "https://openalex.org/W2057355903",
+        "https://openalex.org/W2074189613",
+        "https://openalex.org/W2077381422",
+        "https://openalex.org/W2084073868",
+        "https://openalex.org/W2098591024",
+        "https://openalex.org/W2102367050",
+        "https://openalex.org/W2104786000",
+        "https://openalex.org/W2112403694",
+        "https://openalex.org/W2118131194",
+        "https://openalex.org/W2132295818",
+        "https://openalex.org/W2138691371",
+        "https://openalex.org/W2139512662",
+        "https://openalex.org/W2141712144",
+        "https://openalex.org/W2155995866",
+        "https://openalex.org/W2159821300",
+        "https://openalex.org/W2162992874",
+        "https://openalex.org/W2205732784",
+        "https://openalex.org/W2500144445",
+        "https://openalex.org/W2505073848",
+        "https://openalex.org/W2941825081",
+        "https://openalex.org/W2953570489",
+        "https://openalex.org/W2990128836",
+        "https://openalex.org/W3041290506",
+        "https://openalex.org/W4239752076"
+      ],
+      "related_works": [
+        "https://openalex.org/W2138691371",
+        "https://openalex.org/W2584251030",
+        "https://openalex.org/W2024113763",
+        "https://openalex.org/W2056686100",
+        "https://openalex.org/W7162651287",
+        "https://openalex.org/W2593631792",
+        "https://openalex.org/W4392760617",
+        "https://openalex.org/W4324032607",
+        "https://openalex.org/W1970397113",
+        "https://openalex.org/W2529533530"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Using": [
+          1
+        ],
+        "the": [
+          2,
+          6,
+          14,
+          20,
+          31,
+          34,
+          37,
+          42,
+          49,
+          54,
+          58,
+          68,
+          71,
+          74,
+          85,
+          89,
+          102,
+          109,
+          115,
+          118,
+          121,
+          127,
+          134,
+          146,
+          167,
+          175,
+          181,
+          191,
+          208
+        ],
+        "clumped": [
+          3,
+          192
+        ],
+        "isotope": [
+          4,
+          193
+        ],
+        "method,": [
+          5
+        ],
+        "temperature": [
+          7
+        ],
+        "of": [
+          8,
+          19,
+          33,
+          57,
+          73,
+          88,
+          117,
+          136,
+          169,
+          177,
+          183,
+          211
+        ],
+        "dolomite": [
+          9,
+          170,
+          178
+        ],
+        "and": [
+          10,
+          13,
+          51,
+          66,
+          124,
+          130,
+          149,
+          171,
+          198
+        ],
+        "calcite": [
+          11
+        ],
+        "formation": [
+          12,
+          168,
+          176
+        ],
+        "oxygen": [
+          15
+        ],
+        "isotopic": [
+          16
+        ],
+        "composition": [
+          17
+        ],
+        "(δ18Ow)": [
+          18
+        ],
+        "diagenetic": [
+          21,
+          90
+        ],
+        "fluids": [
+          22,
+          91,
+          159
+        ],
+        "have": [
+          23,
+          154
+        ],
+        "been": [
+          24
+        ],
+        "determined": [
+          25
+        ],
+        "in": [
+          26,
+          41,
+          166
+        ],
+        "a": [
+          27
+        ],
+        "core": [
+          28
+        ],
+        "taken": [
+          29
+        ],
+        "from": [
+          30,
+          96
+        ],
+        "Arab‐D": [
+          32
+        ],
+        "Ghawar": [
+          35
+        ],
+        "field,": [
+          36
+        ],
+        "largest": [
+          38
+        ],
+        "oil": [
+          39
+        ],
+        "reservoir": [
+          40,
+          59,
+          75,
+          119
+        ],
+        "world.": [
+          43
+        ],
+        "These": [
+          44,
+          152,
+          186
+        ],
+        "analyses": [
+          45
+        ],
+        "show": [
+          46,
+          92,
+          195
+        ],
+        "that": [
+          47,
+          158
+        ],
+        "while": [
+          48
+        ],
+        "dolomites": [
+          50,
+          129,
+          131
+        ],
+        "limestones": [
+          52
+        ],
+        "throughout": [
+          53
+        ],
+        "major": [
+          55
+        ],
+        "zones": [
+          56
+        ],
+        "recrystallized": [
+          60
+        ],
+        "at": [
+          61,
+          77
+        ],
+        "temperatures": [
+          62,
+          80,
+          219
+        ],
+        "between": [
+          63,
+          145
+        ],
+        "ca": [
+          64,
+          97,
+          100
+        ],
+        "80°C": [
+          65
+        ],
+        "100°C,": [
+          67
+        ],
+        "carbonates": [
+          69
+        ],
+        "near": [
+          70
+        ],
+        "top": [
+          72
+        ],
+        "formed": [
+          76
+        ],
+        "significantly": [
+          78
+        ],
+        "lower": [
+          79
+        ],
+        "(20": [
+          81
+        ],
+        "to": [
+          82,
+          99,
+          174,
+          215
+        ],
+        "30°C).": [
+          83
+        ],
+        "Although": [
+          84
+        ],
+        "δ18O": [
+          86,
+          209
+        ],
+        "values": [
+          87,
+          111,
+          148,
+          163,
+          206,
+          210
+        ],
+        "large": [
+          93
+        ],
+        "variations": [
+          94,
+          103
+        ],
+        "ranging": [
+          95
+        ],
+        "<0‰": [
+          98
+        ],
+        "+8‰,": [
+          101
+        ],
+        "exhibit": [
+          104
+        ],
+        "consistent": [
+          105
+        ],
+        "downhole": [
+          106
+        ],
+        "changes,": [
+          107
+        ],
+        "with": [
+          108,
+          114,
+          120,
+          133,
+          160,
+          180,
+          203
+        ],
+        "highest": [
+          110,
+          122
+        ],
+        "being": [
+          112
+        ],
+        "associated": [
+          113,
+          132,
+          179
+        ],
+        "portion": [
+          116
+        ],
+        "permeability": [
+          123
+        ],
+        "porosity.": [
+          125
+        ],
+        "Within": [
+          126
+        ],
+        "limestones,": [
+          128
+        ],
+        "zone": [
+          135,
+          182
+        ],
+        "high": [
+          137,
+          184
+        ],
+        "permeability,": [
+          138
+        ],
+        "there": [
+          139
+        ],
+        "are": [
+          140
+        ],
+        "statistically": [
+          141
+        ],
+        "significant": [
+          142
+        ],
+        "different": [
+          143,
+          155
+        ],
+        "trends": [
+          144
+        ],
+        "δ18Ow": [
+          147,
+          162,
+          205
+        ],
+        "recrystallization": [
+          150,
+          199
+        ],
+        "temperature.": [
+          151
+        ],
+        "relationships": [
+          153
+        ],
+        "intercepts": [
+          156
+        ],
+        "suggesting": [
+          157
+        ],
+        "varying": [
+          161
+        ],
+        "were": [
+          164
+        ],
+        "involved": [
+          165
+        ],
+        "limestone": [
+          172
+        ],
+        "compared": [
+          173
+        ],
+        "permeability.": [
+          185
+        ],
+        "new": [
+          187
+        ],
+        "data": [
+          188
+        ],
+        "obtained": [
+          189
+        ],
+        "using": [
+          190
+        ],
+        "technique": [
+          194
+        ],
+        "how": [
+          196
+        ],
+        "dolomitization": [
+          197
+        ],
+        "by": [
+          200
+        ],
+        "deep‐seated": [
+          201
+        ],
+        "brines": [
+          202
+        ],
+        "elevated": [
+          204
+        ],
+        "influence": [
+          207
+        ],
+        "carbonates,": [
+          212
+        ],
+        "possibly": [
+          213
+        ],
+        "leading": [
+          214
+        ],
+        "erroneous": [
+          216
+        ],
+        "interpretations": [
+          217
+        ],
+        "unless": [
+          218
+        ],
+        "can": [
+          220
+        ],
+        "be": [
+          221
+        ],
+        "adequately": [
+          222
+        ],
+        "constrained.": [
+          223
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
         }
       ],
       "updated_date": "2026-10-30T12:39:25.321706",
@@ -12847,17 +12847,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -13547,9 +13547,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
@@ -13570,8 +13570,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -15159,24 +15159,24 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.685699999332428
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -15968,8 +15968,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -17270,9 +17270,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7699999809265137
         }
       ],
       "study_designs": [],
@@ -17293,8 +17293,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -17855,11 +17855,11 @@
         "value_usd": 7030
       },
       "apc_paid": null,
-      "fwci": 4.9582,
+      "fwci": 4.8954,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.96302221,
+        "value": 0.96231748,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18121,34 +18121,6 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000818",
-          "descriptor_name": "Animals",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000818",
-          "descriptor_name": "Animals",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005075",
-          "descriptor_name": "Biological Evolution",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D005075",
-          "descriptor_name": "Biological Evolution",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
           "descriptor_ui": "D005075",
           "descriptor_name": "Biological Evolution",
           "qualifier_ui": null,
@@ -18158,34 +18130,6 @@
         {
           "descriptor_ui": "D009792",
           "descriptor_name": "Oceans and Seas",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009792",
-          "descriptor_name": "Oceans and Seas",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009792",
-          "descriptor_name": "Oceans and Seas",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017753",
-          "descriptor_name": "Ecosystem",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017753",
-          "descriptor_name": "Ecosystem",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -18205,34 +18149,6 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D018533",
-          "descriptor_name": "Biomass",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D018533",
-          "descriptor_name": "Biomass",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D019015",
-          "descriptor_name": "Geologic Sediments",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D019015",
-          "descriptor_name": "Geologic Sediments",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
           "descriptor_ui": "D019015",
           "descriptor_name": "Geologic Sediments",
           "qualifier_ui": null,
@@ -18244,34 +18160,6 @@
           "descriptor_name": "Biodiversity",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D044822",
-          "descriptor_name": "Biodiversity",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D044822",
-          "descriptor_name": "Biodiversity",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D059001",
-          "descriptor_name": "Aquatic Organisms",
-          "qualifier_ui": "Q000502",
-          "qualifier_name": "physiology",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D059001",
-          "descriptor_name": "Aquatic Organisms",
-          "qualifier_ui": "Q000502",
-          "qualifier_name": "physiology",
           "is_major_topic": true
         },
         {
@@ -18445,16 +18333,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 1
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "study_designs": [],
@@ -18500,8 +18388,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -18615,7 +18503,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-22T09:42:04.148104",
+      "updated_date": "2026-10-31T12:09:11.096373",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19185,8 +19073,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -20648,8 +20536,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2944023070.pdf",
@@ -22161,17 +22049,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5099999904632568
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -22892,8 +22780,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -23983,8 +23871,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24564,8 +24452,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -25632,17 +25520,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27137,9 +27025,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
@@ -27160,8 +27048,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -28039,9 +27927,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "study_designs": [],
@@ -28054,8 +27942,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -29375,17 +29263,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.6100000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6100000143051147
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2978412508.pdf",
@@ -30558,8 +30446,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -31503,8 +31391,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32311,17 +32199,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -32929,17 +32817,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33921,17 +33809,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4099999964237213
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34962,17 +34850,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -36007,17 +35895,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4300000071525574
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36480,8 +36368,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36960,17 +36848,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37924,17 +37812,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "score": 0.47999998927116394
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38396,17 +38284,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39013,17 +38901,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39687,8 +39575,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40240,8 +40128,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408525198.pdf",
@@ -40738,8 +40626,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
