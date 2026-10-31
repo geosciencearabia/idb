@@ -1917,9 +1917,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -3446,9 +3446,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.47999998927116394,
           "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -4701,9 +4701,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5023,17 +5023,10 @@
           "is_corresponding": true,
           "raw_author_name": "Camilo A. Polo",
           "raw_affiliation_strings": [
-            "Saudi Aramco Exploration Organization Northern Arabia Reservoir Characterization Department Dhahran Saudi Arabia",
             "Saudi Aramco, Exploration Organization, Northern Arabia Reservoir Characterization Department, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco Exploration Organization Northern Arabia Reservoir Characterization Department Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "raw_affiliation_string": "Saudi Aramco, Exploration Organization, Northern Arabia Reservoir Characterization Department, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -5068,17 +5061,10 @@
           "is_corresponding": false,
           "raw_author_name": "John Melvin",
           "raw_affiliation_strings": [
-            "(Retired) Saudi Aramco Exploration Organization Reservoir Characterization Department Dhahran Saudi Arabia",
             "(Retired) Saudi Aramco, Exploration Organization, Reservoir Characterization Department, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "(Retired) Saudi Aramco Exploration Organization Reservoir Characterization Department Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "raw_affiliation_string": "(Retired) Saudi Aramco, Exploration Organization, Reservoir Characterization Department, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -5113,17 +5099,10 @@
           "is_corresponding": false,
           "raw_author_name": "Nigel P. Hooker",
           "raw_affiliation_strings": [
-            "Saudi Aramco Exploration Organization Geological Operations Department Dhahran Saudi Arabia",
             "Saudi Aramco, Exploration Organization, Geological Operations Department, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco Exploration Organization Geological Operations Department Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "raw_affiliation_string": "Saudi Aramco, Exploration Organization, Geological Operations Department, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -5160,17 +5139,10 @@
           "is_corresponding": false,
           "raw_author_name": "Andrew J. Rees",
           "raw_affiliation_strings": [
-            "Saudi Aramco Emerging Unconventional Assets Department Dhahran Saudi Arabia",
             "Saudi Aramco, Emerging Unconventional Assets Department, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco Emerging Unconventional Assets Department Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "raw_affiliation_string": "Saudi Aramco, Emerging Unconventional Assets Department, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -5207,17 +5179,10 @@
           "is_corresponding": false,
           "raw_author_name": "Murray K. Gingras",
           "raw_affiliation_strings": [
-            "Department of Earth and Atmospheric Sciences Ichnology Research Group University of Alberta Edmonton Alberta T6G 2E3 Canada",
             "Department of Earth and Atmospheric Sciences, Ichnology Research Group, University of Alberta, Edmonton, Alberta, T6G 2E3 Canada"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth and Atmospheric Sciences Ichnology Research Group University of Alberta Edmonton Alberta T6G 2E3 Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth and Atmospheric Sciences, Ichnology Research Group, University of Alberta, Edmonton, Alberta, T6G 2E3 Canada",
               "institution_ids": [
@@ -5252,17 +5217,10 @@
           "is_corresponding": false,
           "raw_author_name": "S. George Pemberton",
           "raw_affiliation_strings": [
-            "Department of Earth and Atmospheric Sciences Ichnology Research Group University of Alberta Edmonton Alberta T6G 2E3 Canada",
             "Department of Earth and Atmospheric Sciences, Ichnology Research Group, University of Alberta, Edmonton, Alberta, T6G 2E3 Canada"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth and Atmospheric Sciences Ichnology Research Group University of Alberta Edmonton Alberta T6G 2E3 Canada",
-              "institution_ids": [
-                "https://openalex.org/I154425047"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth and Atmospheric Sciences, Ichnology Research Group, University of Alberta, Edmonton, Alberta, T6G 2E3 Canada",
               "institution_ids": [
@@ -5291,7 +5249,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.10636516,
+        "value": 0.10611134,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5570,9 +5528,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -6448,7 +6406,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2019-10-18T00:00:00"
     },
     {
@@ -6729,11 +6687,11 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.187,
+      "fwci": 0.1875,
       "has_fulltext": false,
-      "cited_by_count": 4,
+      "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.50031407,
+        "value": 0.50020929,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7167,6 +7125,10 @@
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 3
         },
@@ -7175,7 +7137,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -7811,9 +7773,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6200000047683716,
           "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -9567,9 +9529,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4099999964237213,
           "display_name": "Life below water",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -10500,9 +10462,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],

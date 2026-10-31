@@ -49,7 +49,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Basin Research",
     "citations": 39,
-    "fwci": 2.8692,
+    "fwci": 2.8728,
     "topics": [
       "Geological formations and processes",
       "Hydrology and Sediment Transport Processes",
@@ -159,7 +159,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "Journal of the Geological Society",
     "citations": 26,
-    "fwci": 1.7796,
+    "fwci": 1.7797,
     "topics": [
       "Geological and Geophysical Studies Worldwide",
       "Geological and Geochemical Analysis",
@@ -1938,7 +1938,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Geological Society London Special Publications",
     "citations": 7,
-    "fwci": 0.8246,
+    "fwci": 0.8225,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Carbon Dioxide Capture Technologies",
@@ -2088,7 +2088,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Estudios Geológicos",
     "citations": 2,
-    "fwci": 0.4056,
+    "fwci": 0.4044,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -2654,7 +2654,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Sedimentary Geology",
     "citations": 9,
-    "fwci": 1.3387,
+    "fwci": 1.3336,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -2754,7 +2754,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "MethodsX",
     "citations": 3,
-    "fwci": 0.3574,
+    "fwci": 0.3571,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -3035,7 +3035,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2003,
     "venue": "Earth-Science Reviews",
     "citations": 305,
-    "fwci": 4.3842,
+    "fwci": 4.3779,
     "topics": [
       "Geological formations and processes",
       "Marine and environmental studies",
@@ -3204,7 +3204,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1989,
     "venue": "Journal of Petroleum Geology",
     "citations": 197,
-    "fwci": 5.0066,
+    "fwci": 5.0026,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological Studies and Exploration",
@@ -3230,8 +3230,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2006-07-01",
     "year": 2006,
     "venue": "GeoArabia",
-    "citations": 124,
-    "fwci": 5.8721,
+    "citations": 125,
+    "fwci": 5.8712,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -3897,7 +3897,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1991,
     "venue": "Cretaceous Research",
     "citations": 67,
-    "fwci": 3.7999,
+    "fwci": 3.7981,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -4418,7 +4418,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1993,
     "venue": "Marine and Petroleum Geology",
     "citations": 33,
-    "fwci": 1.2462,
+    "fwci": 1.2466,
     "topics": [
       "Geological Studies and Exploration",
       "Geological formations and processes",
@@ -4613,6 +4613,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2733942769",
+    "doi": "https://doi.org/10.1127/njgpm/2002/2002/426",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5010401681",
+    "allAuthorOpenAlexIds": [
+      "A5010401681",
+      "A5006355680",
+      "A5062108247",
+      "A5070411489"
+    ],
+    "firstAuthorLastName": "Al-Saad",
+    "allAuthors": [
+      "Hamad Al-Saad",
+      "Sobhi Jaber Nasir",
+      "Fadhil Sadooni",
+      "Abdulrahman S. Alsharhan"
+    ],
+    "title": "Stratigraphy and sedimentology of the Hofuf Formation in the State of Qatar in relation to the tectonic evolution of the East Arabian Block",
+    "publicationDate": "2002-07-22",
+    "year": 2002,
+    "venue": "Neues Jahrbuch für Geologie und Paläontologie - Monatshefte",
+    "citations": 17,
+    "fwci": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Geochemistry and Elemental Analysis",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Qatar University",
+      "United Arab Emirates University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2091857709",
     "doi": "https://doi.org/10.1007/bf03175783",
     "program": "",
@@ -4639,40 +4673,6 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": [
-      "United Arab Emirates University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2733942769",
-    "doi": "https://doi.org/10.1127/njgpm/2002/2002/426",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5010401681",
-    "allAuthorOpenAlexIds": [
-      "A5010401681",
-      "A5006355680",
-      "A5062108247",
-      "A5070411489"
-    ],
-    "firstAuthorLastName": "Al-Saad",
-    "allAuthors": [
-      "Hamad Al-Saad",
-      "Sobhi Jaber Nasir",
-      "Fadhil Sadooni",
-      "Abdulrahman S. Alsharhan"
-    ],
-    "title": "Stratigraphy and sedimentology of the Hofuf Formation in the State of Qatar in relation to the tectonic evolution of the East Arabian Block",
-    "publicationDate": "2002-07-22",
-    "year": 2002,
-    "venue": "Neues Jahrbuch für Geologie und Paläontologie - Monatshefte",
-    "citations": 16,
-    "fwci": 0,
-    "topics": [
-      "Geological formations and processes",
-      "Geochemistry and Elemental Analysis",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Qatar University",
       "United Arab Emirates University"
     ]
   },
@@ -4754,7 +4754,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1995,
     "venue": "Cretaceous Research",
     "citations": 11,
-    "fwci": 0.9991,
+    "fwci": 1.0009,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -8319,7 +8319,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Lithosphere",
     "citations": 464,
-    "fwci": 23.4876,
+    "fwci": 23.5018,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -8415,8 +8415,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-12-19",
     "year": 2018,
     "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 200,
-    "fwci": 12.9157,
+    "citations": 201,
+    "fwci": 12.9067,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -8582,7 +8582,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "Gondwana Research",
     "citations": 175,
-    "fwci": 5.0422,
+    "fwci": 5.0424,
     "topics": [
       "Geological and Tectonic Studies in Latin America",
       "Geological and Geochemical Analysis",
@@ -8645,8 +8645,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-11-17",
     "year": 2020,
     "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 105,
-    "fwci": 7.9587,
+    "citations": 106,
+    "fwci": 7.9579,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -8951,7 +8951,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "Geochemistry Geophysics Geosystems",
     "citations": 94,
-    "fwci": 10.2697,
+    "fwci": 10.2773,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological and Geochemical Analysis",
@@ -9296,7 +9296,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Journal of Geophysical Research Solid Earth",
     "citations": 35,
-    "fwci": 4.2728,
+    "fwci": 4.2724,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -10256,6 +10256,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4297503516",
+    "doi": "https://doi.org/10.1016/j.gr.2022.09.011",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5043105003",
+      "A5020724652",
+      "A5052716474",
+      "A5072055282"
+    ],
+    "firstAuthorLastName": "Liang",
+    "allAuthors": [
+      "Yong Liang",
+      "Han Zheng",
+      "Huan Li",
+      "Scott Andrew Whattam",
+      "Xiaomeng Sun"
+    ],
+    "title": "Revisiting the Late Paleozoic–Mesozoic tectonic evolution of epicontinental eastern Central Asian Orogenic Belt on the basis of detrital zircon",
+    "publicationDate": "2022-09-29",
+    "year": 2022,
+    "venue": "Gondwana Research",
+    "citations": 9,
+    "fwci": 0.7252,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geochronology of Asian Mineral Deposits",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Central South University",
+      "King Fahd University of Petroleum and Minerals",
+      "Jilin University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4392659943",
     "doi": "https://doi.org/10.1016/j.jsg.2024.105105",
     "program": "",
@@ -10279,8 +10316,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-03-11",
     "year": 2024,
     "venue": "Journal of Structural Geology",
-    "citations": 5,
-    "fwci": 1.2944,
+    "citations": 6,
+    "fwci": 1.5495,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -10347,7 +10384,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "Earth and Planetary Science Letters",
     "citations": 56,
-    "fwci": 3.0343,
+    "fwci": 3.037,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -10380,7 +10417,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Lithos",
     "citations": 52,
-    "fwci": 2.284,
+    "fwci": 2.2844,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -10417,7 +10454,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Journal of the Geological Society",
     "citations": 43,
-    "fwci": 3.7941,
+    "fwci": 3.7956,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -10800,43 +10837,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4297503516",
-    "doi": "https://doi.org/10.1016/j.gr.2022.09.011",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5043105003",
-      "A5020724652",
-      "A5052716474",
-      "A5072055282"
-    ],
-    "firstAuthorLastName": "Liang",
-    "allAuthors": [
-      "Yong Liang",
-      "Han Zheng",
-      "Huan Li",
-      "Scott Andrew Whattam",
-      "Xiaomeng Sun"
-    ],
-    "title": "Revisiting the Late Paleozoic–Mesozoic tectonic evolution of epicontinental eastern Central Asian Orogenic Belt on the basis of detrital zircon",
-    "publicationDate": "2022-09-29",
-    "year": 2022,
-    "venue": "Gondwana Research",
-    "citations": 8,
-    "fwci": 0.7256,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geochronology of Asian Mineral Deposits",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Central South University",
-      "King Fahd University of Petroleum and Minerals",
-      "Jilin University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4386495999",
     "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106489",
     "program": "",
@@ -11146,7 +11146,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2004,
     "venue": "New Zealand Journal of Geology and Geophysics",
     "citations": 25,
-    "fwci": 0.8154,
+    "fwci": 0.8152,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -11312,7 +11312,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Lithos",
     "citations": 7,
-    "fwci": 0.5922,
+    "fwci": 0.592,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -11429,7 +11429,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Marine and Petroleum Geology",
     "citations": 5,
-    "fwci": 0.7437,
+    "fwci": 0.7409,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -11540,7 +11540,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geophysical Research Letters",
     "citations": 2,
-    "fwci": 1.8101,
+    "fwci": 1.8031,
     "topics": [
       "Geological and Geophysical Studies",
       "earthquake and tectonic studies",
@@ -18673,6 +18673,33 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4381512414",
+    "doi": "https://doi.org/10.1144/petgeo2023-007",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013083803",
+    "allAuthorOpenAlexIds": [
+      "A5013083803",
+      "A5045570928"
+    ],
+    "firstAuthorLastName": "Craigie",
+    "allAuthors": [
+      "Neil W. Craigie",
+      "Christian Scheibe"
+    ],
+    "title": "Utilization of chemostratigraphy to the subregional scale correlation of Permo–Carboniferous sediments, eastern Saudi Arabia",
+    "publicationDate": "2023-06-21",
+    "year": 2023,
+    "venue": "Petroleum Geoscience",
+    "citations": 2,
+    "fwci": 0.3174,
+    "topics": [
+      "Geochemistry and Elemental Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W4402601655",
     "doi": "https://doi.org/10.1007/s11631-024-00734-x",
     "program": "",
@@ -18910,33 +18937,6 @@ export const worksTable: WorkTableRecord[] = [
       "Saudi Aramco (Saudi Arabia)",
       "University of Oklahoma - Tulsa"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W4381512414",
-    "doi": "https://doi.org/10.1144/petgeo2023-007",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013083803",
-    "allAuthorOpenAlexIds": [
-      "A5013083803",
-      "A5045570928"
-    ],
-    "firstAuthorLastName": "Craigie",
-    "allAuthors": [
-      "Neil W. Craigie",
-      "Christian Scheibe"
-    ],
-    "title": "Utilization of chemostratigraphy to the subregional scale correlation of Permo–Carboniferous sediments, eastern Saudi Arabia",
-    "publicationDate": "2023-06-21",
-    "year": 2023,
-    "venue": "Petroleum Geoscience",
-    "citations": 1,
-    "fwci": 0.1593,
-    "topics": [
-      "Geochemistry and Elemental Analysis",
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2996180162",
@@ -19340,7 +19340,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Earth-Science Reviews",
     "citations": 172,
-    "fwci": 6.8028,
+    "fwci": 6.8022,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -19477,7 +19477,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Earth-Science Reviews",
     "citations": 94,
-    "fwci": 7.8387,
+    "fwci": 7.8375,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -19677,7 +19677,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "Terra Nova",
     "citations": 75,
-    "fwci": 3.6347,
+    "fwci": 3.6096,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -19708,7 +19708,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Developments in sedimentology",
     "citations": 73,
-    "fwci": 15.7585,
+    "fwci": 15.9188,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -19736,7 +19736,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1998,
     "venue": "Geologische Rundschau",
     "citations": 70,
-    "fwci": 4.693,
+    "fwci": 4.692,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -19830,7 +19830,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Annales Societatis Geologorum Poloniae/Rocznik Polskiego Towarzystwa Geologicznego",
     "citations": 63,
-    "fwci": 7.8387,
+    "fwci": 7.8375,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -20480,7 +20480,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 22,
-    "fwci": 0.5225,
+    "fwci": 0.5208,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -20614,7 +20614,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Papers in Palaeontology",
     "citations": 13,
-    "fwci": 2.6363,
+    "fwci": 2.6285,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -20994,7 +20994,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Papers in Palaeontology",
     "citations": 10,
-    "fwci": 0.8601,
+    "fwci": 0.859,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -21262,7 +21262,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Annales Societatis Geologorum Poloniae/Rocznik Polskiego Towarzystwa Geologicznego",
     "citations": 7,
-    "fwci": 1.6396,
+    "fwci": 1.6416,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -21322,7 +21322,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Proceedings of the Estonian Academy of Sciences Geology",
     "citations": 5,
-    "fwci": 1.014,
+    "fwci": 1.011,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -21436,7 +21436,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1995,
     "venue": "Facies",
     "citations": 15,
-    "fwci": 0.9991,
+    "fwci": 1.0009,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -21751,7 +21751,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Palaeobiodiversity and Palaeoenvironments",
     "citations": 4,
-    "fwci": 0.8112,
+    "fwci": 0.8088,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -22225,7 +22225,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Proceedings of the Estonian Academy of Sciences Geology",
     "citations": 1,
-    "fwci": 0.2028,
+    "fwci": 0.2022,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -23252,44 +23252,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4378190373",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106337",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5014657720",
-    "allAuthorOpenAlexIds": [
-      "A5014657720",
-      "A5053928031",
-      "A5016119750",
-      "A5073656127",
-      "A5039797710"
-    ],
-    "firstAuthorLastName": "Khan",
-    "allAuthors": [
-      "Muhammad Asif Khan",
-      "Tahseenullah Khan",
-      "Aamir Ali",
-      "Abdulwahab Muhammad Bello",
-      "Ahmed E. Radwan"
-    ],
-    "title": "Role of depositional and diagenetic controls on reservoir quality of complex heterogenous tidal sandstone reservoirs: An example from the Lower Goru formation, Middle Indus Basin, Southwest Pakistan",
-    "publicationDate": "2023-05-25",
-    "year": 2023,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 36,
-    "fwci": 4.0053,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological formations and processes",
-      "Geochemistry and Elemental Analysis"
-    ],
-    "institutions": [
-      "Bahria University",
-      "Quaid-i-Azam University",
-      "King Fahd University of Petroleum and Minerals",
-      "Jagiellonian University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4291222571",
     "doi": "https://doi.org/10.1016/j.marpetgeo.2022.105851",
     "program": "",
@@ -23326,8 +23288,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-08-13",
     "year": 2022,
     "venue": "Marine and Petroleum Geology",
-    "citations": 35,
-    "fwci": 3.1984,
+    "citations": 36,
+    "fwci": 3.1983,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Elemental Analysis",
@@ -23339,6 +23301,44 @@ export const worksTable: WorkTableRecord[] = [
       "Bayero University Kano",
       "Ahmadu Bello University",
       "Abubakar Tafawa Balewa University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4378190373",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106337",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5014657720",
+    "allAuthorOpenAlexIds": [
+      "A5014657720",
+      "A5053928031",
+      "A5016119750",
+      "A5073656127",
+      "A5039797710"
+    ],
+    "firstAuthorLastName": "Khan",
+    "allAuthors": [
+      "Muhammad Asif Khan",
+      "Tahseenullah Khan",
+      "Aamir Ali",
+      "Abdulwahab Muhammad Bello",
+      "Ahmed E. Radwan"
+    ],
+    "title": "Role of depositional and diagenetic controls on reservoir quality of complex heterogenous tidal sandstone reservoirs: An example from the Lower Goru formation, Middle Indus Basin, Southwest Pakistan",
+    "publicationDate": "2023-05-25",
+    "year": 2023,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 36,
+    "fwci": 4.0053,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "Bahria University",
+      "Quaid-i-Azam University",
+      "King Fahd University of Petroleum and Minerals",
+      "Jagiellonian University"
     ]
   },
   {
@@ -23858,7 +23858,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of Sedimentary Research",
     "citations": 12,
-    "fwci": 5.737,
+    "fwci": 5.6862,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -26019,7 +26019,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of Petroleum Geology",
     "citations": 6,
-    "fwci": 1.8822,
+    "fwci": 1.8691,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -26060,7 +26060,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Geological Journal",
     "citations": 17,
-    "fwci": 1.5879,
+    "fwci": 1.5868,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -26256,7 +26256,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentology",
     "citations": 6,
-    "fwci": 0.6686,
+    "fwci": 0.668,
     "topics": [
       "Aeolian processes and effects",
       "Geological formations and processes",
@@ -27258,7 +27258,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Quaternary Research",
     "citations": 50,
-    "fwci": 2.6892,
+    "fwci": 2.6916,
     "topics": [
       "Geological formations and processes",
       "Marine and environmental studies",
@@ -28306,7 +28306,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "SPE Journal",
     "citations": 15,
-    "fwci": 1.4788,
+    "fwci": 1.4761,
     "topics": [
       "Hydraulic Fracturing and Reservoir Analysis",
       "Hydrocarbon exploration and reservoir analysis",
@@ -29094,7 +29094,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Marine Biodiversity",
     "citations": 15,
-    "fwci": 0.8029,
+    "fwci": 0.8033,
     "topics": [
       "Marine Biology and Ecology Research",
       "Marine and environmental studies",
@@ -29138,7 +29138,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Geology Geophysics & Environment",
     "citations": 13,
-    "fwci": 1.2003,
+    "fwci": 1.2004,
     "topics": [
       "Marine Biology and Ecology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -29330,7 +29330,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Journal of Micropalaeontology",
     "citations": 9,
-    "fwci": 1.3541,
+    "fwci": 1.3505,
     "topics": [
       "Marine Biology and Ecology Research",
       "Environmental Toxicology and Ecotoxicology",
@@ -31712,7 +31712,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1989,
     "venue": "Sedimentary Geology",
     "citations": 132,
-    "fwci": 1.0962,
+    "fwci": 1.0957,
     "topics": [
       "Geological formations and processes",
       "Hydrology and Sediment Transport Processes",
@@ -32456,7 +32456,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "Journal of Petroleum Geology",
     "citations": 12,
-    "fwci": 1.0176,
+    "fwci": 1.0172,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -32769,7 +32769,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Journal of Petroleum Geology",
     "citations": 13,
-    "fwci": 1.2643,
+    "fwci": 1.2641,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -45230,8 +45230,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-07-05",
     "year": 2019,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "citations": 4,
-    "fwci": 0.187,
+    "citations": 5,
+    "fwci": 0.1875,
     "topics": [
       "Geological formations and processes",
       "Soil and Environmental Studies",
@@ -63293,7 +63293,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1987,
     "venue": "Geobios",
     "citations": 102,
-    "fwci": 1.6096,
+    "fwci": 1.6112,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -63337,8 +63337,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2005-10-01",
     "year": 2005,
     "venue": "GeoArabia",
-    "citations": 91,
-    "fwci": 3.1707,
+    "citations": 92,
+    "fwci": 3.1634,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -63812,7 +63812,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2002,
     "venue": "GeoArabia",
     "citations": 31,
-    "fwci": 1.9508,
+    "fwci": 1.949,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -65427,8 +65427,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-03-15",
     "year": 2024,
     "venue": "International Journal of Coal Geology",
-    "citations": 8,
-    "fwci": 1.1899,
+    "citations": 9,
+    "fwci": 1.3336,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "NMR spectroscopy and applications",
@@ -65458,7 +65458,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Open Geosciences",
     "citations": 31,
-    "fwci": 0.8964,
+    "fwci": 0.8972,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -67045,7 +67045,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Revue de Micropaléontologie",
     "citations": 74,
-    "fwci": 2.283,
+    "fwci": 2.2741,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -67173,7 +67173,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 62,
-    "fwci": 3.3558,
+    "fwci": 3.3347,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -67376,7 +67376,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 56,
-    "fwci": 4.8673,
+    "fwci": 4.8674,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -67412,7 +67412,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Revue de Micropaléontologie",
     "citations": 51,
-    "fwci": 2.283,
+    "fwci": 2.2741,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -67483,7 +67483,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 46,
-    "fwci": 2.4609,
+    "fwci": 2.4455,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -67526,7 +67526,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Palynology",
     "citations": 44,
-    "fwci": 1.0146,
+    "fwci": 1.0107,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -67831,7 +67831,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 41,
-    "fwci": 2.5482,
+    "fwci": 2.5362,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological Studies and Exploration",
@@ -67863,7 +67863,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 39,
-    "fwci": 2.0898,
+    "fwci": 2.0832,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -68242,7 +68242,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 15,
-    "fwci": 1.3606,
+    "fwci": 1.3604,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -68449,7 +68449,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Palynology",
     "citations": 34,
-    "fwci": 2.0135,
+    "fwci": 2.0008,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -68916,7 +68916,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2001,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 38,
-    "fwci": 3.7424,
+    "fwci": 3.7308,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -68972,7 +68972,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2000,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 20,
-    "fwci": 1.9584,
+    "fwci": 1.9591,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -69169,7 +69169,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 11,
-    "fwci": 0.7645,
+    "fwci": 0.7609,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -69205,7 +69205,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "RENDICONTI LINCEI",
     "citations": 10,
-    "fwci": 3.4217,
+    "fwci": 1.2681,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -69271,7 +69271,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2001,
     "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
     "citations": 8,
-    "fwci": 0.3402,
+    "fwci": 0.3392,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological Studies and Exploration",
@@ -69349,7 +69349,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 8,
-    "fwci": 0.5057,
+    "fwci": 0.5056,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -69423,7 +69423,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1997,
     "venue": "Grana",
     "citations": 12,
-    "fwci": 0.4809,
+    "fwci": 0.4813,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -69627,7 +69627,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 4,
-    "fwci": 0.2777,
+    "fwci": 0.2771,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -71562,7 +71562,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Sedimentology",
     "citations": 42,
-    "fwci": 2.5896,
+    "fwci": 2.5904,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Elemental Analysis",
@@ -71593,7 +71593,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Sedimentology",
     "citations": 41,
-    "fwci": 4.3653,
+    "fwci": 4.3673,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -72852,8 +72852,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-03-16",
     "year": 2018,
     "venue": "International Journal of Coal Geology",
-    "citations": 120,
-    "fwci": 8.5058,
+    "citations": 121,
+    "fwci": 8.5049,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Coal and Its By-products",
@@ -72935,8 +72935,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-01-14",
     "year": 2019,
     "venue": "International Journal of Coal Geology",
-    "citations": 74,
-    "fwci": 6.6201,
+    "citations": 75,
+    "fwci": 6.6188,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Coal and Its By-products",
@@ -72972,7 +72972,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Geology",
     "citations": 124,
-    "fwci": 5.3269,
+    "fwci": 5.3061,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -73051,7 +73051,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Geological Society London Special Publications",
     "citations": 91,
-    "fwci": 5.4858,
+    "fwci": 5.4685,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -73179,7 +73179,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 64,
-    "fwci": 4.0643,
+    "fwci": 4.0676,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Marine and environmental studies",
@@ -73277,7 +73277,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Energy Science & Engineering",
     "citations": 50,
-    "fwci": 11.6623,
+    "fwci": 11.6704,
     "topics": [
       "Global Energy Security and Policy",
       "Atmospheric and Environmental Gas Dynamics",
@@ -73388,7 +73388,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Sedimentology",
     "citations": 36,
-    "fwci": 3.3654,
+    "fwci": 3.3744,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -73571,7 +73571,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Palaeontology",
     "citations": 27,
-    "fwci": 2.4776,
+    "fwci": 2.4761,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -73685,7 +73685,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Episodes",
     "citations": 17,
-    "fwci": 1.6464,
+    "fwci": 1.648,
     "topics": [
       "Research Data Management Practices",
       "Scientific Computing and Data Management",
@@ -73858,7 +73858,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "International Biodeterioration & Biodegradation",
     "citations": 49,
-    "fwci": 20.5668,
+    "fwci": 20.5868,
     "topics": [
       "Wood Treatment and Properties",
       "Lignin and Wood Chemistry",
@@ -73944,7 +73944,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 39,
-    "fwci": 1.3061,
+    "fwci": 1.302,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -73987,7 +73987,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 39,
-    "fwci": 0.5765,
+    "fwci": 0.5752,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -74137,7 +74137,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "International journal of greenhouse gas control",
     "citations": 36,
-    "fwci": 3.0976,
+    "fwci": 3.097,
     "topics": [
       "Social Acceptance of Renewable Energy",
       "Economic and Environmental Valuation",
@@ -74352,7 +74352,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 24,
-    "fwci": 1.8708,
+    "fwci": 1.8717,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -74393,7 +74393,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2004,
     "venue": "Proceedings of the Yorkshire Geological Society",
     "citations": 23,
-    "fwci": 0.5626,
+    "fwci": 0.5614,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -74473,7 +74473,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Geochemistry Geophysics Geosystems",
     "citations": 21,
-    "fwci": 1.2673,
+    "fwci": 1.2672,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -74538,7 +74538,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Episodes",
     "citations": 19,
-    "fwci": 1.5768,
+    "fwci": 1.5748,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -74583,7 +74583,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Journal of Asian Earth Sciences",
     "citations": 18,
-    "fwci": 0.6803,
+    "fwci": 0.6802,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -74805,7 +74805,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Petroleum Geoscience",
     "citations": 4,
-    "fwci": 2.8333,
+    "fwci": 2.8091,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological Studies and Exploration",
@@ -74939,7 +74939,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Journal of Micropalaeontology",
     "citations": 27,
-    "fwci": 1.7295,
+    "fwci": 1.7255,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -75024,7 +75024,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Earth and Environmental Science Transactions of the Royal Society of Edinburgh",
     "citations": 21,
-    "fwci": 0.761,
+    "fwci": 0.758,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -75657,7 +75657,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "Review of Palaeobotany and Palynology",
     "citations": 6,
-    "fwci": 0.2807,
+    "fwci": 0.2796,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -75964,7 +75964,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Acta Geologica Sinica - English Edition",
     "citations": 4,
-    "fwci": 0.5925,
+    "fwci": 0.5919,
     "topics": [
       "Big Data Technologies and Applications",
       "Geological Modeling and Analysis",
@@ -78472,7 +78472,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Sedimentology",
     "citations": 7,
-    "fwci": 0.8822,
+    "fwci": 0.8815,
     "topics": [
       "Geological formations and processes",
       "Geology and Paleoclimatology Research",
@@ -79229,7 +79229,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Aeolian Research",
     "citations": 157,
-    "fwci": 13.5452,
+    "fwci": 13.5432,
     "topics": [
       "Aeolian processes and effects",
       "Geological formations and processes",
@@ -79258,7 +79258,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Aeolian Research",
     "citations": 77,
-    "fwci": 3.145,
+    "fwci": 3.1482,
     "topics": [
       "Aeolian processes and effects",
       "Geological formations and processes",
@@ -80297,7 +80297,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Marine and Petroleum Geology",
     "citations": 208,
-    "fwci": 4.5257,
+    "fwci": 4.5261,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -80341,7 +80341,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Ore Geology Reviews",
     "citations": 92,
-    "fwci": 7.7424,
+    "fwci": 7.7419,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Remote-Sensing Image Classification",
@@ -80380,7 +80380,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "Sedimentary Geology",
     "citations": 91,
-    "fwci": 2.6691,
+    "fwci": 2.6687,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -80496,8 +80496,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2009-08-20",
     "year": 2009,
     "venue": "Journal of Sedimentary Research",
-    "citations": 62,
-    "fwci": 3.1676,
+    "citations": 63,
+    "fwci": 3.1703,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -80669,7 +80669,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Journal of Petroleum Geology",
     "citations": 35,
-    "fwci": 0.6236,
+    "fwci": 0.6239,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -80805,7 +80805,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Geobiology",
     "citations": 29,
-    "fwci": 5.8651,
+    "fwci": 5.8635,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -80859,7 +80859,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Geological Journal",
     "citations": 21,
-    "fwci": 3.5078,
+    "fwci": 3.5071,
     "topics": [
       "Geological formations and processes",
       "Geochemistry and Elemental Analysis",
@@ -80984,7 +80984,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "Sedimentary Geology",
     "citations": 45,
-    "fwci": 2.1353,
+    "fwci": 2.135,
     "topics": [
       "Geological formations and processes",
       "Geochemistry and Elemental Analysis",
@@ -81373,7 +81373,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Geological Journal",
     "citations": 14,
-    "fwci": 1.5622,
+    "fwci": 1.562,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -82137,7 +82137,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Journal of Geophysical Research Solid Earth",
     "citations": 5,
-    "fwci": 0.324,
+    "fwci": 0.3236,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Geochemistry and Elemental Analysis",
@@ -82172,7 +82172,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Sedimentology",
     "citations": 5,
-    "fwci": 0.318,
+    "fwci": 0.3177,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Mineralogy and Gemology Studies",
@@ -82257,7 +82257,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Geological Journal",
     "citations": 4,
-    "fwci": 0.1531,
+    "fwci": 0.153,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -82586,7 +82586,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Geological Journal",
     "citations": 1,
-    "fwci": 0.1672,
+    "fwci": 0.167,
     "topics": [
       "Geological formations and processes",
       "Geological Studies and Exploration",
@@ -84118,7 +84118,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Quaternary Science Reviews",
     "citations": 45,
-    "fwci": 24.7407,
+    "fwci": 24.7641,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -84258,7 +84258,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Applied Ecology and Environmental Research",
     "citations": 14,
-    "fwci": 1.2901,
+    "fwci": 1.2885,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -100195,7 +100195,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Springer eBooks",
     "citations": 2,
-    "fwci": 0.7379,
+    "fwci": 0.7363,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -101355,7 +101355,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Journal of Sedimentary Research",
     "citations": 8,
-    "fwci": 5.6665,
+    "fwci": 5.6182,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -103291,8 +103291,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2001-07-01",
     "year": 2001,
     "venue": "GeoArabia",
-    "citations": 552,
-    "fwci": 8.3962,
+    "citations": 553,
+    "fwci": 8.4033,
     "topics": [
       "Geological Studies and Exploration",
       "Hydrocarbon exploration and reservoir analysis",
@@ -103324,7 +103324,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1996,
     "venue": "Geology",
     "citations": 185,
-    "fwci": 3.7754,
+    "fwci": 3.7722,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -103668,7 +103668,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2000,
     "venue": "",
     "citations": 22,
-    "fwci": 1.1561,
+    "fwci": 1.1573,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological Studies and Exploration",
@@ -104271,7 +104271,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2009,
     "venue": "Energy Procedia",
     "citations": 170,
-    "fwci": 24.507,
+    "fwci": 24.5275,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Carbon Dioxide Capture Technologies",
@@ -105614,8 +105614,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-03-28",
     "year": 2023,
     "venue": "Marine Geophysical Research",
-    "citations": 19,
-    "fwci": 3.4647,
+    "citations": 20,
+    "fwci": 3.6509,
     "topics": [
       "Geological formations and processes",
       "Geological Studies and Exploration",
@@ -105754,7 +105754,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Earth and Space Science",
     "citations": 6,
-    "fwci": 1.0222,
+    "fwci": 1.0203,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Seismic Waves and Analysis",
@@ -105794,7 +105794,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Earth and Space Science",
     "citations": 5,
-    "fwci": 2.9985,
+    "fwci": 2.9832,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Seismic Waves and Analysis",
@@ -105834,7 +105834,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Geophysical Prospecting",
     "citations": 24,
-    "fwci": 1.5609,
+    "fwci": 1.5597,
     "topics": [
       "Seismic Waves and Analysis",
       "Seismic Imaging and Inversion Techniques",
@@ -106133,6 +106133,39 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4403691116",
+    "doi": "https://doi.org/10.1038/s41598-024-75980-3",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5006028315",
+      "A5111753752"
+    ],
+    "firstAuthorLastName": "Harishidayat",
+    "allAuthors": [
+      "Dicky Harishidayat",
+      "Saleh A. Al-Dossary",
+      "Abdullatif Abdulrahman Al-Shuhail"
+    ],
+    "title": "Architecture and geomorphology of fluvial channel systems in the Arabian Basin",
+    "publicationDate": "2024-10-23",
+    "year": 2024,
+    "venue": "Scientific Reports",
+    "citations": 5,
+    "fwci": 1.3504,
+    "topics": [
+      "Geological formations and processes",
+      "Geological Studies and Exploration",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Pertamina (Indonesia)",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4409191406",
     "doi": "https://doi.org/10.1007/s13369-025-10121-0",
     "program": "",
@@ -106163,39 +106196,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4403691116",
-    "doi": "https://doi.org/10.1038/s41598-024-75980-3",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5006028315",
-      "A5111753752"
-    ],
-    "firstAuthorLastName": "Harishidayat",
-    "allAuthors": [
-      "Dicky Harishidayat",
-      "Saleh A. Al-Dossary",
-      "Abdullatif Abdulrahman Al-Shuhail"
-    ],
-    "title": "Architecture and geomorphology of fluvial channel systems in the Arabian Basin",
-    "publicationDate": "2024-10-23",
-    "year": 2024,
-    "venue": "Scientific Reports",
-    "citations": 4,
-    "fwci": 1.0807,
-    "topics": [
-      "Geological formations and processes",
-      "Geological Studies and Exploration",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Pertamina (Indonesia)",
-      "Saudi Aramco (Saudi Arabia)"
     ]
   },
   {
@@ -108400,7 +108400,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Exploration Geophysics",
     "citations": 1,
-    "fwci": 0.1119,
+    "fwci": 0.1117,
     "topics": [
       "Image and Signal Denoising Methods",
       "Seismic Waves and Analysis",
@@ -111228,7 +111228,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2002,
     "venue": "Sedimentology",
     "citations": 150,
-    "fwci": 6.5026,
+    "fwci": 6.4965,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -112004,7 +112004,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1988,
     "venue": "Developments in palaeontology and stratigraphy",
     "citations": 14,
-    "fwci": 1.2318,
+    "fwci": 1.2302,
     "topics": [
       "Marine and environmental studies",
       "Paleontology and Stratigraphy of Fossils",
@@ -112737,7 +112737,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Marine and Petroleum Geology",
     "citations": 117,
-    "fwci": 6.8597,
+    "fwci": 6.8629,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -113102,8 +113102,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-12-19",
     "year": 2016,
     "venue": "Journal of Petroleum Geology",
-    "citations": 44,
-    "fwci": 1.151,
+    "citations": 45,
+    "fwci": 1.1513,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -113223,7 +113223,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Geological Journal",
     "citations": 39,
-    "fwci": 2.1729,
+    "fwci": 2.173,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -113270,7 +113270,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentology",
     "citations": 28,
-    "fwci": 4.346,
+    "fwci": 4.3422,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -113540,7 +113540,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Geophysical Research Letters",
     "citations": 16,
-    "fwci": 1.7869,
+    "fwci": 1.7855,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -113692,8 +113692,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-10-09",
     "year": 2023,
     "venue": "Sedimentology",
-    "citations": 13,
-    "fwci": 2.6363,
+    "citations": 14,
+    "fwci": 2.8307,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -113811,8 +113811,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-12-20",
     "year": 2024,
     "venue": "Sedimentology",
-    "citations": 8,
-    "fwci": 2.5263,
+    "citations": 9,
+    "fwci": 2.8302,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Hydrocarbon exploration and reservoir analysis",
@@ -113954,7 +113954,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geoenergy Science and Engineering",
     "citations": 5,
-    "fwci": 2.3904,
+    "fwci": 2.3692,
     "topics": [
       "Geological Modeling and Analysis",
       "Reservoir Engineering and Simulation Methods",
@@ -113987,7 +113987,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Geological Journal",
     "citations": 26,
-    "fwci": 0.4099,
+    "fwci": 0.4104,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -114026,7 +114026,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Sedimentary Geology",
     "citations": 14,
-    "fwci": 1.9656,
+    "fwci": 1.964,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -117951,7 +117951,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Biogeochemistry",
     "citations": 10,
-    "fwci": 5.3244,
+    "fwci": 5.2906,
     "topics": [
       "Coastal wetland ecosystem dynamics",
       "Marine and coastal ecosystems",
@@ -119729,7 +119729,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Journal of Petroleum Geology",
     "citations": 5,
-    "fwci": 0.4756,
+    "fwci": 0.4758,
     "topics": [
       "Geological Studies and Exploration",
       "Geological formations and processes",
@@ -122018,8 +122018,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2009-07-01",
     "year": 2009,
     "venue": "GeoArabia",
-    "citations": 138,
-    "fwci": 7.9082,
+    "citations": 139,
+    "fwci": 7.9062,
     "topics": [
       "Geological Studies and Exploration",
       "Geological and Geophysical Studies",
@@ -122098,8 +122098,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-08-10",
     "year": 2023,
     "venue": "Earth-Science Reviews",
-    "citations": 85,
-    "fwci": 7.0964,
+    "citations": 86,
+    "fwci": 7.1651,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Carbon Dioxide Capture Technologies",
@@ -122674,7 +122674,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Scientific Reports",
     "citations": 9,
-    "fwci": 8.1453,
+    "fwci": 8.1141,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological formations and processes",
@@ -122922,7 +122922,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Meteoritics and Planetary Science",
     "citations": 16,
-    "fwci": 1.3282,
+    "fwci": 1.3278,
     "topics": [
       "Astro and Planetary Science",
       "Geological Studies and Exploration",
@@ -123510,7 +123510,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Goldschmidt Abstracts",
     "citations": 1,
-    "fwci": 0.6573,
+    "fwci": 0.6564,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Groundwater and Isotope Geochemistry",
@@ -125084,7 +125084,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1970,
     "venue": "Philosophical Transactions of the Royal Society of London Series A Mathematical and Physical Sciences",
     "citations": 106,
-    "fwci": 3.0305,
+    "fwci": 3.0553,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological Studies and Exploration",
@@ -125251,7 +125251,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1981,
     "venue": "Journal of Petroleum Geology",
     "citations": 37,
-    "fwci": 0.6024,
+    "fwci": 0.6026,
     "topics": [
       "Geological Studies and Exploration",
       "Hydrocarbon exploration and reservoir analysis",
@@ -126956,7 +126956,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Sedimentology",
     "citations": 21,
-    "fwci": 2.3364,
+    "fwci": 2.3307,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -127805,6 +127805,38 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4410197294",
+    "doi": "https://doi.org/10.1016/j.oreoa.2025.100105",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5079903196",
+    "allAuthorOpenAlexIds": [
+      "A5079903196",
+      "A5026749097",
+      "A5059738250"
+    ],
+    "firstAuthorLastName": "Hammam",
+    "allAuthors": [
+      "Ahmed Hammam",
+      "Ahmed Nagy",
+      "Israa S. Abu‐Mahfouz",
+      "Ahmed Zarzor Al-Yaseri"
+    ],
+    "title": "Assessing CO2 sequestration potential in Cenozoic basaltic rocks of Harrat Al-Shaam, Jordan",
+    "publicationDate": "2025-05-08",
+    "year": 2025,
+    "venue": "Ore and Energy Resource Geology",
+    "citations": 3,
+    "fwci": 0.8302,
+    "topics": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Carbon Dioxide Capture Technologies",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4408129940",
     "doi": "https://doi.org/10.1021/acsomega.4c08253",
     "program": "",
@@ -128000,7 +128032,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "International Meeting on Organic Geochemistry (IMOG)",
     "citations": 5,
-    "fwci": 1.9115,
+    "fwci": 1.9118,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological Studies and Exploration",
@@ -128110,38 +128142,6 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
       "Coal Properties and Utilization"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4410197294",
-    "doi": "https://doi.org/10.1016/j.oreoa.2025.100105",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5079903196",
-    "allAuthorOpenAlexIds": [
-      "A5079903196",
-      "A5026749097",
-      "A5059738250"
-    ],
-    "firstAuthorLastName": "Hammam",
-    "allAuthors": [
-      "Ahmed Hammam",
-      "Ahmed Nagy",
-      "Israa S. Abu‐Mahfouz",
-      "Ahmed Zarzor Al-Yaseri"
-    ],
-    "title": "Assessing CO2 sequestration potential in Cenozoic basaltic rocks of Harrat Al-Shaam, Jordan",
-    "publicationDate": "2025-05-08",
-    "year": 2025,
-    "venue": "Ore and Energy Resource Geology",
-    "citations": 2,
-    "fwci": 0.5566,
-    "topics": [
-      "CO2 Sequestration and Geologic Interactions",
-      "Carbon Dioxide Capture Technologies",
-      "Geological and Geochemical Analysis"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -129791,7 +129791,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Geochemistry",
     "citations": 98,
-    "fwci": 0.3162,
+    "fwci": 0.3163,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -129832,7 +129832,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2011,
     "venue": "Ore Geology Reviews",
     "citations": 123,
-    "fwci": 5.5988,
+    "fwci": 5.5956,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Geological Modeling and Analysis",
@@ -129872,7 +129872,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2001,
     "venue": "Precambrian Research",
     "citations": 115,
-    "fwci": 2.6009,
+    "fwci": 2.6027,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -129997,7 +129997,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Precambrian Research",
     "citations": 31,
-    "fwci": 1.2871,
+    "fwci": 1.2874,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -130078,7 +130078,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "Contributions to Mineralogy and Petrology",
     "citations": 35,
-    "fwci": 2.0358,
+    "fwci": 2.0368,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -130219,7 +130219,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Regional geology reviews",
     "citations": 13,
-    "fwci": 5.3637,
+    "fwci": 5.3765,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -130289,7 +130289,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geological Society London Special Publications",
     "citations": 5,
-    "fwci": 2.9985,
+    "fwci": 2.9832,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -130507,7 +130507,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "International Journal of Earth & Environmental Sciences",
     "citations": 6,
-    "fwci": 0.9793,
+    "fwci": 0.9787,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Geophysical and Geoelectrical Methods",
@@ -131341,7 +131341,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Terra Nova",
     "citations": 129,
-    "fwci": 7.2098,
+    "fwci": 7.2167,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -132556,6 +132556,31 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W7167924677",
+    "doi": "https://doi.org/10.2113/9781733475723-01",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5081811780",
+    "allAuthorOpenAlexIds": [
+      "A5081811780"
+    ],
+    "firstAuthorLastName": "Al-Husseini",
+    "allAuthors": [
+      "Moujahed I. Al-Husseini"
+    ],
+    "title": "Pre-Unayzah unconformity, Saudi Arabia",
+    "publicationDate": "2004-01-01",
+    "year": 2004,
+    "venue": "",
+    "citations": 2,
+    "fwci": 0,
+    "topics": [
+      "Geological formations and processes",
+      "Geological Studies and Exploration",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W1608914262",
     "doi": "",
     "program": "",
@@ -132770,31 +132795,6 @@ export const worksTable: WorkTableRecord[] = [
       "Seismic Imaging and Inversion Techniques",
       "Geological Studies and Exploration",
       "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W7167924677",
-    "doi": "https://doi.org/10.2113/9781733475723-01",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5081811780",
-    "allAuthorOpenAlexIds": [
-      "A5081811780"
-    ],
-    "firstAuthorLastName": "Al-Husseini",
-    "allAuthors": [
-      "Moujahed I. Al-Husseini"
-    ],
-    "title": "Pre-Unayzah unconformity, Saudi Arabia",
-    "publicationDate": "2004-01-01",
-    "year": 2004,
-    "venue": "",
-    "citations": 1,
-    "fwci": 0,
-    "topics": [
-      "Geological formations and processes",
-      "Geological Studies and Exploration",
-      "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": []
   },
@@ -133100,7 +133100,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1994,
     "venue": "Geobios",
     "citations": 22,
-    "fwci": 1.6051,
+    "fwci": 1.6044,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -133312,7 +133312,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Palaeontology",
     "citations": 28,
-    "fwci": 1.7756,
+    "fwci": 1.7687,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -134292,7 +134292,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2000,
     "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
     "citations": 12,
-    "fwci": 0.3917,
+    "fwci": 0.3918,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Paleontology and Evolutionary Biology",
@@ -134744,7 +134744,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1999,
     "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
     "citations": 14,
-    "fwci": 0.7737,
+    "fwci": 0.7726,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -134868,7 +134868,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1998,
     "venue": "Comptes Rendus de l Académie des Sciences - Series IIA - Earth and Planetary Science",
     "citations": 9,
-    "fwci": 0.8064,
+    "fwci": 0.807,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies Worldwide",
@@ -135405,7 +135405,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1979,
     "venue": "Geobios",
     "citations": 3,
-    "fwci": 0.7288,
+    "fwci": 0.7293,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Evolution and Paleontology Studies",
@@ -136571,8 +136571,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-07-20",
     "year": 2010,
     "venue": "AAPG Bulletin",
-    "citations": 753,
-    "fwci": 11.1933,
+    "citations": 754,
+    "fwci": 11.1888,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -136874,7 +136874,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Sedimentology",
     "citations": 12,
-    "fwci": 1.3147,
+    "fwci": 1.3144,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -137686,7 +137686,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Sedimentology",
     "citations": 27,
-    "fwci": 4.9235,
+    "fwci": 4.9287,
     "topics": [
       "Geological formations and processes",
       "Hydrology and Sediment Transport Processes",
@@ -137723,7 +137723,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1993,
     "venue": "Facies",
     "citations": 125,
-    "fwci": 2.0143,
+    "fwci": 2.0137,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -137823,7 +137823,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2003,
     "venue": "Terra Nova",
     "citations": 85,
-    "fwci": 6.8099,
+    "fwci": 6.7807,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -137904,7 +137904,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2003,
     "venue": "Terra Nova",
     "citations": 66,
-    "fwci": 5.5128,
+    "fwci": 5.4891,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -138208,7 +138208,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Sedimentary Geology",
     "citations": 24,
-    "fwci": 1.5809,
+    "fwci": 1.5815,
     "topics": [
       "Geological Formations and Processes Exploration",
       "Geological formations and processes",
@@ -139333,8 +139333,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-01-27",
     "year": 2010,
     "venue": "Global and Planetary Change",
-    "citations": 66,
-    "fwci": 3.6085,
+    "citations": 67,
+    "fwci": 3.6081,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Marine and environmental studies",
@@ -139523,7 +139523,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2015,
     "venue": "Environmental Monitoring and Assessment",
     "citations": 26,
-    "fwci": 1.1036,
+    "fwci": 1.1041,
     "topics": [
       "Water Quality and Pollution Assessment",
       "Heavy metals in environment",
@@ -139584,7 +139584,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2000,
     "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
     "citations": 54,
-    "fwci": 1.0091,
+    "fwci": 1.0077,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Marine and environmental studies",
@@ -139733,7 +139733,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1991,
     "venue": "Sedimentary Geology",
     "citations": 34,
-    "fwci": 0.95,
+    "fwci": 0.9495,
     "topics": [
       "Geological formations and processes",
       "Geochemistry and Elemental Analysis",
@@ -139763,7 +139763,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Journal of African Earth Sciences",
     "citations": 30,
-    "fwci": 2.6837,
+    "fwci": 2.694,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Geochemistry and Geologic Mapping",
@@ -140091,7 +140091,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2007,
     "venue": "Sedimentary Geology",
     "citations": 38,
-    "fwci": 2.1025,
+    "fwci": 2.1023,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -140552,7 +140552,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "Journal of Asian Earth Sciences",
     "citations": 11,
-    "fwci": 0.5614,
+    "fwci": 0.5593,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -141282,7 +141282,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2004,
     "venue": "Developments in precambrian geology",
     "citations": 339,
-    "fwci": 6.4224,
+    "fwci": 6.4395,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -141356,7 +141356,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "American Journal of Science",
     "citations": 191,
-    "fwci": 7.2707,
+    "fwci": 7.2743,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -141416,7 +141416,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "The Open Geology Journal",
     "citations": 111,
-    "fwci": 4.7456,
+    "fwci": 4.7458,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -141449,7 +141449,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Geosciences",
     "citations": 110,
-    "fwci": 4.9665,
+    "fwci": 4.9726,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -141562,7 +141562,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Tectonics",
     "citations": 82,
-    "fwci": 6.6582,
+    "fwci": 6.6618,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological and Geochemical Analysis",
@@ -141679,7 +141679,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Precambrian Research",
     "citations": 101,
-    "fwci": 3.8549,
+    "fwci": 3.8546,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -141915,7 +141915,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "Lithos",
     "citations": 69,
-    "fwci": 4.3624,
+    "fwci": 4.3646,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Elemental Analysis",
@@ -142156,7 +142156,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Precambrian Research",
     "citations": 22,
-    "fwci": 3.395,
+    "fwci": 3.3924,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -142251,7 +142251,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1994,
     "venue": "Geology",
     "citations": 31,
-    "fwci": 1.9932,
+    "fwci": 1.9888,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological Studies and Exploration",
@@ -142383,7 +142383,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "IOP Conference Series Earth and Environmental Science",
     "citations": 13,
-    "fwci": 2.4605,
+    "fwci": 2.4582,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological and Geophysical Studies Worldwide",
@@ -142596,7 +142596,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1990,
     "venue": "Geology",
     "citations": 10,
-    "fwci": 1.1148,
+    "fwci": 1.114,
     "topics": [
       "Geological and Geophysical Studies",
       "Geophysical and Geoelectrical Methods",
@@ -143310,8 +143310,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-01-01",
     "year": 2013,
     "venue": "GeoArabia",
-    "citations": 27,
-    "fwci": 1.7972,
+    "citations": 28,
+    "fwci": 1.799,
     "topics": [
       "Geological formations and processes",
       "Geological Studies and Exploration",
@@ -143369,12 +143369,40 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1984-01-01",
     "year": 1984,
     "venue": "American Association of Petroleum Geologists eBooks",
-    "citations": 24,
-    "fwci": 2.422,
+    "citations": 25,
+    "fwci": 2.4164,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
       "Geological Studies and Exploration"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3022763138",
+    "doi": "https://doi.org/10.2113/geoarabia150255",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103799444",
+    "allAuthorOpenAlexIds": [
+      "A5103799444",
+      "A5091093305"
+    ],
+    "firstAuthorLastName": "Melvin",
+    "allAuthors": [
+      "John Melvin",
+      "Brian P. Wallick",
+      "Christian J. Heine"
+    ],
+    "title": "Advances in Arabian stratigraphy: Allostratigraphic layering related to paleo-water table fluctuations in eolian sandstones of the Permian Unayzah A reservoir, South Haradh, Saudi Arabia",
+    "publicationDate": "2010-04-01",
+    "year": 2010,
+    "venue": "GeoArabia",
+    "citations": 16,
+    "fwci": 1.4707,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Aeolian processes and effects"
     ],
     "institutions": []
   },
@@ -143405,34 +143433,6 @@ export const worksTable: WorkTableRecord[] = [
       "Saudi Aramco (Saudi Arabia)",
       "Saudi Aramco (United States)"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W3022763138",
-    "doi": "https://doi.org/10.2113/geoarabia150255",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5103799444",
-    "allAuthorOpenAlexIds": [
-      "A5103799444",
-      "A5091093305"
-    ],
-    "firstAuthorLastName": "Melvin",
-    "allAuthors": [
-      "John Melvin",
-      "Brian P. Wallick",
-      "Christian J. Heine"
-    ],
-    "title": "Advances in Arabian stratigraphy: Allostratigraphic layering related to paleo-water table fluctuations in eolian sandstones of the Permian Unayzah A reservoir, South Haradh, Saudi Arabia",
-    "publicationDate": "2010-04-01",
-    "year": 2010,
-    "venue": "GeoArabia",
-    "citations": 15,
-    "fwci": 1.4703,
-    "topics": [
-      "Geological formations and processes",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Aeolian processes and effects"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W1600919588",
@@ -144123,7 +144123,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Earth and Space Science",
     "citations": 5,
-    "fwci": 0.4505,
+    "fwci": 0.4506,
     "topics": [
       "Geochemistry and Elemental Analysis",
       "Aeolian processes and effects",

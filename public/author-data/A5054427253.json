@@ -619,19 +619,12 @@
           "is_corresponding": false,
           "raw_author_name": "Nikki Smith",
           "raw_affiliation_strings": [
-            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
-            "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK"
+            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -668,19 +661,12 @@
           "is_corresponding": false,
           "raw_author_name": "Karen Kirk",
           "raw_affiliation_strings": [
-            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
-            "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK"
+            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -1049,11 +1035,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 24.507,
+      "fwci": 24.5275,
       "has_fulltext": false,
       "cited_by_count": 170,
       "citation_normalized_percentile": {
-        "value": 0.99865501,
+        "value": 0.99865546,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1509,21 +1495,21 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.571399986743927,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/17",
           "score": 0.4300000071525574,
-          "display_name": "Partnerships for the goals"
+          "display_name": "Partnerships for the goals",
+          "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "study_designs": [],
@@ -1823,7 +1809,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2191,11 +2177,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1707,
+      "fwci": 3.1634,
       "has_fulltext": false,
-      "cited_by_count": 91,
+      "cited_by_count": 92,
       "citation_normalized_percentile": {
-        "value": 0.92087522,
+        "value": 0.92078738,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2525,9 +2511,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -3696,7 +3682,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -3755,7 +3741,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4313,9 +4299,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5312,9 +5298,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5988,9 +5974,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7227,9 +7213,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -9598,16 +9584,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -10435,14 +10421,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.4000000059604645,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -11146,9 +11132,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815,
-          "display_name": "Life on land"
+          "display_name": "Life on land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -14403,9 +14389,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -17134,9 +17120,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -18627,9 +18613,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -19450,9 +19436,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -20409,14 +20395,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.878000020980835,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -21652,16 +21638,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -23849,16 +23835,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.821399986743927,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -24961,9 +24947,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -26582,9 +26568,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -27648,9 +27634,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -28431,9 +28417,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -29372,9 +29358,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -31972,9 +31958,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -32822,16 +32808,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -33221,9 +33207,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -34100,9 +34086,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -35245,17 +35231,12 @@
           "is_corresponding": true,
           "raw_author_name": "Roger B. Davies",
           "raw_affiliation_strings": [
-            "Davies Geoconsulting Ltd, Wintergreen House, Queen’s Road, Harrogate, UK",
-            "Davies Geoconsulting Ltd, Wintergreen House, Queen's Road, Harrogate, UK"
+            "Davies Geoconsulting Ltd, Wintergreen House, Queen’s Road, Harrogate, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Davies Geoconsulting Ltd, Wintergreen House, Queen’s Road, Harrogate, UK",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Davies Geoconsulting Ltd, Wintergreen House, Queen's Road, Harrogate, UK",
               "institution_ids": []
             }
           ]
@@ -35666,7 +35647,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-17T09:40:24.721904",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2021-03-15T00:00:00"
     },
     {
@@ -35839,17 +35820,10 @@
           "is_corresponding": false,
           "raw_author_name": "Wenying Chen",
           "raw_affiliation_strings": [
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
             "Energy, Environment, and Economy (3E) Research Institute, Tsinghua University, Beijing, 100084 China"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
             {
               "raw_affiliation_string": "Energy, Environment, and Economy (3E) Research Institute, Tsinghua University, Beijing, 100084 China",
               "institution_ids": [
@@ -35887,17 +35861,10 @@
           "is_corresponding": false,
           "raw_author_name": "Fei Teng",
           "raw_affiliation_strings": [
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
             "Energy, Environment, and Economy (3E) Research Institute, Tsinghua University, Beijing, 100084 China"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
             {
               "raw_affiliation_string": "Energy, Environment, and Economy (3E) Research Institute, Tsinghua University, Beijing, 100084 China",
               "institution_ids": [
@@ -35934,19 +35901,12 @@
           "is_corresponding": false,
           "raw_author_name": "Ruina Xu",
           "raw_affiliation_strings": [
-            "Institute of Thermal Engineering, Tsinghua University, Beijing 100084, China",
-            "Institute of Thermal Engineering,  Tsinghua University, Beijing 100084, China"
+            "Institute of Thermal Engineering, Tsinghua University, Beijing 100084, China"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institute of Thermal Engineering, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institute of Thermal Engineering,  Tsinghua University, Beijing 100084, China",
               "institution_ids": [
                 "https://openalex.org/I99065089"
               ]
@@ -35992,20 +35952,12 @@
           "is_corresponding": false,
           "raw_author_name": "Rongshu Zeng",
           "raw_affiliation_strings": [
-            "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China",
-            "Institute of Geology and Geophysics Chinese Academy of Sciences Beijing 100049 China"
+            "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China",
-              "institution_ids": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210126061"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institute of Geology and Geophysics Chinese Academy of Sciences Beijing 100049 China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I4210126061"
@@ -36052,20 +36004,12 @@
           "is_corresponding": false,
           "raw_author_name": "Ming Li",
           "raw_affiliation_strings": [
-            "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China",
-            "Institute of Geology and Geophysics Chinese Academy of Sciences Beijing 100049 China"
+            "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China",
-              "institution_ids": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210126061"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institute of Geology and Geophysics Chinese Academy of Sciences Beijing 100049 China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I4210126061"
@@ -36467,19 +36411,19 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5378999710083008,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -37340,7 +37284,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -37669,9 +37613,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -38352,9 +38296,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -41862,16 +41806,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6618000268936157,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -43715,9 +43659,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.821399986743927,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -44254,9 +44198,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46149998903274536,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -45318,9 +45262,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],

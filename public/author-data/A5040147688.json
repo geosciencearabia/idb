@@ -3426,8 +3426,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -4233,11 +4233,11 @@
         "currency": "USD",
         "value_usd": 4090
       },
-      "fwci": 8.5058,
+      "fwci": 8.5049,
       "has_fulltext": true,
-      "cited_by_count": 120,
+      "cited_by_count": 121,
       "citation_normalized_percentile": {
-        "value": 0.99045443,
+        "value": 0.99045184,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4741,8 +4741,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -5375,7 +5375,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2025,
@@ -5410,7 +5410,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2018-03-29T00:00:00"
     },
     {
@@ -6354,15 +6354,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7495,11 +7495,11 @@
         "currency": "USD",
         "value_usd": 2750
       },
-      "fwci": 6.6201,
+      "fwci": 6.6188,
       "has_fulltext": true,
-      "cited_by_count": 74,
+      "cited_by_count": 75,
       "citation_normalized_percentile": {
-        "value": 0.98255328,
+        "value": 0.98254781,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8347,7 +8347,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2025,
@@ -8378,7 +8378,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2019-01-25T00:00:00"
     },
     {
@@ -8612,19 +8612,12 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey, Kingsley Dunham Centre Keyworth, Nottingham, NG12 5GG UK",
-            "British Geological Survey, Kingsley Dunham Centre , Keyworth , Nottingham , NG12 5GG , UK"
+            "British Geological Survey, Kingsley Dunham Centre Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre Keyworth, Nottingham, NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre , Keyworth , Nottingham , NG12 5GG , UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -8659,19 +8652,12 @@
           "is_corresponding": false,
           "raw_author_name": "Andrea Zanchi",
           "raw_affiliation_strings": [
-            "Dipartimento Scienze Geologiche e Geotecnologie, Università di Milano-Bicocca, Piazza della Scienza 4, 20126 Milano, Italy",
-            "Dipartimento Scienze Geologiche e Geotecnologie, Universita' di Milano-Bicocca, Piazza della Scienza 4 – 20126 Milano, Italy"
+            "Dipartimento Scienze Geologiche e Geotecnologie, Università di Milano-Bicocca, Piazza della Scienza 4, 20126 Milano, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Dipartimento Scienze Geologiche e Geotecnologie, Università di Milano-Bicocca, Piazza della Scienza 4, 20126 Milano, Italy",
-              "institution_ids": [
-                "https://openalex.org/I66752286"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Dipartimento Scienze Geologiche e Geotecnologie, Universita' di Milano-Bicocca, Piazza della Scienza 4 – 20126 Milano, Italy",
               "institution_ids": [
                 "https://openalex.org/I66752286"
               ]
@@ -8686,11 +8672,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3269,
+      "fwci": 5.3061,
       "has_fulltext": false,
       "cited_by_count": 124,
       "citation_normalized_percentile": {
-        "value": 0.96121706,
+        "value": 0.96092152,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8978,15 +8964,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -9468,7 +9454,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-10-17T09:40:24.721904",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -9988,8 +9974,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -11246,19 +11232,12 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey, Kingsley Dunham Centre Keyworth, Nottingham NG12 5GG, UK",
-            "British Geological Survey, Kingsley Dunham Centre , Keyworth , Nottingham , NG12 5GG , UK"
+            "British Geological Survey, Kingsley Dunham Centre Keyworth, Nottingham NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre Keyworth, Nottingham NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre , Keyworth , Nottingham , NG12 5GG , UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -11431,11 +11410,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.4858,
+      "fwci": 5.4685,
       "has_fulltext": false,
       "cited_by_count": 91,
       "citation_normalized_percentile": {
-        "value": 0.9642009,
+        "value": 0.96411208,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11683,8 +11662,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -12892,7 +12871,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13811,8 +13790,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -14925,8 +14904,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15910,19 +15889,12 @@
           "is_corresponding": true,
           "raw_author_name": "Gaia Crippa",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy"
+            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -15957,19 +15929,12 @@
           "is_corresponding": false,
           "raw_author_name": "L. Angiolini",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy"
+            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -16004,19 +15969,12 @@
           "is_corresponding": false,
           "raw_author_name": "C. Bottini",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy"
+            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -16051,19 +16009,12 @@
           "is_corresponding": false,
           "raw_author_name": "E. Erba",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy"
+            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -16098,19 +16049,12 @@
           "is_corresponding": false,
           "raw_author_name": "F. Felletti",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy"
+            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -16143,19 +16087,12 @@
           "is_corresponding": false,
           "raw_author_name": "C. Frigerio",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy"
+            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -16291,19 +16228,12 @@
           "is_corresponding": false,
           "raw_author_name": "M.R. Petrizzo",
           "raw_affiliation_strings": [
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-            "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy"
+            "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra ‘A. Desio’, via Mangiagalli 34, Milano, 20133, Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Università degli Studi di Milano, Dipartimento di Scienze della Terra 'A. Desio', via Mangiagalli 34, Milano, 20133, Italy",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -16338,19 +16268,12 @@
           "is_corresponding": false,
           "raw_author_name": "I. Raffi",
           "raw_affiliation_strings": [
-            "Università ‘G. D'Annunzio’, Dipartimento di Ingegneria e Geologia, via dei Vestini 31, Chieti Scalo, 66013, Italy",
-            "Università 'G. D'Annunzio', Dipartimento di Ingegneria e Geologia, via dei Vestini 31, Chieti Scalo, 66013, Italy"
+            "Università ‘G. D'Annunzio’, Dipartimento di Ingegneria e Geologia, via dei Vestini 31, Chieti Scalo, 66013, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Università ‘G. D'Annunzio’, Dipartimento di Ingegneria e Geologia, via dei Vestini 31, Chieti Scalo, 66013, Italy",
-              "institution_ids": [
-                "https://openalex.org/I39387349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Università 'G. D'Annunzio', Dipartimento di Ingegneria e Geologia, via dei Vestini 31, Chieti Scalo, 66013, Italy",
               "institution_ids": [
                 "https://openalex.org/I39387349"
               ]
@@ -16438,11 +16361,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 4.0643,
+      "fwci": 4.0676,
       "has_fulltext": false,
       "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.93189358,
+        "value": 0.93195046,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16856,20 +16779,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6710000038146973
+          "score": 0.6710000038146973,
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -17096,7 +17019,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -18912,15 +18835,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -19851,17 +19774,10 @@
           "is_corresponding": true,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG United Kingdom",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG United Kingdom"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-9881-1578",
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG United Kingdom",
               "institution_ids": [
@@ -19890,11 +19806,11 @@
         "currency": "USD",
         "value_usd": 2780
       },
-      "fwci": 11.6623,
+      "fwci": 11.6704,
       "has_fulltext": true,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.97764096,
+        "value": 0.9776482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20358,15 +20274,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459
+          "score": 0.5690000057220459,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -21005,7 +20921,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -21730,20 +21646,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -23093,8 +23009,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -24300,25 +24216,11 @@
           "is_corresponding": true,
           "raw_author_name": "Joseph F. Emmings",
           "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-            "School of Geography, Geology and the Environment University of Leicester University Road Leicester LE1 7RH UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
             "School of Geography, Geology and the Environment, University of Leicester, University Road, Leicester, LE1 7RH UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-2084-0501",
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Geography, Geology and the Environment University of Leicester University Road Leicester LE1 7RH UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -24361,17 +24263,10 @@
           "is_corresponding": false,
           "raw_author_name": "Sarah J. Davies",
           "raw_affiliation_strings": [
-            "School of Geography, Geology and the Environment University of Leicester University Road Leicester LE1 7RH UK",
             "School of Geography, Geology and the Environment, University of Leicester, University Road, Leicester, LE1 7RH UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geography, Geology and the Environment University of Leicester University Road Leicester LE1 7RH UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
             {
               "raw_affiliation_string": "School of Geography, Geology and the Environment, University of Leicester, University Road, Leicester, LE1 7RH UK",
               "institution_ids": [
@@ -24410,17 +24305,10 @@
           "is_corresponding": false,
           "raw_author_name": "Christopher H. Vane",
           "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -24457,17 +24345,10 @@
           "is_corresponding": false,
           "raw_author_name": "Vicky Moss‐Hayes",
           "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -24506,17 +24387,10 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -24546,11 +24420,11 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 3.3654,
+      "fwci": 3.3744,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.92116834,
+        "value": 0.92120134,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24968,8 +24842,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -25930,7 +25804,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -26381,8 +26255,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -27931,8 +27805,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "score": 0.821399986743927,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -28948,15 +28822,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -29947,8 +29821,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -30533,17 +30407,10 @@
           "is_corresponding": true,
           "raw_author_name": "Lucia Angiolini",
           "raw_affiliation_strings": [
-            "Dipartimento di Scienze della Terra ‘A. Desio’ Via Mangiagalli 34 20133 Milano Italy",
             "Dipartimento di Scienze della Terra 'A. Desio', Via Mangiagalli 34, 20133 Milano, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-0778-5771",
           "affiliations": [
-            {
-              "raw_affiliation_string": "Dipartimento di Scienze della Terra ‘A. Desio’ Via Mangiagalli 34 20133 Milano Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra 'A. Desio', Via Mangiagalli 34, 20133 Milano, Italy",
               "institution_ids": [
@@ -30580,17 +30447,10 @@
           "is_corresponding": false,
           "raw_author_name": "Gaia Crippa",
           "raw_affiliation_strings": [
-            "Dipartimento di Scienze della Terra ‘A. Desio’ Via Mangiagalli 34 20133 Milano Italy",
             "Dipartimento di Scienze della Terra 'A. Desio', Via Mangiagalli 34, 20133 Milano, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Dipartimento di Scienze della Terra ‘A. Desio’ Via Mangiagalli 34 20133 Milano Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra 'A. Desio', Via Mangiagalli 34, 20133 Milano, Italy",
               "institution_ids": [
@@ -30627,17 +30487,10 @@
           "is_corresponding": false,
           "raw_author_name": "Karem Azmy",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences Memorial University of Newfoundland St. John's NL A1B 3X5 Canada",
             "Department of Earth Sciences, Memorial University of Newfoundland, St. John's, NL, A1B 3X5 Canada"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences Memorial University of Newfoundland St. John's NL A1B 3X5 Canada",
-              "institution_ids": [
-                "https://openalex.org/I130438778"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Memorial University of Newfoundland, St. John's, NL, A1B 3X5 Canada",
               "institution_ids": [
@@ -30661,15 +30514,10 @@
           "is_corresponding": false,
           "raw_author_name": "Giancarlo Capitani",
           "raw_affiliation_strings": [
-            "Dipartimento di Scienze dell'Ambiente e della Terra Piazza della Scienza 4, 20126 Milano Italy",
             "Dipartimento di Scienze dell'Ambiente e della Terra, Piazza della Scienza 4, 20126, Milano, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Dipartimento di Scienze dell'Ambiente e della Terra Piazza della Scienza 4, 20126 Milano Italy",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "Dipartimento di Scienze dell'Ambiente e della Terra, Piazza della Scienza 4, 20126, Milano, Italy",
               "institution_ids": []
@@ -30744,17 +30592,10 @@
           "is_corresponding": false,
           "raw_author_name": "Giovanna Della Porta",
           "raw_affiliation_strings": [
-            "Dipartimento di Scienze della Terra ‘A. Desio’ Via Mangiagalli 34 20133 Milano Italy",
             "Dipartimento di Scienze della Terra 'A. Desio', Via Mangiagalli 34, 20133 Milano, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-3479-0592",
           "affiliations": [
-            {
-              "raw_affiliation_string": "Dipartimento di Scienze della Terra ‘A. Desio’ Via Mangiagalli 34 20133 Milano Italy",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra 'A. Desio', Via Mangiagalli 34, 20133 Milano, Italy",
               "institution_ids": [
@@ -30831,17 +30672,10 @@
           "is_corresponding": false,
           "raw_author_name": "David A. T. Harper",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences Durham University Durham DH1 3LE UK",
             "Department of Earth Sciences, Durham University, Durham, DH1 3LE UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-1315-9494",
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences Durham University Durham DH1 3LE UK",
-              "institution_ids": [
-                "https://openalex.org/I190082696"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Durham University, Durham, DH1 3LE UK",
               "institution_ids": [
@@ -30880,25 +30714,11 @@
           "is_corresponding": false,
           "raw_author_name": "Melanie J. Leng",
           "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-            "NERC Isotope Geosciences Facilities British Geological Survey Keyworth Nottingham NG12 5GG UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
             "NERC Isotope Geosciences Facilities, British Geological Survey, Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "NERC Isotope Geosciences Facilities British Geological Survey Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -30939,17 +30759,10 @@
           "is_corresponding": false,
           "raw_author_name": "Leah Nolan",
           "raw_affiliation_strings": [
-            "Department of Geology University of Leicester University Road Leicester LE1 7RH UK",
             "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology University of Leicester University Road Leicester LE1 7RH UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH UK",
               "institution_ids": [
@@ -30973,15 +30786,10 @@
           "is_corresponding": false,
           "raw_author_name": "Marco Orlandi",
           "raw_affiliation_strings": [
-            "Dipartimento di Scienze dell'Ambiente e della Terra Piazza della Scienza 4, 20126 Milano Italy",
             "Dipartimento di Scienze dell'Ambiente e della Terra, Piazza della Scienza 4, 20126, Milano, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Dipartimento di Scienze dell'Ambiente e della Terra Piazza della Scienza 4, 20126 Milano Italy",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "Dipartimento di Scienze dell'Ambiente e della Terra, Piazza della Scienza 4, 20126, Milano, Italy",
               "institution_ids": []
@@ -31016,17 +30824,10 @@
           "is_corresponding": false,
           "raw_author_name": "Renato Posenato",
           "raw_affiliation_strings": [
-            "Dipartimento di Fisica e Scienze della Terra Via Saragat, 1 44121 Ferrara Italy",
             "Dipartimento di Fisica e Scienze della Terra, Via Saragat, 1, 44121 Ferrara, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Dipartimento di Fisica e Scienze della Terra Via Saragat, 1 44121 Ferrara Italy",
-              "institution_ids": [
-                "https://openalex.org/I201324441"
-              ]
-            },
             {
               "raw_affiliation_string": "Dipartimento di Fisica e Scienze della Terra, Via Saragat, 1, 44121 Ferrara, Italy",
               "institution_ids": [
@@ -31105,17 +30906,10 @@
           "is_corresponding": false,
           "raw_author_name": "Vanessa J. Banks",
           "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -31154,17 +30948,10 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -31189,11 +30976,11 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 2.4776,
+      "fwci": 2.4761,
       "has_fulltext": true,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.88523945,
+        "value": 0.8851618,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31758,8 +31545,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -32548,7 +32335,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2019-06-27T00:00:00"
     },
     {
@@ -33074,8 +32861,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -35567,19 +35354,12 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-            "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK;"
+            "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK;",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -35766,11 +35546,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6464,
+      "fwci": 1.648,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.87830315,
+        "value": 0.87843993,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36588,7 +36368,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2020-06-05T00:00:00"
     },
     {
@@ -39284,8 +39064,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -40130,19 +39910,12 @@
           "is_corresponding": true,
           "raw_author_name": "Christopher H. Vane",
           "raw_affiliation_strings": [
-            "British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, UK",
-            "British Geological Survey, Kingsley Dunham Centre , Keyworth , Nottingham , NG12 5GG , UK"
+            "British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre , Keyworth , Nottingham , NG12 5GG , UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -40259,19 +40032,12 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, UK",
-            "British Geological Survey, Kingsley Dunham Centre , Keyworth , Nottingham , NG12 5GG , UK"
+            "British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre , Keyworth , Nottingham , NG12 5GG , UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -40319,11 +40085,11 @@
         "value_usd": 3870
       },
       "apc_paid": null,
-      "fwci": 20.5668,
+      "fwci": 20.5868,
       "has_fulltext": false,
       "cited_by_count": 49,
       "citation_normalized_percentile": {
-        "value": 0.99221418,
+        "value": 0.99230068,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -40687,8 +40453,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -40810,7 +40576,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -41263,8 +41029,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -42483,8 +42249,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -43296,19 +43062,12 @@
           "is_corresponding": false,
           "raw_author_name": "Fazli R. Khan",
           "raw_affiliation_strings": [
-            "National Centre of Excellence in Geology, University of Peshawar, Pakistan",
-            "National centre of excellence in Geology, University of Peshawar, Pakistan"
+            "National Centre of Excellence in Geology, University of Peshawar, Pakistan"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Centre of Excellence in Geology, University of Peshawar, Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I36001604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "National centre of excellence in Geology, University of Peshawar, Pakistan",
               "institution_ids": [
                 "https://openalex.org/I36001604"
               ]
@@ -43332,11 +43091,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.3061,
+      "fwci": 1.302,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.78582109,
+        "value": 0.78484929,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43626,8 +43385,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -43774,7 +43533,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -43877,17 +43636,10 @@
           "is_corresponding": true,
           "raw_author_name": "Mark Williams",
           "raw_affiliation_strings": [
-            "British Antarctic Survey, Geological Sciences Division, High Cross, Madingley Road, Cambridge CB3 0ET, UK",
             "British Antarctic Survey, Geological Sciences Division, High Cross, Madingley Road, Cambridge, CB3 0ET, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Antarctic Survey, Geological Sciences Division, High Cross, Madingley Road, Cambridge CB3 0ET, UK",
-              "institution_ids": [
-                "https://openalex.org/I1319328641"
-              ]
-            },
             {
               "raw_affiliation_string": "British Antarctic Survey, Geological Sciences Division, High Cross, Madingley Road, Cambridge, CB3 0ET, UK",
               "institution_ids": [
@@ -43937,8 +43689,7 @@
           "raw_author_name": "Melanie J. Leng",
           "raw_affiliation_strings": [
             "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-            "School of Geography, University of Nottingham, Nottingham NG7 2RD, UK",
-            "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK"
+            "School of Geography, University of Nottingham, Nottingham NG7 2RD, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -43952,12 +43703,6 @@
               "raw_affiliation_string": "School of Geography, University of Nottingham, Nottingham NG7 2RD, UK",
               "institution_ids": [
                 "https://openalex.org/I142263535"
-              ]
-            },
-            {
-              "raw_affiliation_string": "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
               ]
             }
           ]
@@ -44039,19 +43784,12 @@
           "is_corresponding": false,
           "raw_author_name": "Julian E. Andrews",
           "raw_affiliation_strings": [
-            "School of Environmental Sciences, University of East Anglia, Norwich, NR4 7TJ, UK",
-            "School of Environmental Sciences, University of East Anglia, Norwich NR4 7TJ, UK"
+            "School of Environmental Sciences, University of East Anglia, Norwich, NR4 7TJ, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "School of Environmental Sciences, University of East Anglia, Norwich, NR4 7TJ, UK",
-              "institution_ids": [
-                "https://openalex.org/I1118541"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Environmental Sciences, University of East Anglia, Norwich NR4 7TJ, UK",
               "institution_ids": [
                 "https://openalex.org/I1118541"
               ]
@@ -44136,19 +43874,12 @@
           "is_corresponding": false,
           "raw_author_name": "David J. Siveter",
           "raw_affiliation_strings": [
-            "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
-            "Department of Geology, University of Leicester, Leicester LE1 7RH, UK"
+            "Department of Geology, University of Leicester, Leicester LE1 7RH, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
               ]
@@ -44184,19 +43915,12 @@
           "is_corresponding": false,
           "raw_author_name": "David J. Horne",
           "raw_affiliation_strings": [
-            "Department of Geography, Queen Mary, University of London, Mile End Road, London E1 4NS, UK",
-            "Department of Geography, Queen Mary University of London, Mile End Road, London E1 4NS, UK"
+            "Department of Geography, Queen Mary, University of London, Mile End Road, London E1 4NS, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geography, Queen Mary, University of London, Mile End Road, London E1 4NS, UK",
-              "institution_ids": [
-                "https://openalex.org/I166337079"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geography, Queen Mary University of London, Mile End Road, London E1 4NS, UK",
               "institution_ids": [
                 "https://openalex.org/I166337079"
               ]
@@ -44271,11 +43995,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 0.5765,
+      "fwci": 0.5752,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.66635127,
+        "value": 0.66548085,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44716,8 +44440,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -44874,7 +44598,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -45209,8 +44933,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -46368,15 +46092,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -47246,19 +46970,12 @@
           "is_corresponding": false,
           "raw_author_name": "Diana Schumann",
           "raw_affiliation_strings": [
-            "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany",
-            "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research—Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany"
+            "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research, Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany",
-              "institution_ids": [
-                "https://openalex.org/I171892758"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Forschungszentrum Jülich GmbH, Institute of Energy and Climate Research—Systems Analysis and Technology Evaluation (IEK-STE), D-52425 Jülich, Germany",
               "institution_ids": [
                 "https://openalex.org/I171892758"
               ]
@@ -48272,11 +47989,11 @@
         "value_usd": 4100
       },
       "apc_paid": null,
-      "fwci": 3.0976,
+      "fwci": 3.097,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.92329137,
+        "value": 0.92329099,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -48615,8 +48332,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -48776,7 +48493,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -49269,8 +48986,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -50215,8 +49932,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -51455,15 +51172,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428
+          "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -53175,8 +52892,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -54356,19 +54073,12 @@
           "is_corresponding": true,
           "raw_author_name": "Sven F. Könitzer",
           "raw_affiliation_strings": [
-            "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK",
-            "Department of Geology; University of Leicester; University Road,; Leicester; LE1 7RH; UK"
+            "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geology; University of Leicester; University Road,; Leicester; LE1 7RH; UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
               ]
@@ -54452,19 +54162,12 @@
           "is_corresponding": false,
           "raw_author_name": "Sarah J. Davies",
           "raw_affiliation_strings": [
-            "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK",
-            "Department of Geology; University of Leicester; University Road,; Leicester; LE1 7RH; UK"
+            "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, University of Leicester, University Road, Leicester LE1 7RH, UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geology; University of Leicester; University Road,; Leicester; LE1 7RH; UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
               ]
@@ -54595,11 +54298,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.8708,
+      "fwci": 1.8717,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.83548109,
+        "value": 0.83558994,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54971,8 +54674,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -55144,7 +54847,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -55293,17 +54996,10 @@
           "is_corresponding": false,
           "raw_author_name": "M. Williams",
           "raw_affiliation_strings": [
-            "British Antarctic Survey, Geological Sciences Division, High Cross, Madingley Road, Cambridge CB3 0ET, UK",
             "British Antarctic Survey, Geological Sciences Division, High Cross, Madingley Road, Cambridge, CB3 0ET, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Antarctic Survey, Geological Sciences Division, High Cross, Madingley Road, Cambridge CB3 0ET, UK",
-              "institution_ids": [
-                "https://openalex.org/I1319328641"
-              ]
-            },
             {
               "raw_affiliation_string": "British Antarctic Survey, Geological Sciences Division, High Cross, Madingley Road, Cambridge, CB3 0ET, UK",
               "institution_ids": [
@@ -55564,11 +55260,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5626,
+      "fwci": 0.5614,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.6847297,
+        "value": 0.68406841,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55839,8 +55535,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -56360,7 +56056,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -57317,8 +57013,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -58561,17 +58257,10 @@
           "is_corresponding": false,
           "raw_author_name": "Sven F. Könitzer",
           "raw_affiliation_strings": [
-            "Department of Geology , University of Leicester , University Road , Leicester LE1 7RH , UK",
             "Department of Geology; University of Leicester; University Road,; Leicester; LE1 7RH; UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology , University of Leicester , University Road , Leicester LE1 7RH , UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Geology; University of Leicester; University Road,; Leicester; LE1 7RH; UK",
               "institution_ids": [
@@ -58681,17 +58370,10 @@
           "is_corresponding": false,
           "raw_author_name": "Sarah J. Davies",
           "raw_affiliation_strings": [
-            "Department of Geology , University of Leicester , University Road , Leicester LE1 7RH , UK",
             "Department of Geology; University of Leicester; University Road,; Leicester; LE1 7RH; UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology , University of Leicester , University Road , Leicester LE1 7RH , UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Geology; University of Leicester; University Road,; Leicester; LE1 7RH; UK",
               "institution_ids": [
@@ -58761,11 +58443,11 @@
         "value_usd": 3000
       },
       "apc_paid": null,
-      "fwci": 1.2673,
+      "fwci": 1.2672,
       "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.77533006,
+        "value": 0.77523261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59927,7 +59609,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -60370,8 +60052,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -61084,19 +60766,12 @@
           "is_corresponding": true,
           "raw_author_name": "Shu-Zhong Shen",
           "raw_affiliation_strings": [
-            "State Key Laboratory for Mineral Deposits Research and School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
-            "State Key Laboratory for Mineral Deposits Research and School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China;"
+            "State Key Laboratory for Mineral Deposits Research and School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "State Key Laboratory for Mineral Deposits Research and School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China",
-              "institution_ids": [
-                "https://openalex.org/I881766915"
-              ]
-            },
-            {
-              "raw_affiliation_string": "State Key Laboratory for Mineral Deposits Research and School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China;",
               "institution_ids": [
                 "https://openalex.org/I881766915"
               ]
@@ -61249,11 +60924,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5768,
+      "fwci": 1.5748,
       "has_fulltext": true,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81413799,
+        "value": 0.81380604,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61622,8 +61297,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -62236,7 +61911,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2020-06-05T00:00:00"
     },
     {
@@ -62414,19 +62089,12 @@
           "is_corresponding": false,
           "raw_author_name": "I. Van Waveren",
           "raw_affiliation_strings": [
-            "NCB Naturalis, P.O. Box 9517, 2300 RA, Leiden, The Netherlands",
-            "NCB Naturalis, P.O. Box 9517, 2300 RA Leiden, The Netherlands"
+            "NCB Naturalis, P.O. Box 9517, 2300 RA, Leiden, The Netherlands"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "NCB Naturalis, P.O. Box 9517, 2300 RA, Leiden, The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I1295562517"
-              ]
-            },
-            {
-              "raw_affiliation_string": "NCB Naturalis, P.O. Box 9517, 2300 RA Leiden, The Netherlands",
               "institution_ids": [
                 "https://openalex.org/I1295562517"
               ]
@@ -62606,11 +62274,11 @@
         "value_usd": 3330
       },
       "apc_paid": null,
-      "fwci": 0.6803,
+      "fwci": 0.6802,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.67010394,
+        "value": 0.67030063,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62926,8 +62594,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -63117,7 +62785,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -63722,8 +63390,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -66259,8 +65927,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -68515,8 +68183,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -69249,15 +68917,10 @@
           "is_corresponding": true,
           "raw_author_name": "M. H. Stephenson",
           "raw_affiliation_strings": [
-            "Stephenson Geoscience Consulting Ltd, 14 Thelda Avenue, Keyworth, Nottingham NG12 5HU, UK",
             "Stephenson Geoscience Consulting Ltd., 14 Thelda Avenue, Keyworth, Nottingham, NG12 5HU, UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-9881-1578",
           "affiliations": [
-            {
-              "raw_affiliation_string": "Stephenson Geoscience Consulting Ltd, 14 Thelda Avenue, Keyworth, Nottingham NG12 5HU, UK",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "Stephenson Geoscience Consulting Ltd., 14 Thelda Avenue, Keyworth, Nottingham, NG12 5HU, UK",
               "institution_ids": []
@@ -69274,11 +68937,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8333,
+      "fwci": 2.8091,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.89311253,
+        "value": 0.89176714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70132,7 +69795,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2025-05-09T00:00:00"
     },
     {
@@ -70533,8 +70196,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -71266,8 +70929,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -71710,8 +71373,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -72309,19 +71972,12 @@
           "is_corresponding": false,
           "raw_author_name": "Melanie J. Leng",
           "raw_affiliation_strings": [
-            "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
-            "NERC Isotope Geosciences Laboratory British Geological Survey, Keyworth, Nottingham NG12 5GG, UK"
+            "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "NERC Isotope Geosciences Laboratory, British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "NERC Isotope Geosciences Laboratory British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
@@ -72356,19 +72012,12 @@
           "is_corresponding": false,
           "raw_author_name": "C. Giles Miller",
           "raw_affiliation_strings": [
-            "Natural History Museum, Cromwell Road, South Kensington, London SW7 5BD, UK",
-            "Natural History Museum; Cromwell Road South Kensington London SW7 5BD UK"
+            "Natural History Museum, Cromwell Road, South Kensington, London SW7 5BD, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Natural History Museum, Cromwell Road, South Kensington, London SW7 5BD, UK",
-              "institution_ids": [
-                "https://openalex.org/I1336856363"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Natural History Museum; Cromwell Road South Kensington London SW7 5BD UK",
               "institution_ids": [
                 "https://openalex.org/I1336856363"
               ]
@@ -72391,11 +72040,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 1.7295,
+      "fwci": 1.7255,
       "has_fulltext": true,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.82743938,
+        "value": 0.82722637,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -72752,8 +72401,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -73322,7 +72971,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -73790,8 +73439,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -75057,19 +74706,12 @@
           "is_corresponding": false,
           "raw_author_name": "L. Angiolini",
           "raw_affiliation_strings": [
-            "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
-            "Dipartimento di Scienze della Terra 'A. Desio', Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:"
+            "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Dipartimento di Scienze della Terra 'A. Desio', Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -75283,19 +74925,12 @@
           "is_corresponding": false,
           "raw_author_name": "F. Berra",
           "raw_affiliation_strings": [
-            "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
-            "Dipartimento di Scienze della Terra 'A. Desio', Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:"
+            "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Dipartimento di Scienze della Terra 'A. Desio', Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -75330,19 +74965,12 @@
           "is_corresponding": false,
           "raw_author_name": "F. Jadoul",
           "raw_affiliation_strings": [
-            "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
-            "Dipartimento di Scienze della Terra 'A. Desio', Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:"
+            "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra ‘A. Desio’, Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
-              "institution_ids": [
-                "https://openalex.org/I189158943"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Dipartimento di Scienze della Terra 'A. Desio', Università degli Studi di Milano, Via Mangiagalli 34, Milano, 20133, Italy. E-mail:",
               "institution_ids": [
                 "https://openalex.org/I189158943"
               ]
@@ -75361,11 +74989,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.761,
+      "fwci": 0.758,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.72026998,
+        "value": 0.7190225,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75679,15 +75307,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -76375,7 +76003,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -77001,8 +76629,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -78164,8 +77792,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -79540,20 +79168,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.878000020980835
+          "score": 0.878000020980835,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -80558,8 +80186,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -81713,8 +81341,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -82230,8 +81858,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -82640,8 +82268,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -83460,13 +83088,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Partnerships for the goals",
-          "id": "https://metadata.un.org/sdg/17",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/17"
         },
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5378999710083008
+          "score": 0.5378999710083008,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -85695,23 +85323,23 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428
+          "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.47189998626708984
+          "score": 0.47189998626708984,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.428600013256073
+          "score": 0.428600013256073,
+          "id": "https://metadata.un.org/sdg/9"
         },
         {
           "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -86633,8 +86261,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -87663,8 +87291,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -88192,8 +87820,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -89054,20 +88682,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8485000133514404
+          "score": 0.8485000133514404,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -89722,8 +89350,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -90341,19 +89969,12 @@
           "is_corresponding": false,
           "raw_author_name": "Irfan U. JAN",
           "raw_affiliation_strings": [
-            "National Centre of Excellence in Geology; University of Peshawar; Pakistan",
-            "National Centre of Excellence in Geology, University of Peshawar, Pakistan"
+            "National Centre of Excellence in Geology; University of Peshawar; Pakistan"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Centre of Excellence in Geology; University of Peshawar; Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I36001604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "National Centre of Excellence in Geology, University of Peshawar, Pakistan",
               "institution_ids": [
                 "https://openalex.org/I36001604"
               ]
@@ -90400,9 +90021,7 @@
           "raw_author_name": "Shahid IQBAL",
           "raw_affiliation_strings": [
             "Department of Earth Sciences; Quaid-i-Azam University Islamabad; Pakistan, 45320",
-            "Department of Geodynamics and Sedimentology; University of Vienna; Austria",
-            "Department of Earth Sciences, Quaid-i-Azam University Islamabad, Pakistan, 45320",
-            "Department of Geodynamics and Sedimentology, University of Vienna, Austria"
+            "Department of Geodynamics and Sedimentology; University of Vienna; Austria"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -90414,18 +90033,6 @@
             },
             {
               "raw_affiliation_string": "Department of Geodynamics and Sedimentology; University of Vienna; Austria",
-              "institution_ids": [
-                "https://openalex.org/I129774422"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Quaid-i-Azam University Islamabad, Pakistan, 45320",
-              "institution_ids": [
-                "https://openalex.org/I12469534"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geodynamics and Sedimentology, University of Vienna, Austria",
               "institution_ids": [
                 "https://openalex.org/I129774422"
               ]
@@ -90460,19 +90067,12 @@
           "is_corresponding": false,
           "raw_author_name": "Sarah J. DAVIES",
           "raw_affiliation_strings": [
-            "Department of Geology; University of Leicester, University Road Leicester; LE1 7RH UK",
-            "Department of Geology, University of Leicester, University Road Leicester, LE1 7RH UK"
+            "Department of Geology; University of Leicester, University Road Leicester; LE1 7RH UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology; University of Leicester, University Road Leicester; LE1 7RH UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geology, University of Leicester, University Road Leicester, LE1 7RH UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
               ]
@@ -90507,19 +90107,12 @@
           "is_corresponding": false,
           "raw_author_name": "Jan A. ZALASIEWICZ",
           "raw_affiliation_strings": [
-            "Department of Geology; University of Leicester, University Road Leicester; LE1 7RH UK",
-            "Department of Geology, University of Leicester, University Road Leicester, LE1 7RH UK"
+            "Department of Geology; University of Leicester, University Road Leicester; LE1 7RH UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology; University of Leicester, University Road Leicester; LE1 7RH UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geology, University of Leicester, University Road Leicester, LE1 7RH UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
               ]
@@ -90556,17 +90149,10 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. STEPHENSON",
           "raw_affiliation_strings": [
-            "British Geological Survey; Keyworth Nottingham NG12 5GG UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey; Keyworth Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -90603,19 +90189,12 @@
           "is_corresponding": false,
           "raw_author_name": "Michael WAGREICH",
           "raw_affiliation_strings": [
-            "Department of Geodynamics and Sedimentology; University of Vienna; Austria",
-            "Department of Geodynamics and Sedimentology, University of Vienna, Austria"
+            "Department of Geodynamics and Sedimentology; University of Vienna; Austria"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geodynamics and Sedimentology; University of Vienna; Austria",
-              "institution_ids": [
-                "https://openalex.org/I129774422"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geodynamics and Sedimentology, University of Vienna, Austria",
               "institution_ids": [
                 "https://openalex.org/I129774422"
               ]
@@ -90635,17 +90214,12 @@
           "is_corresponding": false,
           "raw_author_name": "Muhammad HANEEF",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences Comsats Institute of Technology; Abbottabad",
-            "Department of Earth Sciences Comsats Institute of Technology, Abbottabad"
+            "Department of Earth Sciences Comsats Institute of Technology; Abbottabad"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences Comsats Institute of Technology; Abbottabad",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences Comsats Institute of Technology, Abbottabad",
               "institution_ids": []
             }
           ]
@@ -90678,19 +90252,12 @@
           "is_corresponding": false,
           "raw_author_name": "Muhammad HANIF",
           "raw_affiliation_strings": [
-            "National Centre of Excellence in Geology; University of Peshawar; Pakistan",
-            "National Centre of Excellence in Geology, University of Peshawar, Pakistan"
+            "National Centre of Excellence in Geology; University of Peshawar; Pakistan"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "National Centre of Excellence in Geology; University of Peshawar; Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I36001604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "National Centre of Excellence in Geology, University of Peshawar, Pakistan",
               "institution_ids": [
                 "https://openalex.org/I36001604"
               ]
@@ -90725,19 +90292,12 @@
           "is_corresponding": false,
           "raw_author_name": "Sajjad AHMAD",
           "raw_affiliation_strings": [
-            "Department of Geology; University of Peshawar",
-            "Department of Geology, University of Peshawar"
+            "Department of Geology; University of Peshawar"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology; University of Peshawar",
-              "institution_ids": [
-                "https://openalex.org/I36001604"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geology, University of Peshawar",
               "institution_ids": [
                 "https://openalex.org/I36001604"
               ]
@@ -90765,7 +90325,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.59546481,
+        "value": 0.59542509,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91071,8 +90631,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -91586,7 +91146,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2017-07-14T00:00:00"
     },
     {
@@ -91699,20 +91259,12 @@
           "is_corresponding": true,
           "raw_author_name": "Natalia E. Zavialova",
           "raw_affiliation_strings": [
-            "Palaeontological Institute, Russian Academy of Sciences, Profsoyusnaya st., 123, Moscow, 117647, Russia",
-            "Palaeontological Institute, Russian Academy of Sciences, Profsoyusnaya st., 123, Moscow, 117647 Russia"
+            "Palaeontological Institute, Russian Academy of Sciences, Profsoyusnaya st., 123, Moscow, 117647, Russia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Palaeontological Institute, Russian Academy of Sciences, Profsoyusnaya st., 123, Moscow, 117647, Russia",
-              "institution_ids": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210100821"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Palaeontological Institute, Russian Academy of Sciences, Profsoyusnaya st., 123, Moscow, 117647 Russia",
               "institution_ids": [
                 "https://openalex.org/I1313323035",
                 "https://openalex.org/I4210100821"
@@ -91786,11 +91338,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.2807,
+      "fwci": 0.2796,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.57097997,
+        "value": 0.56999673,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91998,8 +91550,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -92073,7 +91625,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -92182,18 +91734,10 @@
           "is_corresponding": true,
           "raw_author_name": "Shu Wang",
           "raw_affiliation_strings": [
-            "Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese Academy of Sciences  Beijing China",
             "Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing, China"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-0968-9206",
           "affiliations": [
-            {
-              "raw_affiliation_string": "Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese Academy of Sciences  Beijing China",
-              "institution_ids": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210126061"
-              ]
-            },
             {
               "raw_affiliation_string": "Key Laboratory of Petroleum Resources Research, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing, China",
               "institution_ids": [
@@ -92233,17 +91777,10 @@
           "is_corresponding": false,
           "raw_author_name": "Ceri J. Vincent",
           "raw_affiliation_strings": [
-            "British Geological Survey, Environmental Science Centre, Keyworth  Nottingham UK",
             "British Geological Survey, Environmental Science Centre, Keyworth, Nottingham, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Environmental Science Centre, Keyworth  Nottingham UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Environmental Science Centre, Keyworth, Nottingham, UK",
               "institution_ids": [
@@ -92291,18 +91828,10 @@
           "is_corresponding": false,
           "raw_author_name": "Rongshu Zeng",
           "raw_affiliation_strings": [
-            "Key Laboratory of Shale Gas and Geoengineering, Institute of Geology and Geophysics, Chinese Academy of Sciences  Beijing China",
             "Key Laboratory of Shale Gas and Geoengineering, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing, China"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Key Laboratory of Shale Gas and Geoengineering, Institute of Geology and Geophysics, Chinese Academy of Sciences  Beijing China",
-              "institution_ids": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210126061"
-              ]
-            },
             {
               "raw_affiliation_string": "Key Laboratory of Shale Gas and Geoengineering, Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing, China",
               "institution_ids": [
@@ -92342,17 +91871,10 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey, Environmental Science Centre, Keyworth  Nottingham UK",
             "British Geological Survey, Environmental Science Centre, Keyworth, Nottingham, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey, Environmental Science Centre, Keyworth  Nottingham UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Environmental Science Centre, Keyworth, Nottingham, UK",
               "institution_ids": [
@@ -92382,7 +91904,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.03005088,
+        "value": 0.03001164,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -92716,13 +92238,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.571399986743927
+          "score": 0.571399986743927,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -93216,7 +92738,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2018-05-17T00:00:00"
     },
     {
@@ -95648,15 +95170,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -96177,25 +95699,25 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9853000044822693
+          "score": 0.9853000044822693,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "score": 0.821399986743927,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5925999879837036
+          "score": 0.5925999879837036,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -97798,8 +97320,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -99900,20 +99422,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8485000133514404
+          "score": 0.8485000133514404,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.651199996471405
+          "score": 0.651199996471405,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -100076,17 +99598,10 @@
           "is_corresponding": true,
           "raw_author_name": "Michael H. STEPHENSON",
           "raw_affiliation_strings": [
-            "British Geological Survey  Nottingham NG12 5GG UK",
             "British Geological Survey, Nottingham, NG12 5GG UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey  Nottingham NG12 5GG UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Nottingham, NG12 5GG UK",
               "institution_ids": [
@@ -100111,11 +99626,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.5925,
+      "fwci": 0.5919,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.80381166,
+        "value": 0.80433372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100357,8 +99872,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -100409,7 +99924,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2019-06-07T00:00:00"
     },
     {
@@ -100969,8 +100484,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -101859,15 +101374,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7778000235557556
+          "score": 0.7778000235557556,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -102980,8 +102495,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "study_designs": [],
@@ -103522,8 +103037,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -104279,20 +103794,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -104751,18 +104266,18 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.8970999717712402
+          "score": 0.8970999717712402,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -105196,13 +104711,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459
+          "score": 0.5690000057220459,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -106001,13 +105516,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -106415,8 +105930,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -106752,20 +106267,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459
+          "score": 0.5690000057220459,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "No poverty",
-          "id": "https://metadata.un.org/sdg/1",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/1"
         }
       ],
       "study_designs": [],
@@ -108032,8 +107547,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -109745,8 +109260,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -110781,8 +110296,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -111230,25 +110745,25 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "score": 0.7811999917030334,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -111979,8 +111494,7 @@
             "British Geological Survey, Keyworth, Nottingham NG125GG, UK",
             "Dipartimento di Biologia Ambientale, Sapienza Università di Roma, P.le Aldo Moro 5, Roma, Italy",
             "Dipartimento di Fisica e Geologia, Università di Perugia, Via Pascoli, 06123 Perugia, Italy",
-            "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy",
-            "*Dipartimento di Scienze della Terra, Università di Firenze, Via G. La Pira 4, 50121 Firenze, Italy"
+            "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -112004,12 +111518,6 @@
             },
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy",
-              "institution_ids": [
-                "https://openalex.org/I45084792"
-              ]
-            },
-            {
-              "raw_affiliation_string": "*Dipartimento di Scienze della Terra, Università di Firenze, Via G. La Pira 4, 50121 Firenze, Italy",
               "institution_ids": [
                 "https://openalex.org/I45084792"
               ]
@@ -112080,8 +111588,7 @@
             "British Geological Survey, Keyworth, Nottingham NG125GG, UK",
             "Dipartimento di Biologia Ambientale, Sapienza Università di Roma, P.le Aldo Moro 5, Roma, Italy",
             "Dipartimento di Fisica e Geologia, Università di Perugia, Via Pascoli, 06123 Perugia, Italy",
-            "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy",
-            "*Dipartimento di Scienze della Terra, Università di Firenze, Via G. La Pira 4, 50121 Firenze, Italy"
+            "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -112105,12 +111612,6 @@
             },
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy",
-              "institution_ids": [
-                "https://openalex.org/I45084792"
-              ]
-            },
-            {
-              "raw_affiliation_string": "*Dipartimento di Scienze della Terra, Università di Firenze, Via G. La Pira 4, 50121 Firenze, Italy",
               "institution_ids": [
                 "https://openalex.org/I45084792"
               ]
@@ -112181,8 +111682,7 @@
             "British Geological Survey, Keyworth, Nottingham NG125GG, UK",
             "Dipartimento di Biologia Ambientale, Sapienza Università di Roma, P.le Aldo Moro 5, Roma, Italy",
             "Dipartimento di Fisica e Geologia, Università di Perugia, Via Pascoli, 06123 Perugia, Italy",
-            "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy",
-            "*Dipartimento di Scienze della Terra, Università di Firenze, Via G. La Pira 4, 50121 Firenze, Italy"
+            "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -112206,12 +111706,6 @@
             },
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy",
-              "institution_ids": [
-                "https://openalex.org/I45084792"
-              ]
-            },
-            {
-              "raw_affiliation_string": "*Dipartimento di Scienze della Terra, Università di Firenze, Via G. La Pira 4, 50121 Firenze, Italy",
               "institution_ids": [
                 "https://openalex.org/I45084792"
               ]
@@ -112282,8 +111776,7 @@
             "British Geological Survey, Keyworth, Nottingham NG125GG, UK",
             "Dipartimento di Biologia Ambientale, Sapienza Università di Roma, P.le Aldo Moro 5, Roma, Italy",
             "Dipartimento di Fisica e Geologia, Università di Perugia, Via Pascoli, 06123 Perugia, Italy",
-            "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy",
-            "*Dipartimento di Scienze della Terra, Università di Firenze, Via G. La Pira 4, 50121 Firenze, Italy"
+            "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -112307,12 +111800,6 @@
             },
             {
               "raw_affiliation_string": "Dipartimento di Scienze della Terra, Università di Firenze, via G. La Pira 4, 50121 Firenze, Italy",
-              "institution_ids": [
-                "https://openalex.org/I45084792"
-              ]
-            },
-            {
-              "raw_affiliation_string": "*Dipartimento di Scienze della Terra, Università di Firenze, Via G. La Pira 4, 50121 Firenze, Italy",
               "institution_ids": [
                 "https://openalex.org/I45084792"
               ]
@@ -112639,15 +112126,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "score": 0.4390000104904175,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -112687,7 +112174,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-09-16T00:00:00"
     },
     {
@@ -113073,8 +112560,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -113747,20 +113234,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9853000044822693
+          "score": 0.9853000044822693,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -114181,20 +113668,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5378999710083008
+          "score": 0.5378999710083008,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Partnerships for the goals",
-          "id": "https://metadata.un.org/sdg/17",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "study_designs": [],
@@ -114775,15 +114262,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -116124,8 +115611,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -116977,20 +116464,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9853000044822693
+          "score": 0.9853000044822693,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.8970999717712402
+          "score": 0.8970999717712402,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
@@ -117738,8 +117225,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -119171,20 +118658,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.571399986743927
+          "score": 0.571399986743927,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "score": 0.46149998903274536,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -119807,8 +119294,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -120538,8 +120025,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -120947,8 +120434,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -121312,15 +120799,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -122260,15 +121747,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -123283,8 +122770,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -124529,8 +124016,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -124995,15 +124482,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -125391,8 +124878,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -125773,8 +125260,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -126241,20 +125728,20 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "score": 0.6618000268936157,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -126758,15 +126245,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -127185,15 +126672,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -127660,15 +127147,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -128044,8 +127531,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -128429,8 +127916,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -129334,8 +128821,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Peace, justice, and strong institutions",
-          "id": "https://metadata.un.org/sdg/16",
-          "score": 0.47620001435279846
+          "score": 0.47620001435279846,
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -130868,8 +130355,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -131281,8 +130768,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -131416,25 +130903,11 @@
           "is_corresponding": false,
           "raw_author_name": "Joseph Emmings",
           "raw_affiliation_strings": [
-            "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-            "School of Geography, Geology and the Environment , University of Leicester , Leicester , LE1 7RH , UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "School of Geography, Geology and the Environment, University of Leicester, Leicester, LE1 7RH, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Geography, Geology and the Environment , University of Leicester , Leicester , LE1 7RH , UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
@@ -131477,17 +130950,10 @@
           "is_corresponding": false,
           "raw_author_name": "Simon Poulton",
           "raw_affiliation_strings": [
-            "School of Earth and Environment , University of Leeds , Leeds , LS2 9JT , UK",
             "School of Earth and Environment, University of Leeds, Leeds, LS2 9JT, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "School of Earth and Environment , University of Leeds , Leeds , LS2 9JT , UK",
-              "institution_ids": [
-                "https://openalex.org/I130828816"
-              ]
-            },
             {
               "raw_affiliation_string": "School of Earth and Environment, University of Leeds, Leeds, LS2 9JT, UK",
               "institution_ids": [
@@ -131522,17 +130988,10 @@
           "is_corresponding": false,
           "raw_author_name": "Sarah Davies",
           "raw_affiliation_strings": [
-            "School of Geography, Geology and the Environment , University of Leicester , Leicester , LE1 7RH , UK",
             "School of Geography, Geology and the Environment, University of Leicester, Leicester, LE1 7RH, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geography, Geology and the Environment , University of Leicester , Leicester , LE1 7RH , UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
             {
               "raw_affiliation_string": "School of Geography, Geology and the Environment, University of Leicester, Leicester, LE1 7RH, UK",
               "institution_ids": [
@@ -131571,17 +131030,10 @@
           "is_corresponding": false,
           "raw_author_name": "Christopher Vane",
           "raw_affiliation_strings": [
-            "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
@@ -131618,17 +131070,10 @@
           "is_corresponding": false,
           "raw_author_name": "Gawen Jenkin",
           "raw_affiliation_strings": [
-            "School of Geography, Geology and the Environment , University of Leicester , Leicester , LE1 7RH , UK",
             "School of Geography, Geology and the Environment, University of Leicester, Leicester, LE1 7RH, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geography, Geology and the Environment , University of Leicester , Leicester , LE1 7RH , UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
             {
               "raw_affiliation_string": "School of Geography, Geology and the Environment, University of Leicester, Leicester, LE1 7RH, UK",
               "institution_ids": [
@@ -131667,17 +131112,10 @@
           "is_corresponding": false,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
@@ -131716,17 +131154,10 @@
           "is_corresponding": false,
           "raw_author_name": "Jan Hennissen",
           "raw_affiliation_strings": [
-            "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
@@ -131763,17 +131194,10 @@
           "is_corresponding": false,
           "raw_author_name": "Patrick Dowey",
           "raw_affiliation_strings": [
-            "Department of Earth and Environmental Sciences , The University of Manchester , Oxford Road , Manchester , M13 9PL , UK",
             "Department of Earth and Environmental Sciences, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth and Environmental Sciences , The University of Manchester , Oxford Road , Manchester , M13 9PL , UK",
-              "institution_ids": [
-                "https://openalex.org/I28407311"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth and Environmental Sciences, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK",
               "institution_ids": [
@@ -131810,17 +131234,10 @@
           "is_corresponding": false,
           "raw_author_name": "Kevin Taylor",
           "raw_affiliation_strings": [
-            "Department of Earth and Environmental Sciences , The University of Manchester , Oxford Road , Manchester , M13 9PL , UK",
             "Department of Earth and Environmental Sciences, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth and Environmental Sciences , The University of Manchester , Oxford Road , Manchester , M13 9PL , UK",
-              "institution_ids": [
-                "https://openalex.org/I28407311"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth and Environmental Sciences, The University of Manchester, Oxford Road, Manchester, M13 9PL, UK",
               "institution_ids": [
@@ -131869,25 +131286,11 @@
           "is_corresponding": false,
           "raw_author_name": "Melanie J. Leng",
           "raw_affiliation_strings": [
-            "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-            "Centre for Environmental Geochemistry , Sutton Bonington Campus , University of Nottingham , Sutton Bonington , Leicestershire , LE12 5RD , UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
             "Centre for Environmental Geochemistry, Sutton Bonington Campus, University of Nottingham, Sutton Bonington, Leicestershire, LE12 5RD, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Centre for Environmental Geochemistry , Sutton Bonington Campus , University of Nottingham , Sutton Bonington , Leicestershire , LE12 5RD , UK",
-              "institution_ids": [
-                "https://openalex.org/I142263535"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
@@ -131932,17 +131335,10 @@
           "is_corresponding": false,
           "raw_author_name": "Angela Lamb",
           "raw_affiliation_strings": [
-            "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
@@ -131979,17 +131375,10 @@
           "is_corresponding": false,
           "raw_author_name": "Vicky Moss-Hayes",
           "raw_affiliation_strings": [
-            "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
@@ -132028,17 +131417,10 @@
           "is_corresponding": false,
           "raw_author_name": "Jeremy Rushton",
           "raw_affiliation_strings": [
-            "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey , Keyworth , Nottingham , NG12 5GG , UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
               "institution_ids": [
@@ -132299,8 +131681,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -132330,7 +131712,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -132763,8 +132145,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -133744,8 +133126,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -134302,15 +133684,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4088655114173889
+          "score": 0.4088655114173889,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -135693,13 +135075,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9090999960899353
+          "score": 0.9090999960899353,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -138836,13 +138218,13 @@
       "sustainable_development_goals": [
         {
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -139411,8 +138793,8 @@
       "sustainable_development_goals_aurora": [
         {
           "display_name": "Quality education",
-          "id": "https://metadata.un.org/sdg/4",
-          "score": 0.7890809178352356
+          "score": 0.7890809178352356,
+          "id": "https://metadata.un.org/sdg/4"
         }
       ],
       "study_designs": [],

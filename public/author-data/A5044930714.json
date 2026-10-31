@@ -2735,9 +2735,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -3254,19 +3254,12 @@
           "is_corresponding": false,
           "raw_author_name": "Paul S. Breeze",
           "raw_affiliation_strings": [
-            "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
-            "Department of Geography, King's College London, Strand, London WC2R 2LS, UK"
+            "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
-              "institution_ids": [
-                "https://openalex.org/I183935753"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geography, King's College London, Strand, London WC2R 2LS, UK",
               "institution_ids": [
                 "https://openalex.org/I183935753"
               ]
@@ -3300,19 +3293,12 @@
           "is_corresponding": false,
           "raw_author_name": "Nick A. Drake",
           "raw_affiliation_strings": [
-            "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
-            "Department of Geography, King's College London, Strand, London WC2R 2LS, UK"
+            "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
-              "institution_ids": [
-                "https://openalex.org/I183935753"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geography, King's College London, Strand, London WC2R 2LS, UK",
               "institution_ids": [
                 "https://openalex.org/I183935753"
               ]
@@ -3779,11 +3765,11 @@
         "value_usd": 3920
       },
       "apc_paid": null,
-      "fwci": 24.7407,
+      "fwci": 24.7641,
       "has_fulltext": true,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.99141182,
+        "value": 0.99140342,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4161,7 +4147,7 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
+          "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', Quaternary Science Reviews, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
@@ -4346,15 +4332,15 @@
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
+        "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', Quaternary Science Reviews, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
         "raw_type": "info:eu-repo/semantics/article"
       },
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -4586,7 +4572,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5160,9 +5146,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9062,17 +9048,12 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullah M.S. Memesh",
           "raw_affiliation_strings": [
-            "Ma’aden",
-            "Ma'aden"
+            "Ma’aden"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ma’aden",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Ma'aden",
               "institution_ids": []
             }
           ]
@@ -9085,11 +9066,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9508,
+      "fwci": 1.949,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.85990262,
+        "value": 0.85968504,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9452,9 +9433,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -9977,7 +9958,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -10076,17 +10057,10 @@
           "is_corresponding": true,
           "raw_author_name": "M.H. ALJAHDALI",
           "raw_affiliation_strings": [
-            "Marine Geology Department , Faculty of Marine Sciences , King Abdulaziz University , P. O. Box 80200 , Jeddah 21589 , Saudi Arabia",
             "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Marine Geology Department , Faculty of Marine Sciences , King Abdulaziz University , P. O. Box 80200 , Jeddah 21589 , Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            },
             {
               "raw_affiliation_string": "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia",
               "institution_ids": [
@@ -10272,22 +10246,17 @@
           "is_corresponding": false,
           "raw_author_name": "S. ALSOUBHI",
           "raw_affiliation_strings": [
-            "Saudi Geological Survey , Department of Paleontology , Jeddah , Saudi Arabia",
-            "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia",
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+            "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Saudi Geological Survey , Department of Paleontology , Jeddah , Saudi Arabia",
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
               "institution_ids": []
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
               "institution_ids": []
             }
           ]
@@ -10322,11 +10291,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2901,
+      "fwci": 1.2885,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.78668212,
+        "value": 0.78630113,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10570,9 +10539,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -11142,7 +11111,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -12338,9 +12307,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -14852,9 +14821,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -16473,9 +16442,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -17596,9 +17565,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -18480,9 +18449,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -19554,9 +19523,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -21868,9 +21837,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -26848,9 +26817,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -27579,9 +27548,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -30008,9 +29977,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -31759,9 +31728,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4069851338863373
+          "score": 0.4069851338863373,
+          "display_name": "Life on land"
         }
       ],
       "study_designs": [],
@@ -32433,16 +32402,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.617900013923645
+          "score": 0.617900013923645,
+          "display_name": "Life below water"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8898524641990662
+          "score": 0.8898524641990662,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -33469,9 +33438,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6844285130500793
+          "score": 0.6844285130500793,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],

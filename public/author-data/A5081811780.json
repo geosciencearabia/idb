@@ -8281,19 +8281,12 @@
           "is_corresponding": false,
           "raw_author_name": "Gregor P. Eberli",
           "raw_affiliation_strings": [
-            "University of Miami, Miami, Florida, USA",
-            "University of Miami , Miami , Florida , USA"
+            "University of Miami, Miami, Florida, USA"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "University of Miami, Miami, Florida, USA",
-              "institution_ids": [
-                "https://openalex.org/I145608581"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Miami , Miami , Florida , USA",
               "institution_ids": [
                 "https://openalex.org/I145608581"
               ]
@@ -8518,11 +8511,11 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 7.2098,
+      "fwci": 7.2167,
       "has_fulltext": false,
       "cited_by_count": 129,
       "citation_normalized_percentile": {
-        "value": 0.97649243,
+        "value": 0.97649615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9250,7 +9243,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -11193,11 +11186,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1707,
+      "fwci": 3.1634,
       "has_fulltext": false,
-      "cited_by_count": 91,
+      "cited_by_count": 92,
       "citation_normalized_percentile": {
-        "value": 0.92087522,
+        "value": 0.92078738,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12698,7 +12691,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -12757,7 +12750,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -64926,6 +64919,1459 @@
       "created_date": "2021-02-01T00:00:00"
     },
     {
+      "id": "https://openalex.org/W7167924677",
+      "doi": "https://doi.org/10.2113/9781733475723-01",
+      "title": "Pre-Unayzah unconformity, Saudi Arabia",
+      "display_name": "Pre-Unayzah unconformity, Saudi Arabia",
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W7167924677",
+        "doi": "https://doi.org/10.2113/9781733475723-01"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/9781733475723-01",
+        "doi": "https://doi.org/10.2113/9781733475723-01",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2113/9781733475723-01",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167692888",
+        "display_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081811780",
+            "display_name": "Moujahed I. Al-Husseini",
+            "orcid": "https://orcid.org/0009-0002-1087-5882",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1087-5882"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Moujahed I. Al-Husseini",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081811780"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.68845619,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "15",
+        "last_page": "59"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.7080000042915344,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.7080000042915344,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.19300000369548798,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.058800000697374344,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/glacial-deposits",
+          "display_name": "glacial deposits",
+          "score": 0.4519999921321869
+        },
+        {
+          "id": "https://openalex.org/keywords/rub-al-khali-basin",
+          "display_name": "Rub' Al-Khali Basin",
+          "score": 0.8080000281333923
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8804000020027161
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.8547000288963318
+        },
+        {
+          "id": "https://openalex.org/C2777302187",
+          "wikidata": "https://www.wikidata.org/wiki/Q940381",
+          "display_name": "Tournaisian",
+          "level": 4,
+          "score": 0.8227999806404114
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.8104000091552734
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6510999798774719
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.5324000120162964
+        },
+        {
+          "id": "https://openalex.org/C47568318",
+          "wikidata": "https://www.wikidata.org/wiki/Q656586",
+          "display_name": "Alluvial plain",
+          "level": 2,
+          "score": 0.5270000100135803
+        },
+        {
+          "id": "https://openalex.org/C165730261",
+          "wikidata": "https://www.wikidata.org/wiki/Q442402",
+          "display_name": "Westphalian sovereignty",
+          "level": 4,
+          "score": 0.5267000198364258
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.517300009727478
+        },
+        {
+          "id": "https://openalex.org/C69823785",
+          "wikidata": "https://www.wikidata.org/wiki/Q6185405",
+          "display_name": "Alluvium",
+          "level": 2,
+          "score": 0.5088000297546387
+        },
+        {
+          "id": "https://openalex.org/C2780187140",
+          "wikidata": "https://www.wikidata.org/wiki/Q647290",
+          "display_name": "Viséan",
+          "level": 4,
+          "score": 0.44940000772476196
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4345000088214874
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.4146000146865845
+        },
+        {
+          "id": "https://openalex.org/C15739521",
+          "wikidata": "https://www.wikidata.org/wiki/Q602963",
+          "display_name": "Glacial period",
+          "level": 2,
+          "score": 0.40380001068115234
+        },
+        {
+          "id": "https://openalex.org/C2781297371",
+          "wikidata": "https://www.wikidata.org/wiki/Q234852",
+          "display_name": "Basement",
+          "level": 2,
+          "score": 0.3926999866962433
+        },
+        {
+          "id": "https://openalex.org/C2780142684",
+          "wikidata": "https://www.wikidata.org/wiki/Q750663",
+          "display_name": "Hiatus",
+          "level": 2,
+          "score": 0.3831999897956848
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3725999891757965
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.3377000093460083
+        },
+        {
+          "id": "https://openalex.org/C2778648423",
+          "wikidata": "https://www.wikidata.org/wiki/Q840899",
+          "display_name": "Diamictite",
+          "level": 4,
+          "score": 0.328900009393692
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.2799000144004822
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.2703000009059906
+        },
+        {
+          "id": "https://openalex.org/C190890723",
+          "wikidata": "https://www.wikidata.org/wiki/Q2729912",
+          "display_name": "Chemostratigraphy",
+          "level": 4,
+          "score": 0.2603999972343445
+        },
+        {
+          "id": "https://openalex.org/C64297162",
+          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
+          "display_name": "Deposition (geology)",
+          "level": 3,
+          "score": 0.25769999623298645
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/9781733475723-01",
+          "doi": "https://doi.org/10.2113/9781733475723-01",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/9781733475723-01",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "sustainable_development_goals_aurora": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8761091828346252
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 31,
+      "referenced_works": [
+        "https://openalex.org/W162791",
+        "https://openalex.org/W88175743",
+        "https://openalex.org/W142705280",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1999173650",
+        "https://openalex.org/W2002180431",
+        "https://openalex.org/W2053493272",
+        "https://openalex.org/W2054921342",
+        "https://openalex.org/W2087567034",
+        "https://openalex.org/W2101871799",
+        "https://openalex.org/W2140551189",
+        "https://openalex.org/W2152485496",
+        "https://openalex.org/W2152790065",
+        "https://openalex.org/W2166039370",
+        "https://openalex.org/W2168817819",
+        "https://openalex.org/W2169031982",
+        "https://openalex.org/W2462802418",
+        "https://openalex.org/W2562638993",
+        "https://openalex.org/W2808209380",
+        "https://openalex.org/W2938243655",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2944320642",
+        "https://openalex.org/W2955574704",
+        "https://openalex.org/W2960608112",
+        "https://openalex.org/W2972436452",
+        "https://openalex.org/W2974346296",
+        "https://openalex.org/W2986225371",
+        "https://openalex.org/W3122398970",
+        "https://openalex.org/W3127250646",
+        "https://openalex.org/W3154314550",
+        "https://openalex.org/W4232857131"
+      ],
+      "related_works": [
+        "https://openalex.org/W2071064541",
+        "https://openalex.org/W3022654826",
+        "https://openalex.org/W2188401142",
+        "https://openalex.org/W2955893822",
+        "https://openalex.org/W2335960062",
+        "https://openalex.org/W156455234",
+        "https://openalex.org/W2053493272",
+        "https://openalex.org/W1994335843",
+        "https://openalex.org/W1488703263",
+        "https://openalex.org/W7217357401"
+      ],
+      "abstract_inverted_index": {
+        "100": [
+          400
+        ],
+        "110": [
+          104
+        ],
+        "130": [
+          208,
+          219
+        ],
+        "134": [
+          111
+        ],
+        "311": [
+          463
+        ],
+        "800": [
+          193
+        ],
+        "ABSTRACT": [
+          0
+        ],
+        "In": [
+          1
+        ],
+        "well": [
+          2,
+          168
+        ],
+        "ST-8,": [
+          3
+        ],
+        "Nafud": [
+          4
+        ],
+        "Basin": [
+          5
+        ],
+        "in": [
+          6,
+          44,
+          60,
+          65,
+          77,
+          93,
+          113,
+          140,
+          166,
+          174,
+          202,
+          214,
+          241,
+          252,
+          293,
+          341,
+          367,
+          392,
+          402,
+          458
+        ],
+        "Saudi": [
+          7,
+          204
+        ],
+        "Arabia,": [
+          8
+        ],
+        "the": [
+          9,
+          17,
+          25,
+          66,
+          114,
+          123,
+          182,
+          199,
+          227,
+          231,
+          242,
+          275,
+          297,
+          319,
+          322,
+          328,
+          342,
+          355,
+          373,
+          377,
+          380,
+          393,
+          446,
+          468
+        ],
+        "pre-Unayzah": [
+          10
+        ],
+        "unconformity": [
+          11,
+          36
+        ],
+        "(so": [
+          12
+        ],
+        "called": [
+          13
+        ],
+        "Hercynian": [
+          14
+        ],
+        "unconformity)": [
+          15
+        ],
+        "separates": [
+          16
+        ],
+        "Lower": [
+          18,
+          269,
+          298,
+          343,
+          434
+        ],
+        "Carboniferous": [
+          19,
+          27,
+          270
+        ],
+        "(upper": [
+          20,
+          28
+        ],
+        "Visean)": [
+          21
+        ],
+        "Berwath": [
+          22,
+          56,
+          118,
+          381
+        ],
+        "Formation,": [
+          23,
+          321
+        ],
+        "from": [
+          24,
+          122
+        ],
+        "Upper": [
+          26,
+          307
+        ],
+        "Westphalian?": [
+          29
+        ],
+        "and": [
+          30,
+          38,
+          62,
+          74,
+          88,
+          106,
+          143,
+          156,
+          210,
+          236,
+          255,
+          261,
+          264,
+          277,
+          306,
+          363,
+          383,
+          415,
+          427
+        ],
+        "Stephanian)": [
+          31
+        ],
+        "Unayzah": [
+          32,
+          147,
+          158,
+          247,
+          280,
+          290,
+          320,
+          333,
+          384
+        ],
+        "C": [
+          33,
+          148,
+          248,
+          385
+        ],
+        "Member.": [
+          34,
+          386
+        ],
+        "The": [
+          35,
+          55,
+          117,
+          145,
+          246,
+          272,
+          289,
+          315,
+          332,
+          370,
+          387,
+          418,
+          452
+        ],
+        "(erosion": [
+          37
+        ],
+        "non-deposition)": [
+          39
+        ],
+        "corresponds": [
+          40
+        ],
+        "to": [
+          41,
+          84,
+          131,
+          226,
+          268,
+          433
+        ],
+        "a": [
+          42,
+          90,
+          128
+        ],
+        "hiatus": [
+          43
+        ],
+        "mid-Carboniferous": [
+          45,
+          368,
+          447,
+          469
+        ],
+        "time": [
+          46
+        ],
+        "(Namurian-early": [
+          47
+        ],
+        "Westphalian": [
+          48
+        ],
+        "=": [
+          49
+        ],
+        "Serpukovian-Bashkirian": [
+          50
+        ],
+        "stages;": [
+          51
+        ],
+        "about": [
+          52,
+          462
+        ],
+        "327-311": [
+          53
+        ],
+        "Ma).": [
+          54
+        ],
+        "Formation": [
+          57,
+          119,
+          126,
+          187,
+          201,
+          382
+        ],
+        "is": [
+          58,
+          120,
+          137,
+          239,
+          283,
+          325,
+          336
+        ],
+        "absent": [
+          59
+        ],
+        "outcrop,": [
+          61
+        ],
+        "rarely": [
+          63
+        ],
+        "preserved": [
+          64
+        ],
+        "subsurface.": [
+          67
+        ],
+        "It": [
+          68
+        ],
+        "consists": [
+          69,
+          295
+        ],
+        "of": [
+          70,
+          171,
+          188,
+          198,
+          230,
+          274,
+          296,
+          318,
+          372,
+          409,
+          431
+        ],
+        "sandstones,": [
+          71
+        ],
+        "carbonaceous": [
+          72
+        ],
+        "shales": [
+          73
+        ],
+        "limestones": [
+          75
+        ],
+        "deposited": [
+          76,
+          173,
+          251
+        ],
+        "an": [
+          78,
+          134,
+          346
+        ],
+        "apparently": [
+          79
+        ],
+        "regional": [
+          80,
+          442
+        ],
+        "lower": [
+          81
+        ],
+        "coastal": [
+          82
+        ],
+        "plain": [
+          83
+        ],
+        "marginal": [
+          85
+        ],
+        "marine": [
+          86
+        ],
+        "setting,": [
+          87
+        ],
+        "has": [
+          89
+        ],
+        "comparable": [
+          91
+        ],
+        "thickness": [
+          92
+        ],
+        "two": [
+          94
+        ],
+        "wells": [
+          95
+        ],
+        "located": [
+          96,
+          240
+        ],
+        "nearly": [
+          97
+        ],
+        "1,000": [
+          98
+        ],
+        "km": [
+          99
+        ],
+        "apart:": [
+          100
+        ],
+        "ST-8": [
+          101
+        ],
+        "(361": [
+          102
+        ],
+        "ft,": [
+          103,
+          110,
+          153,
+          162,
+          192,
+          207,
+          218,
+          302,
+          311
+        ],
+        "m),": [
+          105,
+          194
+        ],
+        "Abu": [
+          107
+        ],
+        "Safah-29": [
+          108
+        ],
+        "(440": [
+          109
+        ],
+        "m)": [
+          112,
+          155
+        ],
+        "Arabian": [
+          115,
+          232,
+          358,
+          425
+        ],
+        "Gulf.": [
+          116
+        ],
+        "separated": [
+          121
+        ],
+        "underlying": [
+          124
+        ],
+        "Jubah": [
+          125
+        ],
+        "by": [
+          127,
+          327
+        ],
+        "latest": [
+          129
+        ],
+        "Tournaisian": [
+          130
+        ],
+        "mid-Visean": [
+          132
+        ],
+        "hiatus,": [
+          133
+        ],
+        "event": [
+          135,
+          353,
+          374,
+          389,
+          449
+        ],
+        "that": [
+          136,
+          178,
+          437
+        ],
+        "also": [
+          138
+        ],
+        "recognised": [
+          139
+        ],
+        "North": [
+          141
+        ],
+        "Africa": [
+          142
+        ],
+        "Brazil.": [
+          144
+        ],
+        "subsurface": [
+          146
+        ],
+        "Member": [
+          149,
+          160,
+          197,
+          249,
+          282,
+          292,
+          335
+        ],
+        "(thickness": [
+          150
+        ],
+        "range:": [
+          151
+        ],
+        "165-740": [
+          152
+        ],
+        "50-310": [
+          154
+        ],
+        "overlying": [
+          157
+        ],
+        "B": [
+          159,
+          281
+        ],
+        "(55": [
+          161
+        ],
+        "16.8": [
+          163
+        ],
+        "m": [
+          164,
+          304,
+          313,
+          401
+        ],
+        "thick": [
+          165
+        ],
+        "reference": [
+          167
+        ],
+        "Hawtah-1)": [
+          169
+        ],
+        "consist": [
+          170,
+          430
+        ],
+        "clastics": [
+          172
+        ],
+        "alluvial": [
+          175
+        ],
+        "fan": [
+          176
+        ],
+        "systems": [
+          177
+        ],
+        "are": [
+          179,
+          224
+        ],
+        "coeval": [
+          180
+        ],
+        "with": [
+          181,
+          376
+        ],
+        "glaciogenic:": [
+          183
+        ],
+        "(1)": [
+          184
+        ],
+        "Al": [
+          185
+        ],
+        "Khlata": [
+          186
+        ],
+        "Oman": [
+          189,
+          394
+        ],
+        "(upto": [
+          190
+        ],
+        "2,625": [
+          191
+        ],
+        "(2)": [
+          195
+        ],
+        "Juwayl": [
+          196
+        ],
+        "Wajid": [
+          200
+        ],
+        "southwest": [
+          203
+        ],
+        "Arabia": [
+          205,
+          460
+        ],
+        "(426": [
+          206,
+          217
+        ],
+        "m);": [
+          209
+        ],
+        "(3)": [
+          211
+        ],
+        "Akbra": [
+          212
+        ],
+        "Shale": [
+          213
+        ],
+        "north": [
+          215
+        ],
+        "Yemen": [
+          216
+        ],
+        "m).": [
+          220
+        ],
+        "These": [
+          221
+        ],
+        "rock": [
+          222
+        ],
+        "units": [
+          223
+        ],
+        "assigned": [
+          225
+        ],
+        "third": [
+          228,
+          453
+        ],
+        "glaciation": [
+          229,
+          454
+        ],
+        "Plate": [
+          233
+        ],
+        "(AP": [
+          234
+        ],
+        "G3),": [
+          235
+        ],
+        "their": [
+          237
+        ],
+        "palaeodepocentre": [
+          238
+        ],
+        "Rub’": [
+          243
+        ],
+        "Al-Khali": [
+          244
+        ],
+        "Basin.": [
+          245
+        ],
+        "was": [
+          250
+        ],
+        "continental": [
+          253
+        ],
+        "lowlands": [
+          254
+        ],
+        "channels": [
+          256
+        ],
+        "between": [
+          257,
+          379
+        ],
+        "uplifted": [
+          258,
+          354,
+          439
+        ],
+        "fault": [
+          259,
+          359
+        ],
+        "blocks": [
+          260,
+          360
+        ],
+        "broad": [
+          262,
+          419
+        ],
+        "arches,": [
+          263
+        ],
+        "unconformably": [
+          265
+        ],
+        "overlies": [
+          266
+        ],
+        "Proterozoic": [
+          267,
+          432
+        ],
+        "formations.": [
+          271
+        ],
+        "age": [
+          273
+        ],
+        "younger": [
+          276
+        ],
+        "regionally": [
+          278
+        ],
+        "widespread": [
+          279
+        ],
+        "interpreted": [
+          284
+        ],
+        "as": [
+          285
+        ],
+        "Early": [
+          286,
+          347
+        ],
+        "Permian": [
+          287,
+          348
+        ],
+        "(Asselian-Sakmarian).": [
+          288
+        ],
+        "A": [
+          291,
+          334,
+          350
+        ],
+        "Hawtah-1": [
+          294
+        ],
+        "‘Siltstone’": [
+          299
+        ],
+        "Submember": [
+          300,
+          309,
+          344
+        ],
+        "(135": [
+          301
+        ],
+        "41.2": [
+          303
+        ],
+        "thick),": [
+          305
+        ],
+        "‘Sandstone’": [
+          308
+        ],
+        "(91": [
+          310
+        ],
+        "27.7": [
+          312
+        ],
+        "thick).": [
+          314
+        ],
+        "upper": [
+          316,
+          420
+        ],
+        "boundary": [
+          317
+        ],
+        "pre-Khuff": [
+          323
+        ],
+        "unconformity,": [
+          324
+        ],
+        "overlain": [
+          326
+        ],
+        "Basal": [
+          329
+        ],
+        "Khuff": [
+          330
+        ],
+        "Clastics.": [
+          331
+        ],
+        "generally": [
+          337
+        ],
+        "unpalyniferous;": [
+          338
+        ],
+        "recovered": [
+          339
+        ],
+        "palynomorphs": [
+          340
+        ],
+        "indicate": [
+          345
+        ],
+        "age.": [
+          349
+        ],
+        "tectonic": [
+          351,
+          448,
+          470
+        ],
+        "compressional": [
+          352
+        ],
+        "extensive": [
+          356
+        ],
+        "NS-trending": [
+          357
+        ],
+        "(e.g.": [
+          361,
+          423
+        ],
+        "Hawtah": [
+          362
+        ],
+        "En": [
+          364
+        ],
+        "Nala-Ghawar": [
+          365
+        ],
+        "structures)": [
+          366
+        ],
+        "time.": [
+          369
+        ],
+        "duration": [
+          371
+        ],
+        "coincides": [
+          375
+        ],
+        "break": [
+          378
+        ],
+        "same": [
+          388
+        ],
+        "caused": [
+          390
+        ],
+        "deformation": [
+          391
+        ],
+        "Mountains,": [
+          395
+        ],
+        "where": [
+          396
+        ],
+        "open": [
+          397
+        ],
+        "folds": [
+          398
+        ],
+        "(about": [
+          399
+        ],
+        "amplitude,": [
+          403
+        ],
+        "trending": [
+          404
+        ],
+        "N50°E-N70°E)": [
+          405
+        ],
+        "have": [
+          406
+        ],
+        "radiometric": [
+          407
+        ],
+        "ages": [
+          408
+        ],
+        "329-321": [
+          410
+        ],
+        "Ma": [
+          411,
+          464
+        ],
+        "(i.e.": [
+          412
+        ],
+        "late": [
+          413
+        ],
+        "Visean": [
+          414
+        ],
+        "Namurian": [
+          416
+        ],
+        "stages).": [
+          417
+        ],
+        "Palaeozoic": [
+          421
+        ],
+        "swells": [
+          422
+        ],
+        "Central": [
+          424
+        ],
+        "Arch": [
+          426
+        ],
+        "Haushi-Huqf": [
+          428
+        ],
+        "Uplift)": [
+          429
+        ],
+        "Silurian": [
+          435
+        ],
+        "successions": [
+          436
+        ],
+        "were": [
+          438
+        ],
+        "without": [
+          440
+        ],
+        "apparent": [
+          441
+        ],
+        "faulting,": [
+          443
+        ],
+        "either": [
+          444
+        ],
+        "during": [
+          445
+        ],
+        "or": [
+          450
+        ],
+        "earlier.": [
+          451
+        ],
+        "AP": [
+          455
+        ],
+        "G3": [
+          456
+        ],
+        "started": [
+          457
+        ],
+        "southern": [
+          459
+        ],
+        "at": [
+          461
+        ],
+        "(or": [
+          465
+        ],
+        "earlier),": [
+          466
+        ],
+        "following": [
+          467
+        ],
+        "event.": [
+          471
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-30T12:39:25.321706",
+      "created_date": "2026-07-11T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1608914262",
       "doi": null,
       "title": "[1]1 Potential Petroleum Resources of the Paleozoic Rocks of Saudi Arabia)",
@@ -69635,1451 +71081,6 @@
       "counts_by_year": [],
       "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W7167924677",
-      "doi": "https://doi.org/10.2113/9781733475723-01",
-      "title": "Pre-Unayzah unconformity, Saudi Arabia",
-      "display_name": "Pre-Unayzah unconformity, Saudi Arabia",
-      "publication_year": 2004,
-      "publication_date": "2004-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W7167924677",
-        "doi": "https://doi.org/10.2113/9781733475723-01"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/9781733475723-01",
-        "doi": "https://doi.org/10.2113/9781733475723-01",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2113/9781733475723-01",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
-        "raw_type": "book-chapter"
-      },
-      "volume": {
-        "id": "https://openalex.org/W7167692888",
-        "display_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed I. Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882",
-            "observed_orcids": [
-              "https://orcid.org/0009-0002-1087-5882"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Moujahed I. Al-Husseini",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.6875,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "15",
-        "last_page": "59"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.7080000042915344,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.7080000042915344,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.19300000369548798,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.058800000697374344,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/glacial-deposits",
-          "display_name": "glacial deposits",
-          "score": 0.4519999921321869
-        },
-        {
-          "id": "https://openalex.org/keywords/rub-al-khali-basin",
-          "display_name": "Rub' Al-Khali Basin",
-          "score": 0.8080000281333923
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8804000020027161
-        },
-        {
-          "id": "https://openalex.org/C191735495",
-          "wikidata": "https://www.wikidata.org/wiki/Q876798",
-          "display_name": "Unconformity",
-          "level": 3,
-          "score": 0.8547000288963318
-        },
-        {
-          "id": "https://openalex.org/C2777302187",
-          "wikidata": "https://www.wikidata.org/wiki/Q940381",
-          "display_name": "Tournaisian",
-          "level": 4,
-          "score": 0.8227999806404114
-        },
-        {
-          "id": "https://openalex.org/C149918038",
-          "wikidata": "https://www.wikidata.org/wiki/Q133738",
-          "display_name": "Carboniferous",
-          "level": 3,
-          "score": 0.8104000091552734
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6510999798774719
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.5324000120162964
-        },
-        {
-          "id": "https://openalex.org/C47568318",
-          "wikidata": "https://www.wikidata.org/wiki/Q656586",
-          "display_name": "Alluvial plain",
-          "level": 2,
-          "score": 0.5270000100135803
-        },
-        {
-          "id": "https://openalex.org/C165730261",
-          "wikidata": "https://www.wikidata.org/wiki/Q442402",
-          "display_name": "Westphalian sovereignty",
-          "level": 4,
-          "score": 0.5267000198364258
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.517300009727478
-        },
-        {
-          "id": "https://openalex.org/C69823785",
-          "wikidata": "https://www.wikidata.org/wiki/Q6185405",
-          "display_name": "Alluvium",
-          "level": 2,
-          "score": 0.5088000297546387
-        },
-        {
-          "id": "https://openalex.org/C2780187140",
-          "wikidata": "https://www.wikidata.org/wiki/Q647290",
-          "display_name": "Viséan",
-          "level": 4,
-          "score": 0.44940000772476196
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.4345000088214874
-        },
-        {
-          "id": "https://openalex.org/C77271252",
-          "wikidata": "https://www.wikidata.org/wiki/Q301920",
-          "display_name": "Marine transgression",
-          "level": 3,
-          "score": 0.4146000146865845
-        },
-        {
-          "id": "https://openalex.org/C15739521",
-          "wikidata": "https://www.wikidata.org/wiki/Q602963",
-          "display_name": "Glacial period",
-          "level": 2,
-          "score": 0.40380001068115234
-        },
-        {
-          "id": "https://openalex.org/C2781297371",
-          "wikidata": "https://www.wikidata.org/wiki/Q234852",
-          "display_name": "Basement",
-          "level": 2,
-          "score": 0.3926999866962433
-        },
-        {
-          "id": "https://openalex.org/C2780142684",
-          "wikidata": "https://www.wikidata.org/wiki/Q750663",
-          "display_name": "Hiatus",
-          "level": 2,
-          "score": 0.3831999897956848
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3725999891757965
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.3377000093460083
-        },
-        {
-          "id": "https://openalex.org/C2778648423",
-          "wikidata": "https://www.wikidata.org/wiki/Q840899",
-          "display_name": "Diamictite",
-          "level": 4,
-          "score": 0.328900009393692
-        },
-        {
-          "id": "https://openalex.org/C13106087",
-          "wikidata": "https://www.wikidata.org/wiki/Q75507",
-          "display_name": "Paleozoic",
-          "level": 2,
-          "score": 0.2799000144004822
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.2703000009059906
-        },
-        {
-          "id": "https://openalex.org/C190890723",
-          "wikidata": "https://www.wikidata.org/wiki/Q2729912",
-          "display_name": "Chemostratigraphy",
-          "level": 4,
-          "score": 0.2603999972343445
-        },
-        {
-          "id": "https://openalex.org/C64297162",
-          "wikidata": "https://www.wikidata.org/wiki/Q1987070",
-          "display_name": "Deposition (geology)",
-          "level": 3,
-          "score": 0.25769999623298645
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/9781733475723-01",
-          "doi": "https://doi.org/10.2113/9781733475723-01",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2113/9781733475723-01",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Carboniferous, Permian and Early Triassic Arabian Stratigraphy",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "sustainable_development_goals_aurora": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8761091828346252
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 31,
-      "referenced_works": [
-        "https://openalex.org/W162791",
-        "https://openalex.org/W88175743",
-        "https://openalex.org/W142705280",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W1999173650",
-        "https://openalex.org/W2002180431",
-        "https://openalex.org/W2053493272",
-        "https://openalex.org/W2054921342",
-        "https://openalex.org/W2087567034",
-        "https://openalex.org/W2101871799",
-        "https://openalex.org/W2140551189",
-        "https://openalex.org/W2152485496",
-        "https://openalex.org/W2152790065",
-        "https://openalex.org/W2166039370",
-        "https://openalex.org/W2168817819",
-        "https://openalex.org/W2169031982",
-        "https://openalex.org/W2462802418",
-        "https://openalex.org/W2562638993",
-        "https://openalex.org/W2808209380",
-        "https://openalex.org/W2938243655",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2944320642",
-        "https://openalex.org/W2955574704",
-        "https://openalex.org/W2960608112",
-        "https://openalex.org/W2972436452",
-        "https://openalex.org/W2974346296",
-        "https://openalex.org/W2986225371",
-        "https://openalex.org/W3122398970",
-        "https://openalex.org/W3127250646",
-        "https://openalex.org/W3154314550",
-        "https://openalex.org/W4232857131"
-      ],
-      "related_works": [
-        "https://openalex.org/W2071064541",
-        "https://openalex.org/W3022654826",
-        "https://openalex.org/W2188401142",
-        "https://openalex.org/W2955893822",
-        "https://openalex.org/W2335960062",
-        "https://openalex.org/W156455234",
-        "https://openalex.org/W2053493272",
-        "https://openalex.org/W1994335843",
-        "https://openalex.org/W1488703263",
-        "https://openalex.org/W7217357401"
-      ],
-      "abstract_inverted_index": {
-        "100": [
-          400
-        ],
-        "110": [
-          104
-        ],
-        "130": [
-          208,
-          219
-        ],
-        "134": [
-          111
-        ],
-        "311": [
-          463
-        ],
-        "800": [
-          193
-        ],
-        "ABSTRACT": [
-          0
-        ],
-        "In": [
-          1
-        ],
-        "well": [
-          2,
-          168
-        ],
-        "ST-8,": [
-          3
-        ],
-        "Nafud": [
-          4
-        ],
-        "Basin": [
-          5
-        ],
-        "in": [
-          6,
-          44,
-          60,
-          65,
-          77,
-          93,
-          113,
-          140,
-          166,
-          174,
-          202,
-          214,
-          241,
-          252,
-          293,
-          341,
-          367,
-          392,
-          402,
-          458
-        ],
-        "Saudi": [
-          7,
-          204
-        ],
-        "Arabia,": [
-          8
-        ],
-        "the": [
-          9,
-          17,
-          25,
-          66,
-          114,
-          123,
-          182,
-          199,
-          227,
-          231,
-          242,
-          275,
-          297,
-          319,
-          322,
-          328,
-          342,
-          355,
-          373,
-          377,
-          380,
-          393,
-          446,
-          468
-        ],
-        "pre-Unayzah": [
-          10
-        ],
-        "unconformity": [
-          11,
-          36
-        ],
-        "(so": [
-          12
-        ],
-        "called": [
-          13
-        ],
-        "Hercynian": [
-          14
-        ],
-        "unconformity)": [
-          15
-        ],
-        "separates": [
-          16
-        ],
-        "Lower": [
-          18,
-          269,
-          298,
-          343,
-          434
-        ],
-        "Carboniferous": [
-          19,
-          27,
-          270
-        ],
-        "(upper": [
-          20,
-          28
-        ],
-        "Visean)": [
-          21
-        ],
-        "Berwath": [
-          22,
-          56,
-          118,
-          381
-        ],
-        "Formation,": [
-          23,
-          321
-        ],
-        "from": [
-          24,
-          122
-        ],
-        "Upper": [
-          26,
-          307
-        ],
-        "Westphalian?": [
-          29
-        ],
-        "and": [
-          30,
-          38,
-          62,
-          74,
-          88,
-          106,
-          143,
-          156,
-          210,
-          236,
-          255,
-          261,
-          264,
-          277,
-          306,
-          363,
-          383,
-          415,
-          427
-        ],
-        "Stephanian)": [
-          31
-        ],
-        "Unayzah": [
-          32,
-          147,
-          158,
-          247,
-          280,
-          290,
-          320,
-          333,
-          384
-        ],
-        "C": [
-          33,
-          148,
-          248,
-          385
-        ],
-        "Member.": [
-          34,
-          386
-        ],
-        "The": [
-          35,
-          55,
-          117,
-          145,
-          246,
-          272,
-          289,
-          315,
-          332,
-          370,
-          387,
-          418,
-          452
-        ],
-        "(erosion": [
-          37
-        ],
-        "non-deposition)": [
-          39
-        ],
-        "corresponds": [
-          40
-        ],
-        "to": [
-          41,
-          84,
-          131,
-          226,
-          268,
-          433
-        ],
-        "a": [
-          42,
-          90,
-          128
-        ],
-        "hiatus": [
-          43
-        ],
-        "mid-Carboniferous": [
-          45,
-          368,
-          447,
-          469
-        ],
-        "time": [
-          46
-        ],
-        "(Namurian-early": [
-          47
-        ],
-        "Westphalian": [
-          48
-        ],
-        "=": [
-          49
-        ],
-        "Serpukovian-Bashkirian": [
-          50
-        ],
-        "stages;": [
-          51
-        ],
-        "about": [
-          52,
-          462
-        ],
-        "327-311": [
-          53
-        ],
-        "Ma).": [
-          54
-        ],
-        "Formation": [
-          57,
-          119,
-          126,
-          187,
-          201,
-          382
-        ],
-        "is": [
-          58,
-          120,
-          137,
-          239,
-          283,
-          325,
-          336
-        ],
-        "absent": [
-          59
-        ],
-        "outcrop,": [
-          61
-        ],
-        "rarely": [
-          63
-        ],
-        "preserved": [
-          64
-        ],
-        "subsurface.": [
-          67
-        ],
-        "It": [
-          68
-        ],
-        "consists": [
-          69,
-          295
-        ],
-        "of": [
-          70,
-          171,
-          188,
-          198,
-          230,
-          274,
-          296,
-          318,
-          372,
-          409,
-          431
-        ],
-        "sandstones,": [
-          71
-        ],
-        "carbonaceous": [
-          72
-        ],
-        "shales": [
-          73
-        ],
-        "limestones": [
-          75
-        ],
-        "deposited": [
-          76,
-          173,
-          251
-        ],
-        "an": [
-          78,
-          134,
-          346
-        ],
-        "apparently": [
-          79
-        ],
-        "regional": [
-          80,
-          442
-        ],
-        "lower": [
-          81
-        ],
-        "coastal": [
-          82
-        ],
-        "plain": [
-          83
-        ],
-        "marginal": [
-          85
-        ],
-        "marine": [
-          86
-        ],
-        "setting,": [
-          87
-        ],
-        "has": [
-          89
-        ],
-        "comparable": [
-          91
-        ],
-        "thickness": [
-          92
-        ],
-        "two": [
-          94
-        ],
-        "wells": [
-          95
-        ],
-        "located": [
-          96,
-          240
-        ],
-        "nearly": [
-          97
-        ],
-        "1,000": [
-          98
-        ],
-        "km": [
-          99
-        ],
-        "apart:": [
-          100
-        ],
-        "ST-8": [
-          101
-        ],
-        "(361": [
-          102
-        ],
-        "ft,": [
-          103,
-          110,
-          153,
-          162,
-          192,
-          207,
-          218,
-          302,
-          311
-        ],
-        "m),": [
-          105,
-          194
-        ],
-        "Abu": [
-          107
-        ],
-        "Safah-29": [
-          108
-        ],
-        "(440": [
-          109
-        ],
-        "m)": [
-          112,
-          155
-        ],
-        "Arabian": [
-          115,
-          232,
-          358,
-          425
-        ],
-        "Gulf.": [
-          116
-        ],
-        "separated": [
-          121
-        ],
-        "underlying": [
-          124
-        ],
-        "Jubah": [
-          125
-        ],
-        "by": [
-          127,
-          327
-        ],
-        "latest": [
-          129
-        ],
-        "Tournaisian": [
-          130
-        ],
-        "mid-Visean": [
-          132
-        ],
-        "hiatus,": [
-          133
-        ],
-        "event": [
-          135,
-          353,
-          374,
-          389,
-          449
-        ],
-        "that": [
-          136,
-          178,
-          437
-        ],
-        "also": [
-          138
-        ],
-        "recognised": [
-          139
-        ],
-        "North": [
-          141
-        ],
-        "Africa": [
-          142
-        ],
-        "Brazil.": [
-          144
-        ],
-        "subsurface": [
-          146
-        ],
-        "Member": [
-          149,
-          160,
-          197,
-          249,
-          282,
-          292,
-          335
-        ],
-        "(thickness": [
-          150
-        ],
-        "range:": [
-          151
-        ],
-        "165-740": [
-          152
-        ],
-        "50-310": [
-          154
-        ],
-        "overlying": [
-          157
-        ],
-        "B": [
-          159,
-          281
-        ],
-        "(55": [
-          161
-        ],
-        "16.8": [
-          163
-        ],
-        "m": [
-          164,
-          304,
-          313,
-          401
-        ],
-        "thick": [
-          165
-        ],
-        "reference": [
-          167
-        ],
-        "Hawtah-1)": [
-          169
-        ],
-        "consist": [
-          170,
-          430
-        ],
-        "clastics": [
-          172
-        ],
-        "alluvial": [
-          175
-        ],
-        "fan": [
-          176
-        ],
-        "systems": [
-          177
-        ],
-        "are": [
-          179,
-          224
-        ],
-        "coeval": [
-          180
-        ],
-        "with": [
-          181,
-          376
-        ],
-        "glaciogenic:": [
-          183
-        ],
-        "(1)": [
-          184
-        ],
-        "Al": [
-          185
-        ],
-        "Khlata": [
-          186
-        ],
-        "Oman": [
-          189,
-          394
-        ],
-        "(upto": [
-          190
-        ],
-        "2,625": [
-          191
-        ],
-        "(2)": [
-          195
-        ],
-        "Juwayl": [
-          196
-        ],
-        "Wajid": [
-          200
-        ],
-        "southwest": [
-          203
-        ],
-        "Arabia": [
-          205,
-          460
-        ],
-        "(426": [
-          206,
-          217
-        ],
-        "m);": [
-          209
-        ],
-        "(3)": [
-          211
-        ],
-        "Akbra": [
-          212
-        ],
-        "Shale": [
-          213
-        ],
-        "north": [
-          215
-        ],
-        "Yemen": [
-          216
-        ],
-        "m).": [
-          220
-        ],
-        "These": [
-          221
-        ],
-        "rock": [
-          222
-        ],
-        "units": [
-          223
-        ],
-        "assigned": [
-          225
-        ],
-        "third": [
-          228,
-          453
-        ],
-        "glaciation": [
-          229,
-          454
-        ],
-        "Plate": [
-          233
-        ],
-        "(AP": [
-          234
-        ],
-        "G3),": [
-          235
-        ],
-        "their": [
-          237
-        ],
-        "palaeodepocentre": [
-          238
-        ],
-        "Rub’": [
-          243
-        ],
-        "Al-Khali": [
-          244
-        ],
-        "Basin.": [
-          245
-        ],
-        "was": [
-          250
-        ],
-        "continental": [
-          253
-        ],
-        "lowlands": [
-          254
-        ],
-        "channels": [
-          256
-        ],
-        "between": [
-          257,
-          379
-        ],
-        "uplifted": [
-          258,
-          354,
-          439
-        ],
-        "fault": [
-          259,
-          359
-        ],
-        "blocks": [
-          260,
-          360
-        ],
-        "broad": [
-          262,
-          419
-        ],
-        "arches,": [
-          263
-        ],
-        "unconformably": [
-          265
-        ],
-        "overlies": [
-          266
-        ],
-        "Proterozoic": [
-          267,
-          432
-        ],
-        "formations.": [
-          271
-        ],
-        "age": [
-          273
-        ],
-        "younger": [
-          276
-        ],
-        "regionally": [
-          278
-        ],
-        "widespread": [
-          279
-        ],
-        "interpreted": [
-          284
-        ],
-        "as": [
-          285
-        ],
-        "Early": [
-          286,
-          347
-        ],
-        "Permian": [
-          287,
-          348
-        ],
-        "(Asselian-Sakmarian).": [
-          288
-        ],
-        "A": [
-          291,
-          334,
-          350
-        ],
-        "Hawtah-1": [
-          294
-        ],
-        "‘Siltstone’": [
-          299
-        ],
-        "Submember": [
-          300,
-          309,
-          344
-        ],
-        "(135": [
-          301
-        ],
-        "41.2": [
-          303
-        ],
-        "thick),": [
-          305
-        ],
-        "‘Sandstone’": [
-          308
-        ],
-        "(91": [
-          310
-        ],
-        "27.7": [
-          312
-        ],
-        "thick).": [
-          314
-        ],
-        "upper": [
-          316,
-          420
-        ],
-        "boundary": [
-          317
-        ],
-        "pre-Khuff": [
-          323
-        ],
-        "unconformity,": [
-          324
-        ],
-        "overlain": [
-          326
-        ],
-        "Basal": [
-          329
-        ],
-        "Khuff": [
-          330
-        ],
-        "Clastics.": [
-          331
-        ],
-        "generally": [
-          337
-        ],
-        "unpalyniferous;": [
-          338
-        ],
-        "recovered": [
-          339
-        ],
-        "palynomorphs": [
-          340
-        ],
-        "indicate": [
-          345
-        ],
-        "age.": [
-          349
-        ],
-        "tectonic": [
-          351,
-          448,
-          470
-        ],
-        "compressional": [
-          352
-        ],
-        "extensive": [
-          356
-        ],
-        "NS-trending": [
-          357
-        ],
-        "(e.g.": [
-          361,
-          423
-        ],
-        "Hawtah": [
-          362
-        ],
-        "En": [
-          364
-        ],
-        "Nala-Ghawar": [
-          365
-        ],
-        "structures)": [
-          366
-        ],
-        "time.": [
-          369
-        ],
-        "duration": [
-          371
-        ],
-        "coincides": [
-          375
-        ],
-        "break": [
-          378
-        ],
-        "same": [
-          388
-        ],
-        "caused": [
-          390
-        ],
-        "deformation": [
-          391
-        ],
-        "Mountains,": [
-          395
-        ],
-        "where": [
-          396
-        ],
-        "open": [
-          397
-        ],
-        "folds": [
-          398
-        ],
-        "(about": [
-          399
-        ],
-        "amplitude,": [
-          403
-        ],
-        "trending": [
-          404
-        ],
-        "N50°E-N70°E)": [
-          405
-        ],
-        "have": [
-          406
-        ],
-        "radiometric": [
-          407
-        ],
-        "ages": [
-          408
-        ],
-        "329-321": [
-          410
-        ],
-        "Ma": [
-          411,
-          464
-        ],
-        "(i.e.": [
-          412
-        ],
-        "late": [
-          413
-        ],
-        "Visean": [
-          414
-        ],
-        "Namurian": [
-          416
-        ],
-        "stages).": [
-          417
-        ],
-        "Palaeozoic": [
-          421
-        ],
-        "swells": [
-          422
-        ],
-        "Central": [
-          424
-        ],
-        "Arch": [
-          426
-        ],
-        "Haushi-Huqf": [
-          428
-        ],
-        "Uplift)": [
-          429
-        ],
-        "Silurian": [
-          435
-        ],
-        "successions": [
-          436
-        ],
-        "were": [
-          438
-        ],
-        "without": [
-          440
-        ],
-        "apparent": [
-          441
-        ],
-        "faulting,": [
-          443
-        ],
-        "either": [
-          444
-        ],
-        "during": [
-          445
-        ],
-        "or": [
-          450
-        ],
-        "earlier.": [
-          451
-        ],
-        "AP": [
-          455
-        ],
-        "G3": [
-          456
-        ],
-        "started": [
-          457
-        ],
-        "southern": [
-          459
-        ],
-        "at": [
-          461
-        ],
-        "(or": [
-          465
-        ],
-        "earlier),": [
-          466
-        ],
-        "following": [
-          467
-        ],
-        "event.": [
-          471
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
-      "created_date": "2026-07-11T00:00:00"
     },
     {
       "id": "https://openalex.org/W2255779695",

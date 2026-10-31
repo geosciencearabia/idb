@@ -1400,9 +1400,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.75,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -1420,8 +1420,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3425,19 +3425,12 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullah Musllam",
           "raw_affiliation_strings": [
-            "Department of Geology, United Arab Emirates University, Al-Ain, UAE",
-            "Department of Geology, United Arab Emirates University, Al Ain, UAE"
+            "Department of Geology, United Arab Emirates University, Al-Ain, UAE"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, United Arab Emirates University, Al-Ain, UAE",
-              "institution_ids": [
-                "https://openalex.org/I201726411"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geology, United Arab Emirates University, Al Ain, UAE",
               "institution_ids": [
                 "https://openalex.org/I201726411"
               ]
@@ -3521,11 +3514,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.3162,
+      "fwci": 0.3163,
       "has_fulltext": false,
       "cited_by_count": 98,
       "citation_normalized_percentile": {
-        "value": 0.64454924,
+        "value": 0.64465426,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3877,9 +3870,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.6899999976158142,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -3897,8 +3890,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -4038,7 +4031,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4140,19 +4133,12 @@
           "is_corresponding": true,
           "raw_author_name": "Sankaran Rajendran",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-            "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman"
+            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -4187,19 +4173,12 @@
           "is_corresponding": false,
           "raw_author_name": "Salah al-Khirbash",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-            "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman"
+            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -4234,19 +4213,12 @@
           "is_corresponding": false,
           "raw_author_name": "Bernhard Pracejus",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-            "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman"
+            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -4281,19 +4253,12 @@
           "is_corresponding": false,
           "raw_author_name": "Sobhi Nasir",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-            "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman"
+            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -4328,19 +4293,12 @@
           "is_corresponding": false,
           "raw_author_name": "Amani Humaid Al-Abri",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-            "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman"
+            "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Al-khod, 123 Muscat, Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -4386,18 +4344,10 @@
           "is_corresponding": false,
           "raw_author_name": "Timothy M. Kusky",
           "raw_affiliation_strings": [
-            "State Key Lab for Geological Processes and Mineral Resources, Three Gorges Research Center for Geohazards, Ministry of Education China University of Geosciences, Wuhan, China",
             "State Key Lab for Geological Processes and Mineral Resources, Three Gorges Research Center for Geohazards, Ministry of Education, China University of Geosciences, Wuhan, China"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "State Key Lab for Geological Processes and Mineral Resources, Three Gorges Research Center for Geohazards, Ministry of Education China University of Geosciences, Wuhan, China",
-              "institution_ids": [
-                "https://openalex.org/I3124059619",
-                "https://openalex.org/I4391767817"
-              ]
-            },
             {
               "raw_affiliation_string": "State Key Lab for Geological Processes and Mineral Resources, Three Gorges Research Center for Geohazards, Ministry of Education, China University of Geosciences, Wuhan, China",
               "institution_ids": [
@@ -4461,11 +4411,11 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 5.5988,
+      "fwci": 5.5956,
       "has_fulltext": false,
       "cited_by_count": 123,
       "citation_normalized_percentile": {
-        "value": 0.96193977,
+        "value": 0.9619082,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4755,9 +4705,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.6600000262260437,
           "display_name": "Peace, justice, and strong institutions",
-          "id": "https://metadata.un.org/sdg/16",
-          "score": 0.6600000262260437
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "study_designs": [],
@@ -4807,8 +4757,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -4966,7 +4916,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -5066,19 +5016,12 @@
           "is_corresponding": true,
           "raw_author_name": "Martin J Whitehouse",
           "raw_affiliation_strings": [
-            "Swedish Museum of Natural History, Box 50007, SE-104 05 Stockholm, Sweden",
-            "Swedish Museum of Natural History, Box 50007, Se-104 05 Stockholm, Sweden"
+            "Swedish Museum of Natural History, Box 50007, SE-104 05 Stockholm, Sweden"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Swedish Museum of Natural History, Box 50007, SE-104 05 Stockholm, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I2801711128"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Swedish Museum of Natural History, Box 50007, Se-104 05 Stockholm, Sweden",
               "institution_ids": [
                 "https://openalex.org/I2801711128"
               ]
@@ -5111,19 +5054,12 @@
           "is_corresponding": false,
           "raw_author_name": "Brian F Windley",
           "raw_affiliation_strings": [
-            "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
-            "Department of Geology, University of Leicester, Leicester LE1 7RH, UK"
+            "Department of Geology, University of Leicester, Leicester LE1 7RH, UK"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
-              "institution_ids": [
-                "https://openalex.org/I153648349"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geology, University of Leicester, Leicester LE1 7RH, UK",
               "institution_ids": [
                 "https://openalex.org/I153648349"
               ]
@@ -5298,11 +5234,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.6009,
+      "fwci": 2.6027,
       "has_fulltext": false,
       "cited_by_count": 115,
       "citation_normalized_percentile": {
-        "value": 0.88102511,
+        "value": 0.88115121,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5610,17 +5546,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -5725,7 +5661,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6612,17 +6548,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8100000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -7792,9 +7728,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -7807,8 +7743,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -8565,17 +8501,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9876,9 +9812,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8999999761581421,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -9899,8 +9835,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -11091,8 +11027,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -11381,19 +11317,12 @@
           "is_corresponding": false,
           "raw_author_name": "Victoria Pease",
           "raw_affiliation_strings": [
-            "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden",
-            "Department of Geological Sciences Stockholm University SE‐106 91 Stockholm Sweden"
+            "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geological Sciences, Stockholm University, SE-106 91 Stockholm, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I161593684"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geological Sciences Stockholm University SE‐106 91 Stockholm Sweden",
               "institution_ids": [
                 "https://openalex.org/I161593684"
               ]
@@ -11485,19 +11414,12 @@
           "is_corresponding": false,
           "raw_author_name": "Salah Al-Khirbash",
           "raw_affiliation_strings": [
-            "Sultan Qaboos University, Al Khoudh 123, Muscat, Oman",
-            "Sultan Qaboos University, Al Khoudh, 123 Muscat, Oman"
+            "Sultan Qaboos University, Al Khoudh 123, Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Sultan Qaboos University, Al Khoudh 123, Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Sultan Qaboos University, Al Khoudh, 123 Muscat, Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -11521,11 +11443,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.2871,
+      "fwci": 1.2874,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.79495814,
+        "value": 0.79503445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11821,9 +11743,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -11836,8 +11758,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -11976,7 +11898,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12450,17 +12372,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5099999904632568,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5099999904632568
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12629,19 +12551,12 @@
           "is_corresponding": true,
           "raw_author_name": "S. Nasir",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman",
-            "Department of Earth Sciences Sultan Qaboos University Muscat Oman"
+            "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences Sultan Qaboos University Muscat Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -12676,19 +12591,12 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Khirbash",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman",
-            "Department of Earth Sciences Sultan Qaboos University Muscat Oman"
+            "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences Sultan Qaboos University Muscat Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -12815,19 +12723,12 @@
           "is_corresponding": false,
           "raw_author_name": "A. Al-Sayigh",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman",
-            "Department of Earth Sciences Sultan Qaboos University Muscat Oman"
+            "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Muscat, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences Sultan Qaboos University Muscat Oman",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -12905,19 +12806,12 @@
           "is_corresponding": false,
           "raw_author_name": "T. Theye",
           "raw_affiliation_strings": [
-            "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Stuttgart, Germany",
-            "Institut für Mineralogie und Kristallchemie Universität Stuttgart Stuttgart Germany"
+            "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Stuttgart, Germany"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Stuttgart, Germany",
-              "institution_ids": [
-                "https://openalex.org/I100066346"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie Universität Stuttgart Stuttgart Germany",
               "institution_ids": [
                 "https://openalex.org/I100066346"
               ]
@@ -12950,19 +12844,12 @@
           "is_corresponding": false,
           "raw_author_name": "H.-J. Massonne",
           "raw_affiliation_strings": [
-            "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Stuttgart, Germany",
-            "Institut für Mineralogie und Kristallchemie Universität Stuttgart Stuttgart Germany"
+            "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Stuttgart, Germany"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Stuttgart, Germany",
-              "institution_ids": [
-                "https://openalex.org/I100066346"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie Universität Stuttgart Stuttgart Germany",
               "institution_ids": [
                 "https://openalex.org/I100066346"
               ]
@@ -13032,11 +12919,11 @@
         "value_usd": 3990
       },
       "apc_paid": null,
-      "fwci": 2.0358,
+      "fwci": 2.0368,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.85139346,
+        "value": 0.85147829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13410,17 +13297,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -13576,7 +13463,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14389,14 +14276,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7811999917030334,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
+          "score": 0.4390000104904175,
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -14404,8 +14291,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -15053,16 +14940,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5,
           "display_name": "Peace, justice, and strong institutions",
-          "id": "https://metadata.un.org/sdg/16",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/16"
         }
       ],
       "study_designs": [],
@@ -15112,8 +14999,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -15685,9 +15572,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15708,8 +15595,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -16112,19 +15999,12 @@
           "is_corresponding": false,
           "raw_author_name": "Khaled Al Selwi",
           "raw_affiliation_strings": [
-            "Faculty of Petroleum and Natural Resources, Sana’a University, Sana’a, Yemen",
-            "Faculty of Petroleum and Natural Resources, Sana'a University, Sana'a, Yemen"
+            "Faculty of Petroleum and Natural Resources, Sana’a University, Sana’a, Yemen"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Faculty of Petroleum and Natural Resources, Sana’a University, Sana’a, Yemen",
-              "institution_ids": [
-                "https://openalex.org/I170535673"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Faculty of Petroleum and Natural Resources, Sana'a University, Sana'a, Yemen",
               "institution_ids": [
                 "https://openalex.org/I170535673"
               ]
@@ -16143,11 +16023,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.3637,
+      "fwci": 5.3765,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.95300546,
+        "value": 0.95180723,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16456,8 +16336,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -16561,7 +16441,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2021-08-16T00:00:00"
     },
     {
@@ -17088,8 +16968,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -17856,15 +17736,10 @@
           "is_corresponding": false,
           "raw_author_name": "Michael J. Flowerdew",
           "raw_affiliation_strings": [
-            "CASP, West Building, Madingley Rise, Madingley Road, Cambridge CB3 OUD, UK",
             "CASP, West Building, Madingley Rise, Madingley Road, Cambridge, CB3 OUD, UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-9710-2593",
           "affiliations": [
-            {
-              "raw_affiliation_string": "CASP, West Building, Madingley Rise, Madingley Road, Cambridge CB3 OUD, UK",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "CASP, West Building, Madingley Rise, Madingley Road, Cambridge, CB3 OUD, UK",
               "institution_ids": []
@@ -17991,11 +17866,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9985,
+      "fwci": 2.9832,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.90378846,
+        "value": 0.90281239,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18278,8 +18153,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -18788,7 +18663,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-09-27T08:07:27.782135",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2025-03-11T00:00:00"
     },
     {
@@ -19357,9 +19232,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.44999998807907104,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -19372,8 +19247,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -20166,8 +20041,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -20871,8 +20746,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -21523,17 +21398,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -22838,17 +22713,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -23350,17 +23225,10 @@
           "is_corresponding": false,
           "raw_author_name": "Narasimman Sundararajan",
           "raw_affiliation_strings": [
-            "Department of Earth Science , College of Science , Sultan Qaboos University , Muscat , Sultante of Oman",
             "Department of Earth Science, College of Science, Sultan Qaboos University, Muscat, Sultante of Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Science , College of Science , Sultan Qaboos University , Muscat , Sultante of Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Science, College of Science, Sultan Qaboos University, Muscat, Sultante of Oman",
               "institution_ids": [
@@ -23397,17 +23265,10 @@
           "is_corresponding": false,
           "raw_author_name": "B. Pracejus",
           "raw_affiliation_strings": [
-            "Department of Earth Science , College of Science , Sultan Qaboos University , Muscat , Sultante of Oman",
             "Department of Earth Science, College of Science, Sultan Qaboos University, Muscat, Sultante of Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Science , College of Science , Sultan Qaboos University , Muscat , Sultante of Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Science, College of Science, Sultan Qaboos University, Muscat, Sultante of Oman",
               "institution_ids": [
@@ -23522,17 +23383,10 @@
           "is_corresponding": false,
           "raw_author_name": "Alaeddin Ebrahimi",
           "raw_affiliation_strings": [
-            "Department of Earth Science , College of Science , Sultan Qaboos University , Muscat , Sultante of Oman",
             "Department of Earth Science, College of Science, Sultan Qaboos University, Muscat, Sultante of Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Science , College of Science , Sultan Qaboos University , Muscat , Sultante of Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Science, College of Science, Sultan Qaboos University, Muscat, Sultante of Oman",
               "institution_ids": [
@@ -23572,11 +23426,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9793,
+      "fwci": 0.9787,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.80504012,
+        "value": 0.80499144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23980,8 +23834,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2938872149.pdf",
@@ -24709,7 +24563,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2019-04-25T00:00:00"
     },
     {
@@ -25313,17 +25167,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2327941769.pdf",
@@ -26788,8 +26642,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -27362,9 +27216,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.6200000047683716,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6200000047683716
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "study_designs": [],
@@ -27377,8 +27231,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2610540159.pdf",
@@ -28580,9 +28434,9 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.7900000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -28595,8 +28449,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -28970,17 +28824,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4099999964237213,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4099999964237213
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29769,8 +29623,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2946528701.pdf",
@@ -30784,17 +30638,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31979,17 +31833,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8100000023841858,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -32838,8 +32692,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34574,17 +34428,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4300000071525574,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35469,8 +35323,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35571,17 +35425,10 @@
           "is_corresponding": false,
           "raw_author_name": "S. Nasir",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -35618,17 +35465,10 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Khirbash",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -35665,17 +35505,10 @@
           "is_corresponding": false,
           "raw_author_name": "H. Rollinson",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -35710,17 +35543,10 @@
           "is_corresponding": false,
           "raw_author_name": "A. Al-Harthy",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -35757,17 +35583,10 @@
           "is_corresponding": false,
           "raw_author_name": "A. Al-Sayigh",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -35802,17 +35621,10 @@
           "is_corresponding": false,
           "raw_author_name": "A. Al-Lazki",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -35849,17 +35661,10 @@
           "is_corresponding": false,
           "raw_author_name": "E. Belousova",
           "raw_affiliation_strings": [
-            "GEMOC ARC National Key Centre , Macquarie University , Australia",
             "GEMOC ARC National Key Centre, Macquarie University, Australia"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "GEMOC ARC National Key Centre , Macquarie University , Australia",
-              "institution_ids": [
-                "https://openalex.org/I99043593"
-              ]
-            },
             {
               "raw_affiliation_string": "GEMOC ARC National Key Centre, Macquarie University, Australia",
               "institution_ids": [
@@ -35883,15 +35688,10 @@
           "is_corresponding": false,
           "raw_author_name": "F. Kaminsky",
           "raw_affiliation_strings": [
-            "KM Diamond Exploration Ltd , Vancouver , Canada",
             "KM Diamond Exploration Ltd, Vancouver, Canada"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "KM Diamond Exploration Ltd , Vancouver , Canada",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "KM Diamond Exploration Ltd, Vancouver, Canada",
               "institution_ids": []
@@ -35924,14 +35724,13 @@
           "is_corresponding": false,
           "raw_author_name": "T. Theye",
           "raw_affiliation_strings": [
-            "Institut für Mineralogie und Kristallchemie , Universität Stuttgart , Germany",
-            "Directorate General of Minerals, Oman",
-            "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Germany"
+            "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Germany",
+            "Directorate General of Minerals, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie , Universität Stuttgart , Germany",
+              "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Germany",
               "institution_ids": [
                 "https://openalex.org/I100066346"
               ]
@@ -35939,12 +35738,6 @@
             {
               "raw_affiliation_string": "Directorate General of Minerals, Oman",
               "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Germany",
-              "institution_ids": [
-                "https://openalex.org/I100066346"
-              ]
             }
           ]
         },
@@ -36021,7 +35814,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56315084,
+        "value": 0.5631058,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36282,17 +36075,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231050176.pdf",
@@ -36317,7 +36110,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2022-05-11T00:00:00"
     },
     {
@@ -36399,17 +36192,10 @@
           "is_corresponding": false,
           "raw_author_name": "S. Nasir",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -36446,17 +36232,10 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Khirbash",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -36493,17 +36272,10 @@
           "is_corresponding": false,
           "raw_author_name": "H. Rollinson",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -36538,17 +36310,10 @@
           "is_corresponding": false,
           "raw_author_name": "A. Al-Harthy",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -36585,17 +36350,10 @@
           "is_corresponding": false,
           "raw_author_name": "A. Al-Sayigh",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -36630,17 +36388,10 @@
           "is_corresponding": false,
           "raw_author_name": "A. Al-Lazki",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences , Sultan Qaboos University , Oman",
             "Department of Earth Sciences, Sultan Qaboos University, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences , Sultan Qaboos University , Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Oman",
               "institution_ids": [
@@ -36677,17 +36428,10 @@
           "is_corresponding": false,
           "raw_author_name": "E. Belousova",
           "raw_affiliation_strings": [
-            "GEMOC ARC National Key Centre , Macquarie University , Australia",
             "GEMOC ARC National Key Centre, Macquarie University, Australia"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "GEMOC ARC National Key Centre , Macquarie University , Australia",
-              "institution_ids": [
-                "https://openalex.org/I99043593"
-              ]
-            },
             {
               "raw_affiliation_string": "GEMOC ARC National Key Centre, Macquarie University, Australia",
               "institution_ids": [
@@ -36711,15 +36455,10 @@
           "is_corresponding": false,
           "raw_author_name": "F. Kaminsky",
           "raw_affiliation_strings": [
-            "KM Diamond Exploration Ltd , Vancouver , Canada",
             "KM Diamond Exploration Ltd, Vancouver, Canada"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "KM Diamond Exploration Ltd , Vancouver , Canada",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "KM Diamond Exploration Ltd, Vancouver, Canada",
               "institution_ids": []
@@ -36752,17 +36491,10 @@
           "is_corresponding": false,
           "raw_author_name": "T. Theye",
           "raw_affiliation_strings": [
-            "Institut für Mineralogie und Kristallchemie , Universität Stuttgart , Germany",
             "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Germany"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie , Universität Stuttgart , Germany",
-              "institution_ids": [
-                "https://openalex.org/I100066346"
-              ]
-            },
             {
               "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Germany",
               "institution_ids": [
@@ -36800,17 +36532,10 @@
           "is_corresponding": false,
           "raw_author_name": "H.-J. Massonne",
           "raw_affiliation_strings": [
-            "Institut für Mineralogie und Kristallchemie , Universität Stuttgart , Germany",
             "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Germany"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie , Universität Stuttgart , Germany",
-              "institution_ids": [
-                "https://openalex.org/I100066346"
-              ]
-            },
             {
               "raw_affiliation_string": "Institut für Mineralogie und Kristallchemie, Universität Stuttgart, Germany",
               "institution_ids": [
@@ -36832,15 +36557,10 @@
           "is_corresponding": false,
           "raw_author_name": "S. Al-Busaidi",
           "raw_affiliation_strings": [
-            "Directorate General of Minerals , Oman",
             "Directorate General of Minerals, Oman"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "Directorate General of Minerals , Oman",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "Directorate General of Minerals, Oman",
               "institution_ids": []
@@ -36859,7 +36579,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63491082,
+        "value": 0.63487317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37115,17 +36835,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.5,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4249711171.pdf",
@@ -37150,7 +36870,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -37550,17 +37270,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8100000023841858,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8100000023841858
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -38539,8 +38259,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39088,8 +38808,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39576,8 +39296,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40615,8 +40335,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41152,8 +40872,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41708,8 +41428,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42260,8 +41980,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42812,8 +42532,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43375,8 +43095,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43926,17 +43646,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -45436,8 +45156,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46471,17 +46191,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.591495931148529,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.591495931148529
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46675,7 +46395,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44637681,
+        "value": 0.44509993,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46984,17 +46704,17 @@
       "sustainable_development_goals": [],
       "sustainable_development_goals_aurora": [
         {
+          "score": 0.4990810453891754,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4990810453891754
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47011,16 +46731,9 @@
         "https://openalex.org/W4388553367",
         "https://openalex.org/W3188862868"
       ],
-      "abstract_inverted_index": {
-        "Supplementary": [
-          0
-        ],
-        "methods": [
-          1
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2026-02-19T00:00:00"
     },
     {
@@ -47728,8 +47441,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -48382,9 +48095,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7811999917030334,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "sustainable_development_goals_aurora": [],
@@ -48392,8 +48105,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48982,8 +48695,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
