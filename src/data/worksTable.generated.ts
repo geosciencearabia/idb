@@ -3257,8 +3257,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1986-10-01",
     "year": 1986,
     "venue": "Journal of Petroleum Geology",
-    "citations": 108,
-    "fwci": 5.0626,
+    "citations": 109,
+    "fwci": 5.0119,
     "topics": [
       "Geological formations and processes",
       "Geological Studies and Exploration",
@@ -9390,7 +9390,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Gondwana Research",
     "citations": 33,
-    "fwci": 2.542,
+    "fwci": 2.5401,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Tectonic Studies in Latin America",
@@ -10493,7 +10493,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2012,
     "venue": "Lithos",
     "citations": 39,
-    "fwci": 5.5923,
+    "fwci": 5.5903,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Tectonic Studies in Latin America",
@@ -18435,7 +18435,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-01-01",
     "year": 2018,
     "venue": "Advances in oil and gas exploration & production",
-    "citations": 49,
+    "citations": 50,
     "fwci": 3.5146,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
@@ -18725,6 +18725,33 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
       "Geological formations and processes"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4230495083",
+    "doi": "https://doi.org/10.1007/978-3-319-71216-1_1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013083803",
+    "allAuthorOpenAlexIds": [
+      "A5013083803"
+    ],
+    "firstAuthorLastName": "Craigie",
+    "allAuthors": [
+      "Neil W. Craigie"
+    ],
+    "title": "Introduction",
+    "publicationDate": "2018-01-01",
+    "year": 2018,
+    "venue": "Advances in oil and gas exploration & production",
+    "citations": 1,
+    "fwci": 0,
+    "topics": [
+      "Geochemistry and Elemental Analysis",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": [
       "Saudi Aramco (Saudi Arabia)"
@@ -19087,33 +19114,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Saudi Aramco (Saudi Arabia)",
       "Saudi Aramco (United States)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4230495083",
-    "doi": "https://doi.org/10.1007/978-3-319-71216-1_1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013083803",
-    "allAuthorOpenAlexIds": [
-      "A5013083803"
-    ],
-    "firstAuthorLastName": "Craigie",
-    "allAuthors": [
-      "Neil W. Craigie"
-    ],
-    "title": "Introduction",
-    "publicationDate": "2018-01-01",
-    "year": 2018,
-    "venue": "Advances in oil and gas exploration & production",
-    "citations": 0,
-    "fwci": 0,
-    "topics": [
-      "Geochemistry and Elemental Analysis",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "Saudi Aramco (Saudi Arabia)"
     ]
   },
   {
@@ -23363,8 +23363,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-04-29",
     "year": 2022,
     "venue": "Minerals",
-    "citations": 33,
-    "fwci": 2.8676,
+    "citations": 34,
+    "fwci": 2.8654,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -27905,7 +27905,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2020,
     "venue": "Sustainability",
     "citations": 31,
-    "fwci": 1.797,
+    "fwci": 1.7959,
     "topics": [
       "Air Quality Monitoring and Forecasting",
       "Hydrological Forecasting Using AI",
@@ -46311,7 +46311,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "The Science of The Total Environment",
     "citations": 45,
-    "fwci": 2.8432,
+    "fwci": 2.8443,
     "topics": [
       "Water Quality and Pollution Assessment",
       "Hydrological Forecasting Using AI",
@@ -47603,7 +47603,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Earth Science Informatics",
     "citations": 4,
-    "fwci": 0.4593,
+    "fwci": 0.4588,
     "topics": [
       "Water Quality and Pollution Assessment",
       "Hydrological Forecasting Using AI",
@@ -65463,8 +65463,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-01-01",
     "year": 2011,
     "venue": "Open Geosciences",
-    "citations": 31,
-    "fwci": 0.8972,
+    "citations": 32,
+    "fwci": 0.8944,
     "topics": [
       "Geological formations and processes",
       "Paleontology and Stratigraphy of Fossils",
@@ -72809,8 +72809,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-02-09",
     "year": 2021,
     "venue": "National Science Review",
-    "citations": 129,
-    "fwci": 18.5345,
+    "citations": 130,
+    "fwci": 18.5283,
     "topics": [
       "Research Data Management Practices",
       "Scientific Computing and Data Management",
@@ -73358,7 +73358,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Marine and Petroleum Geology",
     "citations": 40,
-    "fwci": 2.7655,
+    "fwci": 2.7632,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological Studies and Exploration",
@@ -73770,8 +73770,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-11-01",
     "year": 2023,
     "venue": "Episodes",
-    "citations": 14,
-    "fwci": 2.8391,
+    "citations": 15,
+    "fwci": 3.0267,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -75196,7 +75196,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2017,
     "venue": "Proceedings of the Yorkshire Geological Society",
     "citations": 10,
-    "fwci": 0.5853,
+    "fwci": 0.583,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -84595,7 +84595,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Journal of Coastal Research",
     "citations": 2,
-    "fwci": 0.3647,
+    "fwci": 0.3639,
     "topics": [
       "Coastal and Marine Dynamics",
       "Geological formations and processes",
@@ -100773,7 +100773,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Geodiversitas",
     "citations": 6,
-    "fwci": 0.9391,
+    "fwci": 0.9366,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies Worldwide",
@@ -106585,9 +106585,9 @@ export const worksTable: WorkTableRecord[] = [
     "title": "Reservoir Geomechanical Modeling and Ground Uplift During CO2 Injection Into Khuff Reservoir",
     "publicationDate": "2019-07-28",
     "year": 2019,
-    "venue": "",
+    "venue": "ASME-JSME-KSME Joint Fluids Engineering Conference (AJKFluids)",
     "citations": 8,
-    "fwci": 0.6287,
+    "fwci": 0.6292,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -112781,8 +112781,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-09-02",
     "year": 2020,
     "venue": "Marine and Petroleum Geology",
-    "citations": 95,
-    "fwci": 4.2724,
+    "citations": 96,
+    "fwci": 4.2704,
     "topics": [
       "Advanced Neural Network Applications",
       "Geochemistry and Geologic Mapping",
@@ -116612,6 +116612,73 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W7224997692",
+    "doi": "https://doi.org/10.5281/zenodo.23843483",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5056805947",
+      "A5059100221",
+      "A5074883327"
+    ],
+    "firstAuthorLastName": "Baser",
+    "allAuthors": [
+      "Shahadat Baser",
+      "Muhammad Bilal",
+      "Bassam Tawabini",
+      "Ardiansyah Koeshidayatullah"
+    ],
+    "title": "Air quality estimation failure in scarcest monitoring networks: analysis pipeline",
+    "publicationDate": "2026-10-31",
+    "year": 2026,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Air Quality Monitoring and Forecasting",
+      "Atmospheric chemistry and aerosols",
+      "Atmospheric and Environmental Gas Dynamics"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7225012689",
+    "doi": "https://doi.org/10.5281/zenodo.23844360",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5056805947",
+      "A5059100221",
+      "A5074883327"
+    ],
+    "firstAuthorLastName": "Baser",
+    "allAuthors": [
+      "Shahadat Baser",
+      "Muhammad Bilal",
+      "Bassam Tawabini",
+      "Ardiansyah Koeshidayatullah"
+    ],
+    "title": "Harmonised satellite, meteorological and ground-observation database for 128 cities, with surface NO₂ estimates for 100 cities",
+    "publicationDate": "2026-10-31",
+    "year": 2026,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "fwci": 0,
+    "topics": [
+      "Air Quality Monitoring and Forecasting",
+      "Atmospheric chemistry and aerosols",
+      "Air Quality and Health Impacts"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Wisconsin–Madison"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1525628619",
     "doi": "https://doi.org/10.1306/m40454c14",
     "program": "",
@@ -117043,7 +117110,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Scientific Reports",
     "citations": 87,
-    "fwci": 3.7831,
+    "fwci": 3.7868,
     "topics": [
       "Oil Spill Detection and Mitigation",
       "Climate change and permafrost",
@@ -117087,7 +117154,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Environmental Pollution",
     "citations": 70,
-    "fwci": 3.0994,
+    "fwci": 3.104,
     "topics": [
       "Oil Spill Detection and Mitigation",
       "Synthetic Aperture Radar (SAR) Applications and Techniques",
@@ -117217,7 +117284,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Energies",
     "citations": 52,
-    "fwci": 4.6473,
+    "fwci": 4.6359,
     "topics": [
       "Wind Energy Research and Development",
       "Solar Radiation and Photovoltaics",
@@ -117419,8 +117486,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1993-11-01",
     "year": 1993,
     "venue": "AAPG Bulletin",
-    "citations": 71,
-    "fwci": 0.9432,
+    "citations": 72,
+    "fwci": 0.9392,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -117494,7 +117561,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Marine Pollution Bulletin",
     "citations": 43,
-    "fwci": 2.1943,
+    "fwci": 2.1956,
     "topics": [
       "Oil Spill Detection and Mitigation",
       "Maritime Navigation and Safety",
@@ -117535,7 +117602,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "MethodsX",
     "citations": 36,
-    "fwci": 1.5505,
+    "fwci": 1.552,
     "topics": [
       "Oil Spill Detection and Mitigation",
       "Remote-Sensing Image Classification",
@@ -118374,7 +118441,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Journal of Coastal Research",
     "citations": 5,
-    "fwci": 0.4978,
+    "fwci": 0.497,
     "topics": [
       "Microplastics and Plastic Pollution",
       "Pharmaceutical and Antibiotic Environmental Impacts",
@@ -118506,7 +118573,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Marine Pollution Bulletin",
     "citations": 11,
-    "fwci": 0.8801,
+    "fwci": 0.8796,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Remote-Sensing Image Classification",
@@ -119441,7 +119508,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Journal of Coastal Research",
     "citations": 1,
-    "fwci": 0.1732,
+    "fwci": 0.172,
     "topics": [
       "Marine Biology and Environmental Chemistry",
       "Marine Ecology and Invasive Species",
@@ -119958,7 +120025,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Journal of Coastal Research",
     "citations": 1,
-    "fwci": 0.2704,
+    "fwci": 0.2695,
     "topics": [
       "Coastal and Marine Dynamics",
       "Oceanographic and Atmospheric Processes",
@@ -126378,7 +126445,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Plant Stress",
     "citations": 6,
-    "fwci": 3.1946,
+    "fwci": 3.1578,
     "topics": [
       "Coastal wetland ecosystem dynamics",
       "Marine and coastal plant biology",
@@ -140649,7 +140716,7 @@ export const worksTable: WorkTableRecord[] = [
       "Mohammad Al-Awabdeh",
       "José Vicente Perez‐Peña",
       "José Miguel Azañón",
-      "Guillermo Booth-rea A",
+      "Guillermo Booth‐Rea",
       "Abdulkader M. Abed",
       "Mohammad Atallah",
       "Jorge Pedro Galvé"
@@ -140659,7 +140726,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Tectonophysics",
     "citations": 7,
-    "fwci": 0.9856,
+    "fwci": 0.985,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geophysical Studies",
@@ -140718,7 +140785,7 @@ export const worksTable: WorkTableRecord[] = [
       "Mohammad Al-Awabdeh",
       "José Vicente Perez‐Peña",
       "José Miguel Azañón",
-      "Guillermo Booth-rea A",
+      "Guillermo Booth‐Rea",
       "Abdulkader M. Abed",
       "Mohammad Atallah",
       "Jorge Pedro Galvé"
@@ -140728,7 +140795,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2016,
     "venue": "Arabian Journal of Geosciences",
     "citations": 6,
-    "fwci": 0.9856,
+    "fwci": 0.985,
     "topics": [
       "earthquake and tectonic studies",
       "Geological and Geophysical Studies",
@@ -141590,8 +141657,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-01-01",
     "year": 2021,
     "venue": "Regional geology reviews",
-    "citations": 37,
-    "fwci": 6.5556,
+    "citations": 38,
+    "fwci": 6.6174,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -143340,7 +143407,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 1984,
     "venue": "American Association of Petroleum Geologists eBooks",
     "citations": 25,
-    "fwci": 2.4164,
+    "fwci": 2.409,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",

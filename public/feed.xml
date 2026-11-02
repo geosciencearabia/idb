@@ -4,8 +4,36 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 23:58:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:15:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Air quality estimation failure in scarcest monitoring networks: analysis pipeline</title>
+      <link>https://doi.org/10.5281/zenodo.23843483</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7224997692</guid>
+      <dc:creator>Shahadat Baser, Muhammad Bilal, Bassam Tawabini, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Environmental science</category>
+      <category>Inversion (geology)</category>
+      <category>Arid</category>
+      <category>Meteorology</category>
+      <category>Subtropics</category>
+      <description>Abstract: Satellite spectrometers measure tropospheric NO₂ columns, whereas exposure assessment requires surface concentrations. Machine-learning inversion is widely used to bridge this gap and often reports high predictive skill; however, validation is typically conducted within the monitoring network used to train the model. The extent to which these models transfer to the data-scarce regions where they are most needed remains unquantified. We assembled a harmonised database covering 128 cities from 2019 to 2025, combining Sentinel-5P TROPOMI NO₂ columns, MERRA-2 meteorology, Global Human Settlement Layer urban morphology, and surface observations from four national monitoring networks in the United States, China, India, and the Arabian Gulf. We fitted gradient-boosted trees using a validation protocol specified before modelling. Under leave-one-city-out validation across 35 temperate and subtropical cities, the inversion achieved an R² of 0.570 ± 0.004, outperforming climatology (0.437) and persistence (0.347). The same model and data achieved an R² of 0.840 under temporal hold-out, indicating that the gap between reported and deployable skill reflects validation design rather than model choice. When applied to five hot, arid cities withheld from all model development, the inversion performed poorly (R² = −0.83; bias = −7.4 ppb). Across all 54 cities with ground observations, the within-city correlation between column and surface concentrations declined systematically with mean air …&#10;Topics: Environmental science, Inversion (geology), Arid, Meteorology, Subtropics&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Harmonised satellite, meteorological and ground-observation database for 128 cities, with surface NO₂ estimates for 100 cities</title>
+      <link>https://doi.org/10.5281/zenodo.23844360</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7225012689</guid>
+      <dc:creator>Shahadat Baser, Muhammad Bilal, Bassam Tawabini, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Environmental science</category>
+      <category>Inversion (geology)</category>
+      <category>Meteorology</category>
+      <category>Troposphere</category>
+      <category>Arid</category>
+      <description>Abstract: Air quality estimation failure in scarcest monitoring networks: a climate-dependent limit on satellite-to-surface NO₂ inversion Satellite spectrometers measure tropospheric NO₂ columns, whereas exposure assessment requires surface concentrations. Machine-learning inversion is widely used to bridge this gap and often reports high predictive skill; however, validation is typically conducted within the monitoring network used to train the model. The extent to which these models transfer to the data-scarce regions where they are most needed remains unquantified. We assembled a harmonised database covering 128 cities from 2019 to 2025, combining Sentinel-5P TROPOMI NO₂ columns, MERRA-2 meteorology, Global Human Settlement Layer urban morphology, and surface observations from four national monitoring networks in the United States, China, India, and the Arabian Gulf. We fitted gradient-boosted trees using a validation protocol specified before modelling. Under leave-one-city-out validation across 35 temperate and subtropical cities, the inversion achieved an R² of 0.570 ± 0.004, outperforming climatology (0.437) and persistence (0.347). The same model and data achieved an R² of 0.840 under temporal hold-out, indicating that the gap between reported and deployable skill reflects validation design rather than model choice. When applied to five hot, arid cities withheld from all model development, the inversion performed poorly (R² = −0.83; bias = −7.4 ppb). Across all 54 cities with g…&#10;Topics: Environmental science, Inversion (geology), Meteorology, Troposphere, Arid&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Cadmium isotopes as productivity proxy during the Oceanic Anoxic Event 2 (OAE2): insight from the Trans-Saharan epicontinental seaway</title>
       <link>https://doi.org/10.1016/j.chemgeo.2026.123782</link>
@@ -1376,34 +1404,6 @@
       <category>Transition (genetics)</category>
       <category>Critical thinking</category>
       <description>Topics: Raw material, Engineering ethics, Engineering, Transition (genetics), Critical thinking&#10;Venue: Geoenergy&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Cooperative Joint Mission Between Seismic Recording and Surveying UAVs for Autonomous Near-Surface Characterization</title>
-      <link>https://doi.org/10.3390/drones10040281</link>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7154267272</guid>
-      <dc:creator>Jory Alqahtani, Ahmad  Ihsan Ramdani, Pavel Golikov, Artem Timoshenko, Grigoriy Yashin, Ilya Mashkov, Van Do, Ezzedeen Alfataierge</dc:creator>
-      <dc:publisher>Drones</dc:publisher>
-      <category>Geophone</category>
-      <category>Data acquisition</category>
-      <category>Software deployment</category>
-      <category>Terrain</category>
-      <category>Geology</category>
-      <description>Abstract: Generally, land seismic data acquisition in arid areas is a labor-intensive, costly, and challenging process, often hindered by challenging terrain and safety risks. To overcome these limitations, we propose the integration of autonomous Unmanned Aerial Vehicles (UAVs) into land seismic data acquisition, enabling efficient data collection in difficult, inaccessible terrain. This is a cooperative mission workflow combining a Scouting UAV for high-resolution aerial scouting, followed by the swarm deployment of an Autonomous Seismic Acquisition Device (ASAD) for seismic data recording. The cooperative system allows for precise landing and subsequent deployment of seismic sensors in optimal locations. Previously, we demonstrated the applicability of passive seismic recorded with ASAD drones to near-surface characterization. This study covers the results of a field trial, where both the ASAD and Scouting UAV systems successfully acquired high-resolution seismic data with an active source, comparable to that of a conventional seismic data acquisition system. The results show that the ASAD seismic data exhibit a slightly higher noise level due to coupling variances and the fact that geophones were hardwired into 9-sensor arrays. However, due to its single-point sensing nature, it yields a superior frequency bandwidth, making it suitable for imaging shallow anomalies. The system underwent P-wave refraction tomography modeling and accurately detected a shallow subsurface cavity, showc…&#10;Topics: Geophone, Data acquisition, Software deployment, Terrain, Geology&#10;Venue: Drones&#10;Year: 2026&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Seismic Event Classification With a Lightweight Fourier Neural Operator Model</title>
-      <link>https://doi.org/10.1111/1365-2478.70176</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7153309765</guid>
-      <dc:creator>Ayrat Abdullin, Umair bin Waheed, Leo Eisner, Abdullatif Abdulrahman Al-Shuhail</dc:creator>
-      <dc:publisher>Geophysical Prospecting</dc:publisher>
-      <category>Computer science</category>
-      <category>Microseism</category>
-      <category>Artificial neural network</category>
-      <category>Data mining</category>
-      <category>Waveform</category>
-      <description>Abstract: ABSTRACT Real‐time monitoring of induced seismicity is critical to mitigate operational risks, relying on the rapid and accurate classification of triggered data from continuous data streams. Deep learning models are effective for this purpose but require substantial computational resources, making real‐time processing difficult. To address this limitation, a lightweight model based on the Fourier neural operator (FNO) is proposed for the classification of microseismic events, leveraging its inherent resolution‐invariance and computational efficiency for waveform processing. In the STanford EArthquake Dataset (STEAD), a global and large‐scale database of seismic waveforms, the FNO‐based model demonstrates high effectiveness for trigger classification, with an F1 score of 95% even in the scenario of data sparsity in training. The new FNO model greatly decreases the computer power needed relative to current deep learning models without sacrificing the classification success rate measured by the F1 score. A test on a real microseismic dataset shows a classification success rate with an F1 score of 98%, outperforming many traditional deep‐learning techniques. The reduced computational cost makes the proposed FNO model well‐suited for deployment in resource‐constrained, near‐real‐time seismic monitoring workflows, including traffic‐light implementations. The source code for the proposed FNO classifier is available at https://github.com/ayratabd/FNOclass .&#10;Topics: Computer science, Microseism, Artificial neural network, Data mining, Waveform&#10;Venue: Geophysical Prospecting&#10;Year: 2026&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>

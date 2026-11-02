@@ -24,7 +24,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 151,
-    "cited_by_count": 2882,
+    "cited_by_count": 2884,
     "summary_stats": {
       "2yr_mean_citedness": 2.1333333333333333,
       "h_index": 31,
@@ -290,7 +290,7 @@
       {
         "id": "https://openalex.org/T13811",
         "display_name": "Earth Systems and Cosmic Evolution",
-        "value": 0.0001325,
+        "value": 0.0001324,
         "subfield": {
           "id": "https://openalex.org/subfields/1902",
           "display_name": "Atmospheric Science"
@@ -561,7 +561,7 @@
         "year": 2026,
         "works_count": 5,
         "oa_works_count": 4,
-        "cited_by_count": 251
+        "cited_by_count": 253
       }
     ],
     "display_name_alternatives": [
@@ -582,7 +582,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-10-31T12:29:50",
+    "updated_date": "2026-11-01T11:00:13",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -3012,11 +3012,11 @@
         "currency": "USD",
         "value_usd": 0
       },
-      "fwci": 18.5345,
+      "fwci": 18.5283,
       "has_fulltext": true,
-      "cited_by_count": 129,
+      "cited_by_count": 130,
       "citation_normalized_percentile": {
-        "value": 0.99329938,
+        "value": 0.99330136,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3919,7 +3919,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 24
+          "cited_by_count": 25
         },
         {
           "year": 2025,
@@ -3942,7 +3942,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-01T11:40:01.658920",
       "created_date": "2021-03-01T00:00:00"
     },
     {
@@ -22515,11 +22515,11 @@
         "currency": "USD",
         "value_usd": 3440
       },
-      "fwci": 2.7655,
+      "fwci": 2.7632,
       "has_fulltext": true,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.89124831,
+        "value": 0.89119502,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22751,7 +22751,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 4,
+      "locations_count": 5,
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2017.06.033",
@@ -22829,6 +22829,37 @@
           "raw_type": "Publication - Article"
         },
         {
+          "id": "pmh:oai:nottingham-repository.worktribe.com:868160",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2017.06.033",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402483",
+            "display_name": "Repository@Nottingham (University of Nottingham)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I142263535",
+            "host_organization_name": "University of Nottingham",
+            "host_organization_lineage": [
+              "https://openalex.org/I142263535"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Journal Article"
+        },
+        {
           "id": "pmh:oai:eprints.nottingham.ac.uk:43897",
           "doi": null,
           "is_oa": true,
@@ -22860,7 +22891,7 @@
           "raw_type": "Article"
         },
         {
-          "id": "pmh:oai:nottingham-repository.worktribe.com:868160",
+          "id": "pmh:oai:https://nottingham-repository.worktribe.com/:868160",
           "doi": null,
           "is_oa": true,
           "landing_page_url": "https://nottingham-repository.worktribe.com/output/868160",
@@ -24032,7 +24063,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-01T11:40:01.658920",
       "created_date": "2017-07-14T00:00:00"
     },
     {
@@ -37556,11 +37587,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8391,
+      "fwci": 3.0267,
       "has_fulltext": false,
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.91547595,
+        "value": 0.92386043,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -38149,7 +38180,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
@@ -38160,7 +38191,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-01T11:40:01.658920",
       "created_date": "2023-11-02T00:00:00"
     },
     {
@@ -79602,11 +79633,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5853,
+      "fwci": 0.583,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.64341561,
+        "value": 0.64189449,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79839,7 +79870,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 7,
+      "locations_count": 8,
       "locations": [
         {
           "id": "doi:10.1144/pygs2017-393",
@@ -79882,6 +79913,37 @@
           "is_published": true,
           "raw_source_name": "Proceedings of the Yorkshire Geological Society",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:nottingham-repository.worktribe.com:873893",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1144/pygs2017-393",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402483",
+            "display_name": "Repository@Nottingham (University of Nottingham)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I142263535",
+            "host_organization_name": "University of Nottingham",
+            "host_organization_lineage": [
+              "https://openalex.org/I142263535"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": null,
+          "raw_type": "Journal Article"
         },
         {
           "id": "pmh:oai:nora.nerc.ac.uk:517396",
@@ -80008,6 +80070,37 @@
           "raw_type": "Text"
         },
         {
+          "id": "pmh:oai:https://nottingham-repository.worktribe.com/:873893",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://nottingham-repository.worktribe.com/output/873893",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402483",
+            "display_name": "Repository@Nottingham (University of Nottingham)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I142263535",
+            "host_organization_name": "University of Nottingham",
+            "host_organization_lineage": [
+              "https://openalex.org/I142263535"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Journal Article"
+        },
+        {
           "id": "pmh:oai:lra.le.ac.uk:2381/40473",
           "doi": null,
           "is_oa": true,
@@ -80036,37 +80129,6 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "",
-          "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:nottingham-repository.worktribe.com:873893",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://nottingham-repository.worktribe.com/output/873893",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402483",
-            "display_name": "Repository@Nottingham (University of Nottingham)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I142263535",
-            "host_organization_name": "University of Nottingham",
-            "host_organization_lineage": [
-              "https://openalex.org/I142263535"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
           "raw_type": "Journal Article"
         }
       ],
@@ -80830,7 +80892,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-01T11:40:01.658920",
       "created_date": "2017-07-31T00:00:00"
     },
     {
@@ -137644,6 +137706,7 @@
               "https://orcid.org/0009-0006-2920-0454",
               "https://orcid.org/0000-0001-7835-2426",
               "https://orcid.org/0000-0002-3834-3784",
+              "https://orcid.org/0009-0007-8046-6722",
               "https://orcid.org/0009-0007-8833-2884",
               "https://orcid.org/0000-0001-7025-7651",
               "https://orcid.org/0000-0002-0143-5087",
@@ -137667,7 +137730,6 @@
               "https://orcid.org/0009-0004-4791-5037",
               "https://orcid.org/0009-0005-0855-5638",
               "https://orcid.org/0009-0007-4550-4017",
-              "https://orcid.org/0009-0007-8046-6722",
               "https://orcid.org/0009-0009-0969-8197",
               "https://orcid.org/0009-0009-3628-7721"
             ]
@@ -138186,7 +138248,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-01T11:40:01.658920",
       "created_date": "2026-04-21T00:00:00"
     },
     {
