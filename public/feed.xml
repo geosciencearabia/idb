@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 00:15:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 02:47:18 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Air quality estimation failure in scarcest monitoring networks: analysis pipeline</title>
@@ -33,6 +33,20 @@
       <category>Troposphere</category>
       <category>Arid</category>
       <description>Abstract: Air quality estimation failure in scarcest monitoring networks: a climate-dependent limit on satellite-to-surface NO₂ inversion Satellite spectrometers measure tropospheric NO₂ columns, whereas exposure assessment requires surface concentrations. Machine-learning inversion is widely used to bridge this gap and often reports high predictive skill; however, validation is typically conducted within the monitoring network used to train the model. The extent to which these models transfer to the data-scarce regions where they are most needed remains unquantified. We assembled a harmonised database covering 128 cities from 2019 to 2025, combining Sentinel-5P TROPOMI NO₂ columns, MERRA-2 meteorology, Global Human Settlement Layer urban morphology, and surface observations from four national monitoring networks in the United States, China, India, and the Arabian Gulf. We fitted gradient-boosted trees using a validation protocol specified before modelling. Under leave-one-city-out validation across 35 temperate and subtropical cities, the inversion achieved an R² of 0.570 ± 0.004, outperforming climatology (0.437) and persistence (0.347). The same model and data achieved an R² of 0.840 under temporal hold-out, indicating that the gap between reported and deployable skill reflects validation design rather than model choice. When applied to five hot, arid cities withheld from all model development, the inversion performed poorly (R² = −0.83; bias = −7.4 ppb). Across all 54 cities with g…&#10;Topics: Environmental science, Inversion (geology), Meteorology, Troposphere, Arid&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>From forward stratigraphic modeling to 3D static geomodeling: A process-based workflow for CO2 sequestration assessment in the midyan half-graben (northeast Red Sea, Saudi Arabia)</title>
+      <link>https://doi.org/10.1016/j.marger.2026.207940</link>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7160142778</guid>
+      <dc:creator>Jordania Zerpa, Jing Ye, Guillaume Baby, Mauricio Lozano, Abdulkader M. Afifi</dc:creator>
+      <dc:publisher>Marine Geoscience and Energy Resources</dc:publisher>
+      <category>Carbon sequestration</category>
+      <category>Petrophysics</category>
+      <category>Geology</category>
+      <category>Geobiology</category>
+      <category>Petrology</category>
+      <description>Abstract: Carbon dioxide (CO 2 ) sequestration in rift basins is challenging because fault-controlled accommodation and structural segmentation generate rapid lateral and vertical variations in sediment thickness and lithofacies. These challenges are particularly significant where subsurface data is limited, introducing uncertainty about reservoir architecture and petrophysical properties. This study presents an integrated workflow to evaluate CO 2 sequestration potential in rift basins by applying process-based forward stratigraphic modeling (FSM) and 3D static geological modeling. Field observations and seismic data are used to constrain the FSM simulation, providing a process-consistent geological scenario. The resulting stratigraphic framework is then incorporated into a 3D geological model to evaluate petrophysical property distributions and identify candidate CO 2 reservoirs. The methodology is applied to the onshore Midyan rift basin (Red Sea, Saudi Arabia) as a case study. The Midyan half-graben is filled by ∼1 km of continental early syn-rift redbeds (Al Wajh Formation), overlain by ∼3 km of marine sediments from the rift climax (Burqan Formation), and ∼700 m of late syn-rift evaporitic, carbonate and siliciclastic deposits (Maqna Group). Results indicate a heterogeneous stratigraphic architecture, with higher porosity and permeability in the shallower sand-rich intervals and lower values in finer-grained or deeper units. The Burqan Formation emerges as a promising candidate i…&#10;Topics: Carbon sequestration, Petrophysics, Geology, Geobiology, Petrology&#10;Venue: Marine Geoscience and Energy Resources&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Cadmium isotopes as productivity proxy during the Oceanic Anoxic Event 2 (OAE2): insight from the Trans-Saharan epicontinental seaway</title>
@@ -591,7 +605,7 @@
       <category>Transect</category>
       <category>Archaeology</category>
       <category>Raw data</category>
-      <description>Abstract: Data and analytical code supporting Dellmour et al. (2026), &quot;Stone and water governed early human settlement of the desert&quot;. The repository contains field documentation from a 1,300 km geoarchaeological transect through the central Rub&apos; al Khali, a georeferenced compilation of Middle Palaeolithic and Middle Stone Age sites across the Arabian Peninsula, raw material occurrence records from 44 archaeological survey campaigns in Oman, geological and hydrological source layers, and the complete R workflow used to model human occupation potential from water proximity and lithic raw material availability. Code is released under the MIT Licence; data are released under CC-BY 4.0. See README.txt for folder structure, system requirements and reproduction instructions.&#10;Topics: Documentation, Georeference, Transect, Archaeology, Raw data&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 1</description>
+      <description>Abstract: Data and analytical code supporting Dellmour et al. (2026), &quot;Stone and water governed early human settlement of the desert&quot;. The repository contains field documentation from a 1,300 km geoarchaeological transect through the central Rub&apos; al Khali, a georeferenced compilation of Middle Palaeolithic and Middle Stone Age sites across the Arabian Peninsula, raw material occurrence records from 44 archaeological survey campaigns in Oman, geological and hydrological source layers, and the complete R workflow used to model human occupation potential from water proximity and lithic raw material availability. Code is released under the MIT Licence; data are released under CC-BY 4.0. See README.txt for folder structure, system requirements and reproduction instructions.&#10;Topics: Documentation, Georeference, Transect, Archaeology, Raw data&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Production-seismicity relationship in the Groningen field, NL: a multi-scale statistical and hazard assessment</title>
@@ -1390,20 +1404,6 @@
       <category>Total organic carbon</category>
       <category>Facies</category>
       <description>Abstract: ABSTRACT This study presents an integrated organic geochemical, petrological characteristics, biomarker, and elemental compositions of shale facies of Paleocene–Eocene Patala Formation. The dataset consists of an outcrop section and an exploratory well (Manzalai‐1) situated in the Kohat Plateau, Upper Indus Basin (North Pakistan). This work aimed to understand organic matter (OM) input and paleoenvironmental settings during the Late Paleocene time and their effect on organic carbon‐rich amassing in Patala shale facies. Geochemical analysis shows that most of the Patala shale sediments are characterized by &gt;1–3.25 wt.% total organic carbon (TOC), demonstrating good OM accumulation under low‐oxygenated environmental settings. During deposition of Patala shale facies, the low‐oxygenated environmental settings (mainly anoxic to euxinic) of water column facilitated preservation of OM. It is revealed by comparatively low pristane (Pr)/phytane (Ph) ratio between 0.79 and 2.38 and relatively higher concentration of vanadium (V) compared to nickel (Ni), with high V/Ni ratio reaching 11 and V/(V + Ni) values as high as 0.92. The current study also investigated the source and origin of OM contribution into the Patala shale facies during deposition. The characteristics of hopane, tricyclic terpane, and sterane biomarkers provide evidence that the Patala shale facies contains mixed OM of planktonic bacteria with terrigenous plant inputs. The finding is confirmed by the presence of marine …&#10;Topics: Geology, Organic matter, Oil shale, Total organic carbon, Facies&#10;Venue: Journal of Petroleum Geology&#10;Year: 2026&#10;Citations: 2</description>
-    </item>
-    <item>
-      <title>Reply to discussion on ‘Energy transition geoscience is an urgent research need for Africa’ by Stephenson et al . 2025 ( Geoenergy , 3, geoenergy2025-014) and ‘The need for joined-up thinking in critical raw materials research’ by Stephenson et al . 2023 ( Geoenergy , 1, geoenergy2023-001)</title>
-      <link>https://doi.org/10.1144/geoenergy2026-004</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7154993656</guid>
-      <dc:creator>Michael H. Stephenson, John Ludden, Jennifer M. McKinley, Natarajan Ishwaran, Susan Smith Nash, David Leary, Yichuan Shi, Chengshan Wang, Hassina Mouri, Olugbenga Okunlola, Monica Chamussa, Cheng Li, M Wang, Yu Zhao, Liying Yang, Liping Gu, Shadrach Sheriff</dc:creator>
-      <dc:publisher>Geoenergy</dc:publisher>
-      <category>Raw material</category>
-      <category>Engineering ethics</category>
-      <category>Engineering</category>
-      <category>Transition (genetics)</category>
-      <category>Critical thinking</category>
-      <description>Topics: Raw material, Engineering ethics, Engineering, Transition (genetics), Critical thinking&#10;Venue: Geoenergy&#10;Year: 2026&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>
