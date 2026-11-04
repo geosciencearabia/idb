@@ -12,7 +12,7 @@
     ],
     "full_name": "Muhammad Hammad Malik",
     "works_count": 18,
-    "cited_by_count": 158,
+    "cited_by_count": 159,
     "summary_stats": {
       "2yr_mean_citedness": 2.6666666666666665,
       "h_index": 8,
@@ -318,7 +318,7 @@
         "year": 2026,
         "works_count": 3,
         "oa_works_count": 3,
-        "cited_by_count": 40
+        "cited_by_count": 41
       }
     ],
     "display_name_alternatives": [
@@ -327,7 +327,7 @@
     ],
     "block_key": "m malik",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5009697450",
-    "updated_date": "2026-10-29T12:27:34",
+    "updated_date": "2026-11-03T12:34:24",
     "created_date": "2018-01-26T00:00:00"
   },
   "works": [
@@ -783,11 +783,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 4.2279,
+      "fwci": 4.3127,
       "has_fulltext": false,
-      "cited_by_count": 39,
+      "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.96116452,
+        "value": 0.96287458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1185,7 +1185,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         },
         {
           "year": 2025,
@@ -1204,7 +1204,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2023-02-09T00:00:00"
     },
     {
@@ -12508,9 +12508,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8485000133514404,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8485000133514404
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -18858,9 +18858,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.9853000044822693,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.9853000044822693
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],

@@ -20,7 +20,7 @@
     ],
     "full_name": "Moujahed I. Al-Husseini",
     "works_count": 84,
-    "cited_by_count": 2584,
+    "cited_by_count": 2588,
     "summary_stats": {
       "2yr_mean_citedness": 1.9166666666666667,
       "h_index": 25,
@@ -484,7 +484,7 @@
         "year": 2015,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 134
+        "cited_by_count": 135
       },
       {
         "year": 2016,
@@ -508,7 +508,7 @@
         "year": 2019,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 106
+        "cited_by_count": 107
       },
       {
         "year": 2020,
@@ -550,7 +550,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 130
+        "cited_by_count": 131
       }
     ],
     "display_name_alternatives": [
@@ -567,7 +567,7 @@
     ],
     "block_key": "m al-husseini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081811780",
-    "updated_date": "2026-11-02T12:28:04",
+    "updated_date": "2026-11-03T12:34:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -8091,6 +8091,529 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2068299560",
+      "doi": "https://doi.org/10.1016/0040-1951(88)90163-1",
+      "title": "The Arabian Infracambrian extensional system",
+      "display_name": "The Arabian Infracambrian extensional system",
+      "publication_year": 1988,
+      "publication_date": "1988-04-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2068299560",
+        "doi": "https://doi.org/10.1016/0040-1951(88)90163-1",
+        "mag": "2068299560"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/0040-1951(88)90163-1",
+        "doi": "https://doi.org/10.1016/0040-1951(88)90163-1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/0040-1951(88)90163-1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S195250905",
+          "display_name": "Tectonophysics",
+          "issn_l": "0040-1951",
+          "issn": [
+            "0040-1951",
+            "1879-3266"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Tectonophysics",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081811780",
+            "display_name": "Moujahed I. Al-Husseini",
+            "orcid": "https://orcid.org/0009-0002-1087-5882",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1087-5882"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "M.I. Husseini",
+          "raw_affiliation_strings": [
+            "P.O. Box 1916, Damman 31441 Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "P.O. Box 1916, Damman 31441 Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081811780"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3190,
+        "currency": "USD",
+        "value_usd": 3190
+      },
+      "apc_paid": null,
+      "fwci": 5.9659,
+      "has_fulltext": false,
+      "cited_by_count": 129,
+      "citation_normalized_percentile": {
+        "value": 0.94765942,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "148",
+        "issue": "1-2",
+        "first_page": "93",
+        "last_page": "103"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.9911999702453613,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9911999702453613,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.00430000014603138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.003100000089034438,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/najd-fault-system",
+          "display_name": "Najd fault system",
+          "score": 0.9570000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-shield",
+          "display_name": "Arabian Shield",
+          "score": 0.6779999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/left-lateral-faulting",
+          "display_name": "left-lateral faulting",
+          "score": 0.7960000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/transform-faults",
+          "display_name": "transform faults",
+          "score": 0.8650000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/rift-basins",
+          "display_name": "rift basins",
+          "score": 0.9240000247955322
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporitic-basins",
+          "display_name": "evaporitic basins",
+          "score": 0.9539999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/continental-breakup",
+          "display_name": "continental breakup",
+          "score": 0.7310000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-plate",
+          "display_name": "Arabian Plate",
+          "score": 0.6230000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/northern-egypt",
+          "display_name": "northern Egypt",
+          "score": 0.4749999940395355
+        },
+        {
+          "id": "https://openalex.org/keywords/sinai-peninsula",
+          "display_name": "Sinai",
+          "score": 0.5379999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.7289999723434448
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9236635565757751
+        },
+        {
+          "id": "https://openalex.org/C173776410",
+          "wikidata": "https://www.wikidata.org/wiki/Q103910",
+          "display_name": "Precambrian",
+          "level": 2,
+          "score": 0.8155292272567749
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.7995443344116211
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5644480586051941
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.5378450751304626
+        },
+        {
+          "id": "https://openalex.org/C175551986",
+          "wikidata": "https://www.wikidata.org/wiki/Q47089",
+          "display_name": "Fault (geology)",
+          "level": 2,
+          "score": 0.5368841886520386
+        },
+        {
+          "id": "https://openalex.org/C123588078",
+          "wikidata": "https://www.wikidata.org/wiki/Q34763",
+          "display_name": "Peninsula",
+          "level": 2,
+          "score": 0.5137999653816223
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.5128941535949707
+        },
+        {
+          "id": "https://openalex.org/C2780043350",
+          "wikidata": "https://www.wikidata.org/wiki/Q5421954",
+          "display_name": "Extensional fault",
+          "level": 4,
+          "score": 0.5066059827804565
+        },
+        {
+          "id": "https://openalex.org/C119477230",
+          "wikidata": "https://www.wikidata.org/wiki/Q7950",
+          "display_name": "Plate tectonics",
+          "level": 3,
+          "score": 0.5012891292572021
+        },
+        {
+          "id": "https://openalex.org/C106973953",
+          "wikidata": "https://www.wikidata.org/wiki/Q664573",
+          "display_name": "Transform fault",
+          "level": 3,
+          "score": 0.48864203691482544
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.38728201389312744
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.10789036750793457
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/0040-1951(88)90163-1",
+          "doi": "https://doi.org/10.1016/0040-1951(88)90163-1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/0040-1951(88)90163-1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S195250905",
+            "display_name": "Tectonophysics",
+            "issn_l": "0040-1951",
+            "issn": [
+              "0040-1951",
+              "1879-3266"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Tectonophysics",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W135661281",
+        "https://openalex.org/W181364181",
+        "https://openalex.org/W206771164",
+        "https://openalex.org/W644298511",
+        "https://openalex.org/W1496688790",
+        "https://openalex.org/W1542046198",
+        "https://openalex.org/W1545247753",
+        "https://openalex.org/W1573851682",
+        "https://openalex.org/W1983004765",
+        "https://openalex.org/W1992174251",
+        "https://openalex.org/W1993744042",
+        "https://openalex.org/W2002976321",
+        "https://openalex.org/W2009752217",
+        "https://openalex.org/W2021563421",
+        "https://openalex.org/W2022010553",
+        "https://openalex.org/W2026704077",
+        "https://openalex.org/W2051595569",
+        "https://openalex.org/W2063660996",
+        "https://openalex.org/W2067388253",
+        "https://openalex.org/W2074631900",
+        "https://openalex.org/W2078547529",
+        "https://openalex.org/W2081103505",
+        "https://openalex.org/W2095633464",
+        "https://openalex.org/W2114979400",
+        "https://openalex.org/W2127806207",
+        "https://openalex.org/W2129795443",
+        "https://openalex.org/W2144203676",
+        "https://openalex.org/W2146480283",
+        "https://openalex.org/W2320498059",
+        "https://openalex.org/W2336467951",
+        "https://openalex.org/W3013498580",
+        "https://openalex.org/W6604406349",
+        "https://openalex.org/W6838033775",
+        "https://openalex.org/W6996921606"
+      ],
+      "related_works": [
+        "https://openalex.org/W2127806207",
+        "https://openalex.org/W2160865574",
+        "https://openalex.org/W2955574704",
+        "https://openalex.org/W2080814221",
+        "https://openalex.org/W2184897188",
+        "https://openalex.org/W2053366836",
+        "https://openalex.org/W2084453272",
+        "https://openalex.org/W7047536429",
+        "https://openalex.org/W3189116084",
+        "https://openalex.org/W7095688735"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-03T10:50:19.383937",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2118432836",
       "doi": "https://doi.org/10.1111/ter.12009",
       "title": "Late Aptian long‐lived glacio‐eustatic lowstand recorded on the Arabian Plate",
@@ -9205,529 +9728,6 @@
         }
       ],
       "updated_date": "2026-10-30T12:39:25.321706",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2068299560",
-      "doi": "https://doi.org/10.1016/0040-1951(88)90163-1",
-      "title": "The Arabian Infracambrian extensional system",
-      "display_name": "The Arabian Infracambrian extensional system",
-      "publication_year": 1988,
-      "publication_date": "1988-04-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2068299560",
-        "doi": "https://doi.org/10.1016/0040-1951(88)90163-1",
-        "mag": "2068299560"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/0040-1951(88)90163-1",
-        "doi": "https://doi.org/10.1016/0040-1951(88)90163-1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/0040-1951(88)90163-1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S195250905",
-          "display_name": "Tectonophysics",
-          "issn_l": "0040-1951",
-          "issn": [
-            "0040-1951",
-            "1879-3266"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-b",
-            "jufo-1",
-            "norway-1",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Tectonophysics",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed I. Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882",
-            "observed_orcids": [
-              "https://orcid.org/0009-0002-1087-5882"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "M.I. Husseini",
-          "raw_affiliation_strings": [
-            "P.O. Box 1916, Damman 31441 Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "P.O. Box 1916, Damman 31441 Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 3190,
-        "currency": "USD",
-        "value_usd": 3190
-      },
-      "apc_paid": null,
-      "fwci": 5.9835,
-      "has_fulltext": false,
-      "cited_by_count": 128,
-      "citation_normalized_percentile": {
-        "value": 0.94783248,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "148",
-        "issue": "1-2",
-        "first_page": "93",
-        "last_page": "103"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.9911999702453613,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9911999702453613,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.00430000014603138,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.003100000089034438,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/najd-fault-system",
-          "display_name": "Najd fault system",
-          "score": 0.9570000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-shield",
-          "display_name": "Arabian Shield",
-          "score": 0.6779999732971191
-        },
-        {
-          "id": "https://openalex.org/keywords/left-lateral-faulting",
-          "display_name": "left-lateral faulting",
-          "score": 0.7960000038146973
-        },
-        {
-          "id": "https://openalex.org/keywords/transform-faults",
-          "display_name": "transform faults",
-          "score": 0.8650000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/rift-basins",
-          "display_name": "rift basins",
-          "score": 0.9240000247955322
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporitic-basins",
-          "display_name": "evaporitic basins",
-          "score": 0.9539999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/continental-breakup",
-          "display_name": "continental breakup",
-          "score": 0.7310000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-plate",
-          "display_name": "Arabian Plate",
-          "score": 0.6230000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/northern-egypt",
-          "display_name": "northern Egypt",
-          "score": 0.4749999940395355
-        },
-        {
-          "id": "https://openalex.org/keywords/sinai-peninsula",
-          "display_name": "Sinai",
-          "score": 0.5379999876022339
-        },
-        {
-          "id": "https://openalex.org/keywords/persian-gulf",
-          "display_name": "Persian Gulf",
-          "score": 0.7289999723434448
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9236635565757751
-        },
-        {
-          "id": "https://openalex.org/C173776410",
-          "wikidata": "https://www.wikidata.org/wiki/Q103910",
-          "display_name": "Precambrian",
-          "level": 2,
-          "score": 0.8155292272567749
-        },
-        {
-          "id": "https://openalex.org/C50682988",
-          "wikidata": "https://www.wikidata.org/wiki/Q473935",
-          "display_name": "Rift",
-          "level": 3,
-          "score": 0.7995443344116211
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5644480586051941
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.5378450751304626
-        },
-        {
-          "id": "https://openalex.org/C175551986",
-          "wikidata": "https://www.wikidata.org/wiki/Q47089",
-          "display_name": "Fault (geology)",
-          "level": 2,
-          "score": 0.5368841886520386
-        },
-        {
-          "id": "https://openalex.org/C123588078",
-          "wikidata": "https://www.wikidata.org/wiki/Q34763",
-          "display_name": "Peninsula",
-          "level": 2,
-          "score": 0.5137999653816223
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.5128941535949707
-        },
-        {
-          "id": "https://openalex.org/C2780043350",
-          "wikidata": "https://www.wikidata.org/wiki/Q5421954",
-          "display_name": "Extensional fault",
-          "level": 4,
-          "score": 0.5066059827804565
-        },
-        {
-          "id": "https://openalex.org/C119477230",
-          "wikidata": "https://www.wikidata.org/wiki/Q7950",
-          "display_name": "Plate tectonics",
-          "level": 3,
-          "score": 0.5012891292572021
-        },
-        {
-          "id": "https://openalex.org/C106973953",
-          "wikidata": "https://www.wikidata.org/wiki/Q664573",
-          "display_name": "Transform fault",
-          "level": 3,
-          "score": 0.48864203691482544
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.38728201389312744
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.10789036750793457
-        },
-        {
-          "id": "https://openalex.org/C95457728",
-          "wikidata": "https://www.wikidata.org/wiki/Q309",
-          "display_name": "History",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/0040-1951(88)90163-1",
-          "doi": "https://doi.org/10.1016/0040-1951(88)90163-1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/0040-1951(88)90163-1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S195250905",
-            "display_name": "Tectonophysics",
-            "issn_l": "0040-1951",
-            "issn": [
-              "0040-1951",
-              "1879-3266"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-b",
-              "jufo-1",
-              "norway-1",
-              "poland-140",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Tectonophysics",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 34,
-      "referenced_works": [
-        "https://openalex.org/W135661281",
-        "https://openalex.org/W181364181",
-        "https://openalex.org/W206771164",
-        "https://openalex.org/W644298511",
-        "https://openalex.org/W1496688790",
-        "https://openalex.org/W1542046198",
-        "https://openalex.org/W1545247753",
-        "https://openalex.org/W1573851682",
-        "https://openalex.org/W1983004765",
-        "https://openalex.org/W1992174251",
-        "https://openalex.org/W1993744042",
-        "https://openalex.org/W2002976321",
-        "https://openalex.org/W2009752217",
-        "https://openalex.org/W2021563421",
-        "https://openalex.org/W2022010553",
-        "https://openalex.org/W2026704077",
-        "https://openalex.org/W2051595569",
-        "https://openalex.org/W2063660996",
-        "https://openalex.org/W2067388253",
-        "https://openalex.org/W2074631900",
-        "https://openalex.org/W2078547529",
-        "https://openalex.org/W2081103505",
-        "https://openalex.org/W2095633464",
-        "https://openalex.org/W2114979400",
-        "https://openalex.org/W2127806207",
-        "https://openalex.org/W2129795443",
-        "https://openalex.org/W2144203676",
-        "https://openalex.org/W2146480283",
-        "https://openalex.org/W2320498059",
-        "https://openalex.org/W2336467951",
-        "https://openalex.org/W3013498580",
-        "https://openalex.org/W6604406349",
-        "https://openalex.org/W6838033775",
-        "https://openalex.org/W6996921606"
-      ],
-      "related_works": [
-        "https://openalex.org/W2127806207",
-        "https://openalex.org/W2160865574",
-        "https://openalex.org/W2955574704",
-        "https://openalex.org/W2080814221",
-        "https://openalex.org/W2184897188",
-        "https://openalex.org/W2053366836",
-        "https://openalex.org/W2084453272",
-        "https://openalex.org/W7047536429",
-        "https://openalex.org/W3189116084",
-        "https://openalex.org/W7095688735"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19592,11 +19592,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 4.4615,
+      "fwci": 4.6439,
       "has_fulltext": false,
-      "cited_by_count": 22,
+      "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.9603542,
+        "value": 0.96412329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20032,7 +20032,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -20043,7 +20043,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2023-05-07T00:00:00"
     },
     {
@@ -35421,9 +35421,9 @@
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.56440951,
+        "value": 0.56637962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35708,6 +35708,10 @@
           "cited_by_count": 5
         },
         {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
           "year": 2015,
           "cited_by_count": 2
         },
@@ -35716,7 +35720,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -44497,6 +44501,1022 @@
       ],
       "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2021-03-01T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2150065718",
+      "doi": "https://doi.org/10.2113/geoarabia1102181",
+      "title": "The debate over Hubbert’s Peak: a review",
+      "display_name": "The debate over Hubbert’s Peak: a review",
+      "publication_year": 2006,
+      "publication_date": "2006-04-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2150065718",
+        "doi": "https://doi.org/10.2113/geoarabia1102181",
+        "mag": "2150065718"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/geoarabia1102181",
+        "doi": "https://doi.org/10.2113/geoarabia1102181",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081811780",
+            "display_name": "Moujahed I. Al-Husseini",
+            "orcid": "https://orcid.org/0009-0002-1087-5882",
+            "observed_orcids": [
+              "https://orcid.org/0009-0002-1087-5882"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Moujahed Al-Husseini",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081811780"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.2849,
+      "has_fulltext": true,
+      "cited_by_count": 15,
+      "citation_normalized_percentile": {
+        "value": 0.8106375,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "11",
+        "issue": "2",
+        "first_page": "181",
+        "last_page": "210"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12639",
+        "display_name": "Global Energy and Sustainability Research",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2105",
+          "display_name": "Renewable Energy, Sustainability and the Environment"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12639",
+          "display_name": "Global Energy and Sustainability Research",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11801",
+          "display_name": "Reservoir Engineering and Simulation Methods",
+          "score": 0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12659",
+          "display_name": "Innovation Diffusion and Forecasting",
+          "score": 0,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1803",
+            "display_name": "Management Science and Operations Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/ultimate-recoverable-reserves",
+          "display_name": "ultimate recoverable reserves",
+          "score": 0.8519999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/peak-oil",
+          "display_name": "peak oil",
+          "score": 0.7379999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/hubbert-curve",
+          "display_name": "Hubbert curve",
+          "score": 0.6959999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/sensitivity-analysis",
+          "display_name": "sensitivity analysis",
+          "score": 0.7379999756813049
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2987168347",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Crude oil",
+          "level": 2,
+          "score": 0.5985633730888367
+        },
+        {
+          "id": "https://openalex.org/C2778552509",
+          "wikidata": "https://www.wikidata.org/wiki/Q209916",
+          "display_name": "Peak oil",
+          "level": 3,
+          "score": 0.5421018004417419
+        },
+        {
+          "id": "https://openalex.org/C2984556133",
+          "wikidata": "https://www.wikidata.org/wiki/Q297279",
+          "display_name": "Oil price",
+          "level": 2,
+          "score": 0.5171098709106445
+        },
+        {
+          "id": "https://openalex.org/C2984309096",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349660",
+          "display_name": "Oil production",
+          "level": 2,
+          "score": 0.4431923031806946
+        },
+        {
+          "id": "https://openalex.org/C2778348673",
+          "wikidata": "https://www.wikidata.org/wiki/Q739302",
+          "display_name": "Production (economics)",
+          "level": 2,
+          "score": 0.4267701804637909
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.42610540986061096
+        },
+        {
+          "id": "https://openalex.org/C48824518",
+          "wikidata": "https://www.wikidata.org/wiki/Q396340",
+          "display_name": "Agricultural economics",
+          "level": 1,
+          "score": 0.3945389986038208
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.3840678334236145
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.35722869634628296
+        },
+        {
+          "id": "https://openalex.org/C175605778",
+          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+          "display_name": "Natural resource economics",
+          "level": 1,
+          "score": 0.35320422053337097
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.26515012979507446
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2206282913684845
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.2127944529056549
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.13743770122528076
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.13472741842269897
+        },
+        {
+          "id": "https://openalex.org/C556758197",
+          "wikidata": "https://www.wikidata.org/wiki/Q580018",
+          "display_name": "Monetary economics",
+          "level": 1,
+          "score": 0.12420210242271423
+        },
+        {
+          "id": "https://openalex.org/C139719470",
+          "wikidata": "https://www.wikidata.org/wiki/Q39680",
+          "display_name": "Macroeconomics",
+          "level": 1,
+          "score": 0.09781017899513245
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.09400895237922668
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/geoarabia1102181",
+          "doi": "https://doi.org/10.2113/geoarabia1102181",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
+          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
+          "source": {
+            "id": "https://openalex.org/S189311251",
+            "display_name": "GeoArabia",
+            "issn_l": "1025-6059",
+            "issn": [
+              "1025-6059"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GeoArabia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2113/geoarabia1102181",
+        "doi": "https://doi.org/10.2113/geoarabia1102181",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2150065718.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2150065718.grobid-xml"
+      },
+      "referenced_works_count": 42,
+      "referenced_works": [
+        "https://openalex.org/W18189937",
+        "https://openalex.org/W100370939",
+        "https://openalex.org/W144725662",
+        "https://openalex.org/W194499206",
+        "https://openalex.org/W375166418",
+        "https://openalex.org/W379301160",
+        "https://openalex.org/W636153567",
+        "https://openalex.org/W1486612337",
+        "https://openalex.org/W1487775665",
+        "https://openalex.org/W1500975038",
+        "https://openalex.org/W1524608880",
+        "https://openalex.org/W1538285846",
+        "https://openalex.org/W1549263809",
+        "https://openalex.org/W1645038718",
+        "https://openalex.org/W1970635216",
+        "https://openalex.org/W2001755259",
+        "https://openalex.org/W2010381412",
+        "https://openalex.org/W2010659024",
+        "https://openalex.org/W2024019198",
+        "https://openalex.org/W2037378611",
+        "https://openalex.org/W2039554364",
+        "https://openalex.org/W2067712590",
+        "https://openalex.org/W2068685056",
+        "https://openalex.org/W2070527452",
+        "https://openalex.org/W2073080915",
+        "https://openalex.org/W2079282013",
+        "https://openalex.org/W2089525676",
+        "https://openalex.org/W2121188496",
+        "https://openalex.org/W2157556768",
+        "https://openalex.org/W2169491110",
+        "https://openalex.org/W2489534597",
+        "https://openalex.org/W2730278869",
+        "https://openalex.org/W2942871681",
+        "https://openalex.org/W2971835661",
+        "https://openalex.org/W2973630856",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6605859395",
+        "https://openalex.org/W6607870885",
+        "https://openalex.org/W6612958586",
+        "https://openalex.org/W6631814218",
+        "https://openalex.org/W6677883197",
+        "https://openalex.org/W6762431745"
+      ],
+      "related_works": [
+        "https://openalex.org/W7099143736",
+        "https://openalex.org/W1969875130",
+        "https://openalex.org/W2023587693",
+        "https://openalex.org/W1988813545",
+        "https://openalex.org/W100370939",
+        "https://openalex.org/W2293097570",
+        "https://openalex.org/W7099524945",
+        "https://openalex.org/W3128599491",
+        "https://openalex.org/W2079282013",
+        "https://openalex.org/W2005016307"
+      ],
+      "abstract_inverted_index": {
+        "85": [
+          174
+        ],
+        "120": [
+          203
+        ],
+        "200": [
+          221
+        ],
+        "2030": [
+          198
+        ],
+        "ABSTRACT": [
+          0
+        ],
+        "The": [
+          1,
+          29
+        ],
+        "application": [
+          2
+        ],
+        "of": [
+          3,
+          52,
+          75,
+          95,
+          131,
+          150,
+          167,
+          202,
+          224
+        ],
+        "various": [
+          4
+        ],
+        "quantitative": [
+          5
+        ],
+        "techniques": [
+          6
+        ],
+        "and": [
+          7,
+          45,
+          102,
+          123,
+          137,
+          145
+        ],
+        "assumptions": [
+          8
+        ],
+        "by": [
+          9,
+          61,
+          141,
+          216
+        ],
+        "different": [
+          10
+        ],
+        "authors": [
+          11,
+          84,
+          110,
+          182
+        ],
+        "to": [
+          12,
+          32,
+          139,
+          173
+        ],
+        "forecast": [
+          13,
+          103
+        ],
+        "the": [
+          14,
+          21,
+          34,
+          53,
+          65,
+          73,
+          80,
+          112,
+          127,
+          132,
+          227
+        ],
+        "world’s": [
+          15
+        ],
+        "conventional": [
+          16
+        ],
+        "crude": [
+          17
+        ],
+        "oil": [
+          18,
+          37,
+          144
+        ],
+        "production": [
+          19,
+          38,
+          43,
+          165
+        ],
+        "in": [
+          20,
+          25,
+          64,
+          79,
+          106,
+          159,
+          177,
+          197,
+          226
+        ],
+        "21st": [
+          22
+        ],
+        "Century": [
+          23
+        ],
+        "results": [
+          24
+        ],
+        "highly": [
+          26
+        ],
+        "inconsistent": [
+          27
+        ],
+        "predictions.": [
+          28
+        ],
+        "forecasts": [
+          30
+        ],
+        "attempt": [
+          31
+        ],
+        "pinpoint": [
+          33
+        ],
+        "peak": [
+          35,
+          42
+        ],
+        "world": [
+          36
+        ],
+        "year": [
+          39
+        ],
+        "(Hubbert’s": [
+          40
+        ],
+        "Peak),": [
+          41
+        ],
+        "rate,": [
+          44,
+          48
+        ],
+        "post-peak": [
+          46
+        ],
+        "decline": [
+          47
+        ],
+        "based": [
+          49
+        ],
+        "on": [
+          50
+        ],
+        "estimates": [
+          51
+        ],
+        "ultimate": [
+          54
+        ],
+        "recoverable": [
+          55
+        ],
+        "reserves": [
+          56
+        ],
+        "(EURR).": [
+          57
+        ],
+        "These": [
+          58
+        ],
+        "techniques,": [
+          59
+        ],
+        "pioneered": [
+          60
+        ],
+        "M.K.": [
+          62
+        ],
+        "Hubbert": [
+          63
+        ],
+        "mid-1950s,": [
+          66
+        ],
+        "generally": [
+          67
+        ],
+        "consider": [
+          68
+        ],
+        "economic": [
+          69
+        ],
+        "factors,": [
+          70
+        ],
+        "such": [
+          71
+        ],
+        "as": [
+          72,
+          77
+        ],
+        "price": [
+          74
+        ],
+        "oil,": [
+          76
+        ],
+        "irrelevant": [
+          78
+        ],
+        "long": [
+          81
+        ],
+        "run.": [
+          82
+        ],
+        "Some": [
+          83
+        ],
+        "support": [
+          85,
+          183
+        ],
+        "a": [
+          86,
+          164,
+          184,
+          200
+        ],
+        "Low": [
+          87
+        ],
+        "EURR": [
+          88,
+          113,
+          120,
+          129,
+          149,
+          186
+        ],
+        "World": [
+          89,
+          121,
+          187
+        ],
+        "Scenario": [
+          90,
+          188
+        ],
+        "(about": [
+          91
+        ],
+        "2.0": [
+          92
+        ],
+        "trillion": [
+          93,
+          117,
+          152,
+          190
+        ],
+        "barrels,": [
+          94
+        ],
+        "which": [
+          96
+        ],
+        "half": [
+          97
+        ],
+        "has": [
+          98
+        ],
+        "already": [
+          99
+        ],
+        "been": [
+          100
+        ],
+        "produced)": [
+          101
+        ],
+        "Hubbert’s": [
+          104,
+          155,
+          195,
+          209,
+          213
+        ],
+        "Peak": [
+          105,
+          156,
+          196,
+          214
+        ],
+        "this": [
+          107,
+          124
+        ],
+        "decade.": [
+          108
+        ],
+        "Other": [
+          109
+        ],
+        "estimate": [
+          111,
+          125
+        ],
+        "at": [
+          114,
+          163,
+          199
+        ],
+        "about": [
+          115,
+          168
+        ],
+        "3.0": [
+          116,
+          151
+        ],
+        "barrels": [
+          118,
+          153,
+          191,
+          223
+        ],
+        "(Median": [
+          119
+        ],
+        "Scenario),": [
+          122
+        ],
+        "is": [
+          126
+        ],
+        "mean": [
+          128
+        ],
+        "assessment": [
+          130
+        ],
+        "United": [
+          133
+        ],
+        "States": [
+          134
+        ],
+        "Geological": [
+          135
+        ],
+        "Survey": [
+          136
+        ],
+        "similar": [
+          138
+        ],
+        "assessments": [
+          140
+        ],
+        "several": [
+          142
+        ],
+        "major": [
+          143
+        ],
+        "gas": [
+          146
+        ],
+        "companies.": [
+          147
+        ],
+        "An": [
+          148
+        ],
+        "implies": [
+          154
+        ],
+        "will": [
+          157
+        ],
+        "occur": [
+          158
+        ],
+        "2020,": [
+          160
+        ],
+        "or": [
+          161,
+          192
+        ],
+        "so,": [
+          162
+        ],
+        "rate": [
+          166,
+          201
+        ],
+        "90–100": [
+          169
+        ],
+        "million": [
+          170,
+          175,
+          204
+        ],
+        "barrels/day": [
+          171,
+          176
+        ],
+        "(compared": [
+          172
+        ],
+        "late": [
+          178
+        ],
+        "2005).": [
+          179
+        ],
+        "A": [
+          180
+        ],
+        "few": [
+          181
+        ],
+        "High": [
+          185
+        ],
+        "(4.0": [
+          189
+        ],
+        "more)": [
+          193
+        ],
+        "with": [
+          194
+        ],
+        "barrels/day.": [
+          205
+        ],
+        "Sensitivity": [
+          206
+        ],
+        "analysis": [
+          207
+        ],
+        "for": [
+          208,
+          219
+        ],
+        "Curve": [
+          210
+        ],
+        "suggest": [
+          211
+        ],
+        "that": [
+          212
+        ],
+        "moves": [
+          215
+        ],
+        "three": [
+          217
+        ],
+        "years": [
+          218
+        ],
+        "every": [
+          220
+        ],
+        "billion": [
+          222
+        ],
+        "error": [
+          225
+        ],
+        "EURR.": [
+          228
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-03T10:50:19.383937",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2970361768",
@@ -54560,1022 +55580,6 @@
       ],
       "updated_date": "2026-10-07T09:51:55.459714",
       "created_date": "2020-10-29T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2150065718",
-      "doi": "https://doi.org/10.2113/geoarabia1102181",
-      "title": "The debate over Hubbert’s Peak: a review",
-      "display_name": "The debate over Hubbert’s Peak: a review",
-      "publication_year": 2006,
-      "publication_date": "2006-04-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2150065718",
-        "doi": "https://doi.org/10.2113/geoarabia1102181",
-        "mag": "2150065718"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/geoarabia1102181",
-        "doi": "https://doi.org/10.2113/geoarabia1102181",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed I. Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882",
-            "observed_orcids": [
-              "https://orcid.org/0009-0002-1087-5882"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Moujahed Al-Husseini",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5081811780"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.2889,
-      "has_fulltext": true,
-      "cited_by_count": 14,
-      "citation_normalized_percentile": {
-        "value": 0.81131082,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "11",
-        "issue": "2",
-        "first_page": "181",
-        "last_page": "210"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12639",
-        "display_name": "Global Energy and Sustainability Research",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2105",
-          "display_name": "Renewable Energy, Sustainability and the Environment"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12639",
-          "display_name": "Global Energy and Sustainability Research",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11801",
-          "display_name": "Reservoir Engineering and Simulation Methods",
-          "score": 0,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12659",
-          "display_name": "Innovation Diffusion and Forecasting",
-          "score": 0,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1803",
-            "display_name": "Management Science and Operations Research"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/18",
-            "display_name": "Decision Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/ultimate-recoverable-reserves",
-          "display_name": "ultimate recoverable reserves",
-          "score": 0.8519999980926514
-        },
-        {
-          "id": "https://openalex.org/keywords/peak-oil",
-          "display_name": "peak oil",
-          "score": 0.7379999756813049
-        },
-        {
-          "id": "https://openalex.org/keywords/hubbert-curve",
-          "display_name": "Hubbert curve",
-          "score": 0.6959999799728394
-        },
-        {
-          "id": "https://openalex.org/keywords/sensitivity-analysis",
-          "display_name": "sensitivity analysis",
-          "score": 0.7379999756813049
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2987168347",
-          "wikidata": "https://www.wikidata.org/wiki/Q22656",
-          "display_name": "Crude oil",
-          "level": 2,
-          "score": 0.5985633730888367
-        },
-        {
-          "id": "https://openalex.org/C2778552509",
-          "wikidata": "https://www.wikidata.org/wiki/Q209916",
-          "display_name": "Peak oil",
-          "level": 3,
-          "score": 0.5421018004417419
-        },
-        {
-          "id": "https://openalex.org/C2984556133",
-          "wikidata": "https://www.wikidata.org/wiki/Q297279",
-          "display_name": "Oil price",
-          "level": 2,
-          "score": 0.5171098709106445
-        },
-        {
-          "id": "https://openalex.org/C2984309096",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349660",
-          "display_name": "Oil production",
-          "level": 2,
-          "score": 0.4431923031806946
-        },
-        {
-          "id": "https://openalex.org/C2778348673",
-          "wikidata": "https://www.wikidata.org/wiki/Q739302",
-          "display_name": "Production (economics)",
-          "level": 2,
-          "score": 0.4267701804637909
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.42610540986061096
-        },
-        {
-          "id": "https://openalex.org/C48824518",
-          "wikidata": "https://www.wikidata.org/wiki/Q396340",
-          "display_name": "Agricultural economics",
-          "level": 1,
-          "score": 0.3945389986038208
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0.3840678334236145
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.35722869634628296
-        },
-        {
-          "id": "https://openalex.org/C175605778",
-          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
-          "display_name": "Natural resource economics",
-          "level": 1,
-          "score": 0.35320422053337097
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.26515012979507446
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.2206282913684845
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.2127944529056549
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.13743770122528076
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.13472741842269897
-        },
-        {
-          "id": "https://openalex.org/C556758197",
-          "wikidata": "https://www.wikidata.org/wiki/Q580018",
-          "display_name": "Monetary economics",
-          "level": 1,
-          "score": 0.12420210242271423
-        },
-        {
-          "id": "https://openalex.org/C139719470",
-          "wikidata": "https://www.wikidata.org/wiki/Q39680",
-          "display_name": "Macroeconomics",
-          "level": 1,
-          "score": 0.09781017899513245
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.09400895237922668
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/geoarabia1102181",
-          "doi": "https://doi.org/10.2113/geoarabia1102181",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
-          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
-          "source": {
-            "id": "https://openalex.org/S189311251",
-            "display_name": "GeoArabia",
-            "issn_l": "1025-6059",
-            "issn": [
-              "1025-6059"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GeoArabia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2113/geoarabia1102181",
-        "doi": "https://doi.org/10.2113/geoarabia1102181",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia1102181",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/11/2/181/5442745/peak_alhusseini.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2150065718.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2150065718.grobid-xml"
-      },
-      "referenced_works_count": 42,
-      "referenced_works": [
-        "https://openalex.org/W18189937",
-        "https://openalex.org/W100370939",
-        "https://openalex.org/W144725662",
-        "https://openalex.org/W194499206",
-        "https://openalex.org/W375166418",
-        "https://openalex.org/W379301160",
-        "https://openalex.org/W636153567",
-        "https://openalex.org/W1486612337",
-        "https://openalex.org/W1487775665",
-        "https://openalex.org/W1500975038",
-        "https://openalex.org/W1524608880",
-        "https://openalex.org/W1538285846",
-        "https://openalex.org/W1549263809",
-        "https://openalex.org/W1645038718",
-        "https://openalex.org/W1970635216",
-        "https://openalex.org/W2001755259",
-        "https://openalex.org/W2010381412",
-        "https://openalex.org/W2010659024",
-        "https://openalex.org/W2024019198",
-        "https://openalex.org/W2037378611",
-        "https://openalex.org/W2039554364",
-        "https://openalex.org/W2067712590",
-        "https://openalex.org/W2068685056",
-        "https://openalex.org/W2070527452",
-        "https://openalex.org/W2073080915",
-        "https://openalex.org/W2079282013",
-        "https://openalex.org/W2089525676",
-        "https://openalex.org/W2121188496",
-        "https://openalex.org/W2157556768",
-        "https://openalex.org/W2169491110",
-        "https://openalex.org/W2489534597",
-        "https://openalex.org/W2730278869",
-        "https://openalex.org/W2942871681",
-        "https://openalex.org/W2971835661",
-        "https://openalex.org/W2973630856",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6605859395",
-        "https://openalex.org/W6607870885",
-        "https://openalex.org/W6612958586",
-        "https://openalex.org/W6631814218",
-        "https://openalex.org/W6677883197",
-        "https://openalex.org/W6762431745"
-      ],
-      "related_works": [
-        "https://openalex.org/W7099143736",
-        "https://openalex.org/W1969875130",
-        "https://openalex.org/W2023587693",
-        "https://openalex.org/W1988813545",
-        "https://openalex.org/W100370939",
-        "https://openalex.org/W2293097570",
-        "https://openalex.org/W7099524945",
-        "https://openalex.org/W3128599491",
-        "https://openalex.org/W2079282013",
-        "https://openalex.org/W2005016307"
-      ],
-      "abstract_inverted_index": {
-        "85": [
-          174
-        ],
-        "120": [
-          203
-        ],
-        "200": [
-          221
-        ],
-        "2030": [
-          198
-        ],
-        "ABSTRACT": [
-          0
-        ],
-        "The": [
-          1,
-          29
-        ],
-        "application": [
-          2
-        ],
-        "of": [
-          3,
-          52,
-          75,
-          95,
-          131,
-          150,
-          167,
-          202,
-          224
-        ],
-        "various": [
-          4
-        ],
-        "quantitative": [
-          5
-        ],
-        "techniques": [
-          6
-        ],
-        "and": [
-          7,
-          45,
-          102,
-          123,
-          137,
-          145
-        ],
-        "assumptions": [
-          8
-        ],
-        "by": [
-          9,
-          61,
-          141,
-          216
-        ],
-        "different": [
-          10
-        ],
-        "authors": [
-          11,
-          84,
-          110,
-          182
-        ],
-        "to": [
-          12,
-          32,
-          139,
-          173
-        ],
-        "forecast": [
-          13,
-          103
-        ],
-        "the": [
-          14,
-          21,
-          34,
-          53,
-          65,
-          73,
-          80,
-          112,
-          127,
-          132,
-          227
-        ],
-        "world’s": [
-          15
-        ],
-        "conventional": [
-          16
-        ],
-        "crude": [
-          17
-        ],
-        "oil": [
-          18,
-          37,
-          144
-        ],
-        "production": [
-          19,
-          38,
-          43,
-          165
-        ],
-        "in": [
-          20,
-          25,
-          64,
-          79,
-          106,
-          159,
-          177,
-          197,
-          226
-        ],
-        "21st": [
-          22
-        ],
-        "Century": [
-          23
-        ],
-        "results": [
-          24
-        ],
-        "highly": [
-          26
-        ],
-        "inconsistent": [
-          27
-        ],
-        "predictions.": [
-          28
-        ],
-        "forecasts": [
-          30
-        ],
-        "attempt": [
-          31
-        ],
-        "pinpoint": [
-          33
-        ],
-        "peak": [
-          35,
-          42
-        ],
-        "world": [
-          36
-        ],
-        "year": [
-          39
-        ],
-        "(Hubbert’s": [
-          40
-        ],
-        "Peak),": [
-          41
-        ],
-        "rate,": [
-          44,
-          48
-        ],
-        "post-peak": [
-          46
-        ],
-        "decline": [
-          47
-        ],
-        "based": [
-          49
-        ],
-        "on": [
-          50
-        ],
-        "estimates": [
-          51
-        ],
-        "ultimate": [
-          54
-        ],
-        "recoverable": [
-          55
-        ],
-        "reserves": [
-          56
-        ],
-        "(EURR).": [
-          57
-        ],
-        "These": [
-          58
-        ],
-        "techniques,": [
-          59
-        ],
-        "pioneered": [
-          60
-        ],
-        "M.K.": [
-          62
-        ],
-        "Hubbert": [
-          63
-        ],
-        "mid-1950s,": [
-          66
-        ],
-        "generally": [
-          67
-        ],
-        "consider": [
-          68
-        ],
-        "economic": [
-          69
-        ],
-        "factors,": [
-          70
-        ],
-        "such": [
-          71
-        ],
-        "as": [
-          72,
-          77
-        ],
-        "price": [
-          74
-        ],
-        "oil,": [
-          76
-        ],
-        "irrelevant": [
-          78
-        ],
-        "long": [
-          81
-        ],
-        "run.": [
-          82
-        ],
-        "Some": [
-          83
-        ],
-        "support": [
-          85,
-          183
-        ],
-        "a": [
-          86,
-          164,
-          184,
-          200
-        ],
-        "Low": [
-          87
-        ],
-        "EURR": [
-          88,
-          113,
-          120,
-          129,
-          149,
-          186
-        ],
-        "World": [
-          89,
-          121,
-          187
-        ],
-        "Scenario": [
-          90,
-          188
-        ],
-        "(about": [
-          91
-        ],
-        "2.0": [
-          92
-        ],
-        "trillion": [
-          93,
-          117,
-          152,
-          190
-        ],
-        "barrels,": [
-          94
-        ],
-        "which": [
-          96
-        ],
-        "half": [
-          97
-        ],
-        "has": [
-          98
-        ],
-        "already": [
-          99
-        ],
-        "been": [
-          100
-        ],
-        "produced)": [
-          101
-        ],
-        "Hubbert’s": [
-          104,
-          155,
-          195,
-          209,
-          213
-        ],
-        "Peak": [
-          105,
-          156,
-          196,
-          214
-        ],
-        "this": [
-          107,
-          124
-        ],
-        "decade.": [
-          108
-        ],
-        "Other": [
-          109
-        ],
-        "estimate": [
-          111,
-          125
-        ],
-        "at": [
-          114,
-          163,
-          199
-        ],
-        "about": [
-          115,
-          168
-        ],
-        "3.0": [
-          116,
-          151
-        ],
-        "barrels": [
-          118,
-          153,
-          191,
-          223
-        ],
-        "(Median": [
-          119
-        ],
-        "Scenario),": [
-          122
-        ],
-        "is": [
-          126
-        ],
-        "mean": [
-          128
-        ],
-        "assessment": [
-          130
-        ],
-        "United": [
-          133
-        ],
-        "States": [
-          134
-        ],
-        "Geological": [
-          135
-        ],
-        "Survey": [
-          136
-        ],
-        "similar": [
-          138
-        ],
-        "assessments": [
-          140
-        ],
-        "several": [
-          142
-        ],
-        "major": [
-          143
-        ],
-        "gas": [
-          146
-        ],
-        "companies.": [
-          147
-        ],
-        "An": [
-          148
-        ],
-        "implies": [
-          154
-        ],
-        "will": [
-          157
-        ],
-        "occur": [
-          158
-        ],
-        "2020,": [
-          160
-        ],
-        "or": [
-          161,
-          192
-        ],
-        "so,": [
-          162
-        ],
-        "rate": [
-          166,
-          201
-        ],
-        "90–100": [
-          169
-        ],
-        "million": [
-          170,
-          175,
-          204
-        ],
-        "barrels/day": [
-          171,
-          176
-        ],
-        "(compared": [
-          172
-        ],
-        "late": [
-          178
-        ],
-        "2005).": [
-          179
-        ],
-        "A": [
-          180
-        ],
-        "few": [
-          181
-        ],
-        "High": [
-          185
-        ],
-        "(4.0": [
-          189
-        ],
-        "more)": [
-          193
-        ],
-        "with": [
-          194
-        ],
-        "barrels/day.": [
-          205
-        ],
-        "Sensitivity": [
-          206
-        ],
-        "analysis": [
-          207
-        ],
-        "for": [
-          208,
-          219
-        ],
-        "Curve": [
-          210
-        ],
-        "suggest": [
-          211
-        ],
-        "that": [
-          212
-        ],
-        "moves": [
-          215
-        ],
-        "three": [
-          217
-        ],
-        "years": [
-          218
-        ],
-        "every": [
-          220
-        ],
-        "billion": [
-          222
-        ],
-        "error": [
-          225
-        ],
-        "EURR.": [
-          228
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W3011458131",

@@ -21,7 +21,7 @@
     ],
     "full_name": "DROSTE, HENK, Shell Research B.V.,",
     "works_count": 55,
-    "cited_by_count": 2348,
+    "cited_by_count": 2349,
     "summary_stats": {
       "2yr_mean_citedness": 3.5,
       "h_index": 19,
@@ -272,7 +272,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000522,
+        "value": 0.0000521,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -501,7 +501,7 @@
         "year": 2019,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 123
+        "cited_by_count": 124
       },
       {
         "year": 2020,
@@ -561,7 +561,7 @@
     ],
     "block_key": "h droste",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058646530",
-    "updated_date": "2026-11-02T12:28:04",
+    "updated_date": "2026-11-03T12:34:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -10321,9 +10321,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -29954,16 +29954,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": 0.8204,
       "has_fulltext": false,
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.33827493,
+        "value": 0.78213802,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 98
       },
       "biblio": {
@@ -30185,9 +30185,13 @@
         {
           "year": 2021,
           "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -33137,9 +33141,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 1
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -44217,9 +44221,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],

@@ -10,7 +10,7 @@
     ],
     "full_name": "John Melvin (2)",
     "works_count": 35,
-    "cited_by_count": 737,
+    "cited_by_count": 739,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 14,
@@ -365,7 +365,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000364,
+        "value": 0.0000363,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -594,7 +594,7 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 45
+        "cited_by_count": 46
       },
       {
         "year": 2023,
@@ -627,7 +627,7 @@
     ],
     "block_key": "j melvin",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103799444",
-    "updated_date": "2026-10-31T12:29:50",
+    "updated_date": "2026-11-03T12:34:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2050,11 +2050,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 23.9349,
+      "fwci": 24.1928,
       "has_fulltext": true,
-      "cited_by_count": 273,
+      "cited_by_count": 275,
       "citation_normalized_percentile": {
-        "value": 0.99826833,
+        "value": 0.9983435,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2578,13 +2578,6 @@
       "study_designs": [],
       "awards": [
         {
-          "id": "https://openalex.org/G2666493347",
-          "display_name": null,
-          "funder_award_id": "NE/E006612/1",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        },
-        {
           "id": "https://openalex.org/G4965502871",
           "display_name": "Origin and early diversification of vascular plants: integrating evidence from the plant megafossil and dispersed spore fossil records",
           "funder_award_id": "NE/E006612/1",
@@ -2962,7 +2955,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2021,
@@ -3005,7 +2998,7 @@
           "cited_by_count": 25
         }
       ],
-      "updated_date": "2026-10-31T12:09:11.096373",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10686,13 +10679,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.409,
+      "fwci": 2.4041,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.89992242,
+        "value": 0.90031153,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 88,
@@ -11477,7 +11470,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-01T11:40:01.658920",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2020-11-09T00:00:00"
     },
     {
@@ -27147,9 +27140,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],

@@ -34,7 +34,7 @@
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
     "works_count": 97,
-    "cited_by_count": 1467,
+    "cited_by_count": 1465,
     "summary_stats": {
       "2yr_mean_citedness": 2.1842105263157894,
       "h_index": 21,
@@ -233,7 +233,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000998,
+        "value": 0.0000997,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -250,7 +250,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.000099,
+        "value": 0.0000988,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -449,7 +449,7 @@
         "year": 2021,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 116
+        "cited_by_count": 115
       },
       {
         "year": 2022,
@@ -510,7 +510,7 @@
     ],
     "block_key": "m el-ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-11-02T12:28:04",
+    "updated_date": "2026-11-03T12:34:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -3677,11 +3677,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.6687,
+      "fwci": 2.1263,
       "has_fulltext": false,
-      "cited_by_count": 91,
+      "cited_by_count": 90,
       "citation_normalized_percentile": {
-        "value": 0.87280108,
+        "value": 0.84955534,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4060,7 +4060,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 62,
+      "referenced_works_count": 61,
       "referenced_works": [
         "https://openalex.org/W4781991",
         "https://openalex.org/W102221933",
@@ -4086,7 +4086,6 @@
         "https://openalex.org/W1991432315",
         "https://openalex.org/W1991984045",
         "https://openalex.org/W1995489773",
-        "https://openalex.org/W1997195714",
         "https://openalex.org/W2008830075",
         "https://openalex.org/W2011187179",
         "https://openalex.org/W2011307050",
@@ -4196,7 +4195,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14875,9 +14874,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6801000237464905,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6801000237464905
         }
       ],
       "study_designs": [],
@@ -29774,16 +29773,16 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 1.562,
+      "fwci": 1.3873,
       "has_fulltext": false,
-      "cited_by_count": 14,
+      "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.78822149,
+        "value": 0.76188441,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -30150,7 +30149,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 110,
+      "referenced_works_count": 109,
       "referenced_works": [
         "https://openalex.org/W4272660",
         "https://openalex.org/W101633874",
@@ -30256,7 +30255,6 @@
         "https://openalex.org/W2966690669",
         "https://openalex.org/W2969915719",
         "https://openalex.org/W3129034920",
-        "https://openalex.org/W3160765766",
         "https://openalex.org/W4205433997",
         "https://openalex.org/W4206115547",
         "https://openalex.org/W4210840637",
@@ -30920,10 +30918,10 @@
         },
         {
           "year": 2021,
-          "cited_by_count": 2
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2021-05-24T00:00:00"
     },
     {
@@ -32985,11 +32983,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 1.8911,
+      "fwci": 1.8815,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.83246445,
+        "value": 0.83177127,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33439,7 +33437,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 72,
+      "referenced_works_count": 75,
       "referenced_works": [
         "https://openalex.org/W29166314",
         "https://openalex.org/W78380009",
@@ -33466,6 +33464,7 @@
         "https://openalex.org/W2016474224",
         "https://openalex.org/W2021275366",
         "https://openalex.org/W2025440809",
+        "https://openalex.org/W2034896353",
         "https://openalex.org/W2041758750",
         "https://openalex.org/W2044304935",
         "https://openalex.org/W2049761211",
@@ -33501,8 +33500,10 @@
         "https://openalex.org/W3163418836",
         "https://openalex.org/W3199166530",
         "https://openalex.org/W4205433997",
+        "https://openalex.org/W4206317699",
         "https://openalex.org/W4206613614",
         "https://openalex.org/W4224326936",
+        "https://openalex.org/W4239517786",
         "https://openalex.org/W4293558665",
         "https://openalex.org/W4300588622",
         "https://openalex.org/W4302589100",
@@ -34143,7 +34144,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2024-09-20T00:00:00"
     },
     {
@@ -36286,9 +36287,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -37081,14 +37082,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.5925999879837036,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.5925999879837036
         }
       ],
       "study_designs": [],
@@ -48364,9 +48365,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -64367,9 +64368,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -68011,11 +68012,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1152,
+      "fwci": 0.1143,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.41049085,
+        "value": 0.41021236,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68345,9 +68346,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -68382,11 +68383,13 @@
         "pdf": "https://content.openalex.org/works/W4407416987.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4407416987.grobid-xml"
       },
-      "referenced_works_count": 44,
+      "referenced_works_count": 50,
       "referenced_works": [
+        "https://openalex.org/W175335426",
         "https://openalex.org/W1504477424",
         "https://openalex.org/W1741220833",
         "https://openalex.org/W1783070355",
+        "https://openalex.org/W1856219842",
         "https://openalex.org/W1968809339",
         "https://openalex.org/W1977913700",
         "https://openalex.org/W1986645774",
@@ -68410,6 +68413,7 @@
         "https://openalex.org/W2160172778",
         "https://openalex.org/W2163867528",
         "https://openalex.org/W2256250563",
+        "https://openalex.org/W2273741889",
         "https://openalex.org/W2295210637",
         "https://openalex.org/W2343949725",
         "https://openalex.org/W2344851372",
@@ -68417,15 +68421,18 @@
         "https://openalex.org/W2557067486",
         "https://openalex.org/W2607283950",
         "https://openalex.org/W2616667085",
+        "https://openalex.org/W2731888302",
         "https://openalex.org/W2745249091",
         "https://openalex.org/W2794940476",
         "https://openalex.org/W2883824170",
         "https://openalex.org/W2901159814",
         "https://openalex.org/W2980981350",
         "https://openalex.org/W3092345961",
+        "https://openalex.org/W3148284522",
         "https://openalex.org/W3196895709",
         "https://openalex.org/W3209542049",
         "https://openalex.org/W4205512890",
+        "https://openalex.org/W4241531530",
         "https://openalex.org/W4311818006",
         "https://openalex.org/W4362667505"
       ],
@@ -69012,7 +69019,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-13T10:08:12.033832",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2025-02-13T00:00:00"
     },
     {
@@ -78090,9 +78097,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -80793,9 +80800,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -82750,9 +82757,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.821399986743927
         }
       ],
       "study_designs": [],
@@ -84947,9 +84954,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -87204,14 +87211,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 1
         },
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -88661,14 +88668,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7207000255584717,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.7207000255584717
         },
         {
-          "score": 0.5142999887466431,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "score": 0.5142999887466431
         }
       ],
       "study_designs": [],
@@ -89998,14 +90005,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         },
         {
-          "score": 0.4390000104904175,
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "score": 0.4390000104904175
         }
       ],
       "study_designs": [],

@@ -13,7 +13,7 @@
     ],
     "full_name": "Vaslet, Denis",
     "works_count": 44,
-    "cited_by_count": 1549,
+    "cited_by_count": 1552,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 21,
@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000498,
+        "value": 0.0000497,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -489,7 +489,7 @@
     ],
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2026-10-31T12:29:50",
+    "updated_date": "2026-11-03T12:34:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -588,16 +588,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0621,
+      "fwci": 1.0546,
       "has_fulltext": true,
-      "cited_by_count": 194,
+      "cited_by_count": 195,
       "citation_normalized_percentile": {
-        "value": 0.79881522,
+        "value": 0.79738412,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -1359,7 +1359,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2019-09-26T00:00:00"
     },
     {
@@ -1509,16 +1509,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.1619,
+      "fwci": 7.1637,
       "has_fulltext": false,
-      "cited_by_count": 169,
+      "cited_by_count": 170,
       "citation_normalized_percentile": {
-        "value": 0.9745445,
+        "value": 0.9745785,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -2305,7 +2305,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-10-22T09:42:04.148104",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -16927,9 +16927,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7778000235557556,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7778000235557556
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -19910,11 +19910,11 @@
         "value_usd": 4670
       },
       "apc_paid": null,
-      "fwci": 0.8243,
+      "fwci": 0.8277,
       "has_fulltext": false,
-      "cited_by_count": 63,
+      "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.71633397,
+        "value": 0.71743907,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20403,7 +20403,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22687,9 +22687,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],

@@ -14,7 +14,7 @@
     ],
     "full_name": "Mohammad Eid Alsuwaidi",
     "works_count": 50,
-    "cited_by_count": 443,
+    "cited_by_count": 444,
     "summary_stats": {
       "2yr_mean_citedness": 4.291666666666667,
       "h_index": 14,
@@ -217,7 +217,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000539,
+        "value": 0.0000538,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -234,7 +234,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000342,
+        "value": 0.0000341,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -392,7 +392,7 @@
         "year": 2026,
         "works_count": 6,
         "oa_works_count": 4,
-        "cited_by_count": 101
+        "cited_by_count": 102
       }
     ],
     "display_name_alternatives": [
@@ -403,7 +403,7 @@
     ],
     "block_key": "m alsuwaidi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5018306569",
-    "updated_date": "2026-11-02T12:28:04",
+    "updated_date": "2026-11-03T12:34:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -739,11 +739,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 3.8896,
+      "fwci": 3.981,
       "has_fulltext": true,
-      "cited_by_count": 35,
+      "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.95542316,
+        "value": 0.95750508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1376,7 +1376,7 @@
         "pdf": "https://content.openalex.org/works/W4388818709.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4388818709.grobid-xml"
       },
-      "referenced_works_count": 49,
+      "referenced_works_count": 51,
       "referenced_works": [
         "https://openalex.org/W1970527097",
         "https://openalex.org/W1981090047",
@@ -1410,6 +1410,7 @@
         "https://openalex.org/W2793922815",
         "https://openalex.org/W2799668031",
         "https://openalex.org/W2799806568",
+        "https://openalex.org/W2800860906",
         "https://openalex.org/W2896601881",
         "https://openalex.org/W2898847284",
         "https://openalex.org/W2921239033",
@@ -1421,6 +1422,7 @@
         "https://openalex.org/W3136453206",
         "https://openalex.org/W3138895946",
         "https://openalex.org/W3157737190",
+        "https://openalex.org/W4231012843",
         "https://openalex.org/W4280592644",
         "https://openalex.org/W4285261085",
         "https://openalex.org/W4297548907",
@@ -1774,7 +1776,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2025,
@@ -1785,7 +1787,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2023-11-21T00:00:00"
     },
     {
@@ -5252,14 +5254,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -8918,9 +8920,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.821399986743927,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -11994,9 +11996,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.46149998903274536,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -16265,9 +16267,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -21050,9 +21052,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46149998903274536,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -23195,14 +23197,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.9853000044822693,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9853000044822693
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
+          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -25788,9 +25790,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -27542,9 +27544,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -30164,9 +30166,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.9786999821662903,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -31649,9 +31651,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8234000205993652,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8234000205993652
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -33947,14 +33949,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -34801,9 +34803,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.821399986743927,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -37477,9 +37479,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.685699999332428,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -45948,49 +45950,9 @@
         "https://openalex.org/W4408474708",
         "https://openalex.org/W2896612772"
       ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "The": [
-          1
-        ],
-        "authors": [
-          2
-        ],
-        "have": [
-          3
-        ],
-        "requested": [
-          4
-        ],
-        "that": [
-          5
-        ],
-        "this": [
-          6
-        ],
-        "preprint": [
-          7
-        ],
-        "be": [
-          8
-        ],
-        "removed": [
-          9
-        ],
-        "from": [
-          10
-        ],
-        "Research": [
-          11
-        ],
-        "Square.": [
-          12
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-24T07:57:37.273135",
+      "updated_date": "2026-11-03T10:50:19.383937",
       "created_date": "2022-12-28T00:00:00"
     },
     {
@@ -46506,9 +46468,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -51421,9 +51383,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
