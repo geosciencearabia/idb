@@ -10,7 +10,7 @@
     ],
     "full_name": "Jacques Manivit",
     "works_count": 8,
-    "cited_by_count": 331,
+    "cited_by_count": 327,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 6,
@@ -131,7 +131,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000106,
+        "value": 0.000011,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -148,7 +148,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000082,
+        "value": 0.0000087,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -165,7 +165,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000072,
+        "value": 0.0000075,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -182,7 +182,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000057,
+        "value": 0.000006,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -199,7 +199,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.0000042,
+        "value": 0.0000044,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -329,7 +329,7 @@
         "year": 2020,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 20
+        "cited_by_count": 19
       },
       {
         "year": 2021,
@@ -341,7 +341,7 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 19
+        "cited_by_count": 17
       },
       {
         "year": 2023,
@@ -353,7 +353,7 @@
         "year": 2024,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 22
+        "cited_by_count": 21
       },
       {
         "year": 2025,
@@ -374,7 +374,7 @@
     ],
     "block_key": "j manivit",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051867931",
-    "updated_date": "2026-10-28T12:34:19",
+    "updated_date": "2026-11-04T11:47:51",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -645,11 +645,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.6112,
+      "fwci": 1.5258,
       "has_fulltext": false,
-      "cited_by_count": 102,
+      "cited_by_count": 101,
       "citation_normalized_percentile": {
-        "value": 0.82254379,
+        "value": 0.81222944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -874,8 +874,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -888,13 +888,13 @@
         "https://openalex.org/W2006294446",
         "https://openalex.org/W2056900959",
         "https://openalex.org/W2058538014",
+        "https://openalex.org/W2260996210",
         "https://openalex.org/W2313649599",
         "https://openalex.org/W2329234061",
         "https://openalex.org/W2592976345",
         "https://openalex.org/W2605458762",
         "https://openalex.org/W2743213576",
         "https://openalex.org/W2745237780",
-        "https://openalex.org/W3216937832",
         "https://openalex.org/W6929775216"
       ],
       "related_works": [
@@ -929,7 +929,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 9
+          "cited_by_count": 8
         },
         {
           "year": 2021,
@@ -968,7 +968,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-04T10:54:05.112534",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1143,11 +1143,11 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 0.5574,
+      "fwci": 0.5398,
       "has_fulltext": false,
-      "cited_by_count": 84,
+      "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.7787869,
+        "value": 0.77240685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1402,8 +1402,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2051,7 +2051,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2021,
@@ -2094,7 +2094,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-04T09:36:47.201465",
+      "updated_date": "2026-11-04T10:54:05.112534",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2317,11 +2317,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6804,
+      "fwci": 0.6201,
       "has_fulltext": false,
-      "cited_by_count": 73,
+      "cited_by_count": 71,
       "citation_normalized_percentile": {
-        "value": 0.73259494,
+        "value": 0.70947813,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2654,8 +2654,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -3242,7 +3242,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 6
+          "cited_by_count": 5
         },
         {
           "year": 2023,
@@ -3258,7 +3258,7 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 4
+          "cited_by_count": 3
         },
         {
           "year": 2019,
@@ -3289,7 +3289,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-04T10:54:05.112534",
       "created_date": "2017-01-13T00:00:00"
     },
     {
@@ -3980,8 +3980,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -5389,8 +5389,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -5862,8 +5862,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6470,8 +6470,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6952,8 +6952,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
