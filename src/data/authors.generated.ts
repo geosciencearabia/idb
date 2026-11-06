@@ -54,7 +54,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 189,
-    "totalCitations": 2815,
+    "totalCitations": 2816,
     "hIndex": 27
   },
   {
@@ -72,7 +72,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 453,
-    "totalCitations": 20010,
+    "totalCitations": 20013,
     "hIndex": 71
   },
   {
@@ -108,7 +108,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 143,
-    "totalCitations": 3144,
+    "totalCitations": 3146,
     "hIndex": 34
   },
   {
@@ -126,7 +126,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 95,
-    "totalCitations": 1471,
+    "totalCitations": 1472,
     "hIndex": 21
   },
   {
@@ -198,8 +198,8 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 59,
-    "totalCitations": 74,
-    "hIndex": 4
+    "totalCitations": 75,
+    "hIndex": 5
   },
   {
     "authorId": "idb0010-bello-abdulwahab",
@@ -288,7 +288,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 76,
-    "totalCitations": 1920,
+    "totalCitations": 1921,
     "hIndex": 17
   },
   {
@@ -378,7 +378,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 236,
-    "totalCitations": 5174,
+    "totalCitations": 5176,
     "hIndex": 42
   },
   {
@@ -432,7 +432,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 180,
-    "totalCitations": 1460,
+    "totalCitations": 1461,
     "hIndex": 23
   },
   {
@@ -576,7 +576,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 557,
-    "totalCitations": 6752,
+    "totalCitations": 6753,
     "hIndex": 41
   },
   {
@@ -593,8 +593,8 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "",
     "orcid": "",
-    "totalPublications": 191,
-    "totalCitations": 3595,
+    "totalPublications": 192,
+    "totalCitations": 3598,
     "hIndex": 27
   },
   {
@@ -702,7 +702,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 9,
-    "totalCitations": 66,
+    "totalCitations": 67,
     "hIndex": 2
   },
   {
@@ -738,7 +738,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 128,
-    "totalCitations": 1780,
+    "totalCitations": 1781,
     "hIndex": 24
   },
   {
@@ -864,7 +864,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 35,
-    "totalCitations": 737,
+    "totalCitations": 738,
     "hIndex": 14
   },
   {
@@ -918,7 +918,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 157,
-    "totalCitations": 1500,
+    "totalCitations": 1503,
     "hIndex": 22
   },
   {
@@ -972,7 +972,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 116,
-    "totalCitations": 1938,
+    "totalCitations": 1939,
     "hIndex": 22
   },
   {
@@ -1008,7 +1008,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 66,
-    "totalCitations": 5738,
+    "totalCitations": 5742,
     "hIndex": 31
   },
   {
@@ -1026,7 +1026,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 32,
-    "totalCitations": 1183,
+    "totalCitations": 1186,
     "hIndex": 15
   },
   {
@@ -1044,7 +1044,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 52,
-    "totalCitations": 2340,
+    "totalCitations": 2341,
     "hIndex": 20
   },
   {
@@ -1062,7 +1062,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 117,
-    "totalCitations": 3092,
+    "totalCitations": 3093,
     "hIndex": 31
   },
   {

@@ -11,7 +11,7 @@
     ],
     "full_name": "Abdulaziz A. Al-Duaiji",
     "works_count": 9,
-    "cited_by_count": 66,
+    "cited_by_count": 67,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 2,
@@ -161,7 +161,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000159,
+        "value": 0.0000168,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -178,7 +178,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000125,
+        "value": 0.0000134,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T13790",
         "display_name": "Waste Management and Environmental Impact",
-        "value": 0.0000121,
+        "value": 0.0000125,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -212,7 +212,7 @@
       {
         "id": "https://openalex.org/T11284",
         "display_name": "Coal Properties and Utilization",
-        "value": 0.0000101,
+        "value": 0.0000105,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -229,7 +229,7 @@
       {
         "id": "https://openalex.org/T12218",
         "display_name": "Coal and Its By-products",
-        "value": 0.000009,
+        "value": 0.0000094,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -389,7 +389,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 4
+        "cited_by_count": 5
       }
     ],
     "display_name_alternatives": [
@@ -399,7 +399,7 @@
     ],
     "block_key": "a al-duaiji",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
-    "updated_date": "2026-10-28T12:34:19",
+    "updated_date": "2026-11-05T13:29:08",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -577,9 +577,9 @@
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
-      "cited_by_count": 57,
+      "cited_by_count": 58,
       "citation_normalized_percentile": {
-        "value": 0.48949257,
+        "value": 0.51017788,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1685,7 +1685,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -1740,7 +1740,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2019-12-13T00:00:00"
     },
     {
@@ -2213,9 +2213,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.875,
           "display_name": "Affordable and clean energy",
-          "score": 0.875
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -5674,19 +5674,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "score": 1,
           "display_name": "Responsible consumption and production",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/12"
         },
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459,
           "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "id": "https://metadata.un.org/sdg/7"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],

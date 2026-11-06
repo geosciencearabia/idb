@@ -20,9 +20,9 @@
     ],
     "full_name": "Fadhil Nomas Sadooni",
     "works_count": 128,
-    "cited_by_count": 1780,
+    "cited_by_count": 1781,
     "summary_stats": {
-      "2yr_mean_citedness": 2.6216216216216215,
+      "2yr_mean_citedness": 2.6486486486486487,
       "h_index": 24,
       "i10_index": 45
     },
@@ -606,7 +606,7 @@
         "year": 2026,
         "works_count": 5,
         "oa_works_count": 4,
-        "cited_by_count": 252
+        "cited_by_count": 253
       }
     ],
     "display_name_alternatives": [
@@ -623,7 +623,7 @@
     ],
     "block_key": "f nomas sadooni",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5070411489",
-    "updated_date": "2026-11-04T11:47:51",
+    "updated_date": "2026-11-05T13:29:08",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -6256,7 +6256,7 @@
         "currency": "USD",
         "value_usd": 3790
       },
-      "fwci": 6.4561,
+      "fwci": 6.4492,
       "has_fulltext": true,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
@@ -6693,19 +6693,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        },
-        {
-          "score": 0.965499997138977,
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation"
         },
         {
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -7508,7 +7503,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2023-09-07T00:00:00"
     },
     {
@@ -7920,11 +7915,11 @@
         "currency": "USD",
         "value_usd": 2790
       },
-      "fwci": 1.8955,
+      "fwci": 1.9485,
       "has_fulltext": true,
-      "cited_by_count": 30,
+      "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.86591061,
+        "value": 0.87324883,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9143,14 +9138,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 27
+          "cited_by_count": 28
         },
         {
           "year": 2025,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46828,10 +46823,8 @@
           "author": {
             "id": "https://openalex.org/A5069996415",
             "display_name": "Hamad A.Rahman S A Al-kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6787-3533"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -46914,11 +46907,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.661,
+      "fwci": 0.66,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.58966367,
+        "value": 0.589265,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47978,7 +47971,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2024-12-20T00:00:00"
     },
     {
@@ -101573,7 +101566,8 @@
             "display_name": "Klaus Regenauer‐Lieb",
             "orcid": "https://orcid.org/0000-0002-2198-5895",
             "observed_orcids": [
-              "https://orcid.org/0000-0002-2198-5895"
+              "https://orcid.org/0000-0002-2198-5895",
+              "https://orcid.org/0000-0001-9867-7893"
             ]
           },
           "institutions": [
@@ -102242,7 +102236,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2023-01-14T00:00:00"
     },
     {
@@ -104092,10 +104086,8 @@
           "author": {
             "id": "https://openalex.org/A5069996415",
             "display_name": "Hamad A.Rahman S A Al-kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6787-3533"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -104582,7 +104574,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2023-01-05T00:00:00"
     },
     {
@@ -120968,10 +120960,8 @@
           "author": {
             "id": "https://openalex.org/A5069996415",
             "display_name": "Hamad A.Rahman S A Al-kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6787-3533"
-            ]
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -121516,7 +121506,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2025-01-28T00:00:00"
     },
     {
@@ -130925,7 +130915,8 @@
             "display_name": "Xiancai Lu",
             "orcid": "https://orcid.org/0000-0001-8977-2661",
             "observed_orcids": [
-              "https://orcid.org/0000-0001-8977-2661"
+              "https://orcid.org/0000-0001-8977-2661",
+              "https://orcid.org/0000-0002-8583-3137"
             ]
           },
           "institutions": [
@@ -131205,7 +131196,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32089419,
+        "value": 0.29557623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -132512,7 +132503,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-25T08:18:29.962427",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2026-06-25T00:00:00"
     }
   ]

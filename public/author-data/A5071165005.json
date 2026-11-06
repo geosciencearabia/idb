@@ -553,7 +553,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 21.6878,
+      "fwci": 21.6865,
       "has_fulltext": true,
       "cited_by_count": 70,
       "citation_normalized_percentile": {
@@ -976,7 +976,13 @@
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -1596,7 +1602,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2020-02-07T00:00:00"
     },
     {
@@ -2244,8 +2250,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.685699999332428
         }
       ],

@@ -34,7 +34,7 @@
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
     "works_count": 95,
-    "cited_by_count": 1471,
+    "cited_by_count": 1472,
     "summary_stats": {
       "2yr_mean_citedness": 2.236842105263158,
       "h_index": 21,
@@ -284,7 +284,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000534,
+        "value": 0.0000533,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -301,7 +301,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000402,
+        "value": 0.0000401,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -479,7 +479,7 @@
         "year": 2026,
         "works_count": 4,
         "oa_works_count": 4,
-        "cited_by_count": 102
+        "cited_by_count": 103
       }
     ],
     "display_name_alternatives": [
@@ -510,7 +510,7 @@
     ],
     "block_key": "m el-ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-11-04T11:47:51",
+    "updated_date": "2026-11-05T13:29:08",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -8973,11 +8973,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 2.7529,
+      "fwci": 2.753,
       "has_fulltext": false,
-      "cited_by_count": 42,
+      "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.90450023,
+        "value": 0.90450277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9541,7 +9541,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -9564,7 +9564,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-05T12:25:35.769452",
       "created_date": "2020-06-12T00:00:00"
     },
     {
@@ -13332,9 +13332,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6801000237464905,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6801000237464905
         }
       ],
       "study_designs": [],
@@ -35683,9 +35683,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -36478,14 +36478,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         },
         {
-          "score": 0.5925999879837036,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 0.5925999879837036
         }
       ],
       "study_designs": [],
@@ -48522,9 +48522,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -64559,9 +64559,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -68537,9 +68537,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -76460,9 +76460,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -79163,9 +79163,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -81120,9 +81120,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.821399986743927,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.821399986743927
         }
       ],
       "study_designs": [],
@@ -83317,9 +83317,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -85574,14 +85574,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
+          "score": 1
         },
         {
-          "score": 1,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -87031,14 +87031,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7207000255584717,
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.7207000255584717
         },
         {
-          "score": 0.5142999887466431,
+          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities"
+          "score": 0.5142999887466431
         }
       ],
       "study_designs": [],
@@ -88368,14 +88368,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         },
         {
-          "score": 0.4390000104904175,
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life on land"
+          "score": 0.4390000104904175
         }
       ],
       "study_designs": [],
