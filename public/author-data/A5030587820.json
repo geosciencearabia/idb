@@ -112,12 +112,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "count": 4,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -129,12 +129,12 @@
         "display_name": "Enhanced Oil Recovery Techniques",
         "count": 2,
         "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
+          "id": "https://openalex.org/subfields/2103",
+          "display_name": "Fuel Technology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -182,12 +182,12 @@
         "display_name": "Enhanced Oil Recovery Techniques",
         "value": 0.000011,
         "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
+          "id": "https://openalex.org/subfields/2103",
+          "display_name": "Fuel Technology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -199,12 +199,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "value": 0.0000096,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -231,7 +231,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000087,
+        "value": 0.0000086,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -438,6 +438,7 @@
         "display_name": "Trace Fossils as Indicators of Sedimentary Environments"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -891,11 +892,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 23.8401,
+      "fwci": 17.1133,
       "has_fulltext": false,
       "cited_by_count": 127,
       "citation_normalized_percentile": {
-        "value": 0.99842271,
+        "value": 0.99469496,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -917,12 +918,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.88919997215271,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -935,12 +936,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.88919997215271,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -1406,6 +1407,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -1597,16 +1599,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6686,
+      "fwci": 0.6464,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.60958069,
+        "value": 0.59526604,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -2854,6 +2856,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -3108,11 +3111,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7263,
+      "fwci": 2.0698,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.82160232,
+        "value": 0.87084378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3134,12 +3137,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.8866999745368958,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -3152,12 +3155,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.8866999745368958,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -3186,12 +3189,12 @@
           "display_name": "Enhanced Oil Recovery Techniques",
           "score": 0.03500000014901161,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -4174,6 +4177,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -4398,11 +4402,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.5079,
+      "fwci": 1.512,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.77461513,
+        "value": 0.77193606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4964,6 +4968,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -5226,7 +5231,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.10611134,
+        "value": 0.11259591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6439,6 +6444,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -6657,11 +6663,11 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.1802,
+      "fwci": 0.1803,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.48037608,
+        "value": 0.48159324,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7169,6 +7175,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -7461,11 +7468,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9188,
+      "fwci": 0.8827,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.72297696,
+        "value": 0.71262418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8948,6 +8955,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "doaj"
@@ -9045,17 +9053,17 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7417,
+      "fwci": 1.8782,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.78561413,
+        "value": 0.79985417,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
+        "min": 88,
+        "max": 95
       },
       "biblio": {
         "volume": "146",
@@ -9071,12 +9079,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.9761000275611877,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -9089,12 +9097,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.9761000275611877,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -9106,12 +9114,12 @@
           "display_name": "Enhanced Oil Recovery Techniques",
           "score": 0.01600000075995922,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -10073,6 +10081,7 @@
       },
       "volume": null,
       "type": "dissertation",
+      "is_traditional": true,
       "indexed_in": [
         "datacite"
       ],
@@ -10128,12 +10137,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.7509999871253967,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -10146,12 +10155,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.7509999871253967,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",

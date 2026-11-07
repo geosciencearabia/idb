@@ -71,12 +71,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "count": 3,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -88,16 +88,16 @@
         "display_name": "Archaeology and ancient environmental studies",
         "count": 2,
         "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
+          "id": "https://openalex.org/subfields/3302",
+          "display_name": "Archeology"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
         },
         "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
         }
       },
       {
@@ -141,8 +141,8 @@
         "display_name": "Geological Modeling and Analysis",
         "value": 0.0000103,
         "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -351,6 +351,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -396,17 +397,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0534,
+      "fwci": 1.0047,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.70254894,
+        "value": 0.68911794,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 97,
-        "max": 99
+        "max": 98
       },
       "biblio": {
         "volume": "550",
@@ -457,12 +458,12 @@
           "display_name": "Carbon Dioxide Capture Technologies",
           "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1506",
+            "display_name": "Filtration and Separation"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/15",
+            "display_name": "Chemical Engineering"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -474,12 +475,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -770,14 +771,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.9786999821662903,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.9786999821662903
+          "display_name": "Climate action"
         },
         {
+          "score": 0.5690000057220459,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -1387,6 +1388,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -1495,11 +1497,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0467,
+      "fwci": 0.7428,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.74188648,
+        "value": 0.66136282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1556,12 +1558,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.017100000753998756,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -2449,6 +2451,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -2523,13 +2526,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.8947,
+      "fwci": 1.1663,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.95748565,
+        "value": 0.79113664,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 95,
@@ -2549,16 +2552,16 @@
         "display_name": "Archaeological Research and Protection",
         "score": 0.3082999885082245,
         "subfield": {
-          "id": "https://openalex.org/subfields/1912",
-          "display_name": "Space and Planetary Science"
+          "id": "https://openalex.org/subfields/3302",
+          "display_name": "Archeology"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
         },
         "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
         }
       },
       "topics": [
@@ -2567,16 +2570,16 @@
           "display_name": "Archaeological Research and Protection",
           "score": 0.3082999885082245,
           "subfield": {
-            "id": "https://openalex.org/subfields/1912",
-            "display_name": "Space and Planetary Science"
+            "id": "https://openalex.org/subfields/3302",
+            "display_name": "Archeology"
           },
           "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
           }
         },
         {
@@ -2970,6 +2973,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -3282,16 +3286,16 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "fwci": 1.2831,
+      "fwci": 1.1153,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.73876373,
+        "value": 0.70950421,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 97
       },
       "biblio": {
@@ -3343,12 +3347,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.019899999722838402,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -3360,12 +3364,12 @@
           "display_name": "Planetary Science and Exploration",
           "score": 0.0017999999690800905,
           "subfield": {
-            "id": "https://openalex.org/subfields/3103",
-            "display_name": "Astronomy and Astrophysics"
+            "id": "https://openalex.org/subfields/1912",
+            "display_name": "Space and Planetary Science"
           },
           "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -4501,6 +4505,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "doaj"
@@ -4555,11 +4560,11 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 1.3103,
+      "fwci": 1.0151,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.80700191,
+        "value": 0.748901,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4616,8 +4621,8 @@
           "display_name": "Geological Modeling and Analysis",
           "score": 0.2410999983549118,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -5851,6 +5856,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "doaj"
@@ -5905,17 +5911,17 @@
         "currency": "CHF",
         "value_usd": 1267
       },
-      "fwci": 0.2184,
+      "fwci": 0.1692,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.55085933,
+        "value": 0.46034816,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
+        "min": 88,
+        "max": 95
       },
       "biblio": {
         "volume": "10",
@@ -7205,6 +7211,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "doaj"
@@ -7400,17 +7407,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4044,
+      "fwci": 0.3574,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.50423046,
+        "value": 0.45184475,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 90,
-        "max": 96
+        "max": 95
       },
       "biblio": {
         "volume": "79",
@@ -7972,6 +7979,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -8063,11 +8071,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.6498,
+      "fwci": 0.5831,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66608392,
+        "value": 0.73957051,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8124,16 +8132,16 @@
           "display_name": "Archaeology and ancient environmental studies",
           "score": 0.06920000165700912,
           "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
+            "id": "https://openalex.org/subfields/3302",
+            "display_name": "Archeology"
           },
           "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
           }
         },
         {
@@ -8306,9 +8314,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.6000000238418579
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
@@ -8405,6 +8413,7 @@
       },
       "volume": null,
       "type": "dataset",
+      "is_traditional": false,
       "indexed_in": [
         "datacite"
       ],
@@ -8722,16 +8731,16 @@
           "display_name": "Archaeology and ancient environmental studies",
           "score": 0.00800000037997961,
           "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
+            "id": "https://openalex.org/subfields/3302",
+            "display_name": "Archeology"
           },
           "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
           }
         }
       ],
@@ -9000,9 +9009,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.53329998254776,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.53329998254776
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -9400,6 +9409,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -9519,7 +9529,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06344653,
+        "value": 0.05658778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9920,6 +9930,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "datacite"
       ],
@@ -10066,7 +10077,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17509639,
+        "value": 0.162349,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10871,6 +10882,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "doaj"
@@ -11224,7 +11236,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17615483,
+        "value": 0.16338713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11278,8 +11290,8 @@
           "display_name": "Geological Modeling and Analysis",
           "score": 0.0284000001847744,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -12123,6 +12135,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -12274,7 +12287,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27381056,
+        "value": 0.28307403,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12293,12 +12306,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.9115999937057495,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -12311,12 +12324,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.9115999937057495,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",

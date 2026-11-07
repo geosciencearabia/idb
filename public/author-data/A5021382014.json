@@ -93,12 +93,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "count": 2,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -127,8 +127,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "count": 1,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -214,12 +214,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "value": 0.0000048,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -435,6 +435,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -842,11 +843,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 2.6916,
+      "fwci": 2.4848,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.88369452,
+        "value": 0.87156039,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1149,9 +1150,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -1714,6 +1715,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -1879,11 +1881,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.416,
+      "fwci": 0.4026,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.55081415,
+        "value": 0.52131671,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2656,6 +2658,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -2806,13 +2809,13 @@
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.19561007,
+        "value": 0.19573935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 88,
-        "max": 96
+        "max": 95
       },
       "biblio": {
         "volume": "37",
@@ -2880,8 +2883,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.004100000020116568,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -3399,6 +3402,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -3515,7 +3519,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07154384,
+        "value": 0.07600184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3569,12 +3573,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.4124000072479248,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -4268,6 +4272,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -4340,7 +4345,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22598106,
+        "value": 0.2073963,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4411,12 +4416,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.023600000888109207,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -5190,6 +5195,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -5276,7 +5282,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34573748,
+        "value": 0.33733133,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6372,6 +6378,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -6499,7 +6506,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49758648,
+        "value": 0.49798297,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6709,9 +6716,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],

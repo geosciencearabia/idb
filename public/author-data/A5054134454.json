@@ -14,7 +14,7 @@
     ],
     "full_name": "Sa’id A. Al-Hajri",
     "works_count": 32,
-    "cited_by_count": 1186,
+    "cited_by_count": 1187,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 15,
@@ -177,7 +177,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000433,
+        "value": 0.0000432,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -213,12 +213,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "value": 0.0000192,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -412,7 +412,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 54
+        "cited_by_count": 55
       }
     ],
     "display_name_alternatives": [
@@ -425,7 +425,7 @@
     ],
     "block_key": "s al-hajri",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054134454",
-    "updated_date": "2026-11-05T13:29:08",
+    "updated_date": "2026-11-06T12:48:51",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -479,6 +479,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -649,11 +650,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.0761,
+      "fwci": 8.1159,
       "has_fulltext": true,
-      "cited_by_count": 553,
+      "cited_by_count": 554,
       "citation_normalized_percentile": {
-        "value": 0.97176128,
+        "value": 0.9744898,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -710,12 +711,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.12620000541210175,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -1865,7 +1866,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 36
+          "cited_by_count": 37
         },
         {
           "year": 2025,
@@ -1924,7 +1925,7 @@
           "cited_by_count": 24
         }
       ],
-      "updated_date": "2026-11-05T12:25:35.769452",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2019-04-25T00:00:00"
     },
     {
@@ -1986,6 +1987,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -2120,11 +2122,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5421,
+      "fwci": 3.2002,
       "has_fulltext": false,
       "cited_by_count": 184,
       "citation_normalized_percentile": {
-        "value": 0.91726552,
+        "value": 0.90766902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3383,6 +3385,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -3447,16 +3450,16 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.5688,
+      "fwci": 0.5039,
       "has_fulltext": false,
       "cited_by_count": 56,
       "citation_normalized_percentile": {
-        "value": 0.66337761,
+        "value": 0.63132324,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -3917,6 +3920,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -4127,11 +4131,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1842,
+      "fwci": 1.8655,
       "has_fulltext": false,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.88097887,
+        "value": 0.86293593,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4188,12 +4192,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.1477999985218048,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -5009,6 +5013,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -5199,11 +5204,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 3.7398,
+      "fwci": 3.5272,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.92619243,
+        "value": 0.92169191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5730,6 +5735,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -6030,13 +6036,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 3.1638,
+      "fwci": 2.712,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.90929582,
+        "value": 0.89247855,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 93,
@@ -6564,6 +6570,7 @@
         "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -6725,11 +6732,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7342,
+      "fwci": 1.3579,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.82705479,
+        "value": 0.76243094,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7618,6 +7625,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -7802,11 +7810,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 0.9329,
+      "fwci": 0.8414,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.69906996,
+        "value": 0.66175512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8245,6 +8253,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -8467,11 +8476,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.9469,
+      "fwci": 1.6689,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.84361884,
+        "value": 0.81713781,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8912,6 +8921,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -9138,11 +9148,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.7036,
+      "fwci": 1.4603,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.81423908,
+        "value": 0.78319031,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9646,6 +9656,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -9784,11 +9795,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 1.6028,
+      "fwci": 1.5117,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.81414474,
+        "value": 0.8096599,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10178,6 +10189,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -10311,11 +10323,11 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.91,
+      "fwci": 1.7593,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.86965649,
+        "value": 0.85480847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10726,6 +10738,7 @@
         "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -10840,16 +10853,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1573,
+      "fwci": 0.9052,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.75,
+        "value": 0.66574586,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -10918,12 +10931,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.0017000000225380063,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -11309,6 +11322,7 @@
         "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -11525,11 +11539,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1561,
+      "fwci": 0.9052,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.77568493,
+        "value": 0.68508287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12139,6 +12153,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -12277,13 +12292,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.7273,
+      "fwci": 4.1184,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.90578158,
+        "value": 0.89423077,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 96,
@@ -13343,837 +13358,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3146536654",
-      "doi": "https://doi.org/10.2113/9781733475709-10",
-      "title": "Evidence of Mid-Carboniferous Miospore Assemblages from Central Saudi Arabia",
-      "display_name": "Evidence of Mid-Carboniferous Miospore Assemblages from Central Saudi Arabia",
-      "publication_year": 2000,
-      "publication_date": "2000-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3146536654",
-        "doi": "https://doi.org/10.2113/9781733475709-10",
-        "mag": "3146536654"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/9781733475709-10",
-        "doi": "https://doi.org/10.2113/9781733475709-10",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2113/9781733475709-10",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
-        "raw_type": "book-chapter"
-      },
-      "volume": {
-        "id": "https://openalex.org/W7167665245",
-        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5110460569",
-            "display_name": "Bernard Owens",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I91136226",
-              "display_name": "University of Sheffield",
-              "ror": "https://ror.org/05krs5044",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91136226"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bernard Owens",
-          "raw_affiliation_strings": [
-            "University of Sheffield"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Sheffield",
-              "institution_ids": [
-                "https://openalex.org/I91136226"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027634361",
-            "display_name": "John Filatoff",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Filatoff",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5066688203",
-            "display_name": "Geoff Clayton",
-            "orcid": "https://orcid.org/0000-0002-6015-1885",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6015-1885"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I205274468",
-              "display_name": "Trinity College Dublin",
-              "ror": "https://ror.org/02tyrky19",
-              "country_code": "IE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I205274468"
-              ]
-            }
-          ],
-          "countries": [
-            "IE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Geoffrey Clayton",
-          "raw_affiliation_strings": [
-            "Trinity College Dublin"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Trinity College Dublin",
-              "institution_ids": [
-                "https://openalex.org/I205274468"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5054134454",
-            "display_name": "Sa’id A. Al-Hajri",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sa’id Al-Hajri",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.7342,
-      "has_fulltext": false,
-      "cited_by_count": 9,
-      "citation_normalized_percentile": {
-        "value": 0.83047945,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "154",
-        "last_page": "167"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9980000257492065,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9980000257492065,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.0005000000237487257,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.0003000000142492354,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/miospores",
-          "display_name": "miospores",
-          "score": 0.8679999709129333
-        },
-        {
-          "id": "https://openalex.org/keywords/namurian",
-          "display_name": "Namurian",
-          "score": 0.8920000195503235
-        },
-        {
-          "id": "https://openalex.org/keywords/palynology",
-          "display_name": "palynology",
-          "score": 0.6069999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/tournaisian",
-          "display_name": "Tournaisian",
-          "score": 0.6230000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-peninsula",
-          "display_name": "Arabian Peninsula",
-          "score": 0.4819999933242798
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C149918038",
-          "wikidata": "https://www.wikidata.org/wiki/Q133738",
-          "display_name": "Carboniferous",
-          "level": 3,
-          "score": 0.8747003078460693
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5806597471237183
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5774281024932861
-        },
-        {
-          "id": "https://openalex.org/C13106087",
-          "wikidata": "https://www.wikidata.org/wiki/Q75507",
-          "display_name": "Paleozoic",
-          "level": 2,
-          "score": 0.44944053888320923
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.38499322533607483
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.1417171061038971
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.2113/9781733475709-10",
-          "doi": "https://doi.org/10.2113/9781733475709-10",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2113/9781733475709-10",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
-          "raw_type": "book-chapter"
-        },
-        {
-          "id": "mag:3146536654",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubs.geoscienceworld.org/books/book/2223/chapter/125392137/Evidence-of-Mid-Carboniferous-Miospore-Assemblages",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 7,
-      "referenced_works": [
-        "https://openalex.org/W1984725754",
-        "https://openalex.org/W2003181165",
-        "https://openalex.org/W2012626709",
-        "https://openalex.org/W2068101248",
-        "https://openalex.org/W2093959687",
-        "https://openalex.org/W3103362397",
-        "https://openalex.org/W3128695080"
-      ],
-      "related_works": [
-        "https://openalex.org/W2003181165",
-        "https://openalex.org/W3103362397",
-        "https://openalex.org/W2012626709",
-        "https://openalex.org/W7020448859",
-        "https://openalex.org/W2904373330",
-        "https://openalex.org/W1973737829",
-        "https://openalex.org/W7167952579",
-        "https://openalex.org/W2898300981",
-        "https://openalex.org/W1761772139",
-        "https://openalex.org/W2239100310"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "Miospore": [
-          1
-        ],
-        "assemblages": [
-          2,
-          55,
-          131
-        ],
-        "recovered": [
-          3
-        ],
-        "from": [
-          4
-        ],
-        "a": [
-          5,
-          48,
-          57,
-          79,
-          99
-        ],
-        "short": [
-          6
-        ],
-        "interval": [
-          7,
-          111
-        ],
-        "in": [
-          8,
-          13,
-          34,
-          136
-        ],
-        "well": [
-          9
-        ],
-        "Haradh-601": [
-          10
-        ],
-        "(HRDH-601),": [
-          11
-        ],
-        "drilled": [
-          12
-        ],
-        "the": [
-          14,
-          27,
-          35,
-          39,
-          45,
-          54,
-          85,
-          115
-        ],
-        "southern": [
-          15
-        ],
-        "Ghawar": [
-          16
-        ],
-        "oil": [
-          17
-        ],
-        "field,": [
-          18
-        ],
-        "eastern": [
-          19
-        ],
-        "Saudi": [
-          20
-        ],
-        "Arabia,": [
-          21
-        ],
-        "provide": [
-          22
-        ],
-        "additional": [
-          23
-        ],
-        "palynological": [
-          24
-        ],
-        "evidence": [
-          25
-        ],
-        "for": [
-          26
-        ],
-        "existence": [
-          28
-        ],
-        "of": [
-          29,
-          42,
-          47,
-          51,
-          59,
-          82,
-          84,
-          103,
-          117,
-          132,
-          138
-        ],
-        "possible": [
-          30
-        ],
-        "early": [
-          31
-        ],
-        "Namurian": [
-          32
-        ],
-        "deposits": [
-          33
-        ],
-        "Arabian": [
-          36
-        ],
-        "Peninsula.": [
-          37
-        ],
-        "Despite": [
-          38
-        ],
-        "variable": [
-          40
-        ],
-        "state": [
-          41
-        ],
-        "preservation": [
-          43
-        ],
-        "and": [
-          44,
-          74,
-          94,
-          124
-        ],
-        "presence": [
-          46,
-          116
-        ],
-        "significant": [
-          49,
-          61
-        ],
-        "number": [
-          50,
-          58,
-          81
-        ],
-        "undescribed": [
-          52
-        ],
-        "taxa,": [
-          53
-        ],
-        "contain": [
-          56
-        ],
-        "stratigraphically": [
-          60
-        ],
-        "species": [
-          62
-        ],
-        "including": [
-          63
-        ],
-        "Tricidarisporites": [
-          64
-        ],
-        "dumosus,": [
-          65
-        ],
-        "Vallatisporites": [
-          66,
-          118
-        ],
-        "vallatus,": [
-          67
-        ],
-        "V.": [
-          68
-        ],
-        "galearis,": [
-          69
-        ],
-        "Spelaeotriletes": [
-          70
-        ],
-        "giganteus,": [
-          71
-        ],
-        "S.": [
-          72
-        ],
-        "owensii": [
-          73
-        ],
-        "Aratrisporites": [
-          75
-        ],
-        "saharaensis": [
-          76
-        ],
-        "together": [
-          77
-        ],
-        "with": [
-          78,
-          130
-        ],
-        "limited": [
-          80
-        ],
-        "representatives": [
-          83
-        ],
-        "monosaccate": [
-          86
-        ],
-        "pollen": [
-          87
-        ],
-        "Potonieisporites": [
-          88
-        ],
-        "sp.,": [
-          89,
-          91
-        ],
-        "Protohaploxypinus": [
-          90
-        ],
-        "Cannanoropollis": [
-          92
-        ],
-        "janakii": [
-          93
-        ],
-        "Plicatipollenites": [
-          95
-        ],
-        "malabarensis": [
-          96
-        ],
-        "which": [
-          97
-        ],
-        "suggest": [
-          98
-        ],
-        "mid-Carboniferous": [
-          100
-        ],
-        "age.": [
-          101
-        ],
-        "Evidence": [
-          102
-        ],
-        "Late": [
-          104
-        ],
-        "Devonian-early": [
-          105
-        ],
-        "Tournaisian": [
-          106
-        ],
-        "(Strunian)": [
-          107
-        ],
-        "reworking": [
-          108
-        ],
-        "into": [
-          109
-        ],
-        "this": [
-          110
-        ],
-        "is": [
-          112
-        ],
-        "noted": [
-          113
-        ],
-        "by": [
-          114
-        ],
-        "pusillites,": [
-          119
-        ],
-        "Retispora": [
-          120
-        ],
-        "lepidophyta,": [
-          121
-        ],
-        "Retusotriletes": [
-          122
-        ],
-        "incohatus": [
-          123
-        ],
-        "Emphanisporites": [
-          125
-        ],
-        "rotatus.": [
-          126
-        ],
-        "Comparisons": [
-          127
-        ],
-        "are": [
-          128
-        ],
-        "made": [
-          129
-        ],
-        "potentially": [
-          133
-        ],
-        "similar": [
-          134
-        ],
-        "age": [
-          135
-        ],
-        "parts": [
-          137
-        ],
-        "North": [
-          139
-        ],
-        "Africa.": [
-          140
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2021-04-13T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2233849553",
       "doi": "https://doi.org/10.1016/j.revmic.2017.02.002",
       "title": "A distinctive marginal marine palynological assemblage from the Přídolí of northwestern Saudi Arabia",
@@ -14229,6 +13413,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -14584,11 +13769,11 @@
         "value_usd": 2470
       },
       "apc_paid": null,
-      "fwci": 0.3732,
+      "fwci": 0.3366,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.54387384,
+        "value": 0.48976398,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15160,6 +14345,838 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3146536654",
+      "doi": "https://doi.org/10.2113/9781733475709-10",
+      "title": "Evidence of Mid-Carboniferous Miospore Assemblages from Central Saudi Arabia",
+      "display_name": "Evidence of Mid-Carboniferous Miospore Assemblages from Central Saudi Arabia",
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3146536654",
+        "doi": "https://doi.org/10.2113/9781733475709-10",
+        "mag": "3146536654"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/9781733475709-10",
+        "doi": "https://doi.org/10.2113/9781733475709-10",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2113/9781733475709-10",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
+      },
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5110460569",
+            "display_name": "Bernard Owens",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91136226",
+              "display_name": "University of Sheffield",
+              "ror": "https://ror.org/05krs5044",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bernard Owens",
+          "raw_affiliation_strings": [
+            "University of Sheffield"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Sheffield",
+              "institution_ids": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027634361",
+            "display_name": "John Filatoff",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John Filatoff",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066688203",
+            "display_name": "Geoff Clayton",
+            "orcid": "https://orcid.org/0000-0002-6015-1885",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6015-1885"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I205274468",
+              "display_name": "Trinity College Dublin",
+              "ror": "https://ror.org/02tyrky19",
+              "country_code": "IE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I205274468"
+              ]
+            }
+          ],
+          "countries": [
+            "IE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Geoffrey Clayton",
+          "raw_affiliation_strings": [
+            "Trinity College Dublin"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Trinity College Dublin",
+              "institution_ids": [
+                "https://openalex.org/I205274468"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5054134454",
+            "display_name": "Sa’id A. Al-Hajri",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sa’id Al-Hajri",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.3579,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.76519337,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 95
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "154",
+        "last_page": "167"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.0005000000237487257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.0003000000142492354,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/miospores",
+          "display_name": "miospores",
+          "score": 0.8679999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/namurian",
+          "display_name": "Namurian",
+          "score": 0.8920000195503235
+        },
+        {
+          "id": "https://openalex.org/keywords/palynology",
+          "display_name": "palynology",
+          "score": 0.6069999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/tournaisian",
+          "display_name": "Tournaisian",
+          "score": 0.6230000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-peninsula",
+          "display_name": "Arabian Peninsula",
+          "score": 0.4819999933242798
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.8747003078460693
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5806597471237183
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5774281024932861
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.44944053888320923
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.38499322533607483
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.1417171061038971
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.2113/9781733475709-10",
+          "doi": "https://doi.org/10.2113/9781733475709-10",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/9781733475709-10",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+          "raw_type": "book-chapter"
+        },
+        {
+          "id": "mag:3146536654",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubs.geoscienceworld.org/books/book/2223/chapter/125392137/Evidence-of-Mid-Carboniferous-Miospore-Assemblages",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 7,
+      "referenced_works": [
+        "https://openalex.org/W1984725754",
+        "https://openalex.org/W2003181165",
+        "https://openalex.org/W2012626709",
+        "https://openalex.org/W2068101248",
+        "https://openalex.org/W2093959687",
+        "https://openalex.org/W3103362397",
+        "https://openalex.org/W3128695080"
+      ],
+      "related_works": [
+        "https://openalex.org/W2003181165",
+        "https://openalex.org/W3103362397",
+        "https://openalex.org/W2012626709",
+        "https://openalex.org/W7020448859",
+        "https://openalex.org/W2904373330",
+        "https://openalex.org/W1973737829",
+        "https://openalex.org/W7167952579",
+        "https://openalex.org/W2898300981",
+        "https://openalex.org/W1761772139",
+        "https://openalex.org/W2239100310"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "Miospore": [
+          1
+        ],
+        "assemblages": [
+          2,
+          55,
+          131
+        ],
+        "recovered": [
+          3
+        ],
+        "from": [
+          4
+        ],
+        "a": [
+          5,
+          48,
+          57,
+          79,
+          99
+        ],
+        "short": [
+          6
+        ],
+        "interval": [
+          7,
+          111
+        ],
+        "in": [
+          8,
+          13,
+          34,
+          136
+        ],
+        "well": [
+          9
+        ],
+        "Haradh-601": [
+          10
+        ],
+        "(HRDH-601),": [
+          11
+        ],
+        "drilled": [
+          12
+        ],
+        "the": [
+          14,
+          27,
+          35,
+          39,
+          45,
+          54,
+          85,
+          115
+        ],
+        "southern": [
+          15
+        ],
+        "Ghawar": [
+          16
+        ],
+        "oil": [
+          17
+        ],
+        "field,": [
+          18
+        ],
+        "eastern": [
+          19
+        ],
+        "Saudi": [
+          20
+        ],
+        "Arabia,": [
+          21
+        ],
+        "provide": [
+          22
+        ],
+        "additional": [
+          23
+        ],
+        "palynological": [
+          24
+        ],
+        "evidence": [
+          25
+        ],
+        "for": [
+          26
+        ],
+        "existence": [
+          28
+        ],
+        "of": [
+          29,
+          42,
+          47,
+          51,
+          59,
+          82,
+          84,
+          103,
+          117,
+          132,
+          138
+        ],
+        "possible": [
+          30
+        ],
+        "early": [
+          31
+        ],
+        "Namurian": [
+          32
+        ],
+        "deposits": [
+          33
+        ],
+        "Arabian": [
+          36
+        ],
+        "Peninsula.": [
+          37
+        ],
+        "Despite": [
+          38
+        ],
+        "variable": [
+          40
+        ],
+        "state": [
+          41
+        ],
+        "preservation": [
+          43
+        ],
+        "and": [
+          44,
+          74,
+          94,
+          124
+        ],
+        "presence": [
+          46,
+          116
+        ],
+        "significant": [
+          49,
+          61
+        ],
+        "number": [
+          50,
+          58,
+          81
+        ],
+        "undescribed": [
+          52
+        ],
+        "taxa,": [
+          53
+        ],
+        "contain": [
+          56
+        ],
+        "stratigraphically": [
+          60
+        ],
+        "species": [
+          62
+        ],
+        "including": [
+          63
+        ],
+        "Tricidarisporites": [
+          64
+        ],
+        "dumosus,": [
+          65
+        ],
+        "Vallatisporites": [
+          66,
+          118
+        ],
+        "vallatus,": [
+          67
+        ],
+        "V.": [
+          68
+        ],
+        "galearis,": [
+          69
+        ],
+        "Spelaeotriletes": [
+          70
+        ],
+        "giganteus,": [
+          71
+        ],
+        "S.": [
+          72
+        ],
+        "owensii": [
+          73
+        ],
+        "Aratrisporites": [
+          75
+        ],
+        "saharaensis": [
+          76
+        ],
+        "together": [
+          77
+        ],
+        "with": [
+          78,
+          130
+        ],
+        "limited": [
+          80
+        ],
+        "representatives": [
+          83
+        ],
+        "monosaccate": [
+          86
+        ],
+        "pollen": [
+          87
+        ],
+        "Potonieisporites": [
+          88
+        ],
+        "sp.,": [
+          89,
+          91
+        ],
+        "Protohaploxypinus": [
+          90
+        ],
+        "Cannanoropollis": [
+          92
+        ],
+        "janakii": [
+          93
+        ],
+        "Plicatipollenites": [
+          95
+        ],
+        "malabarensis": [
+          96
+        ],
+        "which": [
+          97
+        ],
+        "suggest": [
+          98
+        ],
+        "mid-Carboniferous": [
+          100
+        ],
+        "age.": [
+          101
+        ],
+        "Evidence": [
+          102
+        ],
+        "Late": [
+          104
+        ],
+        "Devonian-early": [
+          105
+        ],
+        "Tournaisian": [
+          106
+        ],
+        "(Strunian)": [
+          107
+        ],
+        "reworking": [
+          108
+        ],
+        "into": [
+          109
+        ],
+        "this": [
+          110
+        ],
+        "is": [
+          112
+        ],
+        "noted": [
+          113
+        ],
+        "by": [
+          114
+        ],
+        "pusillites,": [
+          119
+        ],
+        "Retispora": [
+          120
+        ],
+        "lepidophyta,": [
+          121
+        ],
+        "Retusotriletes": [
+          122
+        ],
+        "incohatus": [
+          123
+        ],
+        "Emphanisporites": [
+          125
+        ],
+        "rotatus.": [
+          126
+        ],
+        "Comparisons": [
+          127
+        ],
+        "are": [
+          128
+        ],
+        "made": [
+          129
+        ],
+        "potentially": [
+          133
+        ],
+        "similar": [
+          134
+        ],
+        "age": [
+          135
+        ],
+        "parts": [
+          137
+        ],
+        "North": [
+          139
+        ],
+        "Africa.": [
+          140
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-16T09:59:22.235173",
+      "created_date": "2021-04-13T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3150378705",
       "doi": "https://doi.org/10.2113/9781733475709-02",
       "title": "Palynology of a Problematic Lower Palaeozoic Lithofacies in Central Saudi Arabia",
@@ -15192,6 +15209,7 @@
         "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -15303,11 +15321,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5781,
+      "fwci": 0.4526,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.68835616,
+        "value": 0.59668508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15381,12 +15399,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.004399999976158142,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -16225,6 +16243,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -16360,11 +16379,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.0385,
+      "fwci": 7.2653,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.93690249,
+        "value": 0.95211268,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17357,6 +17376,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -17479,7 +17499,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.20342612,
+        "value": 0.19551282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18075,6 +18095,7 @@
       },
       "volume": null,
       "type": "editorial",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -18633,6 +18654,7 @@
       },
       "volume": null,
       "type": "editorial",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -18831,12 +18853,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.001500000013038516,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -19139,6 +19161,7 @@
       },
       "volume": null,
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -19263,7 +19286,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03763441,
+        "value": 0.03004292,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19317,12 +19340,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.065700002014637,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -19495,8 +19518,8 @@
         "landing_page_url": "https://orbi.uliege.be/handle/2268/186101",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306400651",
-          "display_name": "Open Repository and Bibliography (University of Liège)",
+          "id": "https://openalex.org/S4306401300",
+          "display_name": "ORBi (University of Liège)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -19521,6 +19544,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": true,
@@ -19647,7 +19671,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11010558,
+        "value": 0.13471503,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19718,12 +19742,12 @@
           "display_name": "Protist diversity and phylogeny",
           "score": 0.00009999999747378752,
           "subfield": {
-            "id": "https://openalex.org/subfields/1312",
-            "display_name": "Molecular Biology"
+            "id": "https://openalex.org/subfields/1105",
+            "display_name": "Ecology, Evolution, Behavior and Systematics"
           },
           "field": {
-            "id": "https://openalex.org/fields/13",
-            "display_name": "Biochemistry, Genetics and Molecular Biology"
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/1",
@@ -19822,8 +19846,8 @@
           "landing_page_url": "https://orbi.uliege.be/handle/2268/186101",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400651",
-            "display_name": "Open Repository and Bibliography (University of Liège)",
+            "id": "https://openalex.org/S4306401300",
+            "display_name": "ORBi (University of Liège)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -19869,8 +19893,8 @@
         "landing_page_url": "https://orbi.uliege.be/handle/2268/186101",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306400651",
-          "display_name": "Open Repository and Bibliography (University of Liège)",
+          "id": "https://openalex.org/S4306401300",
+          "display_name": "ORBi (University of Liège)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -19918,7 +19942,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19940,8 +19964,8 @@
         "landing_page_url": "https://orbi.uliege.be/handle/2268/137879",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306400651",
-          "display_name": "Open Repository and Bibliography (University of Liège)",
+          "id": "https://openalex.org/S4306401300",
+          "display_name": "ORBi (University of Liège)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -19966,6 +19990,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -20090,7 +20115,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15483871,
+        "value": 0.23595506,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20144,12 +20169,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.08829999715089798,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -20215,8 +20240,8 @@
           "landing_page_url": "https://orbi.uliege.be/handle/2268/137879",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400651",
-            "display_name": "Open Repository and Bibliography (University of Liège)",
+            "id": "https://openalex.org/S4306401300",
+            "display_name": "ORBi (University of Liège)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -20281,7 +20306,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -20329,6 +20354,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": true,
@@ -20625,7 +20651,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18562874,
+        "value": 0.2020202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21452,6 +21478,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": true,
@@ -21614,7 +21641,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50161812,
+        "value": 0.6187234,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21954,6 +21981,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": true,
@@ -22116,7 +22144,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38106699,
+        "value": 0.37696171,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22453,6 +22481,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": true,
@@ -22597,7 +22626,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14636696,
+        "value": 0.15812918,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22888,6 +22917,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -23057,7 +23087,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26141948,
+        "value": 0.20821511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23283,6 +23313,7 @@
         "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],

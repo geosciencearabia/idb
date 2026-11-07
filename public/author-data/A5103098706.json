@@ -21,7 +21,7 @@
     ],
     "full_name": "Johnson, Peter Roland Andrew",
     "works_count": 66,
-    "cited_by_count": 5742,
+    "cited_by_count": 5746,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 31,
@@ -146,8 +146,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "count": 55,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -231,7 +231,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000738,
+        "value": 0.0000737,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -248,10 +248,10 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0000635,
+        "value": 0.0000634,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -284,12 +284,12 @@
         "display_name": "Geochemistry and Geologic Mapping",
         "value": 0.0000473,
         "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -549,7 +549,7 @@
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 445
+        "cited_by_count": 449
       }
     ],
     "display_name_alternatives": [
@@ -567,7 +567,7 @@
     ],
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-11-05T13:29:08",
+    "updated_date": "2026-11-06T12:48:51",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -632,6 +632,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -971,11 +972,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 25.8378,
+      "fwci": 22.4035,
       "has_fulltext": false,
       "cited_by_count": 825,
       "citation_normalized_percentile": {
-        "value": 0.99851846,
+        "value": 0.99876669,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -997,8 +998,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9970999956130981,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -1015,8 +1016,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9970999956130981,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -1397,8 +1398,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 297,
@@ -1842,6 +1843,7 @@
       },
       "volume": null,
       "type": "review",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "pubmed"
@@ -2449,9 +2451,9 @@
         "currency": "USD",
         "value_usd": 3370
       },
-      "fwci": 6.9008,
+      "fwci": 4.5351,
       "has_fulltext": false,
-      "cited_by_count": 813,
+      "cited_by_count": 814,
       "citation_normalized_percentile": {
         "value": 1,
         "is_in_top_1_percent": true,
@@ -2475,8 +2477,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9940999746322632,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -2493,8 +2495,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9940999746322632,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -2943,8 +2945,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 305,
@@ -4018,7 +4020,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 84
+          "cited_by_count": 85
         },
         {
           "year": 2025,
@@ -4073,7 +4075,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4135,6 +4137,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -4226,9 +4229,9 @@
         "value_usd": 5120
       },
       "apc_paid": null,
-      "fwci": 44.2165,
+      "fwci": 47.337,
       "has_fulltext": false,
-      "cited_by_count": 723,
+      "cited_by_count": 724,
       "citation_normalized_percentile": {
         "value": 1,
         "is_in_top_1_percent": true,
@@ -4287,8 +4290,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.20839999616146088,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -4630,8 +4633,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 198,
@@ -4851,7 +4854,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 56
+          "cited_by_count": 57
         },
         {
           "year": 2025,
@@ -4910,7 +4913,7 @@
           "cited_by_count": 15
         }
       ],
-      "updated_date": "2026-11-05T12:25:35.769452",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4970,6 +4973,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -5063,11 +5067,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.0372,
+      "fwci": 7.5263,
       "has_fulltext": false,
       "cited_by_count": 507,
       "citation_normalized_percentile": {
-        "value": 0.97645783,
+        "value": 0.97916667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5089,8 +5093,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9800000190734863,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -5107,8 +5111,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9800000190734863,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -5342,8 +5346,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 159,
@@ -6130,6 +6134,7 @@
       },
       "volume": null,
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -6276,11 +6281,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.7567,
+      "fwci": 7.1154,
       "has_fulltext": false,
       "cited_by_count": 341,
       "citation_normalized_percentile": {
-        "value": 0.9778086,
+        "value": 0.98194946,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6302,8 +6307,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9970999956130981,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -6320,8 +6325,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9970999956130981,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -6500,8 +6505,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -6726,6 +6731,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -6933,11 +6939,11 @@
         "value_usd": 4670
       },
       "apc_paid": null,
-      "fwci": 7.1149,
+      "fwci": 7.6394,
       "has_fulltext": false,
       "cited_by_count": 288,
       "citation_normalized_percentile": {
-        "value": 0.97530215,
+        "value": 0.97927632,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6959,8 +6965,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9994999766349792,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -6977,8 +6983,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9994999766349792,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -7011,12 +7017,12 @@
           "display_name": "Astro and Planetary Science",
           "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/3103",
-            "display_name": "Astronomy and Astrophysics"
+            "id": "https://openalex.org/subfields/1912",
+            "display_name": "Space and Planetary Science"
           },
           "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -7246,8 +7252,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -7449,6 +7455,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -7729,11 +7736,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.8379,
+      "fwci": 7.1239,
       "has_fulltext": true,
       "cited_by_count": 191,
       "citation_normalized_percentile": {
-        "value": 0.97285595,
+        "value": 0.97517434,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7755,8 +7762,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 1,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -7773,8 +7780,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 1,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -7807,12 +7814,12 @@
           "display_name": "Astro and Planetary Science",
           "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/3103",
-            "display_name": "Astronomy and Astrophysics"
+            "id": "https://openalex.org/subfields/1912",
+            "display_name": "Space and Planetary Science"
           },
           "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -8066,8 +8073,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150913154.pdf",
@@ -8849,6 +8856,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -8978,11 +8986,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 0.3378,
+      "fwci": 0.3272,
       "has_fulltext": false,
       "cited_by_count": 136,
       "citation_normalized_percentile": {
-        "value": 0.70706268,
+        "value": 0.6287795,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9004,12 +9012,12 @@
         "display_name": "Geochemistry and Geologic Mapping",
         "score": 0.8125,
         "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -9022,12 +9030,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.8125,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -9039,8 +9047,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.10939999669790268,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -9056,8 +9064,8 @@
           "display_name": "Geological Modeling and Analysis",
           "score": 0.04560000076889992,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -9322,8 +9330,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -9490,6 +9498,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "doaj"
@@ -9727,11 +9736,11 @@
         "currency": "CHF",
         "value_usd": 2172
       },
-      "fwci": 4.7274,
+      "fwci": 3.631,
       "has_fulltext": false,
-      "cited_by_count": 112,
+      "cited_by_count": 113,
       "citation_normalized_percentile": {
-        "value": 0.94025222,
+        "value": 0.92222014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9753,8 +9762,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9868000149726868,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -9771,8 +9780,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9868000149726868,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -10120,8 +10129,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -10725,7 +10734,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 12
+          "cited_by_count": 13
         },
         {
           "year": 2025,
@@ -10780,7 +10789,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10835,6 +10844,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -10880,11 +10890,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.5052,
+      "fwci": 4.0957,
       "has_fulltext": true,
       "cited_by_count": 111,
       "citation_normalized_percentile": {
-        "value": 0.94005966,
+        "value": 0.93044656,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10906,8 +10916,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9994999766349792,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -10924,8 +10934,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9994999766349792,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -11194,8 +11204,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2064300797.pdf",
@@ -12079,6 +12089,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -12279,11 +12290,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 6.2273,
+      "fwci": 5.7261,
       "has_fulltext": false,
       "cited_by_count": 105,
       "citation_normalized_percentile": {
-        "value": 0.97993628,
+        "value": 0.97587854,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12305,8 +12316,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9794999957084656,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -12323,8 +12334,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9794999957084656,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -12340,16 +12351,16 @@
           "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
           "score": 0.009999999776482582,
           "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
           }
         },
         {
@@ -12357,12 +12368,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.0038999998942017555,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -12600,8 +12611,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 205,
@@ -12918,6 +12929,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -13135,11 +13147,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7712,
+      "fwci": 3.3057,
       "has_fulltext": false,
       "cited_by_count": 97,
       "citation_normalized_percentile": {
-        "value": 0.93590956,
+        "value": 0.92116074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13161,8 +13173,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9437999725341797,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -13179,8 +13191,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9437999725341797,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -13196,12 +13208,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.018200000748038292,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -13213,16 +13225,16 @@
           "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
           "score": 0.01810000091791153,
           "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
           }
         }
       ],
@@ -13382,8 +13394,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -14863,6 +14875,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -15071,11 +15084,11 @@
         "value_usd": 4070
       },
       "apc_paid": null,
-      "fwci": 5.9767,
+      "fwci": 4.5984,
       "has_fulltext": false,
       "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.95375845,
+        "value": 0.93842202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15132,8 +15145,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.03400000184774399,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -15369,8 +15382,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 149,
@@ -16147,6 +16160,7 @@
         "display_name": "Geological Setting, Palaeoenvironment and Archaeology of the Red Sea"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -16256,11 +16270,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.5545,
+      "fwci": 9.3646,
       "has_fulltext": false,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.98448109,
+        "value": 0.98336252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16317,8 +16331,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.002400000113993883,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -16590,8 +16604,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 112,
@@ -16822,6 +16836,7 @@
         "display_name": "The Geology of the Arabian-Nubian Shield"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -16867,11 +16882,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.6174,
+      "fwci": 5.6551,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.96827133,
+        "value": 0.96551724,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16893,8 +16908,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9980000257492065,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -16911,8 +16926,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9980000257492065,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -17202,8 +17217,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 177,
@@ -17483,6 +17498,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -17532,11 +17548,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 2.4477,
+      "fwci": 2.6178,
       "has_fulltext": false,
       "cited_by_count": 123,
       "citation_normalized_percentile": {
-        "value": 0.85951257,
+        "value": 0.86873156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17558,8 +17574,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.6762999892234802,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -17576,8 +17592,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.6762999892234802,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -17856,8 +17872,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -18041,6 +18057,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -18250,11 +18267,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 3.6202,
+      "fwci": 3.3485,
       "has_fulltext": false,
       "cited_by_count": 102,
       "citation_normalized_percentile": {
-        "value": 0.93651814,
+        "value": 0.92800976,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18328,8 +18345,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.07039999961853027,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -18526,8 +18543,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -18747,6 +18764,7 @@
       },
       "volume": null,
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -18853,11 +18871,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3783,
+      "fwci": 3.5577,
       "has_fulltext": false,
       "cited_by_count": 98,
       "citation_normalized_percentile": {
-        "value": 0.91816921,
+        "value": 0.92057762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18879,8 +18897,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9688000082969666,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -18897,8 +18915,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9688000082969666,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -19142,8 +19160,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -19319,6 +19337,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -19559,11 +19578,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 4.215,
+      "fwci": 4.1876,
       "has_fulltext": false,
       "cited_by_count": 97,
       "citation_normalized_percentile": {
-        "value": 0.92975427,
+        "value": 0.92986072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19585,8 +19604,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9872999787330627,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -19603,8 +19622,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9872999787330627,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -19840,8 +19859,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -20036,6 +20055,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -20126,11 +20146,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 4.5516,
+      "fwci": 4.7006,
       "has_fulltext": false,
       "cited_by_count": 94,
       "citation_normalized_percentile": {
-        "value": 0.94330627,
+        "value": 0.94716981,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20152,8 +20172,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.92330002784729,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -20170,8 +20190,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.92330002784729,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -20428,8 +20448,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -20622,6 +20642,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -20840,11 +20861,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 1.4255,
+      "fwci": 1.4467,
       "has_fulltext": false,
       "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.79259694,
+        "value": 0.78756563,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20866,8 +20887,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9984999895095825,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -20884,8 +20905,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9984999895095825,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -21186,8 +21207,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -21405,6 +21426,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -21534,11 +21556,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 0.9179,
+      "fwci": 0.9817,
       "has_fulltext": false,
       "cited_by_count": 78,
       "citation_normalized_percentile": {
-        "value": 0.72100293,
+        "value": 0.73147124,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21560,8 +21582,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9980000257492065,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -21578,8 +21600,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9980000257492065,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -21852,8 +21874,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -22021,6 +22043,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -22128,11 +22151,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 1.2487,
+      "fwci": 1.4318,
       "has_fulltext": false,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.79519262,
+        "value": 0.80749886,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22206,8 +22229,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.0142000000923872,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -22484,8 +22507,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -22672,6 +22695,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -22998,16 +23022,16 @@
         "value_usd": 3350
       },
       "apc_paid": null,
-      "fwci": 4.3646,
+      "fwci": 4.2743,
       "has_fulltext": false,
       "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.93467815,
+        "value": 0.93396095,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -23024,8 +23048,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9994999766349792,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -23042,8 +23066,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9994999766349792,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -23273,8 +23297,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -23499,6 +23523,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -23864,11 +23889,11 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 1.2777,
+      "fwci": 1.1818,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.76628388,
+        "value": 0.74457701,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23925,8 +23950,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.12710000574588776,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -24149,8 +24174,8 @@
           "landing_page_url": "https://scholarworks.boisestate.edu/geo_facpubs/192",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4377196366",
-            "display_name": "Scholar Works  (Boise State University)",
+            "id": "https://openalex.org/S4306400258",
+            "display_name": "ScholarWorks (Boise State University)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -24222,8 +24247,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -24750,7 +24775,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -24814,6 +24839,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -25002,11 +25028,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1314,
+      "fwci": 0.9917,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.7429075,
+        "value": 0.70779263,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25028,8 +25054,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9994999766349792,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -25046,8 +25072,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9994999766349792,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -25367,8 +25393,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -26227,6 +26253,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "datacite"
@@ -26988,13 +27015,13 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 2.6349,
+      "fwci": 2.5497,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.90922703,
+        "value": 0.89733179,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 92,
@@ -27066,8 +27093,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.005200000014156103,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -27485,8 +27512,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3014422248.pdf",
@@ -27676,449 +27703,6 @@
       "created_date": "2020-04-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2079727754",
-      "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
-      "title": "Implications of SHRIMP and Microstructural Data on the Age and Kinematics of Shearing in the Asir Terrane, Southern Arabian Shield, Saudi Arabia",
-      "display_name": "Implications of SHRIMP and Microstructural Data on the Age and Kinematics of Shearing in the Asir Terrane, Southern Arabian Shield, Saudi Arabia",
-      "publication_year": 2001,
-      "publication_date": "2001-04-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2079727754",
-        "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
-        "mag": "2079727754"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/s1342-937x(05)70683-3",
-        "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s1342-937x(05)70683-3",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S158567263",
-          "display_name": "Gondwana Research",
-          "issn_l": "1342-937X",
-          "issn": [
-            "1342-937X",
-            "1878-0571"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-a",
-            "jufo-3",
-            "norway-1",
-            "poland-200",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Gondwana Research",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4697-3882"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "P JOHNSON",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103098706"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 3700,
-        "currency": "USD",
-        "value_usd": 3700
-      },
-      "apc_paid": null,
-      "fwci": 0.3251,
-      "has_fulltext": false,
-      "cited_by_count": 29,
-      "citation_normalized_percentile": {
-        "value": 0.61215824,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "4",
-        "issue": "2",
-        "first_page": "172",
-        "last_page": "173"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10001",
-        "display_name": "Geological and Geochemical Analysis",
-        "score": 0.9951000213623047,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9951000213623047,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.00139999995008111,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.000699999975040555,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/shear-zone-kinematics",
-          "display_name": "shear zone kinematics",
-          "score": 0.5929999947547913
-        },
-        {
-          "id": "https://openalex.org/keywords/microstructure",
-          "display_name": "microstructure",
-          "score": 0.5950000286102295
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-nubian-shield",
-          "display_name": "Arabian-Nubian Shield",
-          "score": 0.5870000123977661
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C150999391",
-          "wikidata": "https://www.wikidata.org/wiki/Q509037",
-          "display_name": "Terrane",
-          "level": 3,
-          "score": 0.8710508346557617
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.854040265083313
-        },
-        {
-          "id": "https://openalex.org/C152279782",
-          "wikidata": "https://www.wikidata.org/wiki/Q13583542",
-          "display_name": "Shearing (physics)",
-          "level": 2,
-          "score": 0.8077653050422668
-        },
-        {
-          "id": "https://openalex.org/C138081364",
-          "wikidata": "https://www.wikidata.org/wiki/Q852013",
-          "display_name": "Shield",
-          "level": 2,
-          "score": 0.7188918590545654
-        },
-        {
-          "id": "https://openalex.org/C2776841996",
-          "wikidata": "https://www.wikidata.org/wiki/Q1517781",
-          "display_name": "Shrimp",
-          "level": 2,
-          "score": 0.5211381912231445
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.4775739014148712
-        },
-        {
-          "id": "https://openalex.org/C39920418",
-          "wikidata": "https://www.wikidata.org/wiki/Q11476",
-          "display_name": "Kinematics",
-          "level": 2,
-          "score": 0.4654354155063629
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.2681722044944763
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.18398404121398926
-        },
-        {
-          "id": "https://openalex.org/C505870484",
-          "wikidata": "https://www.wikidata.org/wiki/Q180538",
-          "display_name": "Fishery",
-          "level": 1,
-          "score": 0.05459040403366089
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C74650414",
-          "wikidata": "https://www.wikidata.org/wiki/Q11397",
-          "display_name": "Classical mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/s1342-937x(05)70683-3",
-          "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s1342-937x(05)70683-3",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S158567263",
-            "display_name": "Gondwana Research",
-            "issn_l": "1342-937X",
-            "issn": [
-              "1342-937X",
-              "1878-0571"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-a",
-              "jufo-3",
-              "norway-1",
-              "poland-200",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Gondwana Research",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 3,
-      "referenced_works": [
-        "https://openalex.org/W151464013",
-        "https://openalex.org/W181364181",
-        "https://openalex.org/W1993812703"
-      ],
-      "related_works": [
-        "https://openalex.org/W2070073990",
-        "https://openalex.org/W2995375547",
-        "https://openalex.org/W397990422",
-        "https://openalex.org/W3093678157",
-        "https://openalex.org/W7095937911",
-        "https://openalex.org/W3152671060",
-        "https://openalex.org/W2512296515",
-        "https://openalex.org/W3091177307",
-        "https://openalex.org/W2996579810",
-        "https://openalex.org/W1520592927"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-09-25T08:18:29.962427",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2604512930",
       "doi": "https://doi.org/10.1080/00206814.2017.1307789",
       "title": "Metavolcanic host rocks, mineralization, and gossans of the Shaib al Tair and Rabathan volcanogenic massive sulphide deposits of the Wadi Bidah Mineral District, Saudi Arabia",
@@ -28179,6 +27763,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -28464,11 +28049,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3771,
+      "fwci": 0.3306,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.56980743,
+        "value": 0.53139876,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28490,8 +28075,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9028000235557556,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -28508,8 +28093,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9028000235557556,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -28542,12 +28127,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.01730000041425228,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -28778,8 +28363,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -29608,6 +29193,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -29890,16 +29476,16 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.3924,
+      "fwci": 3.0571,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.93154108,
+        "value": 0.92211211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 99
       },
       "biblio": {
@@ -29951,8 +29537,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.24400000274181366,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -30212,8 +29798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -30379,6 +29965,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -30522,11 +30109,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1129,
+      "fwci": 1.711,
       "has_fulltext": false,
       "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.88895111,
+        "value": 0.8204307,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30548,12 +30135,12 @@
         "display_name": "Geochemistry and Geologic Mapping",
         "score": 0.9984999895095825,
         "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -30566,12 +30153,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.9984999895095825,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -30583,8 +30170,8 @@
           "display_name": "Geological Modeling and Analysis",
           "score": 0.0005000000237487257,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -30600,8 +30187,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.00019999999494757503,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -30785,8 +30372,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -31494,6 +31081,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -31619,11 +31207,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.6013,
+      "fwci": 1.4804,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.83216105,
+        "value": 0.8171055,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31856,8 +31444,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -32410,6 +31998,450 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2079727754",
+      "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
+      "title": "Implications of SHRIMP and Microstructural Data on the Age and Kinematics of Shearing in the Asir Terrane, Southern Arabian Shield, Saudi Arabia",
+      "display_name": "Implications of SHRIMP and Microstructural Data on the Age and Kinematics of Shearing in the Asir Terrane, Southern Arabian Shield, Saudi Arabia",
+      "publication_year": 2001,
+      "publication_date": "2001-04-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2079727754",
+        "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
+        "mag": "2079727754"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/s1342-937x(05)70683-3",
+        "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s1342-937x(05)70683-3",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S158567263",
+          "display_name": "Gondwana Research",
+          "issn_l": "1342-937X",
+          "issn": [
+            "1342-937X",
+            "1878-0571"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-a",
+            "jufo-3",
+            "norway-1",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Gondwana Research",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103098706",
+            "display_name": "Peter R. Johnson",
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "P JOHNSON",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103098706"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3700,
+        "currency": "USD",
+        "value_usd": 3700
+      },
+      "apc_paid": null,
+      "fwci": 0.3358,
+      "has_fulltext": false,
+      "cited_by_count": 29,
+      "citation_normalized_percentile": {
+        "value": 0.60488346,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "4",
+        "issue": "2",
+        "first_page": "172",
+        "last_page": "173"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10001",
+        "display_name": "Geological and Geochemical Analysis",
+        "score": 0.9951000213623047,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9951000213623047,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.00139999995008111,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.000699999975040555,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/shear-zone-kinematics",
+          "display_name": "shear zone kinematics",
+          "score": 0.5929999947547913
+        },
+        {
+          "id": "https://openalex.org/keywords/microstructure",
+          "display_name": "microstructure",
+          "score": 0.5950000286102295
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-nubian-shield",
+          "display_name": "Arabian-Nubian Shield",
+          "score": 0.5870000123977661
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C150999391",
+          "wikidata": "https://www.wikidata.org/wiki/Q509037",
+          "display_name": "Terrane",
+          "level": 3,
+          "score": 0.8710508346557617
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.854040265083313
+        },
+        {
+          "id": "https://openalex.org/C152279782",
+          "wikidata": "https://www.wikidata.org/wiki/Q13583542",
+          "display_name": "Shearing (physics)",
+          "level": 2,
+          "score": 0.8077653050422668
+        },
+        {
+          "id": "https://openalex.org/C138081364",
+          "wikidata": "https://www.wikidata.org/wiki/Q852013",
+          "display_name": "Shield",
+          "level": 2,
+          "score": 0.7188918590545654
+        },
+        {
+          "id": "https://openalex.org/C2776841996",
+          "wikidata": "https://www.wikidata.org/wiki/Q1517781",
+          "display_name": "Shrimp",
+          "level": 2,
+          "score": 0.5211381912231445
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.4775739014148712
+        },
+        {
+          "id": "https://openalex.org/C39920418",
+          "wikidata": "https://www.wikidata.org/wiki/Q11476",
+          "display_name": "Kinematics",
+          "level": 2,
+          "score": 0.4654354155063629
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2681722044944763
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.18398404121398926
+        },
+        {
+          "id": "https://openalex.org/C505870484",
+          "wikidata": "https://www.wikidata.org/wiki/Q180538",
+          "display_name": "Fishery",
+          "level": 1,
+          "score": 0.05459040403366089
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C74650414",
+          "wikidata": "https://www.wikidata.org/wiki/Q11397",
+          "display_name": "Classical mechanics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s1342-937x(05)70683-3",
+          "doi": "https://doi.org/10.1016/s1342-937x(05)70683-3",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s1342-937x(05)70683-3",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S158567263",
+            "display_name": "Gondwana Research",
+            "issn_l": "1342-937X",
+            "issn": [
+              "1342-937X",
+              "1878-0571"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-a",
+              "jufo-3",
+              "norway-1",
+              "poland-200",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Gondwana Research",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 3,
+      "referenced_works": [
+        "https://openalex.org/W151464013",
+        "https://openalex.org/W181364181",
+        "https://openalex.org/W1993812703"
+      ],
+      "related_works": [
+        "https://openalex.org/W2070073990",
+        "https://openalex.org/W2995375547",
+        "https://openalex.org/W397990422",
+        "https://openalex.org/W3093678157",
+        "https://openalex.org/W7095937911",
+        "https://openalex.org/W3152671060",
+        "https://openalex.org/W2512296515",
+        "https://openalex.org/W3091177307",
+        "https://openalex.org/W2996579810",
+        "https://openalex.org/W1520592927"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-25T08:18:29.962427",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1604867301",
       "doi": "https://doi.org/10.1029/gd019p0323",
       "title": "Basement fragments, accreted tectonostratigraphic terranes, and overlap sequences: Elements in the tectonic evolution of the Arabian Shield",
@@ -32465,6 +32497,7 @@
         "display_name": "Terrane Accretion and Orogenic Belts"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -32556,13 +32589,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.0727,
+      "fwci": 3.7798,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.89150943,
+        "value": 0.93279022,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -32582,8 +32615,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.6157000064849854,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -32600,8 +32633,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.6157000064849854,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -32787,8 +32820,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -32942,6 +32975,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -33078,11 +33112,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9888,
+      "fwci": 2.1583,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.85623003,
+        "value": 0.86350148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33156,8 +33190,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.04809999838471413,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -33373,8 +33407,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34341,6 +34375,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -34538,11 +34573,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8949,
+      "fwci": 0.7222,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.73637322,
+        "value": 0.6724996,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34599,8 +34634,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.06960000097751617,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -34778,8 +34813,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -35875,6 +35910,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -36076,7 +36112,7 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5057548055",
-            "display_name": "Cees Willem Passchier",
+            "display_name": "Cees W. Passchier",
             "orcid": "https://orcid.org/0000-0002-3685-7255",
             "observed_orcids": [
               "https://orcid.org/0000-0002-3685-7255"
@@ -36421,16 +36457,16 @@
         "currency": "USD",
         "value_usd": 5120
       },
-      "fwci": 7.4453,
+      "fwci": 5.7441,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.97841546,
+        "value": 0.96849823,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 97
       },
       "biblio": {
@@ -36447,8 +36483,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.7207000255584717,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -36465,8 +36501,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.7207000255584717,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -36774,8 +36810,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -37415,7 +37451,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2026-08-12T00:00:00"
     },
     {
@@ -37474,6 +37510,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -37555,11 +37592,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4582,
+      "fwci": 3.6091,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.9141791,
+        "value": 0.92068738,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37633,8 +37670,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.00559999980032444,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -37962,8 +37999,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2121511827.pdf",
@@ -38730,6 +38767,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -38930,11 +38968,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3696,
+      "fwci": 0.4381,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.65222482,
+        "value": 0.66941075,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38956,8 +38994,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9970999956130981,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -38974,8 +39012,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9970999956130981,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -39213,8 +39251,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -40104,6 +40142,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -40174,11 +40213,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 0.9175,
+      "fwci": 1.0738,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.70850638,
+        "value": 0.73934298,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40200,8 +40239,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9854000210762024,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -40218,8 +40257,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9854000210762024,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -40252,16 +40291,16 @@
           "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
           "score": 0.00279999990016222,
           "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
           }
         }
       ],
@@ -40428,8 +40467,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -40546,6 +40585,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -40625,16 +40665,16 @@
         "value_usd": 2020
       },
       "apc_paid": null,
-      "fwci": 5.2386,
+      "fwci": 5.3646,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.9414542,
+        "value": 0.94329184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 94
       },
       "biblio": {
@@ -40889,8 +40929,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41183,6 +41223,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -41278,12 +41319,12 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.19951441,
+        "value": 0.21629956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 94
       },
       "biblio": {
@@ -41300,8 +41341,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9297000169754028,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -41318,8 +41359,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9297000169754028,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -41352,16 +41393,16 @@
           "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
           "score": 0.01489999983459711,
           "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
           }
         }
       ],
@@ -41517,8 +41558,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42217,6 +42258,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -42319,11 +42361,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5932,
+      "fwci": 0.512,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.73985032,
+        "value": 0.69914752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42345,8 +42387,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9984999895095825,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -42363,8 +42405,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9984999895095825,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -42397,16 +42439,16 @@
           "display_name": "Geochemistry and Geochronology of Asian Mineral Deposits",
           "score": 0.00019999999494757503,
           "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
           }
         }
       ],
@@ -42541,8 +42583,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42606,6 +42648,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -42660,7 +42703,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.29950589,
+        "value": 0.36149826,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42717,8 +42760,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.3140000104904175,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -42850,8 +42893,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -42952,6 +42995,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -43087,11 +43131,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0795,
+      "fwci": 1.1616,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.81570997,
+        "value": 0.81678487,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43165,12 +43209,12 @@
           "display_name": "Geophysical Methods and Applications",
           "score": 0.05090000107884407,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -43358,8 +43402,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44467,6 +44511,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -44569,16 +44614,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2154,
+      "fwci": 1.2684,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.81695695,
+        "value": 0.81029552,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 93
       },
       "biblio": {
@@ -44825,8 +44870,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45473,6 +45518,7 @@
       },
       "volume": null,
       "type": "editorial",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -45583,8 +45629,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9092000126838684,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -45601,8 +45647,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9092000126838684,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -45761,8 +45807,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -45879,6 +45925,7 @@
       },
       "volume": null,
       "type": "report",
+      "is_traditional": false,
       "indexed_in": [
         "crossref"
       ],
@@ -45980,8 +46027,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9907000064849854,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -45998,8 +46045,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9907000064849854,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -46312,8 +46359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W194073010.pdf",
@@ -47200,6 +47247,1162 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W94473743",
+      "doi": "https://doi.org/10.3133/ofr9139",
+      "title": "Reconnaissance geochemical survey of the Farah Garan-Kutam mineral belt, Kingdom of Saudi Arabia",
+      "display_name": "Reconnaissance geochemical survey of the Farah Garan-Kutam mineral belt, Kingdom of Saudi Arabia",
+      "publication_year": 1991,
+      "publication_date": "1991-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W94473743",
+        "doi": "https://doi.org/10.3133/ofr9139",
+        "mag": "94473743"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3133/ofr9139",
+        "doi": "https://doi.org/10.3133/ofr9139",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3133/ofr9139",
+        "pdf_url": "https://pubs.usgs.gov/of/1991/0039/report.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210194219",
+          "display_name": "Antarctica A Keystone in a Changing World",
+          "issn_l": "0196-1497",
+          "issn": [
+            "0196-1497",
+            "2331-1258",
+            "2332-4899"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "poland-20",
+            "russia-white-list-4"
+          ],
+          "host_organization": "https://openalex.org/P4310316088",
+          "host_organization_name": "United States Department of the Interior",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316088"
+          ],
+          "host_organization_lineage_names": [
+            "United States Department of the Interior"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Open-File Report",
+        "raw_type": "report-component"
+      },
+      "volume": null,
+      "type": "report",
+      "is_traditional": false,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://pubs.usgs.gov/of/1991/0039/report.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5005906972",
+            "display_name": "Rashid M. Samater",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R.M. Samater",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103098706",
+            "display_name": "Peter R. Johnson",
+            "orcid": "https://orcid.org/0000-0002-4697-3882",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4697-3882"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "P.R. Johnson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5084016600",
+            "display_name": "Arthur A. Bookstrom",
+            "orcid": "https://orcid.org/0000-0003-1336-3364",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1336-3364"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A.A. Bookstrom",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": true,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10139",
+          "display_name": "Heavy metals in environment",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2310",
+            "display_name": "Pollution"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geochemical-anomalies",
+          "display_name": "geochemical anomalies",
+          "score": 0.8240000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/silver",
+          "display_name": "silver",
+          "score": 0.9860000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/arsenic",
+          "display_name": "arsenic",
+          "score": 0.8140000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/copper",
+          "display_name": "copper",
+          "score": 0.9160000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/lead",
+          "display_name": "lead",
+          "score": 0.9900000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/zinc",
+          "display_name": "zinc",
+          "score": 1
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-shield",
+          "display_name": "Arabian Shield",
+          "score": 0.7369999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/mineral-exploration",
+          "display_name": "mineral exploration",
+          "score": 0.8190000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/mineral-potential-assessment",
+          "display_name": "mineral potential assessment",
+          "score": 0.4569999873638153
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C66264921",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mineral exploration",
+          "level": 2,
+          "score": 0.7120556235313416
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.504494309425354
+        },
+        {
+          "id": "https://openalex.org/C200965112",
+          "wikidata": "https://www.wikidata.org/wiki/Q187971",
+          "display_name": "Wadi",
+          "level": 2,
+          "score": 0.5032071471214294
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4894007742404938
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.4801635146141052
+        },
+        {
+          "id": "https://openalex.org/C2777898358",
+          "wikidata": "https://www.wikidata.org/wiki/Q2840139",
+          "display_name": "Graphite furnace atomic absorption",
+          "level": 3,
+          "score": 0.4300297796726227
+        },
+        {
+          "id": "https://openalex.org/C58625266",
+          "wikidata": "https://www.wikidata.org/wiki/Q1256418",
+          "display_name": "Lode",
+          "level": 2,
+          "score": 0.4133760929107666
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.3960047662258148
+        },
+        {
+          "id": "https://openalex.org/C33619061",
+          "wikidata": "https://www.wikidata.org/wiki/Q655346",
+          "display_name": "Atomic absorption spectroscopy",
+          "level": 2,
+          "score": 0.2857418358325958
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.260158509016037
+        },
+        {
+          "id": "https://openalex.org/C58640448",
+          "wikidata": "https://www.wikidata.org/wiki/Q42515",
+          "display_name": "Cartography",
+          "level": 1,
+          "score": 0.23928770422935486
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.11594253778457642
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3133/ofr9139",
+          "doi": "https://doi.org/10.3133/ofr9139",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3133/ofr9139",
+          "pdf_url": "https://pubs.usgs.gov/of/1991/0039/report.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210194219",
+            "display_name": "Antarctica A Keystone in a Changing World",
+            "issn_l": "0196-1497",
+            "issn": [
+              "0196-1497",
+              "2331-1258",
+              "2332-4899"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "poland-20",
+              "russia-white-list-4"
+            ],
+            "host_organization": "https://openalex.org/P4310316088",
+            "host_organization_name": "United States Department of the Interior",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316088"
+            ],
+            "host_organization_lineage_names": [
+              "United States Department of the Interior"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Open-File Report",
+          "raw_type": "report-component"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3133/ofr9139",
+        "doi": "https://doi.org/10.3133/ofr9139",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3133/ofr9139",
+        "pdf_url": "https://pubs.usgs.gov/of/1991/0039/report.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210194219",
+          "display_name": "Antarctica A Keystone in a Changing World",
+          "issn_l": "0196-1497",
+          "issn": [
+            "0196-1497",
+            "2331-1258",
+            "2332-4899"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "poland-20",
+            "russia-white-list-4"
+          ],
+          "host_organization": "https://openalex.org/P4310316088",
+          "host_organization_name": "United States Department of the Interior",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316088"
+          ],
+          "host_organization_lineage_names": [
+            "United States Department of the Interior"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Open-File Report",
+        "raw_type": "report-component"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320332183",
+          "display_name": "U.S. Geological Survey",
+          "ror": "https://ror.org/035a68863"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W94473743.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W94473743.grobid-xml"
+      },
+      "referenced_works_count": 4,
+      "referenced_works": [
+        "https://openalex.org/W69691495",
+        "https://openalex.org/W179746185",
+        "https://openalex.org/W2002798278",
+        "https://openalex.org/W4247992232"
+      ],
+      "related_works": [
+        "https://openalex.org/W2110499943",
+        "https://openalex.org/W4247992232",
+        "https://openalex.org/W2081988113",
+        "https://openalex.org/W52065615",
+        "https://openalex.org/W3200526265",
+        "https://openalex.org/W4414226771",
+        "https://openalex.org/W1974099056",
+        "https://openalex.org/W2803270194",
+        "https://openalex.org/W2888773372",
+        "https://openalex.org/W1580595219"
+      ],
+      "abstract_inverted_index": {
+        "5": [
+          61
+        ],
+        "10": [
+          112,
+          143
+        ],
+        "14": [
+          104
+        ],
+        "21": [
+          91
+        ],
+        "450": [
+          5
+        ],
+        "Wadi-sediment": [
+          0
+        ],
+        "samples": [
+          1,
+          89,
+          99,
+          121,
+          128,
+          140,
+          175,
+          300
+        ],
+        "were": [
+          2,
+          53,
+          64
+        ],
+        "collected": [
+          3
+        ],
+        "from": [
+          4,
+          55,
+          197,
+          214,
+          223
+        ],
+        "sites": [
+          6,
+          193
+        ],
+        "in": [
+          7,
+          167,
+          265,
+          288,
+          303
+        ],
+        "a": [
+          8,
+          204,
+          206,
+          238,
+          260,
+          272
+        ],
+        "580-km2": [
+          9
+        ],
+        "area": [
+          10
+        ],
+        "(sample": [
+          11
+        ],
+        "density": [
+          12
+        ],
+        "1.5": [
+          13
+        ],
+        "per": [
+          14
+        ],
+        "km2)": [
+          15
+        ],
+        "as": [
+          16,
+          237
+        ],
+        "part": [
+          17
+        ],
+        "of": [
+          18,
+          28,
+          59,
+          118,
+          163,
+          194,
+          209,
+          216,
+          234,
+          243,
+          262,
+          274,
+          277,
+          283,
+          298
+        ],
+        "an": [
+          19,
+          80
+        ],
+        "exploration": [
+          20
+        ],
+        "program": [
+          21
+        ],
+        "designed": [
+          22
+        ],
+        "to": [
+          23,
+          36,
+          240,
+          256,
+          290
+        ],
+        "assess": [
+          24
+        ],
+        "the": [
+          25,
+          29,
+          40,
+          87,
+          94,
+          97,
+          102,
+          119,
+          126,
+          134,
+          138,
+          154,
+          161,
+          168,
+          185,
+          192,
+          217,
+          241,
+          247,
+          275,
+          278,
+          281,
+          291,
+          296
+        ],
+        "mineral": [
+          26,
+          33
+        ],
+        "potential": [
+          27
+        ],
+        "Farah": [
+          30,
+          41
+        ],
+        "Garan": [
+          31,
+          42
+        ],
+        "-Kutam": [
+          32
+        ],
+        "belt": [
+          34
+        ],
+        "and": [
+          35,
+          49,
+          71,
+          76,
+          93,
+          146,
+          227,
+          259,
+          295
+        ],
+        "evaluate": [
+          37
+        ],
+        "mineralization": [
+          38,
+          195,
+          268
+        ],
+        "at": [
+          39
+        ],
+        "ancient": [
+          43,
+          224
+        ],
+        "working": [
+          44
+        ],
+        "(DGMR": [
+          45
+        ],
+        "Project": [
+          46
+        ],
+        "3.03.10).Demagnetized": [
+          47
+        ],
+        "panned-concentrate": [
+          48,
+          88,
+          108,
+          120,
+          127,
+          174
+        ],
+        "sieved": [
+          50,
+          182
+        ],
+        "minus-80-mesh": [
+          51,
+          98,
+          139,
+          155
+        ],
+        "fractions": [
+          52,
+          63
+        ],
+        "prepared": [
+          54
+        ],
+        "each": [
+          56,
+          284
+        ],
+        "bulk": [
+          57
+        ],
+        "sample": [
+          58
+        ],
+        "approximately": [
+          60
+        ],
+        "kg.The": [
+          62
+        ],
+        "analyzed": [
+          65
+        ],
+        "for": [
+          66,
+          77,
+          86,
+          96,
+          137,
+          153,
+          311
+        ],
+        "silver,": [
+          67
+        ],
+        "arsenic,": [
+          68
+        ],
+        "copper,": [
+          69
+        ],
+        "lead,": [
+          70
+        ],
+        "zinc": [
+          72
+        ],
+        "by": [
+          73,
+          79,
+          220
+        ],
+        "atomic-absorption": [
+          74,
+          81
+        ],
+        "methods": [
+          75
+        ],
+        "gold": [
+          78
+        ],
+        "graphite-furnace": [
+          82
+        ],
+        "method.The": [
+          83
+        ],
+        "analytical": [
+          84,
+          116,
+          286
+        ],
+        "results": [
+          85,
+          95,
+          117,
+          162
+        ],
+        "delineate": [
+          90,
+          100,
+          147
+        ],
+        "anomalies,": [
+          92
+        ],
+        "24.Of": [
+          101
+        ],
+        "latter,": [
+          103
+        ],
+        "are": [
+          105,
+          113,
+          309
+        ],
+        "coincident": [
+          106
+        ],
+        "with": [
+          107,
+          160
+        ],
+        "anomaly": [
+          109
+        ],
+        "areas,": [
+          110
+        ],
+        "whereas": [
+          111
+        ],
+        "uniquely": [
+          114,
+          122
+        ],
+        "defined.The": [
+          115
+        ],
+        "define": [
+          123
+        ],
+        "two": [
+          124,
+          250
+        ],
+        "areas.Overall,": [
+          125
+        ],
+        "yielded": [
+          129
+        ],
+        "threshold": [
+          130,
+          135
+        ],
+        "values": [
+          131,
+          136
+        ],
+        "higher": [
+          132
+        ],
+        "than": [
+          133,
+          151,
+          181
+        ],
+        "(for": [
+          141
+        ],
+        "gold,": [
+          142
+        ],
+        "times": [
+          144
+        ],
+        "higher),": [
+          145
+        ],
+        "anomalous": [
+          148,
+          299
+        ],
+        "areas": [
+          149,
+          251,
+          264,
+          308
+        ],
+        "larger": [
+          150
+        ],
+        "those": [
+          152
+        ],
+        "samples.This": [
+          156
+        ],
+        "observation": [
+          157
+        ],
+        "is": [
+          158,
+          201,
+          269
+        ],
+        "consistent": [
+          159
+        ],
+        "similar": [
+          164
+        ],
+        "surveys": [
+          165
+        ],
+        "elsewhere": [
+          166
+        ],
+        "Arabian": [
+          169
+        ],
+        "Shield,": [
+          170
+        ],
+        "which": [
+          171,
+          266
+        ],
+        "indicate": [
+          172
+        ],
+        "that": [
+          173,
+          252,
+          301
+        ],
+        "more": [
+          176
+        ],
+        "effectively": [
+          177
+        ],
+        "outline": [
+          178
+        ],
+        "geochemical": [
+          179,
+          188
+        ],
+        "anomalies": [
+          180,
+          189,
+          211
+        ],
+        "fine-grained": [
+          183
+        ],
+        "samples.In": [
+          184
+        ],
+        "present": [
+          186
+        ],
+        "survey,": [
+          187,
+          230
+        ],
+        "locate": [
+          190
+        ],
+        "all": [
+          191
+        ],
+        "known": [
+          196,
+          257
+        ],
+        "previous": [
+          198
+        ],
+        "work.The": [
+          199
+        ],
+        "survey": [
+          200,
+          248
+        ],
+        "therefore": [
+          202
+        ],
+        "technically": [
+          203
+        ],
+        "success.However,": [
+          205
+        ],
+        "large": [
+          207
+        ],
+        "number": [
+          208,
+          261,
+          297
+        ],
+        "these": [
+          210
+        ],
+        "probably": [
+          212
+        ],
+        "result": [
+          213,
+          287
+        ],
+        "contamination": [
+          215
+        ],
+        "wadi": [
+          218
+        ],
+        "systems": [
+          219
+        ],
+        "metal": [
+          221
+        ],
+        "dispersed": [
+          222
+        ],
+        "mine": [
+          225
+        ],
+        "workings,": [
+          226
+        ],
+        "this": [
+          228
+        ],
+        "particular": [
+          229
+        ],
+        "overall,": [
+          231
+        ],
+        "may": [
+          232,
+          253
+        ],
+        "be": [
+          233
+        ],
+        "limited": [
+          235
+        ],
+        "value": [
+          236,
+          282
+        ],
+        "guide": [
+          239
+        ],
+        "discovery": [
+          242
+        ],
+        "hitherto": [
+          244
+        ],
+        "unknown": [
+          245
+        ],
+        "mineralization.Nevertheless,": [
+          246
+        ],
+        "outlines": [
+          249
+        ],
+        "mark": [
+          254
+        ],
+        "extensions": [
+          255
+        ],
+        "mineralization,": [
+          258
+        ],
+        "other": [
+          263
+        ],
+        "no": [
+          267
+        ],
+        "known.Based": [
+          270
+        ],
+        "on": [
+          271
+        ],
+        "consideration": [
+          273
+        ],
+        "character": [
+          276
+        ],
+        "bedrock": [
+          279
+        ],
+        "geology,": [
+          280
+        ],
+        "reported": [
+          285
+        ],
+        "relation": [
+          289
+        ],
+        "respective": [
+          292
+        ],
+        "element": [
+          293
+        ],
+        "thresholds,": [
+          294
+        ],
+        "cluster": [
+          302
+        ],
+        "any": [
+          304
+        ],
+        "given": [
+          305
+        ],
+        "area,": [
+          306
+        ],
+        "four": [
+          307
+        ],
+        "recommended": [
+          310
+        ],
+        "high-priority": [
+          312
+        ],
+        "follow-up": [
+          313
+        ],
+        "sampling.": [
+          314
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-06T12:05:46.655746",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2768236725",
       "doi": "https://doi.org/10.5382/econgeo.112.8.br02",
       "title": "Mineral Deposits of North Africa (Mohammed Bouabdellah and John F. Slack, eds.)",
@@ -47253,6 +48456,7 @@
       },
       "volume": null,
       "type": "book-review",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -47317,8 +48521,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.2281000018119812,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -47335,8 +48539,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.2281000018119812,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -47369,12 +48573,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.14339999854564667,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -47590,8 +48794,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48343,6 +49547,7 @@
       },
       "volume": null,
       "type": "conference-abstract",
+      "is_traditional": false,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -48446,8 +49651,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9994999766349792,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -48464,8 +49669,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9994999766349792,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -48498,12 +49703,12 @@
           "display_name": "Astro and Planetary Science",
           "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/3103",
-            "display_name": "Astronomy and Astrophysics"
+            "id": "https://openalex.org/subfields/1912",
+            "display_name": "Space and Planetary Science"
           },
           "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -48679,8 +49884,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48747,6 +49952,7 @@
       },
       "volume": null,
       "type": "conference-abstract",
+      "is_traditional": false,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -48868,8 +50074,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.8490999937057495,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -48886,8 +50092,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.8490999937057495,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -49066,8 +50272,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49139,6 +50345,7 @@
       },
       "volume": null,
       "type": "conference-abstract",
+      "is_traditional": false,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -49348,8 +50555,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.0019000000320374966,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -49466,8 +50673,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -49547,6 +50754,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -49617,7 +50825,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.00708397,
+        "value": 0.01788022,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49636,12 +50844,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.9976000189781189,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -49654,12 +50862,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.9976000189781189,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -49942,8 +51150,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -50248,1156 +51456,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W94473743",
-      "doi": "https://doi.org/10.3133/ofr9139",
-      "title": "Reconnaissance geochemical survey of the Farah Garan-Kutam mineral belt, Kingdom of Saudi Arabia",
-      "display_name": "Reconnaissance geochemical survey of the Farah Garan-Kutam mineral belt, Kingdom of Saudi Arabia",
-      "publication_year": 1991,
-      "publication_date": "1991-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W94473743",
-        "doi": "https://doi.org/10.3133/ofr9139",
-        "mag": "94473743"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3133/ofr9139",
-        "doi": "https://doi.org/10.3133/ofr9139",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3133/ofr9139",
-        "pdf_url": "https://pubs.usgs.gov/of/1991/0039/report.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210194219",
-          "display_name": "Antarctica A Keystone in a Changing World",
-          "issn_l": "0196-1497",
-          "issn": [
-            "0196-1497",
-            "2331-1258",
-            "2332-4899"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "poland-20",
-            "russia-white-list-4"
-          ],
-          "host_organization": "https://openalex.org/P4310316088",
-          "host_organization_name": "United States Department of the Interior",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316088"
-          ],
-          "host_organization_lineage_names": [
-            "United States Department of the Interior"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Open-File Report",
-        "raw_type": "report-component"
-      },
-      "volume": null,
-      "type": "report",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://pubs.usgs.gov/of/1991/0039/report.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5005906972",
-            "display_name": "Rashid M. Samater",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R.M. Samater",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4697-3882"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "P.R. Johnson",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5084016600",
-            "display_name": "Arthur A. Bookstrom",
-            "orcid": "https://orcid.org/0000-0003-1336-3364",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1336-3364"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A.A. Bookstrom",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": true,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10139",
-          "display_name": "Heavy metals in environment",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2310",
-            "display_name": "Pollution"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geochemical-anomalies",
-          "display_name": "geochemical anomalies",
-          "score": 0.8240000009536743
-        },
-        {
-          "id": "https://openalex.org/keywords/silver",
-          "display_name": "silver",
-          "score": 0.9860000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/arsenic",
-          "display_name": "arsenic",
-          "score": 0.8140000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/copper",
-          "display_name": "copper",
-          "score": 0.9160000085830688
-        },
-        {
-          "id": "https://openalex.org/keywords/lead",
-          "display_name": "lead",
-          "score": 0.9900000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/zinc",
-          "display_name": "zinc",
-          "score": 1
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-shield",
-          "display_name": "Arabian Shield",
-          "score": 0.7369999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/mineral-exploration",
-          "display_name": "mineral exploration",
-          "score": 0.8190000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/mineral-potential-assessment",
-          "display_name": "mineral potential assessment",
-          "score": 0.4569999873638153
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C66264921",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mineral exploration",
-          "level": 2,
-          "score": 0.7120556235313416
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.504494309425354
-        },
-        {
-          "id": "https://openalex.org/C200965112",
-          "wikidata": "https://www.wikidata.org/wiki/Q187971",
-          "display_name": "Wadi",
-          "level": 2,
-          "score": 0.5032071471214294
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.4894007742404938
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.4801635146141052
-        },
-        {
-          "id": "https://openalex.org/C2777898358",
-          "wikidata": "https://www.wikidata.org/wiki/Q2840139",
-          "display_name": "Graphite furnace atomic absorption",
-          "level": 3,
-          "score": 0.4300297796726227
-        },
-        {
-          "id": "https://openalex.org/C58625266",
-          "wikidata": "https://www.wikidata.org/wiki/Q1256418",
-          "display_name": "Lode",
-          "level": 2,
-          "score": 0.4133760929107666
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.3960047662258148
-        },
-        {
-          "id": "https://openalex.org/C33619061",
-          "wikidata": "https://www.wikidata.org/wiki/Q655346",
-          "display_name": "Atomic absorption spectroscopy",
-          "level": 2,
-          "score": 0.2857418358325958
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.260158509016037
-        },
-        {
-          "id": "https://openalex.org/C58640448",
-          "wikidata": "https://www.wikidata.org/wiki/Q42515",
-          "display_name": "Cartography",
-          "level": 1,
-          "score": 0.23928770422935486
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.11594253778457642
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3133/ofr9139",
-          "doi": "https://doi.org/10.3133/ofr9139",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3133/ofr9139",
-          "pdf_url": "https://pubs.usgs.gov/of/1991/0039/report.pdf",
-          "source": {
-            "id": "https://openalex.org/S4210194219",
-            "display_name": "Antarctica A Keystone in a Changing World",
-            "issn_l": "0196-1497",
-            "issn": [
-              "0196-1497",
-              "2331-1258",
-              "2332-4899"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "poland-20",
-              "russia-white-list-4"
-            ],
-            "host_organization": "https://openalex.org/P4310316088",
-            "host_organization_name": "United States Department of the Interior",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316088"
-            ],
-            "host_organization_lineage_names": [
-              "United States Department of the Interior"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Open-File Report",
-          "raw_type": "report-component"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3133/ofr9139",
-        "doi": "https://doi.org/10.3133/ofr9139",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3133/ofr9139",
-        "pdf_url": "https://pubs.usgs.gov/of/1991/0039/report.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210194219",
-          "display_name": "Antarctica A Keystone in a Changing World",
-          "issn_l": "0196-1497",
-          "issn": [
-            "0196-1497",
-            "2331-1258",
-            "2332-4899"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "poland-20",
-            "russia-white-list-4"
-          ],
-          "host_organization": "https://openalex.org/P4310316088",
-          "host_organization_name": "United States Department of the Interior",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316088"
-          ],
-          "host_organization_lineage_names": [
-            "United States Department of the Interior"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Open-File Report",
-        "raw_type": "report-component"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320332183",
-          "display_name": "U.S. Geological Survey",
-          "ror": "https://ror.org/035a68863"
-        }
-      ],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W94473743.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W94473743.grobid-xml"
-      },
-      "referenced_works_count": 4,
-      "referenced_works": [
-        "https://openalex.org/W69691495",
-        "https://openalex.org/W179746185",
-        "https://openalex.org/W2002798278",
-        "https://openalex.org/W4247992232"
-      ],
-      "related_works": [
-        "https://openalex.org/W2110499943",
-        "https://openalex.org/W4247992232",
-        "https://openalex.org/W2081988113",
-        "https://openalex.org/W52065615",
-        "https://openalex.org/W3200526265",
-        "https://openalex.org/W4414226771",
-        "https://openalex.org/W1974099056",
-        "https://openalex.org/W2803270194",
-        "https://openalex.org/W2888773372",
-        "https://openalex.org/W1580595219"
-      ],
-      "abstract_inverted_index": {
-        "5": [
-          61
-        ],
-        "10": [
-          112,
-          143
-        ],
-        "14": [
-          104
-        ],
-        "21": [
-          91
-        ],
-        "450": [
-          5
-        ],
-        "Wadi-sediment": [
-          0
-        ],
-        "samples": [
-          1,
-          89,
-          99,
-          121,
-          128,
-          140,
-          175,
-          300
-        ],
-        "were": [
-          2,
-          53,
-          64
-        ],
-        "collected": [
-          3
-        ],
-        "from": [
-          4,
-          55,
-          197,
-          214,
-          223
-        ],
-        "sites": [
-          6,
-          193
-        ],
-        "in": [
-          7,
-          167,
-          265,
-          288,
-          303
-        ],
-        "a": [
-          8,
-          204,
-          206,
-          238,
-          260,
-          272
-        ],
-        "580-km2": [
-          9
-        ],
-        "area": [
-          10
-        ],
-        "(sample": [
-          11
-        ],
-        "density": [
-          12
-        ],
-        "1.5": [
-          13
-        ],
-        "per": [
-          14
-        ],
-        "km2)": [
-          15
-        ],
-        "as": [
-          16,
-          237
-        ],
-        "part": [
-          17
-        ],
-        "of": [
-          18,
-          28,
-          59,
-          118,
-          163,
-          194,
-          209,
-          216,
-          234,
-          243,
-          262,
-          274,
-          277,
-          283,
-          298
-        ],
-        "an": [
-          19,
-          80
-        ],
-        "exploration": [
-          20
-        ],
-        "program": [
-          21
-        ],
-        "designed": [
-          22
-        ],
-        "to": [
-          23,
-          36,
-          240,
-          256,
-          290
-        ],
-        "assess": [
-          24
-        ],
-        "the": [
-          25,
-          29,
-          40,
-          87,
-          94,
-          97,
-          102,
-          119,
-          126,
-          134,
-          138,
-          154,
-          161,
-          168,
-          185,
-          192,
-          217,
-          241,
-          247,
-          275,
-          278,
-          281,
-          291,
-          296
-        ],
-        "mineral": [
-          26,
-          33
-        ],
-        "potential": [
-          27
-        ],
-        "Farah": [
-          30,
-          41
-        ],
-        "Garan": [
-          31,
-          42
-        ],
-        "-Kutam": [
-          32
-        ],
-        "belt": [
-          34
-        ],
-        "and": [
-          35,
-          49,
-          71,
-          76,
-          93,
-          146,
-          227,
-          259,
-          295
-        ],
-        "evaluate": [
-          37
-        ],
-        "mineralization": [
-          38,
-          195,
-          268
-        ],
-        "at": [
-          39
-        ],
-        "ancient": [
-          43,
-          224
-        ],
-        "working": [
-          44
-        ],
-        "(DGMR": [
-          45
-        ],
-        "Project": [
-          46
-        ],
-        "3.03.10).Demagnetized": [
-          47
-        ],
-        "panned-concentrate": [
-          48,
-          88,
-          108,
-          120,
-          127,
-          174
-        ],
-        "sieved": [
-          50,
-          182
-        ],
-        "minus-80-mesh": [
-          51,
-          98,
-          139,
-          155
-        ],
-        "fractions": [
-          52,
-          63
-        ],
-        "prepared": [
-          54
-        ],
-        "each": [
-          56,
-          284
-        ],
-        "bulk": [
-          57
-        ],
-        "sample": [
-          58
-        ],
-        "approximately": [
-          60
-        ],
-        "kg.The": [
-          62
-        ],
-        "analyzed": [
-          65
-        ],
-        "for": [
-          66,
-          77,
-          86,
-          96,
-          137,
-          153,
-          311
-        ],
-        "silver,": [
-          67
-        ],
-        "arsenic,": [
-          68
-        ],
-        "copper,": [
-          69
-        ],
-        "lead,": [
-          70
-        ],
-        "zinc": [
-          72
-        ],
-        "by": [
-          73,
-          79,
-          220
-        ],
-        "atomic-absorption": [
-          74,
-          81
-        ],
-        "methods": [
-          75
-        ],
-        "gold": [
-          78
-        ],
-        "graphite-furnace": [
-          82
-        ],
-        "method.The": [
-          83
-        ],
-        "analytical": [
-          84,
-          116,
-          286
-        ],
-        "results": [
-          85,
-          95,
-          117,
-          162
-        ],
-        "delineate": [
-          90,
-          100,
-          147
-        ],
-        "anomalies,": [
-          92
-        ],
-        "24.Of": [
-          101
-        ],
-        "latter,": [
-          103
-        ],
-        "are": [
-          105,
-          113,
-          309
-        ],
-        "coincident": [
-          106
-        ],
-        "with": [
-          107,
-          160
-        ],
-        "anomaly": [
-          109
-        ],
-        "areas,": [
-          110
-        ],
-        "whereas": [
-          111
-        ],
-        "uniquely": [
-          114,
-          122
-        ],
-        "defined.The": [
-          115
-        ],
-        "define": [
-          123
-        ],
-        "two": [
-          124,
-          250
-        ],
-        "areas.Overall,": [
-          125
-        ],
-        "yielded": [
-          129
-        ],
-        "threshold": [
-          130,
-          135
-        ],
-        "values": [
-          131,
-          136
-        ],
-        "higher": [
-          132
-        ],
-        "than": [
-          133,
-          151,
-          181
-        ],
-        "(for": [
-          141
-        ],
-        "gold,": [
-          142
-        ],
-        "times": [
-          144
-        ],
-        "higher),": [
-          145
-        ],
-        "anomalous": [
-          148,
-          299
-        ],
-        "areas": [
-          149,
-          251,
-          264,
-          308
-        ],
-        "larger": [
-          150
-        ],
-        "those": [
-          152
-        ],
-        "samples.This": [
-          156
-        ],
-        "observation": [
-          157
-        ],
-        "is": [
-          158,
-          201,
-          269
-        ],
-        "consistent": [
-          159
-        ],
-        "similar": [
-          164
-        ],
-        "surveys": [
-          165
-        ],
-        "elsewhere": [
-          166
-        ],
-        "Arabian": [
-          169
-        ],
-        "Shield,": [
-          170
-        ],
-        "which": [
-          171,
-          266
-        ],
-        "indicate": [
-          172
-        ],
-        "that": [
-          173,
-          252,
-          301
-        ],
-        "more": [
-          176
-        ],
-        "effectively": [
-          177
-        ],
-        "outline": [
-          178
-        ],
-        "geochemical": [
-          179,
-          188
-        ],
-        "anomalies": [
-          180,
-          189,
-          211
-        ],
-        "fine-grained": [
-          183
-        ],
-        "samples.In": [
-          184
-        ],
-        "present": [
-          186
-        ],
-        "survey,": [
-          187,
-          230
-        ],
-        "locate": [
-          190
-        ],
-        "all": [
-          191
-        ],
-        "known": [
-          196,
-          257
-        ],
-        "previous": [
-          198
-        ],
-        "work.The": [
-          199
-        ],
-        "survey": [
-          200,
-          248
-        ],
-        "therefore": [
-          202
-        ],
-        "technically": [
-          203
-        ],
-        "success.However,": [
-          205
-        ],
-        "large": [
-          207
-        ],
-        "number": [
-          208,
-          261,
-          297
-        ],
-        "these": [
-          210
-        ],
-        "probably": [
-          212
-        ],
-        "result": [
-          213,
-          287
-        ],
-        "contamination": [
-          215
-        ],
-        "wadi": [
-          218
-        ],
-        "systems": [
-          219
-        ],
-        "metal": [
-          221
-        ],
-        "dispersed": [
-          222
-        ],
-        "mine": [
-          225
-        ],
-        "workings,": [
-          226
-        ],
-        "this": [
-          228
-        ],
-        "particular": [
-          229
-        ],
-        "overall,": [
-          231
-        ],
-        "may": [
-          232,
-          253
-        ],
-        "be": [
-          233
-        ],
-        "limited": [
-          235
-        ],
-        "value": [
-          236,
-          282
-        ],
-        "guide": [
-          239
-        ],
-        "discovery": [
-          242
-        ],
-        "hitherto": [
-          244
-        ],
-        "unknown": [
-          245
-        ],
-        "mineralization.Nevertheless,": [
-          246
-        ],
-        "outlines": [
-          249
-        ],
-        "mark": [
-          254
-        ],
-        "extensions": [
-          255
-        ],
-        "mineralization,": [
-          258
-        ],
-        "other": [
-          263
-        ],
-        "no": [
-          267
-        ],
-        "known.Based": [
-          270
-        ],
-        "on": [
-          271
-        ],
-        "consideration": [
-          273
-        ],
-        "character": [
-          276
-        ],
-        "bedrock": [
-          279
-        ],
-        "geology,": [
-          280
-        ],
-        "reported": [
-          285
-        ],
-        "relation": [
-          289
-        ],
-        "respective": [
-          292
-        ],
-        "element": [
-          293
-        ],
-        "thresholds,": [
-          294
-        ],
-        "cluster": [
-          302
-        ],
-        "any": [
-          304
-        ],
-        "given": [
-          305
-        ],
-        "area,": [
-          306
-        ],
-        "four": [
-          307
-        ],
-        "recommended": [
-          310
-        ],
-        "high-priority": [
-          312
-        ],
-        "follow-up": [
-          313
-        ],
-        "sampling.": [
-          314
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W154232170",
       "doi": "https://doi.org/10.3133/ofr90285",
       "title": "Reconnaissance geochemical exploration for gold in the Ad Darb area, Kingdom of Saudi Arabia",
@@ -51453,6 +51511,7 @@
       },
       "volume": null,
       "type": "report",
+      "is_traditional": false,
       "indexed_in": [
         "crossref"
       ],
@@ -51558,12 +51617,12 @@
         "display_name": "Geochemistry and Geologic Mapping",
         "score": 0.9976000189781189,
         "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -51576,12 +51635,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.9976000189781189,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -51610,8 +51669,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.000699999975040555,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -51883,8 +51942,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W154232170.pdf",
@@ -52505,6 +52564,7 @@
       },
       "volume": null,
       "type": "report",
+      "is_traditional": false,
       "indexed_in": [
         "crossref"
       ],
@@ -52642,12 +52702,12 @@
         "display_name": "Geochemistry and Geologic Mapping",
         "score": 0.8916000127792358,
         "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -52660,12 +52720,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.8916000127792358,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -52694,8 +52754,8 @@
           "display_name": "Geological Modeling and Analysis",
           "score": 0.024000000208616257,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -52927,8 +52987,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2259552435.pdf",
@@ -53497,6 +53557,7 @@
       },
       "volume": null,
       "type": "conference-abstract",
+      "is_traditional": false,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -53582,12 +53643,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.8935999870300293,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -53600,12 +53661,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.8935999870300293,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -53752,8 +53813,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -53820,6 +53881,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -53926,7 +53988,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48205833,
+        "value": 0.57115536,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53997,8 +54059,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.0006000000284984708,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -54168,8 +54230,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54243,6 +54305,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -54359,7 +54422,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27541955,
+        "value": 0.32608696,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -54615,8 +54678,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54690,6 +54753,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -54995,7 +55059,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44521224,
+        "value": 0.55570652,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55066,8 +55130,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.018200000748038292,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -55234,8 +55298,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55302,6 +55366,7 @@
       },
       "volume": null,
       "type": "dataset",
+      "is_traditional": false,
       "indexed_in": [
         "datacite"
       ],
@@ -55461,8 +55526,8 @@
         "display_name": "Geological and Geochemical Analysis",
         "score": 0.9028000235557556,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -55479,8 +55544,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.9028000235557556,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -55513,12 +55578,12 @@
           "display_name": "Geochemistry and Geologic Mapping",
           "score": 0.01730000041425228,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -55814,8 +55879,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

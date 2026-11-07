@@ -314,12 +314,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "count": 10,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -382,7 +382,7 @@
       {
         "id": "https://openalex.org/T14224",
         "display_name": "Oil, Gas, and Environmental Issues",
-        "value": 0.0000263,
+        "value": 0.0000262,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -401,12 +401,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "value": 0.000024,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -627,7 +627,7 @@
     ],
     "block_key": "j melvin",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103799444",
-    "updated_date": "2026-11-05T13:29:08",
+    "updated_date": "2026-11-06T12:48:51",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -698,6 +698,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "pubmed"
@@ -2050,11 +2051,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 21.9515,
+      "fwci": 18.5438,
       "has_fulltext": true,
       "cited_by_count": 275,
       "citation_normalized_percentile": {
-        "value": 0.99817588,
+        "value": 0.99770132,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2487,8 +2488,8 @@
           "landing_page_url": "https://orbi.uliege.be/handle/2268/15579",
           "pdf_url": "https://orbi.uliege.be/bitstream/2268/15579/2/Steemans%20et%20al%202009b.pdf",
           "source": {
-            "id": "https://openalex.org/S4306401300",
-            "display_name": "ORBi (University of Liège)",
+            "id": "https://openalex.org/S4306400651",
+            "display_name": "Open Repository and Bibliography (University of Liège)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -3013,7 +3014,7 @@
           "cited_by_count": 25
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3066,6 +3067,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -3116,16 +3118,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2706,
+      "fwci": 3.8527,
       "has_fulltext": true,
       "cited_by_count": 67,
       "citation_normalized_percentile": {
-        "value": 0.93176789,
+        "value": 0.92385417,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -4325,6 +4327,7 @@
         "display_name": "Late Paleozoic Glacial Events and Postglacial Transgressions in Gondwana"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -4391,11 +4394,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.2218,
+      "fwci": 4.3729,
       "has_fulltext": false,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.95972495,
+        "value": 0.93786408,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5007,6 +5010,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -5071,11 +5075,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 6.0318,
+      "fwci": 5.8253,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.9597665,
+        "value": 0.95702597,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5487,6 +5491,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -5649,16 +5654,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2971,
+      "fwci": 2.2067,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.85853514,
+        "value": 0.85041596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -6605,6 +6610,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -6905,13 +6911,13 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 3.1638,
+      "fwci": 2.712,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.90929582,
+        "value": 0.89247855,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 93,
@@ -7456,6 +7462,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -7506,11 +7513,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.674,
+      "fwci": 1.639,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.80330641,
+        "value": 0.80369567,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9228,6 +9235,7 @@
         "display_name": "Past Glacial Environments"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -9366,11 +9374,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.2628,
+      "fwci": 8.4261,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.98611111,
+        "value": 0.98412698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9829,6 +9837,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -10108,11 +10117,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.1486,
+      "fwci": 1.1033,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.7594999,
+        "value": 0.74945481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10628,6 +10637,7 @@
         "display_name": "Clastic Diagenesis"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -10692,13 +10702,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4041,
+      "fwci": 1.1022,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.90031153,
+        "value": 0.74390244,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 88,
@@ -10718,12 +10728,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.3582000136375427,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -10736,12 +10746,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.3582000136375427,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -11536,6 +11546,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -11602,11 +11613,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3596,
+      "fwci": 1.3006,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.82165466,
+        "value": 0.81836258,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11663,12 +11674,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.045899998396635056,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -13136,6 +13147,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -13210,11 +13222,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.608,
+      "fwci": 1.5447,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.79070683,
+        "value": 0.78232776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14410,6 +14422,7 @@
         "display_name": "Recent Developments in Fluvial Sedimentology"
       },
       "type": "book-chapter",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -14446,11 +14459,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6971,
+      "fwci": 0.7067,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.65091864,
+        "value": 0.65206813,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14524,12 +14537,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.0003000000142492354,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -15222,6 +15235,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -15340,12 +15354,12 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.406639,
+        "value": 0.38813025,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
@@ -16271,6 +16285,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -16533,7 +16548,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.10611134,
+        "value": 0.11259591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17746,6 +17761,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -17964,11 +17980,11 @@
         "value_usd": 3050
       },
       "apc_paid": null,
-      "fwci": 0.1802,
+      "fwci": 0.1803,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.48037608,
+        "value": 0.48159324,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18476,6 +18492,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -18519,16 +18536,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0375,
+      "fwci": 2.7981,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.88784221,
+        "value": 0.87940683,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -19540,6 +19557,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -19580,7 +19598,7 @@
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.18198404,
+        "value": 0.18136749,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19654,12 +19672,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.0005000000237487257,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -21166,6 +21184,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -21414,11 +21433,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1204,
+      "fwci": 0.8169,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.70763689,
+        "value": 0.63821846,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21440,12 +21459,12 @@
         "display_name": "Enhanced Oil Recovery Techniques",
         "score": 0.8095999956130981,
         "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
+          "id": "https://openalex.org/subfields/2103",
+          "display_name": "Fuel Technology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -21458,12 +21477,12 @@
           "display_name": "Enhanced Oil Recovery Techniques",
           "score": 0.8095999956130981,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -21475,12 +21494,12 @@
           "display_name": "Reservoir Engineering and Simulation Methods",
           "score": 0.17980000376701355,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -22164,6 +22183,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -22232,7 +22252,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.46175738,
+        "value": 0.45754839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22254,12 +22274,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.9564999938011169,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -22272,12 +22292,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.9564999938011169,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -22289,8 +22309,8 @@
           "display_name": "Geological Modeling and Analysis",
           "score": 0.015799999237060547,
           "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -22306,12 +22326,12 @@
           "display_name": "Reservoir Engineering and Simulation Methods",
           "score": 0.003800000064074993,
           "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -22528,6 +22548,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -22820,11 +22841,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9188,
+      "fwci": 0.8827,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.72297696,
+        "value": 0.71262418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24307,6 +24328,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -24354,7 +24376,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.30669761,
+        "value": 0.30179254,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24428,12 +24450,12 @@
           "display_name": "Hydrology and Sediment Transport Processes",
           "score": 0,
           "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
           },
           "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -25217,6 +25239,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -25402,11 +25425,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.7207,
+      "fwci": 0.7211,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.64786269,
+        "value": 0.64514182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25480,8 +25503,8 @@
           "display_name": "Geological and Geochemical Analysis",
           "score": 0.0008999999845400453,
           "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -25855,6 +25878,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -25907,7 +25931,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.34857494,
+        "value": 0.28747742,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25929,12 +25953,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.45260000228881836,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -25947,12 +25971,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.45260000228881836,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -26696,424 +26720,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2586174234",
-      "doi": null,
-      "title": "Depositional Facies and Environments of the Devonian Jauf Formation in the Shedgum Area,Northeast Ghawar, Saudi Arabia",
-      "display_name": "Depositional Facies and Environments of the Devonian Jauf Formation in the Shedgum Area,Northeast Ghawar, Saudi Arabia",
-      "publication_year": 2012,
-      "publication_date": "2012-03-04",
-      "ids": {
-        "openalex": "https://openalex.org/W2586174234",
-        "mag": "2586174234"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "mag:2586174234",
-        "doi": null,
-        "is_oa": false,
-        "landing_page_url": "https://www.earthdoc.org/publication/download/?publication=58456",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": null
-      },
-      "volume": null,
-      "type": "article",
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5024893356",
-            "display_name": "Raed A. Alsalhi",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Raed A. Alsalhi",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103799444",
-            "display_name": "John Melvin",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "John Melvin",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.38202923,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9603999853134155,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9603999853134155,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.029400000348687172,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.003700000001117587,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/emsian",
-          "display_name": "Emsian",
-          "score": 0.781000018119812
-        },
-        {
-          "id": "https://openalex.org/keywords/early-devonian",
-          "display_name": "Lower Devonian",
-          "score": 0.953000009059906
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-facies",
-          "display_name": "sedimentary facies",
-          "score": 0.9909999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/depositional-environment",
-          "display_name": "depositional environment",
-          "score": 0.8930000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/gas-reservoirs",
-          "display_name": "gas reservoirs",
-          "score": 0.7039999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "stratigraphy",
-          "score": 0.503000020980835
-        },
-        {
-          "id": "https://openalex.org/keywords/core-study",
-          "display_name": "core studies",
-          "score": 0.6489999890327454
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C107832698",
-          "wikidata": "https://www.wikidata.org/wiki/Q65955",
-          "display_name": "Devonian",
-          "level": 2,
-          "score": 0.9462805986404419
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8991102576255798
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.8342258930206299
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.7877952456474304
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7411175966262817
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.06536704301834106
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:2586174234",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://www.earthdoc.org/publication/download/?publication=58456",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W3092335825",
-        "https://openalex.org/W2269763771",
-        "https://openalex.org/W1831163486",
-        "https://openalex.org/W2964097576",
-        "https://openalex.org/W2276535086",
-        "https://openalex.org/W2328640643",
-        "https://openalex.org/W132386466",
-        "https://openalex.org/W2269346349",
-        "https://openalex.org/W3014205103",
-        "https://openalex.org/W2034355251"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0
-        ],
-        "subsurface": [
-          1
-        ],
-        "Jauf": [
-          2,
-          34
-        ],
-        "Formation": [
-          3
-        ],
-        "(Early": [
-          4
-        ],
-        "Devonian:": [
-          5
-        ],
-        "Emsian)": [
-          6
-        ],
-        "of": [
-          7,
-          20
-        ],
-        "Saudi": [
-          8
-        ],
-        "Arabia": [
-          9
-        ],
-        "is": [
-          10,
-          26
-        ],
-        "a": [
-          11
-        ],
-        "significant": [
-          12
-        ],
-        "gas": [
-          13
-        ],
-        "reservoir": [
-          14
-        ],
-        "along": [
-          15
-        ],
-        "the": [
-          16,
-          21
-        ],
-        "north": [
-          17
-        ],
-        "eastern": [
-          18
-        ],
-        "flanks": [
-          19
-        ],
-        "giant": [
-          22
-        ],
-        "Ghawar": [
-          23
-        ],
-        "structure.": [
-          24
-        ],
-        "It": [
-          25
-        ],
-        "informally": [
-          27
-        ],
-        "subdivided": [
-          28
-        ],
-        "into": [
-          29
-        ],
-        "lower,": [
-          30
-        ],
-        "middle": [
-          31
-        ],
-        "and": [
-          32
-        ],
-        "upper": [
-          33
-        ],
-        "intervals,": [
-          35
-        ],
-        "based": [
-          36
-        ],
-        "on": [
-          37
-        ],
-        "extensive": [
-          38
-        ],
-        "core": [
-          39
-        ],
-        "studies.": [
-          40
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T04:12:42.849631",
-      "created_date": "2017-02-17T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2620705869",
       "doi": "https://doi.org/10.2118/188096-ms",
       "title": "Sedimentological and Stratigraphic Characterization of Late Paleozoic Unayzah Reservoirs, Central Arabia, Saudi Arabia",
@@ -27157,6 +26763,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -27281,7 +26888,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.06286607,
+        "value": 0.05971595,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27338,12 +26945,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.007600000128149986,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -27568,9 +27175,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -28318,6 +27925,425 @@
       "created_date": "2017-06-09T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2586174234",
+      "doi": null,
+      "title": "Depositional Facies and Environments of the Devonian Jauf Formation in the Shedgum Area,Northeast Ghawar, Saudi Arabia",
+      "display_name": "Depositional Facies and Environments of the Devonian Jauf Formation in the Shedgum Area,Northeast Ghawar, Saudi Arabia",
+      "publication_year": 2012,
+      "publication_date": "2012-03-04",
+      "ids": {
+        "openalex": "https://openalex.org/W2586174234",
+        "mag": "2586174234"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2586174234",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.earthdoc.org/publication/download/?publication=58456",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": null
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5024893356",
+            "display_name": "Raed A. Alsalhi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Raed A. Alsalhi",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103799444",
+            "display_name": "John Melvin",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "John Melvin",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.38927374,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9603999853134155,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9603999853134155,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.029400000348687172,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.003700000001117587,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/emsian",
+          "display_name": "Emsian",
+          "score": 0.781000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/early-devonian",
+          "display_name": "Lower Devonian",
+          "score": 0.953000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-facies",
+          "display_name": "sedimentary facies",
+          "score": 0.9909999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.8930000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/gas-reservoirs",
+          "display_name": "gas reservoirs",
+          "score": 0.7039999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "stratigraphy",
+          "score": 0.503000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/core-study",
+          "display_name": "core studies",
+          "score": 0.6489999890327454
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C107832698",
+          "wikidata": "https://www.wikidata.org/wiki/Q65955",
+          "display_name": "Devonian",
+          "level": 2,
+          "score": 0.9462805986404419
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8991102576255798
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.8342258930206299
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.7877952456474304
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7411175966262817
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.06536704301834106
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:2586174234",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://www.earthdoc.org/publication/download/?publication=58456",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W3092335825",
+        "https://openalex.org/W2269763771",
+        "https://openalex.org/W1831163486",
+        "https://openalex.org/W2964097576",
+        "https://openalex.org/W2276535086",
+        "https://openalex.org/W2328640643",
+        "https://openalex.org/W132386466",
+        "https://openalex.org/W2269346349",
+        "https://openalex.org/W3014205103",
+        "https://openalex.org/W2034355251"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "subsurface": [
+          1
+        ],
+        "Jauf": [
+          2,
+          34
+        ],
+        "Formation": [
+          3
+        ],
+        "(Early": [
+          4
+        ],
+        "Devonian:": [
+          5
+        ],
+        "Emsian)": [
+          6
+        ],
+        "of": [
+          7,
+          20
+        ],
+        "Saudi": [
+          8
+        ],
+        "Arabia": [
+          9
+        ],
+        "is": [
+          10,
+          26
+        ],
+        "a": [
+          11
+        ],
+        "significant": [
+          12
+        ],
+        "gas": [
+          13
+        ],
+        "reservoir": [
+          14
+        ],
+        "along": [
+          15
+        ],
+        "the": [
+          16,
+          21
+        ],
+        "north": [
+          17
+        ],
+        "eastern": [
+          18
+        ],
+        "flanks": [
+          19
+        ],
+        "giant": [
+          22
+        ],
+        "Ghawar": [
+          23
+        ],
+        "structure.": [
+          24
+        ],
+        "It": [
+          25
+        ],
+        "informally": [
+          27
+        ],
+        "subdivided": [
+          28
+        ],
+        "into": [
+          29
+        ],
+        "lower,": [
+          30
+        ],
+        "middle": [
+          31
+        ],
+        "and": [
+          32
+        ],
+        "upper": [
+          33
+        ],
+        "intervals,": [
+          35
+        ],
+        "based": [
+          36
+        ],
+        "on": [
+          37
+        ],
+        "extensive": [
+          38
+        ],
+        "core": [
+          39
+        ],
+        "studies.": [
+          40
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T04:12:42.849631",
+      "created_date": "2017-02-17T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2037267813",
       "doi": "https://doi.org/10.1306/ad46269b-16f7-11d7-8645000102c1865d",
       "title": "Sedimentological Evolution of Mississippian Kekiktuk Formation, Sagavanirktok Delta Area, North Slope, Alaska: ABSTRACT",
@@ -28376,6 +28402,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -28419,11 +28446,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9407,
+      "fwci": 0.9068,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.74699177,
+        "value": 0.7381722,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28494,12 +28521,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.00009999999747378752,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -29306,6 +29333,7 @@
       },
       "volume": null,
       "type": "dissertation",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -29628,6 +29656,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -29696,7 +29725,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.17712812,
+        "value": 0.1796648,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30564,6 +30593,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -30604,7 +30634,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.17486017,
+        "value": 0.18074986,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30841,6 +30871,7 @@
       },
       "volume": null,
       "type": "conference-abstract",
+      "is_traditional": false,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -31123,6 +31154,7 @@
       },
       "volume": null,
       "type": "conference-abstract",
+      "is_traditional": false,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -31344,6 +31376,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [],
       "open_access": {
         "is_oa": false,
@@ -31486,7 +31519,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18963849,
+        "value": 0.17859212,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32437,6 +32470,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -32491,7 +32525,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41839557,
+        "value": 0.39863445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33424,6 +33458,7 @@
       },
       "volume": null,
       "type": "conference-paper",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -33690,7 +33725,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13415842,
+        "value": 0.13077884,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33744,12 +33779,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.07959999889135361,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",

@@ -14,7 +14,7 @@
     ],
     "full_name": "Abdulkarim AL-HUSSAINI",
     "works_count": 15,
-    "cited_by_count": 137,
+    "cited_by_count": 138,
     "summary_stats": {
       "2yr_mean_citedness": 3.8,
       "h_index": 8,
@@ -232,7 +232,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000159,
+        "value": 0.0000158,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -389,7 +389,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 37
+        "cited_by_count": 38
       }
     ],
     "display_name_alternatives": [
@@ -400,7 +400,7 @@
     ],
     "block_key": "a al-hussaini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080748045",
-    "updated_date": "2026-11-04T11:47:51",
+    "updated_date": "2026-11-06T12:48:51",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -462,6 +462,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -782,11 +783,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.0319,
+      "fwci": 4.5556,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.92749212,
+        "value": 0.95880564,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -808,12 +809,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.9940999746322632,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -826,12 +827,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.9940999746322632,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -1235,6 +1236,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -1477,11 +1479,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 3.4669,
+      "fwci": 3.2168,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.94389027,
+        "value": 0.93691104,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1840,9 +1842,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -2089,6 +2091,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -2410,16 +2413,16 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 2.3799,
+      "fwci": 3.9616,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.88497409,
+        "value": 0.94075872,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 95,
         "max": 99
       },
       "biblio": {
@@ -2436,12 +2439,12 @@
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "score": 0.9678000211715698,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -2454,12 +2457,12 @@
           "display_name": "Hydrocarbon exploration and reservoir analysis",
           "score": 0.9678000211715698,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -2822,6 +2825,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "doaj",
@@ -3097,16 +3101,16 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 2.0061,
+      "fwci": 2.0303,
       "has_fulltext": true,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.85184744,
+        "value": 0.85562072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -4200,7 +4204,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -4215,7 +4219,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-06T12:05:46.655746",
       "created_date": "2023-10-29T00:00:00"
     },
     {
@@ -4277,6 +4281,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -4556,11 +4561,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.1486,
+      "fwci": 1.1033,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.7594999,
+        "value": 0.74945481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5092,6 +5097,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref",
         "doaj",
@@ -5398,11 +5404,11 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 2.0944,
+      "fwci": 1.9308,
       "has_fulltext": true,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.86210797,
+        "value": 0.84577269,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6710,6 +6716,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -6934,11 +6941,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.5079,
+      "fwci": 1.512,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.77461513,
+        "value": 0.77193606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7497,6 +7504,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -7662,11 +7670,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.416,
+      "fwci": 0.4026,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.55081415,
+        "value": 0.52131671,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8446,6 +8454,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -8805,16 +8814,16 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.2168,
+      "fwci": 1.0723,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.72620246,
+        "value": 0.68599265,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 97
       },
       "biblio": {
@@ -9285,6 +9294,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -9527,11 +9537,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 0.7419,
+      "fwci": 0.7395,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.64340056,
+        "value": 0.64255924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10070,6 +10080,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -10232,13 +10243,13 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.08854639,
+        "value": 0.08965167,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 94,
-        "max": 96
+        "min": 93,
+        "max": 95
       },
       "biblio": {
         "volume": null,
@@ -11106,6 +11117,7 @@
       },
       "volume": null,
       "type": "dissertation",
+      "is_traditional": true,
       "indexed_in": [
         "datacite"
       ],
@@ -12035,6 +12047,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -12246,7 +12259,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15800719,
+        "value": 0.14082184,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12661,6 +12674,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -12893,7 +12907,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58436837,
+        "value": 0.54635911,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13379,9 +13393,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -14241,6 +14255,7 @@
       },
       "volume": null,
       "type": "article",
+      "is_traditional": true,
       "indexed_in": [
         "crossref"
       ],
@@ -14467,7 +14482,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.7537483,
+        "value": 0.68049938,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14962,9 +14977,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
