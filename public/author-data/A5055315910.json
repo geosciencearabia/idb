@@ -19,7 +19,7 @@
     ],
     "full_name": "Geraint Wyn ap Gwilym Hughes",
     "works_count": 26,
-    "cited_by_count": 578,
+    "cited_by_count": 591,
     "summary_stats": {
       "2yr_mean_citedness": 3,
       "h_index": 12,
@@ -164,7 +164,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000036,
+        "value": 0.0000361,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -356,7 +356,7 @@
         "year": 2015,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 30
+        "cited_by_count": 32
       },
       {
         "year": 2016,
@@ -368,13 +368,13 @@
         "year": 2017,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 49
+        "cited_by_count": 52
       },
       {
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 23
+        "cited_by_count": 24
       },
       {
         "year": 2019,
@@ -398,7 +398,7 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 60
+        "cited_by_count": 62
       },
       {
         "year": 2023,
@@ -410,19 +410,19 @@
         "year": 2024,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 41
+        "cited_by_count": 42
       },
       {
         "year": 2025,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 43
+        "cited_by_count": 45
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 23
+        "cited_by_count": 24
       }
     ],
     "display_name_alternatives": [
@@ -438,7 +438,7 @@
     ],
     "block_key": "g hughes",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5055315910",
-    "updated_date": "2026-11-04T11:47:51",
+    "updated_date": "2026-11-07T12:08:38",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -531,16 +531,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1642,
+      "fwci": 1.1631,
       "has_fulltext": true,
-      "cited_by_count": 131,
+      "cited_by_count": 134,
       "citation_normalized_percentile": {
-        "value": 0.78621273,
+        "value": 0.78637902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 100
       },
       "biblio": {
@@ -901,8 +901,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2944267028.pdf",
@@ -1856,7 +1856,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 11
+          "cited_by_count": 12
         },
         {
           "year": 2024,
@@ -1868,7 +1868,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 17
+          "cited_by_count": 18
         },
         {
           "year": 2021,
@@ -1888,7 +1888,7 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2016,
@@ -1911,7 +1911,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2019-05-16T00:00:00"
     },
     {
@@ -2082,11 +2082,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 5.0734,
+      "fwci": 5.0674,
       "has_fulltext": false,
-      "cited_by_count": 93,
+      "cited_by_count": 95,
       "citation_normalized_percentile": {
-        "value": 0.94304099,
+        "value": 0.94297304,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2324,8 +2324,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -2361,6 +2361,10 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 3
@@ -2403,7 +2407,7 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2014,
@@ -2418,7 +2422,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2540,16 +2544,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6345,
+      "fwci": 0.6309,
       "has_fulltext": false,
-      "cited_by_count": 53,
+      "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.67114331,
+        "value": 0.67061947,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 92,
         "max": 99
       },
       "biblio": {
@@ -2914,8 +2918,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -3993,7 +3997,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2021,
@@ -4013,14 +4017,14 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2015,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -4444,8 +4448,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -5237,1023 +5241,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3125192756",
-      "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
-      "title": "Assessing the contribution of the La Luna Sea to the global sink of organic carbon during the Cenomanian-Turonian Oceanic Anoxic Event 2 (OAE2)",
-      "display_name": "Assessing the contribution of the La Luna Sea to the global sink of organic carbon during the Cenomanian-Turonian Oceanic Anoxic Event 2 (OAE2)",
-      "publication_year": 2021,
-      "publication_date": "2021-01-28",
-      "ids": {
-        "openalex": "https://openalex.org/W3125192756",
-        "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
-        "mag": "3125192756"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.gloplacha.2021.103424",
-        "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2021.103424",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S63048404",
-          "display_name": "Global and Planetary Change",
-          "issn_l": "0921-8181",
-          "issn": [
-            "0921-8181",
-            "1872-6364"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-c",
-            "jufo-3",
-            "norway-1",
-            "poland-140",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Global and Planetary Change",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5031310636",
-            "display_name": "Manuel Páez-Reyes",
-            "orcid": "https://orcid.org/0000-0001-6927-8674",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6927-8674"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I128212801",
-              "display_name": "Smithsonian Tropical Research Institute",
-              "ror": "https://ror.org/035jbxr46",
-              "country_code": "PA",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I103187081",
-                "https://openalex.org/I128212801"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ],
-          "countries": [
-            "PA",
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Manuel Paez-Reyes",
-          "raw_affiliation_strings": [
-            "Smithsonian Tropical Research Institute, Balboa, Ancon, Panama",
-            "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Smithsonian Tropical Research Institute, Balboa, Ancon, Panama",
-              "institution_ids": [
-                "https://openalex.org/I128212801"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5083726008",
-            "display_name": "Humberto Carvajal‐Ortiz",
-            "orcid": "https://orcid.org/0000-0002-8021-5954",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-8021-5954"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I99978038",
-              "display_name": "Core Laboratories (United States)",
-              "ror": "https://ror.org/00scjy223",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I99978038"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Humberto Carvajal-Ortiz",
-          "raw_affiliation_strings": [
-            "Core Laboratories – Advanced Technology Center, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Core Laboratories – Advanced Technology Center, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I99978038"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044803971",
-            "display_name": "Swapan Sahoo",
-            "orcid": "https://orcid.org/0000-0003-3560-1589",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3560-1589"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Swapan K. Sahoo",
-          "raw_affiliation_strings": [
-            "Equinor US, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Equinor US, Houston, TX, USA",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113144946",
-            "display_name": "Osman Varol",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Osman Varol",
-          "raw_affiliation_strings": [
-            "Varol Research, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Varol Research, Houston, TX, USA",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040776821",
-            "display_name": "Brent V. Miller",
-            "orcid": "https://orcid.org/0000-0002-3630-1871",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3630-1871"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I91045830",
-              "display_name": "Texas A&M University",
-              "ror": "https://ror.org/01f5ytq51",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91045830"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Brent V. Miller",
-          "raw_affiliation_strings": [
-            "Texas A&M University, Department of Geology and Geophysics, College Station, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Texas A&M University, Department of Geology and Geophysics, College Station, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I91045830"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5055315910",
-            "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7791-5677"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Geraint W. Hughes",
-          "raw_affiliation_strings": [
-            "Applied Microfacies Limited, Tan Y Gaer, Llanbedr DC, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Applied Microfacies Limited, Tan Y Gaer, Llanbedr DC, UK",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5080820264",
-            "display_name": "Tatiana Gaona Narvaez",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I19700959",
-              "display_name": "Florida International University",
-              "ror": "https://ror.org/02gz6gg07",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I19700959"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Tatiana Gaona-Narvaez",
-          "raw_affiliation_strings": [
-            "International Florida University, College of Arts, Sciences and Education, Miami, FL, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "International Florida University, College of Arts, Sciences and Education, Miami, FL, USA",
-              "institution_ids": [
-                "https://openalex.org/I19700959"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5024243835",
-            "display_name": "Germán D. Patarroyo",
-            "orcid": "https://orcid.org/0000-0002-9418-8520",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9418-8520"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I61722147",
-              "display_name": "Universidade do Vale do Rio dos Sinos",
-              "ror": "https://ror.org/05ctmmy43",
-              "country_code": "BR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I61722147"
-              ]
-            }
-          ],
-          "countries": [
-            "BR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "German D. Patarroyo",
-          "raw_affiliation_strings": [
-            "UNISINOS University, itt-Fossil Instituto Tecnológico de Micropaleontologia, RS, Brazil"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UNISINOS University, itt-Fossil Instituto Tecnológico de Micropaleontologia, RS, Brazil",
-              "institution_ids": [
-                "https://openalex.org/I61722147"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044062177",
-            "display_name": "Jason H. Curtis",
-            "orcid": "https://orcid.org/0000-0003-0884-9941",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-0884-9941"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I33213144",
-              "display_name": "University of Florida",
-              "ror": "https://ror.org/02y3ad647",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I33213144"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jason H. Curtis",
-          "raw_affiliation_strings": [
-            "University of Florida, Department of Geological Sciences, Gainesville, FL, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Florida, Department of Geological Sciences, Gainesville, FL, USA",
-              "institution_ids": [
-                "https://openalex.org/I33213144"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051191877",
-            "display_name": "Ivan Lerma",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ivan Lerma",
-          "raw_affiliation_strings": [
-            "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5055374792",
-            "display_name": "Peter Copeland",
-            "orcid": "https://orcid.org/0000-0001-6869-5142",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6869-5142"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Peter Copeland",
-          "raw_affiliation_strings": [
-            "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5031310636"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I128212801",
-        "https://openalex.org/I44461941"
-      ],
-      "apc_list": {
-        "value": 3150,
-        "currency": "USD",
-        "value_usd": 3150
-      },
-      "apc_paid": null,
-      "fwci": 3.073,
-      "has_fulltext": false,
-      "cited_by_count": 27,
-      "citation_normalized_percentile": {
-        "value": 0.91521324,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "199",
-        "issue": null,
-        "first_page": "103424",
-        "last_page": "103424"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/oceanic-anoxic-event-2",
-          "display_name": "Oceanic Anoxic Event 2",
-          "score": 0.7950000166893005
-        },
-        {
-          "id": "https://openalex.org/keywords/cenomanian-turonian-boundary",
-          "display_name": "Cenomanian-Turonian boundary",
-          "score": 0.8399999737739563
-        },
-        {
-          "id": "https://openalex.org/keywords/ocean-anoxia",
-          "display_name": "ocean anoxia",
-          "score": 0.8349999785423279
-        },
-        {
-          "id": "https://openalex.org/keywords/epicontinental-sea",
-          "display_name": "epicontinental sea",
-          "score": 0.8370000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/la-luna-formation",
-          "display_name": "La Luna Formation",
-          "score": 0.8399999737739563
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-cycle-perturbation",
-          "display_name": "carbon cycle perturbation",
-          "score": 0.6520000100135803
-        },
-        {
-          "id": "https://openalex.org/keywords/mass-accumulation-rates",
-          "display_name": "mass accumulation rates",
-          "score": 0.6980000138282776
-        },
-        {
-          "id": "https://openalex.org/keywords/inoceramid-bivalves",
-          "display_name": "inoceramid bivalves",
-          "score": 0.8669999837875366
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-element-geochemistry",
-          "display_name": "trace element geochemistry",
-          "score": 0.4729999899864197
-        },
-        {
-          "id": "https://openalex.org/keywords/sea-level-transgression",
-          "display_name": "sea-level transgression",
-          "score": 0.9129999876022339
-        },
-        {
-          "id": "https://openalex.org/keywords/magdalena-basin",
-          "display_name": "Magdalena basin",
-          "score": 0.6800000071525574
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C27543578",
-          "wikidata": "https://www.wikidata.org/wiki/Q185567",
-          "display_name": "Cenomanian",
-          "level": 3,
-          "score": 0.9357162714004517
-        },
-        {
-          "id": "https://openalex.org/C108970007",
-          "wikidata": "https://www.wikidata.org/wiki/Q568324",
-          "display_name": "Anoxic waters",
-          "level": 2,
-          "score": 0.7880645990371704
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7530957460403442
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7012781500816345
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.6481334567070007
-        },
-        {
-          "id": "https://openalex.org/C2780368712",
-          "wikidata": "https://www.wikidata.org/wiki/Q107027",
-          "display_name": "Foraminifera",
-          "level": 3,
-          "score": 0.5959346890449524
-        },
-        {
-          "id": "https://openalex.org/C6939412",
-          "wikidata": "https://www.wikidata.org/wiki/Q167751",
-          "display_name": "Carbon cycle",
-          "level": 3,
-          "score": 0.5817848443984985
-        },
-        {
-          "id": "https://openalex.org/C122846477",
-          "wikidata": "https://www.wikidata.org/wiki/Q1395805",
-          "display_name": "Water column",
-          "level": 2,
-          "score": 0.4837348759174347
-        },
-        {
-          "id": "https://openalex.org/C83042747",
-          "wikidata": "https://www.wikidata.org/wiki/Q686881",
-          "display_name": "Benthic zone",
-          "level": 2,
-          "score": 0.4698915481567383
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.4546317756175995
-        },
-        {
-          "id": "https://openalex.org/C158787203",
-          "wikidata": "https://www.wikidata.org/wiki/Q900291",
-          "display_name": "Total organic carbon",
-          "level": 2,
-          "score": 0.43227052688598633
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.08629021048545837
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.08361643552780151
-        },
-        {
-          "id": "https://openalex.org/C110872660",
-          "wikidata": "https://www.wikidata.org/wiki/Q37813",
-          "display_name": "Ecosystem",
-          "level": 2,
-          "score": 0.0754241943359375
-        },
-        {
-          "id": "https://openalex.org/C107872376",
-          "wikidata": "https://www.wikidata.org/wiki/Q321355",
-          "display_name": "Environmental chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.gloplacha.2021.103424",
-          "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2021.103424",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S63048404",
-            "display_name": "Global and Planetary Change",
-            "issn_l": "0921-8181",
-            "issn": [
-              "0921-8181",
-              "1872-6364"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-c",
-              "jufo-3",
-              "norway-1",
-              "poland-140",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Global and Planetary Change",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 1
-        },
-        {
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.685699999332428
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320309549",
-          "display_name": "University of Houston",
-          "ror": "https://ror.org/040vwpm13"
-        },
-        {
-          "id": "https://openalex.org/F4320309955",
-          "display_name": "Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",
-          "ror": "https://ror.org/048jthh02"
-        },
-        {
-          "id": "https://openalex.org/F4320311148",
-          "display_name": "American Association of Petroleum Geologists",
-          "ror": "https://ror.org/03aj2mv38"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 128,
-      "referenced_works": [
-        "https://openalex.org/W104982814",
-        "https://openalex.org/W138655657",
-        "https://openalex.org/W322753937",
-        "https://openalex.org/W594987929",
-        "https://openalex.org/W630393938",
-        "https://openalex.org/W1505343382",
-        "https://openalex.org/W1532468480",
-        "https://openalex.org/W1535280016",
-        "https://openalex.org/W1550431518",
-        "https://openalex.org/W1556279982",
-        "https://openalex.org/W1572988665",
-        "https://openalex.org/W1573020288",
-        "https://openalex.org/W1589334338",
-        "https://openalex.org/W1596564678",
-        "https://openalex.org/W1607700841",
-        "https://openalex.org/W1620286502",
-        "https://openalex.org/W1633310309",
-        "https://openalex.org/W1648236804",
-        "https://openalex.org/W1653504510",
-        "https://openalex.org/W1753926244",
-        "https://openalex.org/W1973862152",
-        "https://openalex.org/W1994549679",
-        "https://openalex.org/W2000169668",
-        "https://openalex.org/W2002758589",
-        "https://openalex.org/W2005604628",
-        "https://openalex.org/W2006914999",
-        "https://openalex.org/W2013399212",
-        "https://openalex.org/W2014088934",
-        "https://openalex.org/W2026426553",
-        "https://openalex.org/W2028961071",
-        "https://openalex.org/W2038368500",
-        "https://openalex.org/W2038552972",
-        "https://openalex.org/W2038814186",
-        "https://openalex.org/W2045375224",
-        "https://openalex.org/W2061702879",
-        "https://openalex.org/W2065124736",
-        "https://openalex.org/W2065792870",
-        "https://openalex.org/W2068263661",
-        "https://openalex.org/W2068541972",
-        "https://openalex.org/W2073519633",
-        "https://openalex.org/W2075669122",
-        "https://openalex.org/W2076184655",
-        "https://openalex.org/W2080443334",
-        "https://openalex.org/W2083143741",
-        "https://openalex.org/W2083645617",
-        "https://openalex.org/W2089294264",
-        "https://openalex.org/W2100384649",
-        "https://openalex.org/W2101242700",
-        "https://openalex.org/W2102075778",
-        "https://openalex.org/W2106559152",
-        "https://openalex.org/W2109155325",
-        "https://openalex.org/W2110422161",
-        "https://openalex.org/W2114549590",
-        "https://openalex.org/W2115902772",
-        "https://openalex.org/W2118287728",
-        "https://openalex.org/W2124452658",
-        "https://openalex.org/W2124850172",
-        "https://openalex.org/W2127705220",
-        "https://openalex.org/W2130241233",
-        "https://openalex.org/W2133016813",
-        "https://openalex.org/W2141401478",
-        "https://openalex.org/W2143504614",
-        "https://openalex.org/W2149664401",
-        "https://openalex.org/W2151375251",
-        "https://openalex.org/W2151687448",
-        "https://openalex.org/W2153799749",
-        "https://openalex.org/W2159829328",
-        "https://openalex.org/W2165295168",
-        "https://openalex.org/W2178695201",
-        "https://openalex.org/W2180591687",
-        "https://openalex.org/W2208474065",
-        "https://openalex.org/W2219886883",
-        "https://openalex.org/W2251477239",
-        "https://openalex.org/W2267080300",
-        "https://openalex.org/W2267976979",
-        "https://openalex.org/W2278126343",
-        "https://openalex.org/W2283144720",
-        "https://openalex.org/W2321459442",
-        "https://openalex.org/W2326702037",
-        "https://openalex.org/W2331561648",
-        "https://openalex.org/W2434680806",
-        "https://openalex.org/W2465091553",
-        "https://openalex.org/W2473142312",
-        "https://openalex.org/W2473429559",
-        "https://openalex.org/W2476820269",
-        "https://openalex.org/W2477429240",
-        "https://openalex.org/W2508015251",
-        "https://openalex.org/W2523388806",
-        "https://openalex.org/W2549439138",
-        "https://openalex.org/W2566115017",
-        "https://openalex.org/W2582952186",
-        "https://openalex.org/W2606232452",
-        "https://openalex.org/W2606470026",
-        "https://openalex.org/W2622444222",
-        "https://openalex.org/W2743937301",
-        "https://openalex.org/W2749111856",
-        "https://openalex.org/W2765471299",
-        "https://openalex.org/W2767895243",
-        "https://openalex.org/W2771000646",
-        "https://openalex.org/W2774273263",
-        "https://openalex.org/W2780537235",
-        "https://openalex.org/W2793496524",
-        "https://openalex.org/W2810469085",
-        "https://openalex.org/W2885030724",
-        "https://openalex.org/W2885487586",
-        "https://openalex.org/W2885798773",
-        "https://openalex.org/W2886012651",
-        "https://openalex.org/W2887862522",
-        "https://openalex.org/W2913327989",
-        "https://openalex.org/W2914692456",
-        "https://openalex.org/W2918321560",
-        "https://openalex.org/W2944956717",
-        "https://openalex.org/W2945524115",
-        "https://openalex.org/W2946643690",
-        "https://openalex.org/W2980188325",
-        "https://openalex.org/W2993089733",
-        "https://openalex.org/W3002787187",
-        "https://openalex.org/W3008819147",
-        "https://openalex.org/W3015052017",
-        "https://openalex.org/W3040137222",
-        "https://openalex.org/W3044326160",
-        "https://openalex.org/W4236969167",
-        "https://openalex.org/W4394924634",
-        "https://openalex.org/W4399526243",
-        "https://openalex.org/W6675986287",
-        "https://openalex.org/W6677016095",
-        "https://openalex.org/W6736580739",
-        "https://openalex.org/W6869737102"
-      ],
-      "related_works": [
-        "https://openalex.org/W2141579069",
-        "https://openalex.org/W4401729945",
-        "https://openalex.org/W2885487586",
-        "https://openalex.org/W3160751451",
-        "https://openalex.org/W2946537036",
-        "https://openalex.org/W2065792870",
-        "https://openalex.org/W3006567098",
-        "https://openalex.org/W3193921243",
-        "https://openalex.org/W4399466598",
-        "https://openalex.org/W2015169474"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-06T12:05:46.655746",
-      "created_date": "2021-02-01T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4295035066",
       "doi": "https://doi.org/10.47894/mpal.64.6.02",
       "title": "A new thin-section based micropaleontological biozonation for the Saudi Arabian Jurassic carbonates",
@@ -6710,8 +5697,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7571,11 +6558,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3939,
+      "fwci": 0.5809,
       "has_fulltext": false,
-      "cited_by_count": 21,
+      "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.57388829,
+        "value": 0.63489696,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7902,8 +6889,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -7911,8 +6898,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -8681,18 +7668,18 @@
         },
         {
           "year": 2017,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2015,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2013,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -8808,11 +7795,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2874,
+      "fwci": 3.2828,
       "has_fulltext": false,
-      "cited_by_count": 75,
+      "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.92687159,
+        "value": 0.92679901,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9171,8 +8158,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -10100,7 +9087,7 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2024,
@@ -10151,8 +9138,1848 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2019-07-23T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3125192756",
+      "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
+      "title": "Assessing the contribution of the La Luna Sea to the global sink of organic carbon during the Cenomanian-Turonian Oceanic Anoxic Event 2 (OAE2)",
+      "display_name": "Assessing the contribution of the La Luna Sea to the global sink of organic carbon during the Cenomanian-Turonian Oceanic Anoxic Event 2 (OAE2)",
+      "publication_year": 2021,
+      "publication_date": "2021-01-28",
+      "ids": {
+        "openalex": "https://openalex.org/W3125192756",
+        "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
+        "mag": "3125192756"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.gloplacha.2021.103424",
+        "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2021.103424",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S63048404",
+          "display_name": "Global and Planetary Change",
+          "issn_l": "0921-8181",
+          "issn": [
+            "0921-8181",
+            "1872-6364"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-c",
+            "jufo-3",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global and Planetary Change",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5031310636",
+            "display_name": "Manuel Páez-Reyes",
+            "orcid": "https://orcid.org/0000-0001-6927-8674",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6927-8674"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I128212801",
+              "display_name": "Smithsonian Tropical Research Institute",
+              "ror": "https://ror.org/035jbxr46",
+              "country_code": "PA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I103187081",
+                "https://openalex.org/I128212801"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ],
+          "countries": [
+            "PA",
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Manuel Paez-Reyes",
+          "raw_affiliation_strings": [
+            "Smithsonian Tropical Research Institute, Balboa, Ancon, Panama",
+            "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Smithsonian Tropical Research Institute, Balboa, Ancon, Panama",
+              "institution_ids": [
+                "https://openalex.org/I128212801"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5083726008",
+            "display_name": "Humberto Carvajal‐Ortiz",
+            "orcid": "https://orcid.org/0000-0002-8021-5954",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-8021-5954"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99978038",
+              "display_name": "Core Laboratories (United States)",
+              "ror": "https://ror.org/00scjy223",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I99978038"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Humberto Carvajal-Ortiz",
+          "raw_affiliation_strings": [
+            "Core Laboratories – Advanced Technology Center, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Core Laboratories – Advanced Technology Center, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I99978038"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044803971",
+            "display_name": "Swapan Sahoo",
+            "orcid": "https://orcid.org/0000-0003-3560-1589",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3560-1589"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Swapan K. Sahoo",
+          "raw_affiliation_strings": [
+            "Equinor US, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Equinor US, Houston, TX, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113144946",
+            "display_name": "Osman Varol",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Osman Varol",
+          "raw_affiliation_strings": [
+            "Varol Research, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Varol Research, Houston, TX, USA",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040776821",
+            "display_name": "Brent V. Miller",
+            "orcid": "https://orcid.org/0000-0002-3630-1871",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3630-1871"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brent V. Miller",
+          "raw_affiliation_strings": [
+            "Texas A&M University, Department of Geology and Geophysics, College Station, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Texas A&M University, Department of Geology and Geophysics, College Station, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055315910",
+            "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Geraint W. Hughes",
+          "raw_affiliation_strings": [
+            "Applied Microfacies Limited, Tan Y Gaer, Llanbedr DC, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Microfacies Limited, Tan Y Gaer, Llanbedr DC, UK",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080820264",
+            "display_name": "Tatiana Gaona Narvaez",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19700959",
+              "display_name": "Florida International University",
+              "ror": "https://ror.org/02gz6gg07",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I19700959"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tatiana Gaona-Narvaez",
+          "raw_affiliation_strings": [
+            "International Florida University, College of Arts, Sciences and Education, Miami, FL, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "International Florida University, College of Arts, Sciences and Education, Miami, FL, USA",
+              "institution_ids": [
+                "https://openalex.org/I19700959"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5024243835",
+            "display_name": "Germán D. Patarroyo",
+            "orcid": "https://orcid.org/0000-0002-9418-8520",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9418-8520"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I61722147",
+              "display_name": "Universidade do Vale do Rio dos Sinos",
+              "ror": "https://ror.org/05ctmmy43",
+              "country_code": "BR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I61722147"
+              ]
+            }
+          ],
+          "countries": [
+            "BR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "German D. Patarroyo",
+          "raw_affiliation_strings": [
+            "UNISINOS University, itt-Fossil Instituto Tecnológico de Micropaleontologia, RS, Brazil"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UNISINOS University, itt-Fossil Instituto Tecnológico de Micropaleontologia, RS, Brazil",
+              "institution_ids": [
+                "https://openalex.org/I61722147"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044062177",
+            "display_name": "Jason Hilleary Curtis",
+            "orcid": "https://orcid.org/0000-0003-0884-9941",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-0884-9941"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I33213144",
+              "display_name": "University of Florida",
+              "ror": "https://ror.org/02y3ad647",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I33213144"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jason H. Curtis",
+          "raw_affiliation_strings": [
+            "University of Florida, Department of Geological Sciences, Gainesville, FL, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Florida, Department of Geological Sciences, Gainesville, FL, USA",
+              "institution_ids": [
+                "https://openalex.org/I33213144"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051191877",
+            "display_name": "Ivan Lerma",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ivan Lerma",
+          "raw_affiliation_strings": [
+            "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5055374792",
+            "display_name": "Peter Copeland",
+            "orcid": "https://orcid.org/0000-0001-6869-5142",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6869-5142"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Peter Copeland",
+          "raw_affiliation_strings": [
+            "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Houston, Department of Earth and Atmospheric Sciences, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5031310636"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I128212801",
+        "https://openalex.org/I44461941"
+      ],
+      "apc_list": {
+        "value": 3150,
+        "currency": "USD",
+        "value_usd": 3150
+      },
+      "apc_paid": null,
+      "fwci": 2.7793,
+      "has_fulltext": false,
+      "cited_by_count": 27,
+      "citation_normalized_percentile": {
+        "value": 0.90517479,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "199",
+        "issue": null,
+        "first_page": "103424",
+        "last_page": "103424"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/oceanic-anoxic-event-2",
+          "display_name": "Oceanic Anoxic Event 2",
+          "score": 0.7950000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/cenomanian-turonian-boundary",
+          "display_name": "Cenomanian-Turonian boundary",
+          "score": 0.8399999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/ocean-anoxia",
+          "display_name": "ocean anoxia",
+          "score": 0.8349999785423279
+        },
+        {
+          "id": "https://openalex.org/keywords/epicontinental-sea",
+          "display_name": "epicontinental sea",
+          "score": 0.8370000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/la-luna-formation",
+          "display_name": "La Luna Formation",
+          "score": 0.8399999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-cycle-perturbation",
+          "display_name": "carbon cycle perturbation",
+          "score": 0.6520000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/mass-accumulation-rates",
+          "display_name": "mass accumulation rates",
+          "score": 0.6980000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/inoceramid-bivalves",
+          "display_name": "inoceramid bivalves",
+          "score": 0.8669999837875366
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-element-geochemistry",
+          "display_name": "trace element geochemistry",
+          "score": 0.4729999899864197
+        },
+        {
+          "id": "https://openalex.org/keywords/sea-level-transgression",
+          "display_name": "sea-level transgression",
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/magdalena-basin",
+          "display_name": "Magdalena basin",
+          "score": 0.6800000071525574
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C27543578",
+          "wikidata": "https://www.wikidata.org/wiki/Q185567",
+          "display_name": "Cenomanian",
+          "level": 3,
+          "score": 0.9357162714004517
+        },
+        {
+          "id": "https://openalex.org/C108970007",
+          "wikidata": "https://www.wikidata.org/wiki/Q568324",
+          "display_name": "Anoxic waters",
+          "level": 2,
+          "score": 0.7880645990371704
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7530957460403442
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7012781500816345
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.6481334567070007
+        },
+        {
+          "id": "https://openalex.org/C2780368712",
+          "wikidata": "https://www.wikidata.org/wiki/Q107027",
+          "display_name": "Foraminifera",
+          "level": 3,
+          "score": 0.5959346890449524
+        },
+        {
+          "id": "https://openalex.org/C6939412",
+          "wikidata": "https://www.wikidata.org/wiki/Q167751",
+          "display_name": "Carbon cycle",
+          "level": 3,
+          "score": 0.5817848443984985
+        },
+        {
+          "id": "https://openalex.org/C122846477",
+          "wikidata": "https://www.wikidata.org/wiki/Q1395805",
+          "display_name": "Water column",
+          "level": 2,
+          "score": 0.4837348759174347
+        },
+        {
+          "id": "https://openalex.org/C83042747",
+          "wikidata": "https://www.wikidata.org/wiki/Q686881",
+          "display_name": "Benthic zone",
+          "level": 2,
+          "score": 0.4698915481567383
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.4546317756175995
+        },
+        {
+          "id": "https://openalex.org/C158787203",
+          "wikidata": "https://www.wikidata.org/wiki/Q900291",
+          "display_name": "Total organic carbon",
+          "level": 2,
+          "score": 0.43227052688598633
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.08629021048545837
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.08361643552780151
+        },
+        {
+          "id": "https://openalex.org/C110872660",
+          "wikidata": "https://www.wikidata.org/wiki/Q37813",
+          "display_name": "Ecosystem",
+          "level": 2,
+          "score": 0.0754241943359375
+        },
+        {
+          "id": "https://openalex.org/C107872376",
+          "wikidata": "https://www.wikidata.org/wiki/Q321355",
+          "display_name": "Environmental chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.gloplacha.2021.103424",
+          "doi": "https://doi.org/10.1016/j.gloplacha.2021.103424",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2021.103424",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S63048404",
+            "display_name": "Global and Planetary Change",
+            "issn_l": "0921-8181",
+            "issn": [
+              "0921-8181",
+              "1872-6364"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-c",
+              "jufo-3",
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Global and Planetary Change",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 1
+        },
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.685699999332428
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320309549",
+          "display_name": "University of Houston",
+          "ror": "https://ror.org/040vwpm13"
+        },
+        {
+          "id": "https://openalex.org/F4320309955",
+          "display_name": "Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)",
+          "ror": "https://ror.org/048jthh02"
+        },
+        {
+          "id": "https://openalex.org/F4320311148",
+          "display_name": "American Association of Petroleum Geologists",
+          "ror": "https://ror.org/03aj2mv38"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 128,
+      "referenced_works": [
+        "https://openalex.org/W104982814",
+        "https://openalex.org/W138655657",
+        "https://openalex.org/W322753937",
+        "https://openalex.org/W594987929",
+        "https://openalex.org/W630393938",
+        "https://openalex.org/W1505343382",
+        "https://openalex.org/W1532468480",
+        "https://openalex.org/W1535280016",
+        "https://openalex.org/W1550431518",
+        "https://openalex.org/W1556279982",
+        "https://openalex.org/W1572988665",
+        "https://openalex.org/W1573020288",
+        "https://openalex.org/W1589334338",
+        "https://openalex.org/W1596564678",
+        "https://openalex.org/W1607700841",
+        "https://openalex.org/W1620286502",
+        "https://openalex.org/W1633310309",
+        "https://openalex.org/W1648236804",
+        "https://openalex.org/W1653504510",
+        "https://openalex.org/W1753926244",
+        "https://openalex.org/W1973862152",
+        "https://openalex.org/W1994549679",
+        "https://openalex.org/W2000169668",
+        "https://openalex.org/W2002758589",
+        "https://openalex.org/W2005604628",
+        "https://openalex.org/W2006914999",
+        "https://openalex.org/W2013399212",
+        "https://openalex.org/W2014088934",
+        "https://openalex.org/W2026426553",
+        "https://openalex.org/W2028961071",
+        "https://openalex.org/W2038368500",
+        "https://openalex.org/W2038552972",
+        "https://openalex.org/W2038814186",
+        "https://openalex.org/W2045375224",
+        "https://openalex.org/W2061702879",
+        "https://openalex.org/W2065124736",
+        "https://openalex.org/W2065792870",
+        "https://openalex.org/W2068263661",
+        "https://openalex.org/W2068541972",
+        "https://openalex.org/W2073519633",
+        "https://openalex.org/W2075669122",
+        "https://openalex.org/W2076184655",
+        "https://openalex.org/W2080443334",
+        "https://openalex.org/W2083143741",
+        "https://openalex.org/W2083645617",
+        "https://openalex.org/W2089294264",
+        "https://openalex.org/W2100384649",
+        "https://openalex.org/W2101242700",
+        "https://openalex.org/W2102075778",
+        "https://openalex.org/W2106559152",
+        "https://openalex.org/W2109155325",
+        "https://openalex.org/W2110422161",
+        "https://openalex.org/W2114549590",
+        "https://openalex.org/W2115902772",
+        "https://openalex.org/W2118287728",
+        "https://openalex.org/W2124452658",
+        "https://openalex.org/W2124850172",
+        "https://openalex.org/W2127705220",
+        "https://openalex.org/W2130241233",
+        "https://openalex.org/W2133016813",
+        "https://openalex.org/W2141401478",
+        "https://openalex.org/W2143504614",
+        "https://openalex.org/W2149664401",
+        "https://openalex.org/W2151375251",
+        "https://openalex.org/W2151687448",
+        "https://openalex.org/W2153799749",
+        "https://openalex.org/W2159829328",
+        "https://openalex.org/W2165295168",
+        "https://openalex.org/W2178695201",
+        "https://openalex.org/W2180591687",
+        "https://openalex.org/W2208474065",
+        "https://openalex.org/W2219886883",
+        "https://openalex.org/W2251477239",
+        "https://openalex.org/W2267080300",
+        "https://openalex.org/W2267976979",
+        "https://openalex.org/W2278126343",
+        "https://openalex.org/W2283144720",
+        "https://openalex.org/W2321459442",
+        "https://openalex.org/W2326702037",
+        "https://openalex.org/W2331561648",
+        "https://openalex.org/W2434680806",
+        "https://openalex.org/W2465091553",
+        "https://openalex.org/W2473142312",
+        "https://openalex.org/W2473429559",
+        "https://openalex.org/W2476820269",
+        "https://openalex.org/W2477429240",
+        "https://openalex.org/W2508015251",
+        "https://openalex.org/W2523388806",
+        "https://openalex.org/W2549439138",
+        "https://openalex.org/W2566115017",
+        "https://openalex.org/W2582952186",
+        "https://openalex.org/W2606232452",
+        "https://openalex.org/W2606470026",
+        "https://openalex.org/W2622444222",
+        "https://openalex.org/W2743937301",
+        "https://openalex.org/W2749111856",
+        "https://openalex.org/W2765471299",
+        "https://openalex.org/W2767895243",
+        "https://openalex.org/W2771000646",
+        "https://openalex.org/W2774273263",
+        "https://openalex.org/W2780537235",
+        "https://openalex.org/W2793496524",
+        "https://openalex.org/W2810469085",
+        "https://openalex.org/W2885030724",
+        "https://openalex.org/W2885487586",
+        "https://openalex.org/W2885798773",
+        "https://openalex.org/W2886012651",
+        "https://openalex.org/W2887862522",
+        "https://openalex.org/W2913327989",
+        "https://openalex.org/W2914692456",
+        "https://openalex.org/W2918321560",
+        "https://openalex.org/W2944956717",
+        "https://openalex.org/W2945524115",
+        "https://openalex.org/W2946643690",
+        "https://openalex.org/W2980188325",
+        "https://openalex.org/W2993089733",
+        "https://openalex.org/W3002787187",
+        "https://openalex.org/W3008819147",
+        "https://openalex.org/W3015052017",
+        "https://openalex.org/W3040137222",
+        "https://openalex.org/W3044326160",
+        "https://openalex.org/W4236969167",
+        "https://openalex.org/W4394924634",
+        "https://openalex.org/W4399526243",
+        "https://openalex.org/W6675986287",
+        "https://openalex.org/W6677016095",
+        "https://openalex.org/W6736580739",
+        "https://openalex.org/W6869737102"
+      ],
+      "related_works": [
+        "https://openalex.org/W2141579069",
+        "https://openalex.org/W4401729945",
+        "https://openalex.org/W2885487586",
+        "https://openalex.org/W3160751451",
+        "https://openalex.org/W2946537036",
+        "https://openalex.org/W2065792870",
+        "https://openalex.org/W3006567098",
+        "https://openalex.org/W3193921243",
+        "https://openalex.org/W4399466598",
+        "https://openalex.org/W2015169474"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-07T11:25:07.637180",
+      "created_date": "2021-02-01T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2984433358",
+      "doi": "https://doi.org/10.2113/geoarabia150117",
+      "title": "Calcimicrobe tubules in uppermost Jurassic Arab-A carbonates of Saudi Arabia",
+      "display_name": "Calcimicrobe tubules in uppermost Jurassic Arab-A carbonates of Saudi Arabia",
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2984433358",
+        "doi": "https://doi.org/10.2113/geoarabia150117",
+        "mag": "2984433358"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/geoarabia150117",
+        "doi": "https://doi.org/10.2113/geoarabia150117",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055315910",
+            "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "G. Wyn ap Gwilym Hughes",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5055315910"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.1909,
+      "has_fulltext": true,
+      "cited_by_count": 15,
+      "citation_normalized_percentile": {
+        "value": 0.50062539,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "1",
+        "first_page": "17",
+        "last_page": "26"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9437999725341797,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9437999725341797,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.02280000038444996,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.021900000050663948,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/calcimicrobes",
+          "display_name": "calcimicrobes",
+          "score": 0.9010000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/arab-formation",
+          "display_name": "Arab Formation",
+          "score": 0.9520000219345093
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-jurassic-carbonates",
+          "display_name": "Upper Jurassic carbonates",
+          "score": 0.8539999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/oxfordian",
+          "display_name": "Oxfordian",
+          "score": 0.7639999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.9340000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/eastern-saudi-arabia",
+          "display_name": "eastern Saudi Arabia",
+          "score": 0.5649999976158142
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8439111709594727
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.8127057552337646
+        },
+        {
+          "id": "https://openalex.org/C2776077807",
+          "wikidata": "https://www.wikidata.org/wiki/Q276412",
+          "display_name": "Ostracod",
+          "level": 2,
+          "score": 0.7004345655441284
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.6708230972290039
+        },
+        {
+          "id": "https://openalex.org/C2781119444",
+          "wikidata": "https://www.wikidata.org/wiki/Q176739",
+          "display_name": "Stromatolite",
+          "level": 3,
+          "score": 0.6646994948387146
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.6231531500816345
+        },
+        {
+          "id": "https://openalex.org/C2781471533",
+          "wikidata": "https://www.wikidata.org/wiki/Q642735",
+          "display_name": "Ooid",
+          "level": 4,
+          "score": 0.5323019027709961
+        },
+        {
+          "id": "https://openalex.org/C104873425",
+          "wikidata": "https://www.wikidata.org/wiki/Q205768",
+          "display_name": "Sedimentology",
+          "level": 2,
+          "score": 0.5065306425094604
+        },
+        {
+          "id": "https://openalex.org/C2777620812",
+          "wikidata": "https://www.wikidata.org/wiki/Q904896",
+          "display_name": "Transgressive",
+          "level": 4,
+          "score": 0.4854010045528412
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.45531165599823
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.32373517751693726
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.2812426686286926
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/geoarabia150117",
+          "doi": "https://doi.org/10.2113/geoarabia150117",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
+          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
+          "source": {
+            "id": "https://openalex.org/S189311251",
+            "display_name": "GeoArabia",
+            "issn_l": "1025-6059",
+            "issn": [
+              "1025-6059"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GeoArabia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2113/geoarabia150117",
+        "doi": "https://doi.org/10.2113/geoarabia150117",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2984433358.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2984433358.grobid-xml"
+      },
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W66727471",
+        "https://openalex.org/W1167758469",
+        "https://openalex.org/W1586500030",
+        "https://openalex.org/W1867391757",
+        "https://openalex.org/W1937095371",
+        "https://openalex.org/W1977604131",
+        "https://openalex.org/W1992087558",
+        "https://openalex.org/W2010266879",
+        "https://openalex.org/W2012654190",
+        "https://openalex.org/W2026431580",
+        "https://openalex.org/W2032108430",
+        "https://openalex.org/W2037061354",
+        "https://openalex.org/W2052949925",
+        "https://openalex.org/W2071402402",
+        "https://openalex.org/W2101164556",
+        "https://openalex.org/W2108469418",
+        "https://openalex.org/W2115669492",
+        "https://openalex.org/W2132180838",
+        "https://openalex.org/W2174782690",
+        "https://openalex.org/W2235153994",
+        "https://openalex.org/W2247367750",
+        "https://openalex.org/W2333256003",
+        "https://openalex.org/W2334607093",
+        "https://openalex.org/W2499136226",
+        "https://openalex.org/W2944267028",
+        "https://openalex.org/W2981429514",
+        "https://openalex.org/W2985126301",
+        "https://openalex.org/W2992489415",
+        "https://openalex.org/W4233911607",
+        "https://openalex.org/W4234616949",
+        "https://openalex.org/W4251884674",
+        "https://openalex.org/W4252144897",
+        "https://openalex.org/W6724648685",
+        "https://openalex.org/W6814192978"
+      ],
+      "related_works": [
+        "https://openalex.org/W2597303974",
+        "https://openalex.org/W2944267028",
+        "https://openalex.org/W1980881493",
+        "https://openalex.org/W2480689521",
+        "https://openalex.org/W3134864009",
+        "https://openalex.org/W2767842767",
+        "https://openalex.org/W3021857390",
+        "https://openalex.org/W1999711327",
+        "https://openalex.org/W2883793499",
+        "https://openalex.org/W2803636270"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "Uppermost": [
+          1
+        ],
+        "Jurassic": [
+          2,
+          70
+        ],
+        "carbonates": [
+          3,
+          73
+        ],
+        "from": [
+          4
+        ],
+        "the": [
+          5,
+          9,
+          13,
+          45,
+          52,
+          62,
+          89,
+          94,
+          129
+        ],
+        "Arab-A": [
+          6,
+          130
+        ],
+        "Member": [
+          7
+        ],
+        "of": [
+          8,
+          15,
+          26,
+          31,
+          47,
+          55,
+          65,
+          75,
+          87,
+          97,
+          128
+        ],
+        "Arab": [
+          10
+        ],
+        "Formation": [
+          11
+        ],
+        "in": [
+          12,
+          68,
+          93
+        ],
+        "subsurface": [
+          14
+        ],
+        "eastern": [
+          16
+        ],
+        "Saudi": [
+          17
+        ],
+        "Arabia": [
+          18
+        ],
+        "reveal": [
+          19
+        ],
+        "hollow,": [
+          20
+        ],
+        "intertwined,": [
+          21
+        ],
+        "locally": [
+          22
+        ],
+        "bifurcating,": [
+          23
+        ],
+        "microtubules": [
+          24,
+          90
+        ],
+        "consisting": [
+          25
+        ],
+        "a": [
+          27,
+          76
+        ],
+        "chain-like,": [
+          28
+        ],
+        "uniserial": [
+          29
+        ],
+        "series": [
+          30
+        ],
+        "inaperturate,": [
+          32
+        ],
+        "stacked,": [
+          33
+        ],
+        "concavo-convex": [
+          34
+        ],
+        "crescentic": [
+          35
+        ],
+        "chambers": [
+          36
+        ],
+        "tentatively": [
+          37
+        ],
+        "assigned": [
+          38
+        ],
+        "to": [
+          39,
+          44,
+          60,
+          124
+        ],
+        "Gahkumella": [
+          40
+        ],
+        "sp.": [
+          41
+        ],
+        "Previously": [
+          42
+        ],
+        "confined": [
+          43
+        ],
+        "Oxfordian": [
+          46,
+          107
+        ],
+        "North": [
+          48
+        ],
+        "America,": [
+          49
+        ],
+        "and": [
+          50,
+          81,
+          102,
+          106
+        ],
+        "possibly": [
+          51
+        ],
+        "Lower": [
+          53
+        ],
+        "Cretaceous": [
+          54
+        ],
+        "Oman,": [
+          56
+        ],
+        "this": [
+          57
+        ],
+        "is": [
+          58
+        ],
+        "believed": [
+          59
+        ],
+        "be": [
+          61
+        ],
+        "first": [
+          63
+        ],
+        "observation": [
+          64
+        ],
+        "such": [
+          66
+        ],
+        "forms": [
+          67,
+          110
+        ],
+        "uppermost": [
+          69
+        ],
+        "carbonates.": [
+          71
+        ],
+        "The": [
+          72
+        ],
+        "consist": [
+          74
+        ],
+        "lower,": [
+          77
+        ],
+        "transgressive,": [
+          78
+        ],
+        "ooid-foraminiferal": [
+          79
+        ],
+        "lithofacies": [
+          80,
+          86
+        ],
+        "an": [
+          82
+        ],
+        "upper,": [
+          83
+        ],
+        "regressive,": [
+          84
+        ],
+        "stromatolite-ostracod": [
+          85
+        ],
+        "which": [
+          88
+        ],
+        "are": [
+          91
+        ],
+        "developed": [
+          92
+        ],
+        "latter.": [
+          95
+        ],
+        "Comparison": [
+          96
+        ],
+        "these": [
+          98
+        ],
+        "structures": [
+          99
+        ],
+        "with": [
+          100
+        ],
+        "fossil": [
+          101
+        ],
+        "Recent": [
+          103
+        ],
+        "cyanobacterial": [
+          104,
+          113
+        ],
+        "microborings": [
+          105
+        ],
+        "calcimicrobial": [
+          108
+        ],
+        "tube-like": [
+          109
+        ],
+        "suggests": [
+          111
+        ],
+        "probable": [
+          112
+        ],
+        "affinity.": [
+          114
+        ],
+        "Despite": [
+          115
+        ],
+        "their": [
+          116
+        ],
+        "very": [
+          117
+        ],
+        "limited": [
+          118
+        ],
+        "stratigraphic": [
+          119
+        ],
+        "extent,": [
+          120
+        ],
+        "they": [
+          121
+        ],
+        "may": [
+          122
+        ],
+        "contribute": [
+          123
+        ],
+        "improving": [
+          125
+        ],
+        "mouldic": [
+          126
+        ],
+        "microporosity": [
+          127
+        ],
+        "carbonate": [
+          131
+        ],
+        "reservoir.": [
+          132
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-07T11:25:07.637180",
+      "created_date": "2019-11-22T00:00:00"
     },
     {
       "id": "https://openalex.org/W1531273367",
@@ -10243,17 +11070,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6258,
+      "fwci": 0.6141,
       "has_fulltext": true,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.62847047,
+        "value": 0.62498427,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 88,
-        "max": 98
+        "max": 97
       },
       "biblio": {
         "volume": "19",
@@ -10557,8 +11384,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1531273367.pdf",
@@ -11842,825 +12669,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2984433358",
-      "doi": "https://doi.org/10.2113/geoarabia150117",
-      "title": "Calcimicrobe tubules in uppermost Jurassic Arab-A carbonates of Saudi Arabia",
-      "display_name": "Calcimicrobe tubules in uppermost Jurassic Arab-A carbonates of Saudi Arabia",
-      "publication_year": 2010,
-      "publication_date": "2010-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2984433358",
-        "doi": "https://doi.org/10.2113/geoarabia150117",
-        "mag": "2984433358"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/geoarabia150117",
-        "doi": "https://doi.org/10.2113/geoarabia150117",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5055315910",
-            "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7791-5677"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "G. Wyn ap Gwilym Hughes",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5055315910"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.1938,
-      "has_fulltext": true,
-      "cited_by_count": 14,
-      "citation_normalized_percentile": {
-        "value": 0.50334007,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "15",
-        "issue": "1",
-        "first_page": "17",
-        "last_page": "26"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9437999725341797,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9437999725341797,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.02280000038444996,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.021900000050663948,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/calcimicrobes",
-          "display_name": "calcimicrobes",
-          "score": 0.9010000228881836
-        },
-        {
-          "id": "https://openalex.org/keywords/arab-formation",
-          "display_name": "Arab Formation",
-          "score": 0.9520000219345093
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-jurassic-carbonates",
-          "display_name": "Upper Jurassic carbonates",
-          "score": 0.8539999723434448
-        },
-        {
-          "id": "https://openalex.org/keywords/oxfordian",
-          "display_name": "Oxfordian",
-          "score": 0.7639999985694885
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-reservoirs",
-          "display_name": "carbonate reservoirs",
-          "score": 0.9340000152587891
-        },
-        {
-          "id": "https://openalex.org/keywords/eastern-saudi-arabia",
-          "display_name": "eastern Saudi Arabia",
-          "score": 0.5649999976158142
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8439111709594727
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.8127057552337646
-        },
-        {
-          "id": "https://openalex.org/C2776077807",
-          "wikidata": "https://www.wikidata.org/wiki/Q276412",
-          "display_name": "Ostracod",
-          "level": 2,
-          "score": 0.7004345655441284
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.6708230972290039
-        },
-        {
-          "id": "https://openalex.org/C2781119444",
-          "wikidata": "https://www.wikidata.org/wiki/Q176739",
-          "display_name": "Stromatolite",
-          "level": 3,
-          "score": 0.6646994948387146
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.6231531500816345
-        },
-        {
-          "id": "https://openalex.org/C2781471533",
-          "wikidata": "https://www.wikidata.org/wiki/Q642735",
-          "display_name": "Ooid",
-          "level": 4,
-          "score": 0.5323019027709961
-        },
-        {
-          "id": "https://openalex.org/C104873425",
-          "wikidata": "https://www.wikidata.org/wiki/Q205768",
-          "display_name": "Sedimentology",
-          "level": 2,
-          "score": 0.5065306425094604
-        },
-        {
-          "id": "https://openalex.org/C2777620812",
-          "wikidata": "https://www.wikidata.org/wiki/Q904896",
-          "display_name": "Transgressive",
-          "level": 4,
-          "score": 0.4854010045528412
-        },
-        {
-          "id": "https://openalex.org/C2778609275",
-          "wikidata": "https://www.wikidata.org/wiki/Q691831",
-          "display_name": "Carbonate platform",
-          "level": 4,
-          "score": 0.45531165599823
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.32373517751693726
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.2812426686286926
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/geoarabia150117",
-          "doi": "https://doi.org/10.2113/geoarabia150117",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
-          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
-          "source": {
-            "id": "https://openalex.org/S189311251",
-            "display_name": "GeoArabia",
-            "issn_l": "1025-6059",
-            "issn": [
-              "1025-6059"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GeoArabia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2113/geoarabia150117",
-        "doi": "https://doi.org/10.2113/geoarabia150117",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia150117",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/1/17/5444772/hughes.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2984433358.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2984433358.grobid-xml"
-      },
-      "referenced_works_count": 34,
-      "referenced_works": [
-        "https://openalex.org/W66727471",
-        "https://openalex.org/W1167758469",
-        "https://openalex.org/W1586500030",
-        "https://openalex.org/W1867391757",
-        "https://openalex.org/W1937095371",
-        "https://openalex.org/W1977604131",
-        "https://openalex.org/W1992087558",
-        "https://openalex.org/W2010266879",
-        "https://openalex.org/W2012654190",
-        "https://openalex.org/W2026431580",
-        "https://openalex.org/W2032108430",
-        "https://openalex.org/W2037061354",
-        "https://openalex.org/W2052949925",
-        "https://openalex.org/W2071402402",
-        "https://openalex.org/W2101164556",
-        "https://openalex.org/W2108469418",
-        "https://openalex.org/W2115669492",
-        "https://openalex.org/W2132180838",
-        "https://openalex.org/W2174782690",
-        "https://openalex.org/W2235153994",
-        "https://openalex.org/W2247367750",
-        "https://openalex.org/W2333256003",
-        "https://openalex.org/W2334607093",
-        "https://openalex.org/W2499136226",
-        "https://openalex.org/W2944267028",
-        "https://openalex.org/W2981429514",
-        "https://openalex.org/W2985126301",
-        "https://openalex.org/W2992489415",
-        "https://openalex.org/W4233911607",
-        "https://openalex.org/W4234616949",
-        "https://openalex.org/W4251884674",
-        "https://openalex.org/W4252144897",
-        "https://openalex.org/W6724648685",
-        "https://openalex.org/W6814192978"
-      ],
-      "related_works": [
-        "https://openalex.org/W2597303974",
-        "https://openalex.org/W2944267028",
-        "https://openalex.org/W1980881493",
-        "https://openalex.org/W2480689521",
-        "https://openalex.org/W3134864009",
-        "https://openalex.org/W2767842767",
-        "https://openalex.org/W3021857390",
-        "https://openalex.org/W1999711327",
-        "https://openalex.org/W2883793499",
-        "https://openalex.org/W2803636270"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "Uppermost": [
-          1
-        ],
-        "Jurassic": [
-          2,
-          70
-        ],
-        "carbonates": [
-          3,
-          73
-        ],
-        "from": [
-          4
-        ],
-        "the": [
-          5,
-          9,
-          13,
-          45,
-          52,
-          62,
-          89,
-          94,
-          129
-        ],
-        "Arab-A": [
-          6,
-          130
-        ],
-        "Member": [
-          7
-        ],
-        "of": [
-          8,
-          15,
-          26,
-          31,
-          47,
-          55,
-          65,
-          75,
-          87,
-          97,
-          128
-        ],
-        "Arab": [
-          10
-        ],
-        "Formation": [
-          11
-        ],
-        "in": [
-          12,
-          68,
-          93
-        ],
-        "subsurface": [
-          14
-        ],
-        "eastern": [
-          16
-        ],
-        "Saudi": [
-          17
-        ],
-        "Arabia": [
-          18
-        ],
-        "reveal": [
-          19
-        ],
-        "hollow,": [
-          20
-        ],
-        "intertwined,": [
-          21
-        ],
-        "locally": [
-          22
-        ],
-        "bifurcating,": [
-          23
-        ],
-        "microtubules": [
-          24,
-          90
-        ],
-        "consisting": [
-          25
-        ],
-        "a": [
-          27,
-          76
-        ],
-        "chain-like,": [
-          28
-        ],
-        "uniserial": [
-          29
-        ],
-        "series": [
-          30
-        ],
-        "inaperturate,": [
-          32
-        ],
-        "stacked,": [
-          33
-        ],
-        "concavo-convex": [
-          34
-        ],
-        "crescentic": [
-          35
-        ],
-        "chambers": [
-          36
-        ],
-        "tentatively": [
-          37
-        ],
-        "assigned": [
-          38
-        ],
-        "to": [
-          39,
-          44,
-          60,
-          124
-        ],
-        "Gahkumella": [
-          40
-        ],
-        "sp.": [
-          41
-        ],
-        "Previously": [
-          42
-        ],
-        "confined": [
-          43
-        ],
-        "Oxfordian": [
-          46,
-          107
-        ],
-        "North": [
-          48
-        ],
-        "America,": [
-          49
-        ],
-        "and": [
-          50,
-          81,
-          102,
-          106
-        ],
-        "possibly": [
-          51
-        ],
-        "Lower": [
-          53
-        ],
-        "Cretaceous": [
-          54
-        ],
-        "Oman,": [
-          56
-        ],
-        "this": [
-          57
-        ],
-        "is": [
-          58
-        ],
-        "believed": [
-          59
-        ],
-        "be": [
-          61
-        ],
-        "first": [
-          63
-        ],
-        "observation": [
-          64
-        ],
-        "such": [
-          66
-        ],
-        "forms": [
-          67,
-          110
-        ],
-        "uppermost": [
-          69
-        ],
-        "carbonates.": [
-          71
-        ],
-        "The": [
-          72
-        ],
-        "consist": [
-          74
-        ],
-        "lower,": [
-          77
-        ],
-        "transgressive,": [
-          78
-        ],
-        "ooid-foraminiferal": [
-          79
-        ],
-        "lithofacies": [
-          80,
-          86
-        ],
-        "an": [
-          82
-        ],
-        "upper,": [
-          83
-        ],
-        "regressive,": [
-          84
-        ],
-        "stromatolite-ostracod": [
-          85
-        ],
-        "which": [
-          88
-        ],
-        "are": [
-          91
-        ],
-        "developed": [
-          92
-        ],
-        "latter.": [
-          95
-        ],
-        "Comparison": [
-          96
-        ],
-        "these": [
-          98
-        ],
-        "structures": [
-          99
-        ],
-        "with": [
-          100
-        ],
-        "fossil": [
-          101
-        ],
-        "Recent": [
-          103
-        ],
-        "cyanobacterial": [
-          104,
-          113
-        ],
-        "microborings": [
-          105
-        ],
-        "calcimicrobial": [
-          108
-        ],
-        "tube-like": [
-          109
-        ],
-        "suggests": [
-          111
-        ],
-        "probable": [
-          112
-        ],
-        "affinity.": [
-          114
-        ],
-        "Despite": [
-          115
-        ],
-        "their": [
-          116
-        ],
-        "very": [
-          117
-        ],
-        "limited": [
-          118
-        ],
-        "stratigraphic": [
-          119
-        ],
-        "extent,": [
-          120
-        ],
-        "they": [
-          121
-        ],
-        "may": [
-          122
-        ],
-        "contribute": [
-          123
-        ],
-        "improving": [
-          125
-        ],
-        "mouldic": [
-          126
-        ],
-        "microporosity": [
-          127
-        ],
-        "carbonate": [
-          131
-        ],
-        "reservoir.": [
-          132
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
-      "created_date": "2019-11-22T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W1972254595",
       "doi": "https://doi.org/10.1016/0899-5362(96)00035-8",
       "title": "Late cretaceous to recent palaeoenvironments of the Saudi Arabian Red Sea",
@@ -13116,8 +13124,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -13125,8 +13133,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -13541,8 +13549,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14076,16 +14084,16 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 0.682,
+      "fwci": 0.681,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.69641831,
+        "value": 0.69606903,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 96
       },
       "biblio": {
@@ -14391,8 +14399,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -14406,8 +14414,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -14464,6 +14472,10 @@
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
           "year": 2017,
           "cited_by_count": 2
         },
@@ -14476,7 +14488,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14829,8 +14841,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -15712,8 +15724,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16272,918 +16284,6 @@
       "created_date": "2020-05-13T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4392895071",
-      "doi": "https://doi.org/10.1201/9781003321415-23",
-      "title": "Biostratigraphically constrained Neogene palaeoenvironments of the Red Sea rift complex",
-      "display_name": "Biostratigraphically constrained Neogene palaeoenvironments of the Red Sea rift complex",
-      "publication_year": 2024,
-      "publication_date": "2024-03-16",
-      "ids": {
-        "openalex": "https://openalex.org/W4392895071",
-        "doi": "https://doi.org/10.1201/9781003321415-23"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1201/9781003321415-23",
-        "doi": "https://doi.org/10.1201/9781003321415-23",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1201/9781003321415-23",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463075",
-          "display_name": "CRC Press eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320584",
-          "host_organization_name": "CRC Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320584",
-            "https://openalex.org/P4310320547"
-          ],
-          "host_organization_lineage_names": [
-            "CRC Press",
-            "Taylor & Francis"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions",
-        "raw_type": "book-chapter"
-      },
-      "volume": {
-        "id": "https://openalex.org/W4392894987",
-        "display_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions"
-      },
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5055315910",
-            "display_name": "Geraint Wyn ap Gwilym Hughes",
-            "orcid": "https://orcid.org/0000-0002-7791-5677",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7791-5677"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "G. Wyn Hughes",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5113144946",
-            "display_name": "Osman Varol",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Osman Varol",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 4.8833,
-      "has_fulltext": false,
-      "cited_by_count": 3,
-      "citation_normalized_percentile": {
-        "value": 0.9184466,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "324",
-        "last_page": "341"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.8173999786376953,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.8173999786376953,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.07069999724626541,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14047",
-          "display_name": "Marine and environmental studies",
-          "score": 0.06300000101327896,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/red-sea-rift",
-          "display_name": "Red Sea rift",
-          "score": 0.7870000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "biostratigraphy",
-          "score": 0.8730000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/planktonic-foraminifera",
-          "display_name": "planktonic foraminifera",
-          "score": 0.8370000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/calcareous-nannofossils",
-          "display_name": "calcareous nannofossils",
-          "score": 0.9620000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/palynomorphs",
-          "display_name": "palynomorphs",
-          "score": 0.828000009059906
-        },
-        {
-          "id": "https://openalex.org/keywords/diatoms",
-          "display_name": "diatoms",
-          "score": 0.9580000042915344
-        },
-        {
-          "id": "https://openalex.org/keywords/marine-transgression",
-          "display_name": "marine transgression",
-          "score": 0.7080000042915344
-        },
-        {
-          "id": "https://openalex.org/keywords/lagoons",
-          "display_name": "lagoons",
-          "score": 0.6179999709129333
-        },
-        {
-          "id": "https://openalex.org/keywords/halite",
-          "display_name": "halite",
-          "score": 0.8370000123977661
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporites",
-          "display_name": "evaporites",
-          "score": 0.6620000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/source-rocks",
-          "display_name": "source rocks",
-          "score": 0.7459999918937683
-        },
-        {
-          "id": "https://openalex.org/keywords/debris-flows",
-          "display_name": "debris flows",
-          "score": 0.8519999980926514
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-quality",
-          "display_name": "reservoir quality",
-          "score": 0.8019999861717224
-        },
-        {
-          "id": "https://openalex.org/keywords/gulf-of-suez",
-          "display_name": "Gulf of Suez",
-          "score": 0.7390000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/gulf-of-aden",
-          "display_name": "Gulf of Aden",
-          "score": 0.9940000176429749
-        },
-        {
-          "id": "https://openalex.org/keywords/red-sea-opening",
-          "display_name": "Red Sea opening",
-          "score": 0.6359999775886536
-        },
-        {
-          "id": "https://openalex.org/keywords/miocene",
-          "display_name": "Miocene",
-          "score": 0.41600000858306885
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8828258514404297
-        },
-        {
-          "id": "https://openalex.org/C93257316",
-          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
-          "display_name": "Siliciclastic",
-          "level": 4,
-          "score": 0.7079905867576599
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7054319977760315
-        },
-        {
-          "id": "https://openalex.org/C27492601",
-          "wikidata": "https://www.wikidata.org/wiki/Q103924",
-          "display_name": "Neogene",
-          "level": 3,
-          "score": 0.6613126993179321
-        },
-        {
-          "id": "https://openalex.org/C2780368712",
-          "wikidata": "https://www.wikidata.org/wiki/Q107027",
-          "display_name": "Foraminifera",
-          "level": 3,
-          "score": 0.598074734210968
-        },
-        {
-          "id": "https://openalex.org/C77271252",
-          "wikidata": "https://www.wikidata.org/wiki/Q301920",
-          "display_name": "Marine transgression",
-          "level": 3,
-          "score": 0.5668937563896179
-        },
-        {
-          "id": "https://openalex.org/C34221334",
-          "wikidata": "https://www.wikidata.org/wiki/Q491689",
-          "display_name": "Evaporite",
-          "level": 3,
-          "score": 0.5179587602615356
-        },
-        {
-          "id": "https://openalex.org/C2779421809",
-          "wikidata": "https://www.wikidata.org/wiki/Q6495247",
-          "display_name": "Late Miocene",
-          "level": 3,
-          "score": 0.5083755850791931
-        },
-        {
-          "id": "https://openalex.org/C61721801",
-          "wikidata": "https://www.wikidata.org/wiki/Q864826",
-          "display_name": "Biostratigraphy",
-          "level": 2,
-          "score": 0.48577192425727844
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.3659491240978241
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.3592047691345215
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.35895785689353943
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.189450204372406
-        },
-        {
-          "id": "https://openalex.org/C83042747",
-          "wikidata": "https://www.wikidata.org/wiki/Q686881",
-          "display_name": "Benthic zone",
-          "level": 2,
-          "score": 0.10735949873924255
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1201/9781003321415-23",
-          "doi": "https://doi.org/10.1201/9781003321415-23",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1201/9781003321415-23",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463075",
-            "display_name": "CRC Press eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320584",
-            "host_organization_name": "CRC Press",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320584",
-              "https://openalex.org/P4310320547"
-            ],
-            "host_organization_lineage_names": [
-              "CRC Press",
-              "Taylor & Francis"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W3169602749",
-        "https://openalex.org/W1972254595",
-        "https://openalex.org/W2328526041",
-        "https://openalex.org/W2122379499",
-        "https://openalex.org/W4391649026",
-        "https://openalex.org/W1985428716",
-        "https://openalex.org/W126136666",
-        "https://openalex.org/W4408127541",
-        "https://openalex.org/W2000473591",
-        "https://openalex.org/W4307664758"
-      ],
-      "abstract_inverted_index": {
-        "Microfossil": [
-          0
-        ],
-        "and": [
-          1,
-          39,
-          42,
-          46,
-          52,
-          97,
-          102,
-          106,
-          115,
-          130,
-          152,
-          183,
-          188
-        ],
-        "nannofossil-bearing": [
-          2
-        ],
-        "marine": [
-          3,
-          55,
-          62,
-          90,
-          197
-        ],
-        "sediments": [
-          4
-        ],
-        "deposited": [
-          5
-        ],
-        "in": [
-          6
-        ],
-        "response": [
-          7
-        ],
-        "to": [
-          8,
-          19,
-          29,
-          59,
-          173
-        ],
-        "the": [
-          9,
-          13,
-          25,
-          30,
-          65,
-          74,
-          122,
-          126,
-          180
-        ],
-        "Neogene": [
-          10
-        ],
-        "opening": [
-          11
-        ],
-        "of": [
-          12,
-          27,
-          32,
-          88,
-          92,
-          98,
-          107,
-          113,
-          149,
-          156,
-          186
-        ],
-        "Red": [
-          14,
-          116
-        ],
-        "Sea": [
-          15,
-          117
-        ],
-        "provide": [
-          16
-        ],
-        "chronological": [
-          17
-        ],
-        "evidence": [
-          18
-        ],
-        "calibrate": [
-          20
-        ],
-        "synchronous": [
-          21
-        ],
-        "palaeoenvironmental": [
-          22
-        ],
-        "events": [
-          23
-        ],
-        "from": [
-          24,
-          121
-        ],
-        "Gulf": [
-          26,
-          31,
-          112,
-          155
-        ],
-        "Suez": [
-          28,
-          114
-        ],
-        "Aden.": [
-          33
-        ],
-        "Biostratigraphic": [
-          34
-        ],
-        "index": [
-          35
-        ],
-        "forms": [
-          36
-        ],
-        "include": [
-          37
-        ],
-        "planktonic": [
-          38
-        ],
-        "benthonic": [
-          40
-        ],
-        "foraminifera,": [
-          41
-        ],
-        "calcareous": [
-          43
-        ],
-        "nannofossils,": [
-          44
-        ],
-        "palynomorphs": [
-          45
-        ],
-        "diatoms.": [
-          47
-        ],
-        "Following": [
-          48
-        ],
-        "emergence,": [
-          49
-        ],
-        "fluviatile": [
-          50,
-          189
-        ],
-        "sedimentation": [
-          51
-        ],
-        "sporadic": [
-          53
-        ],
-        "volcanicity,": [
-          54
-        ],
-        "transgression": [
-          56
-        ],
-        "created": [
-          57
-        ],
-        "brackish": [
-          58
-        ],
-        "miogypsinid-bearing": [
-          60
-        ],
-        "shallow": [
-          61
-        ],
-        "lagoons": [
-          63
-        ],
-        "during": [
-          64,
-          125
-        ],
-        "Early": [
-          66,
-          75,
-          128
-        ],
-        "Miocene": [
-          67,
-          76,
-          129,
-          133,
-          163,
-          172,
-          175
-        ],
-        "(Foraminiferal": [
-          68
-        ],
-        "Letter": [
-          69,
-          142
-        ],
-        "Stage": [
-          70,
-          143
-        ],
-        "Upper": [
-          71
-        ],
-        "Te).": [
-          72
-        ],
-        "During": [
-          73
-        ],
-        "(Planktonic": [
-          77,
-          134
-        ],
-        "foraminiferal": [
-          78,
-          135
-        ],
-        "zones": [
-          79,
-          82,
-          136,
-          139
-        ],
-        "N5-N8;": [
-          80
-        ],
-        "Nannofossil": [
-          81,
-          138
-        ],
-        "NN2-NN4),": [
-          83
-        ],
-        "rapid": [
-          84
-        ],
-        "subsidence": [
-          85
-        ],
-        "caused": [
-          86,
-          147,
-          184
-        ],
-        "deposition": [
-          87,
-          185
-        ],
-        "deep": [
-          89,
-          196
-        ],
-        "mudstones,": [
-          91
-        ],
-        "local": [
-          93
-        ],
-        "hydrocarbon": [
-          94
-        ],
-        "source-rock": [
-          95
-        ],
-        "quality,": [
-          96
-        ],
-        "thinly": [
-          99
-        ],
-        "interbedded": [
-          100
-        ],
-        "siliciclastic": [
-          101
-        ],
-        "calciclastic": [
-          103
-        ],
-        "debris": [
-          104
-        ],
-        "flows,": [
-          105
-        ],
-        "good": [
-          108
-        ],
-        "reservoir": [
-          109
-        ],
-        "quality.": [
-          110
-        ],
-        "The": [
-          111
-        ],
-        "experienced": [
-          118
-        ],
-        "episodic": [
-          119
-        ],
-        "isolation": [
-          120
-        ],
-        "Indian": [
-          123
-        ],
-        "Ocean": [
-          124
-        ],
-        "latest": [
-          127,
-          170
-        ],
-        "earliest": [
-          131
-        ],
-        "Middle": [
-          132,
-          162,
-          171
-        ],
-        "N8-N9;": [
-          137
-        ],
-        "NN4-NN5;": [
-          140
-        ],
-        "Foraminiferal": [
-          141
-        ],
-        "Middle-Upper": [
-          144
-        ],
-        "Tf1)": [
-          145
-        ],
-        "that": [
-          146
-        ],
-        "precipitation": [
-          148
-        ],
-        "submarine": [
-          150,
-          164
-        ],
-        "gypsum": [
-          151
-        ],
-        "halite.": [
-          153
-        ],
-        "Synchronous": [
-          154
-        ],
-        "Aden": [
-          157
-        ],
-        "successions": [
-          158
-        ],
-        "are": [
-          159
-        ],
-        "not": [
-          160
-        ],
-        "evaporitic.": [
-          161
-        ],
-        "hypersaline": [
-          165
-        ],
-        "conditions": [
-          166
-        ],
-        "were": [
-          167
-        ],
-        "followed": [
-          168,
-          191
-        ],
-        "by": [
-          169,
-          192
-        ],
-        "Late": [
-          174
-        ],
-        "hinterland": [
-          176
-        ],
-        "rejuvenation": [
-          177
-        ],
-        "associated": [
-          178
-        ],
-        "with": [
-          179
-        ],
-        "Aqaba": [
-          181
-        ],
-        "Fault": [
-          182
-        ],
-        "terrestrial": [
-          187
-        ],
-        "siliciclastics": [
-          190
-        ],
-        "Pliocene": [
-          193
-        ],
-        "normal": [
-          194
-        ],
-        "salinity": [
-          195
-        ],
-        "conditions.": [
-          198
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2024-03-18T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4288831739",
       "doi": "https://doi.org/10.47894/mpal.65.4.06",
       "title": "Turonian microcrinoids from the lower Aruma Formation of Saudi Arabia",
@@ -17555,8 +16655,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762
         }
       ],
@@ -17564,8 +16664,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18309,6 +17409,918 @@
       "created_date": "2022-07-30T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4392895071",
+      "doi": "https://doi.org/10.1201/9781003321415-23",
+      "title": "Biostratigraphically constrained Neogene palaeoenvironments of the Red Sea rift complex",
+      "display_name": "Biostratigraphically constrained Neogene palaeoenvironments of the Red Sea rift complex",
+      "publication_year": 2024,
+      "publication_date": "2024-03-16",
+      "ids": {
+        "openalex": "https://openalex.org/W4392895071",
+        "doi": "https://doi.org/10.1201/9781003321415-23"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1201/9781003321415-23",
+        "doi": "https://doi.org/10.1201/9781003321415-23",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1201/9781003321415-23",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463075",
+          "display_name": "CRC Press eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320584",
+          "host_organization_name": "CRC Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320584",
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "CRC Press",
+            "Taylor & Francis"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4392894987",
+        "display_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions"
+      },
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055315910",
+            "display_name": "Geraint Wyn ap Gwilym Hughes",
+            "orcid": "https://orcid.org/0000-0002-7791-5677",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7791-5677"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "G. Wyn Hughes",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5113144946",
+            "display_name": "Osman Varol",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Osman Varol",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.8146,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.92030361,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 95
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "324",
+        "last_page": "341"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.8173999786376953,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.8173999786376953,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.07069999724626541,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14047",
+          "display_name": "Marine and environmental studies",
+          "score": 0.06300000101327896,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1910",
+            "display_name": "Oceanography"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/red-sea-rift",
+          "display_name": "Red Sea rift",
+          "score": 0.7870000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "biostratigraphy",
+          "score": 0.8730000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/planktonic-foraminifera",
+          "display_name": "planktonic foraminifera",
+          "score": 0.8370000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/calcareous-nannofossils",
+          "display_name": "calcareous nannofossils",
+          "score": 0.9620000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/palynomorphs",
+          "display_name": "palynomorphs",
+          "score": 0.828000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/diatoms",
+          "display_name": "diatoms",
+          "score": 0.9580000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/marine-transgression",
+          "display_name": "marine transgression",
+          "score": 0.7080000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/lagoons",
+          "display_name": "lagoons",
+          "score": 0.6179999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/halite",
+          "display_name": "halite",
+          "score": 0.8370000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporites",
+          "display_name": "evaporites",
+          "score": 0.6620000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/source-rocks",
+          "display_name": "source rocks",
+          "score": 0.7459999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/debris-flows",
+          "display_name": "debris flows",
+          "score": 0.8519999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.8019999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/gulf-of-suez",
+          "display_name": "Gulf of Suez",
+          "score": 0.7390000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/gulf-of-aden",
+          "display_name": "Gulf of Aden",
+          "score": 0.9940000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/red-sea-opening",
+          "display_name": "Red Sea opening",
+          "score": 0.6359999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/miocene",
+          "display_name": "Miocene",
+          "score": 0.41600000858306885
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8828258514404297
+        },
+        {
+          "id": "https://openalex.org/C93257316",
+          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
+          "display_name": "Siliciclastic",
+          "level": 4,
+          "score": 0.7079905867576599
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7054319977760315
+        },
+        {
+          "id": "https://openalex.org/C27492601",
+          "wikidata": "https://www.wikidata.org/wiki/Q103924",
+          "display_name": "Neogene",
+          "level": 3,
+          "score": 0.6613126993179321
+        },
+        {
+          "id": "https://openalex.org/C2780368712",
+          "wikidata": "https://www.wikidata.org/wiki/Q107027",
+          "display_name": "Foraminifera",
+          "level": 3,
+          "score": 0.598074734210968
+        },
+        {
+          "id": "https://openalex.org/C77271252",
+          "wikidata": "https://www.wikidata.org/wiki/Q301920",
+          "display_name": "Marine transgression",
+          "level": 3,
+          "score": 0.5668937563896179
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.5179587602615356
+        },
+        {
+          "id": "https://openalex.org/C2779421809",
+          "wikidata": "https://www.wikidata.org/wiki/Q6495247",
+          "display_name": "Late Miocene",
+          "level": 3,
+          "score": 0.5083755850791931
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.48577192425727844
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.3659491240978241
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.3592047691345215
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.35895785689353943
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.189450204372406
+        },
+        {
+          "id": "https://openalex.org/C83042747",
+          "wikidata": "https://www.wikidata.org/wiki/Q686881",
+          "display_name": "Benthic zone",
+          "level": 2,
+          "score": 0.10735949873924255
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1201/9781003321415-23",
+          "doi": "https://doi.org/10.1201/9781003321415-23",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1201/9781003321415-23",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463075",
+            "display_name": "CRC Press eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320584",
+            "host_organization_name": "CRC Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320584",
+              "https://openalex.org/P4310320547"
+            ],
+            "host_organization_lineage_names": [
+              "CRC Press",
+              "Taylor & Francis"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Rifting and Sediments in the Red Sea and Arabian Gulf Regions",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W3169602749",
+        "https://openalex.org/W1972254595",
+        "https://openalex.org/W2328526041",
+        "https://openalex.org/W2122379499",
+        "https://openalex.org/W4391649026",
+        "https://openalex.org/W1985428716",
+        "https://openalex.org/W126136666",
+        "https://openalex.org/W4408127541",
+        "https://openalex.org/W2000473591",
+        "https://openalex.org/W4307664758"
+      ],
+      "abstract_inverted_index": {
+        "Microfossil": [
+          0
+        ],
+        "and": [
+          1,
+          39,
+          42,
+          46,
+          52,
+          97,
+          102,
+          106,
+          115,
+          130,
+          152,
+          183,
+          188
+        ],
+        "nannofossil-bearing": [
+          2
+        ],
+        "marine": [
+          3,
+          55,
+          62,
+          90,
+          197
+        ],
+        "sediments": [
+          4
+        ],
+        "deposited": [
+          5
+        ],
+        "in": [
+          6
+        ],
+        "response": [
+          7
+        ],
+        "to": [
+          8,
+          19,
+          29,
+          59,
+          173
+        ],
+        "the": [
+          9,
+          13,
+          25,
+          30,
+          65,
+          74,
+          122,
+          126,
+          180
+        ],
+        "Neogene": [
+          10
+        ],
+        "opening": [
+          11
+        ],
+        "of": [
+          12,
+          27,
+          32,
+          88,
+          92,
+          98,
+          107,
+          113,
+          149,
+          156,
+          186
+        ],
+        "Red": [
+          14,
+          116
+        ],
+        "Sea": [
+          15,
+          117
+        ],
+        "provide": [
+          16
+        ],
+        "chronological": [
+          17
+        ],
+        "evidence": [
+          18
+        ],
+        "calibrate": [
+          20
+        ],
+        "synchronous": [
+          21
+        ],
+        "palaeoenvironmental": [
+          22
+        ],
+        "events": [
+          23
+        ],
+        "from": [
+          24,
+          121
+        ],
+        "Gulf": [
+          26,
+          31,
+          112,
+          155
+        ],
+        "Suez": [
+          28,
+          114
+        ],
+        "Aden.": [
+          33
+        ],
+        "Biostratigraphic": [
+          34
+        ],
+        "index": [
+          35
+        ],
+        "forms": [
+          36
+        ],
+        "include": [
+          37
+        ],
+        "planktonic": [
+          38
+        ],
+        "benthonic": [
+          40
+        ],
+        "foraminifera,": [
+          41
+        ],
+        "calcareous": [
+          43
+        ],
+        "nannofossils,": [
+          44
+        ],
+        "palynomorphs": [
+          45
+        ],
+        "diatoms.": [
+          47
+        ],
+        "Following": [
+          48
+        ],
+        "emergence,": [
+          49
+        ],
+        "fluviatile": [
+          50,
+          189
+        ],
+        "sedimentation": [
+          51
+        ],
+        "sporadic": [
+          53
+        ],
+        "volcanicity,": [
+          54
+        ],
+        "transgression": [
+          56
+        ],
+        "created": [
+          57
+        ],
+        "brackish": [
+          58
+        ],
+        "miogypsinid-bearing": [
+          60
+        ],
+        "shallow": [
+          61
+        ],
+        "lagoons": [
+          63
+        ],
+        "during": [
+          64,
+          125
+        ],
+        "Early": [
+          66,
+          75,
+          128
+        ],
+        "Miocene": [
+          67,
+          76,
+          129,
+          133,
+          163,
+          172,
+          175
+        ],
+        "(Foraminiferal": [
+          68
+        ],
+        "Letter": [
+          69,
+          142
+        ],
+        "Stage": [
+          70,
+          143
+        ],
+        "Upper": [
+          71
+        ],
+        "Te).": [
+          72
+        ],
+        "During": [
+          73
+        ],
+        "(Planktonic": [
+          77,
+          134
+        ],
+        "foraminiferal": [
+          78,
+          135
+        ],
+        "zones": [
+          79,
+          82,
+          136,
+          139
+        ],
+        "N5-N8;": [
+          80
+        ],
+        "Nannofossil": [
+          81,
+          138
+        ],
+        "NN2-NN4),": [
+          83
+        ],
+        "rapid": [
+          84
+        ],
+        "subsidence": [
+          85
+        ],
+        "caused": [
+          86,
+          147,
+          184
+        ],
+        "deposition": [
+          87,
+          185
+        ],
+        "deep": [
+          89,
+          196
+        ],
+        "mudstones,": [
+          91
+        ],
+        "local": [
+          93
+        ],
+        "hydrocarbon": [
+          94
+        ],
+        "source-rock": [
+          95
+        ],
+        "quality,": [
+          96
+        ],
+        "thinly": [
+          99
+        ],
+        "interbedded": [
+          100
+        ],
+        "siliciclastic": [
+          101
+        ],
+        "calciclastic": [
+          103
+        ],
+        "debris": [
+          104
+        ],
+        "flows,": [
+          105
+        ],
+        "good": [
+          108
+        ],
+        "reservoir": [
+          109
+        ],
+        "quality.": [
+          110
+        ],
+        "The": [
+          111
+        ],
+        "experienced": [
+          118
+        ],
+        "episodic": [
+          119
+        ],
+        "isolation": [
+          120
+        ],
+        "Indian": [
+          123
+        ],
+        "Ocean": [
+          124
+        ],
+        "latest": [
+          127,
+          170
+        ],
+        "earliest": [
+          131
+        ],
+        "Middle": [
+          132,
+          162,
+          171
+        ],
+        "N8-N9;": [
+          137
+        ],
+        "NN4-NN5;": [
+          140
+        ],
+        "Foraminiferal": [
+          141
+        ],
+        "Middle-Upper": [
+          144
+        ],
+        "Tf1)": [
+          145
+        ],
+        "that": [
+          146
+        ],
+        "precipitation": [
+          148
+        ],
+        "submarine": [
+          150,
+          164
+        ],
+        "gypsum": [
+          151
+        ],
+        "halite.": [
+          153
+        ],
+        "Synchronous": [
+          154
+        ],
+        "Aden": [
+          157
+        ],
+        "successions": [
+          158
+        ],
+        "are": [
+          159
+        ],
+        "not": [
+          160
+        ],
+        "evaporitic.": [
+          161
+        ],
+        "hypersaline": [
+          165
+        ],
+        "conditions": [
+          166
+        ],
+        "were": [
+          167
+        ],
+        "followed": [
+          168,
+          191
+        ],
+        "by": [
+          169,
+          192
+        ],
+        "Late": [
+          174
+        ],
+        "hinterland": [
+          176
+        ],
+        "rejuvenation": [
+          177
+        ],
+        "associated": [
+          178
+        ],
+        "with": [
+          179
+        ],
+        "Aqaba": [
+          181
+        ],
+        "Fault": [
+          182
+        ],
+        "terrestrial": [
+          187
+        ],
+        "siliciclastics": [
+          190
+        ],
+        "Pliocene": [
+          193
+        ],
+        "normal": [
+          194
+        ],
+        "salinity": [
+          195
+        ],
+        "conditions.": [
+          198
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-16T09:59:22.235173",
+      "created_date": "2024-03-18T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2106561307",
       "doi": "https://doi.org/10.4154/gc.2004.04",
       "title": "Computerized Tomography Reveals Aptian Rudist Species and Taphonomy",
@@ -18965,8 +18977,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2106561307.pdf",
@@ -19730,8 +19742,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20481,8 +20493,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1
         }
       ],
@@ -20490,8 +20502,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20987,8 +20999,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -21736,8 +21748,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22680,8 +22692,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23614,8 +23626,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24405,8 +24417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24753,8 +24765,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

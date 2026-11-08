@@ -10,7 +10,7 @@
     ],
     "full_name": "Khalid Al Ramadan",
     "works_count": 7,
-    "cited_by_count": 63,
+    "cited_by_count": 64,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -144,7 +144,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.0000101,
+        "value": 0.0000105,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -336,7 +336,7 @@
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 5
+        "cited_by_count": 6
       },
       {
         "year": 2023,
@@ -369,7 +369,7 @@
     ],
     "block_key": "k al ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5021382014",
-    "updated_date": "2026-11-04T11:47:51",
+    "updated_date": "2026-11-07T12:08:38",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -843,16 +843,16 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 2.4848,
+      "fwci": 2.4094,
       "has_fulltext": false,
-      "cited_by_count": 50,
+      "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.87156039,
+        "value": 0.86785596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -1150,8 +1150,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -1615,7 +1615,7 @@
         },
         {
           "year": 2022,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2021,
@@ -1654,7 +1654,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1881,17 +1881,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4026,
+      "fwci": 0.3951,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.52131671,
+        "value": 0.51857226,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
-        "max": 98
+        "min": 87,
+        "max": 97
       },
       "biblio": {
         "volume": "66",
@@ -6716,8 +6716,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],

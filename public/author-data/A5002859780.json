@@ -11,10 +11,10 @@
     ],
     "full_name": "Abdulaziz A. Al-Duaiji",
     "works_count": 9,
-    "cited_by_count": 67,
+    "cited_by_count": 71,
     "summary_stats": {
       "2yr_mean_citedness": 0,
-      "h_index": 2,
+      "h_index": 3,
       "i10_index": 1
     },
     "ids": {
@@ -323,7 +323,7 @@
         "year": 2014,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 2
+        "cited_by_count": 3
       },
       {
         "year": 2016,
@@ -377,19 +377,19 @@
         "year": 2024,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 7
+        "cited_by_count": 8
       },
       {
         "year": 2025,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 8
+        "cited_by_count": 9
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 5
+        "cited_by_count": 6
       }
     ],
     "display_name_alternatives": [
@@ -399,7 +399,7 @@
     ],
     "block_key": "a al-duaiji",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
-    "updated_date": "2026-11-05T13:29:08",
+    "updated_date": "2026-11-07T12:08:38",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -578,14 +578,14 @@
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
-      "cited_by_count": 58,
+      "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.50111062,
+        "value": 0.50177936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -886,8 +886,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -1694,7 +1694,7 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2023,
@@ -1730,7 +1730,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2013,
@@ -1741,67 +1741,57 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-05T12:25:35.769452",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2019-12-13T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2042373016",
-      "doi": "https://doi.org/10.1016/j.coal.2014.01.007",
-      "title": "Coal occurrence in the Jurassic Dhruma Formation in Saudi Arabia: Inferences on its gas and surface mining potential",
-      "display_name": "Coal occurrence in the Jurassic Dhruma Formation in Saudi Arabia: Inferences on its gas and surface mining potential",
+      "id": "https://openalex.org/W1970024393",
+      "doi": "https://doi.org/10.2118/170351-ms",
+      "title": "A Potential Solution for Waste Management at Remote Sites",
+      "display_name": "A Potential Solution for Waste Management at Remote Sites",
       "publication_year": 2014,
-      "publication_date": "2014-01-22",
+      "publication_date": "2014-09-19",
       "ids": {
-        "openalex": "https://openalex.org/W2042373016",
-        "doi": "https://doi.org/10.1016/j.coal.2014.01.007",
-        "mag": "2042373016"
+        "openalex": "https://openalex.org/W1970024393",
+        "doi": "https://doi.org/10.2118/170351-ms",
+        "mag": "1970024393"
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.1016/j.coal.2014.01.007",
-        "doi": "https://doi.org/10.1016/j.coal.2014.01.007",
+        "id": "doi:10.2118/170351-ms",
+        "doi": "https://doi.org/10.2118/170351-ms",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.coal.2014.01.007",
+        "landing_page_url": "https://doi.org/10.2118/170351-ms",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S6747076",
-          "display_name": "International Journal of Coal Geology",
-          "issn_l": "0166-5162",
-          "issn": [
-            "0166-5162",
-            "1872-7840"
-          ],
+          "id": "https://openalex.org/S7407105710",
+          "display_name": "SPE Middle East Health, Safety, Environment & Sustainable Development Conference and Exhibition",
+          "issn_l": null,
+          "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-a",
-            "jufo-2",
-            "norway-1",
-            "poland-140",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4322614974",
+          "host_organization_name": "Society of Petroleum Engineers",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
+            "https://openalex.org/P4322614974"
           ],
           "host_organization_lineage_names": [
-            "Elsevier BV"
+            "Society of Petroleum Engineers"
           ],
-          "type": "journal"
+          "type": "conference"
         },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "International Journal of Coal Geology",
-        "raw_type": "journal-article"
+        "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
+        "raw_type": "proceedings-article"
       },
       "volume": null,
-      "type": "article",
+      "type": "conference-paper",
       "is_traditional": true,
       "indexed_in": [
         "crossref"
@@ -1816,12 +1806,10 @@
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5067739868",
-            "display_name": "Mohammed J. Al-Mahmoud",
-            "orcid": "https://orcid.org/0009-0001-8203-5279",
-            "observed_orcids": [
-              "https://orcid.org/0009-0001-8203-5279"
-            ]
+            "id": "https://openalex.org/A5046095236",
+            "display_name": "J.E. Findley",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1833,22 +1821,35 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Mohammed J. Al-Mahmoud",
+          "raw_author_name": "J. Findley",
           "raw_affiliation_strings": [
-            "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
+            "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+              "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -1856,12 +1857,10 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5048746530",
-            "display_name": "Sedat İnan",
-            "orcid": "https://orcid.org/0000-0001-5639-6831",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5639-6831"
-            ]
+            "id": "https://openalex.org/A5053293005",
+            "display_name": "Haider Al-Haj",
+            "orcid": null,
+            "observed_orcids": []
           },
           "institutions": [
             {
@@ -1873,28 +1872,92 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Sedat İnan",
+          "raw_author_name": "H. Al-Haj",
           "raw_affiliation_strings": [
-            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
+            "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+              "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
             }
           ]
         },
         {
-          "author_position": "last",
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5098012372",
+            "display_name": "J.. Shanaa",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J. Shanaa",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5002859780",
             "display_name": "Abdulaziz A. Al-Duaiji",
@@ -1911,72 +1974,102 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Abdulaziz A. Al-Duaiji",
+          "raw_author_name": "A. Al-Duaiji",
           "raw_affiliation_strings": [
-            "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
+            "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+              "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
-                "https://openalex.org/I4210143841"
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
               ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5098284000",
+            "display_name": "S.. Economou",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. Economou",
+          "raw_affiliation_strings": [
+            "Terragon Gulf Ltd"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Terragon Gulf Ltd",
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 4090,
-        "currency": "USD",
-        "value_usd": 4090
-      },
+      "corresponding_institution_ids": [],
+      "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.414,
+      "fwci": 0,
       "has_fulltext": false,
-      "cited_by_count": 6,
+      "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.7154553,
+        "value": 0.05167464,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
-        "max": 94
+        "min": 91,
+        "max": 95
       },
       "biblio": {
-        "volume": "124",
+        "volume": null,
         "issue": null,
-        "first_page": "5",
-        "last_page": "10"
+        "first_page": null,
+        "last_page": null
       },
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.7689999938011169,
+        "id": "https://openalex.org/T11108",
+        "display_name": "Municipal Solid Waste Management",
+        "score": 0.9189000129699707,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/2311",
+          "display_name": "Waste Management and Disposal"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -1985,16 +2078,16 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.7689999938011169,
+          "id": "https://openalex.org/T11108",
+          "display_name": "Municipal Solid Waste Management",
+          "score": 0.9189000129699707,
           "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
+            "id": "https://openalex.org/subfields/2311",
+            "display_name": "Waste Management and Disposal"
           },
           "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -2002,26 +2095,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T12218",
-          "display_name": "Coal and Its By-products",
-          "score": 0.20730000734329224,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11284",
-          "display_name": "Coal Properties and Utilization",
-          "score": 0.014000000432133675,
+          "id": "https://openalex.org/T10088",
+          "display_name": "Thermochemical Biomass Conversion Processes",
+          "score": 0.02630000002682209,
           "subfield": {
             "id": "https://openalex.org/subfields/2103",
             "display_name": "Fuel Technology"
@@ -2034,270 +2110,711 @@
             "id": "https://openalex.org/domains/3",
             "display_name": "Physical Sciences"
           }
+        },
+        {
+          "id": "https://openalex.org/T13790",
+          "display_name": "Waste Management and Environmental Impact",
+          "score": 0.02250000089406967,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2311",
+            "display_name": "Waste Management and Disposal"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
         }
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/coal-occurrence",
-          "display_name": "coal occurrence",
-          "score": 0.8550000190734863
+          "id": "https://openalex.org/keywords/solid-waste-gasification",
+          "display_name": "solid waste gasification",
+          "score": 0.9750000238418579
         },
         {
-          "id": "https://openalex.org/keywords/jurassic",
-          "display_name": "Jurassic",
-          "score": 0.8069999814033508
+          "id": "https://openalex.org/keywords/biochar",
+          "display_name": "biochar",
+          "score": 0.8159999847412109
         },
         {
-          "id": "https://openalex.org/keywords/middle-jurassic",
-          "display_name": "Middle Jurassic",
-          "score": 0.5920000076293945
-        },
-        {
-          "id": "https://openalex.org/keywords/coalbed-methane",
-          "display_name": "coalbed methane",
-          "score": 0.4909999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/surface-coal-mining",
-          "display_name": "surface coal mining",
-          "score": 0.7160000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/thermogenic-gas",
-          "display_name": "thermogenic gas",
-          "score": 0.8109999895095825
-        },
-        {
-          "id": "https://openalex.org/keywords/coal-maturity",
-          "display_name": "coal maturity",
-          "score": 0.6470000147819519
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-geochemistry",
-          "display_name": "organic geochemistry",
-          "score": 0.8830000162124634
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-petrography",
-          "display_name": "organic petrography",
-          "score": 0.9290000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/total-organic-carbon",
-          "display_name": "total organic carbon",
-          "score": 0.7960000038146973
-        },
-        {
-          "id": "https://openalex.org/keywords/saudi-arabia",
-          "display_name": "Saudi Arabia",
-          "score": 0.460999995470047
+          "id": "https://openalex.org/keywords/waste-volume-reduction",
+          "display_name": "waste volume reduction",
+          "score": 0.9079999923706055
         }
       ],
       "concepts": [
         {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.799188494682312
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
           "level": 1,
-          "score": 0.5696843266487122
+          "score": 0.7880791425704956
         },
         {
-          "id": "https://openalex.org/C518851703",
-          "wikidata": "https://www.wikidata.org/wiki/Q24489",
-          "display_name": "Coal",
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.6385073661804199
+        },
+        {
+          "id": "https://openalex.org/C33451869",
+          "wikidata": "https://www.wikidata.org/wiki/Q8035046",
+          "display_name": "Workover",
           "level": 2,
-          "score": 0.5594519972801208
+          "score": 0.6180382370948792
         },
         {
-          "id": "https://openalex.org/C108615695",
-          "wikidata": "https://www.wikidata.org/wiki/Q12880211",
-          "display_name": "Coal mining",
+          "id": "https://openalex.org/C75779659",
+          "wikidata": "https://www.wikidata.org/wiki/Q18538",
+          "display_name": "Municipal solid waste",
+          "level": 2,
+          "score": 0.5495669841766357
+        },
+        {
+          "id": "https://openalex.org/C130751788",
+          "wikidata": "https://www.wikidata.org/wiki/Q622772",
+          "display_name": "Incineration",
+          "level": 2,
+          "score": 0.5356480479240417
+        },
+        {
+          "id": "https://openalex.org/C171534860",
+          "wikidata": "https://www.wikidata.org/wiki/Q655870",
+          "display_name": "Environmentally friendly",
+          "level": 2,
+          "score": 0.5280538201332092
+        },
+        {
+          "id": "https://openalex.org/C18975541",
+          "wikidata": "https://www.wikidata.org/wiki/Q48404",
+          "display_name": "Refuse-derived fuel",
           "level": 3,
-          "score": 0.5181699991226196
+          "score": 0.5274838805198669
         },
         {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5011420249938965
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
+          "id": "https://openalex.org/C2780841394",
+          "wikidata": "https://www.wikidata.org/wiki/Q262336",
+          "display_name": "Waste oil",
           "level": 2,
-          "score": 0.49277880787849426
+          "score": 0.4324491024017334
         },
         {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.474972665309906
+          "id": "https://openalex.org/C2779970684",
+          "wikidata": "https://www.wikidata.org/wiki/Q11567121",
+          "display_name": "Char",
+          "level": 3,
+          "score": 0.42569032311439514
         },
         {
-          "id": "https://openalex.org/C516820309",
-          "wikidata": "https://www.wikidata.org/wiki/Q756944",
-          "display_name": "Surface mining",
-          "level": 4,
-          "score": 0.45090949535369873
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.16565266251564026
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
           "level": 0,
-          "score": 0.14402440190315247
+          "score": 0.22315183281898499
+        },
+        {
+          "id": "https://openalex.org/C36759035",
+          "wikidata": "https://www.wikidata.org/wiki/Q176848",
+          "display_name": "Pyrolysis",
+          "level": 2,
+          "score": 0.18571621179580688
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.10966616868972778
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
         }
       ],
       "mesh": [],
       "locations_count": 1,
       "locations": [
         {
-          "id": "doi:10.1016/j.coal.2014.01.007",
-          "doi": "https://doi.org/10.1016/j.coal.2014.01.007",
+          "id": "doi:10.2118/170351-ms",
+          "doi": "https://doi.org/10.2118/170351-ms",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.coal.2014.01.007",
+          "landing_page_url": "https://doi.org/10.2118/170351-ms",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S6747076",
-            "display_name": "International Journal of Coal Geology",
-            "issn_l": "0166-5162",
-            "issn": [
-              "0166-5162",
-              "1872-7840"
-            ],
+            "id": "https://openalex.org/S7407105710",
+            "display_name": "SPE Middle East Health, Safety, Environment & Sustainable Development Conference and Exhibition",
+            "issn_l": null,
+            "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-a",
-              "jufo-2",
-              "norway-1",
-              "poland-140",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4322614974",
+            "host_organization_name": "Society of Petroleum Engineers",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
+              "https://openalex.org/P4322614974"
             ],
             "host_organization_lineage_names": [
-              "Elsevier BV"
+              "Society of Petroleum Engineers"
             ],
-            "type": "journal"
+            "type": "conference"
           },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "International Journal of Coal Geology",
-          "raw_type": "journal-article"
+          "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
+          "raw_type": "proceedings-article"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
+          "score": 1
+        },
+        {
           "display_name": "Affordable and clean energy",
-          "score": 0.875,
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5690000057220459
+        },
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
       "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320324706",
-          "display_name": "Saudi Aramco",
-          "ror": "https://ror.org/03ypap427"
-        }
-      ],
+      "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 21,
-      "referenced_works": [
-        "https://openalex.org/W1160582",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W296468733",
-        "https://openalex.org/W1497047052",
-        "https://openalex.org/W1521060394",
-        "https://openalex.org/W1986536215",
-        "https://openalex.org/W1989004297",
-        "https://openalex.org/W1990659805",
-        "https://openalex.org/W1995603005",
-        "https://openalex.org/W2001651429",
-        "https://openalex.org/W2050477784",
-        "https://openalex.org/W2123591318",
-        "https://openalex.org/W2124390624",
-        "https://openalex.org/W2156954622",
-        "https://openalex.org/W2166866809",
-        "https://openalex.org/W2902859246",
-        "https://openalex.org/W2982658177",
-        "https://openalex.org/W4250537886",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6678618728"
-      ],
+      "referenced_works_count": 0,
+      "referenced_works": [],
       "related_works": [
-        "https://openalex.org/W2350971892",
-        "https://openalex.org/W7167186980",
-        "https://openalex.org/W2036242646",
-        "https://openalex.org/W2118850941",
-        "https://openalex.org/W2617043958",
-        "https://openalex.org/W2356881213",
-        "https://openalex.org/W2512626307",
-        "https://openalex.org/W3093697837",
-        "https://openalex.org/W6963160677",
-        "https://openalex.org/W7162305052"
+        "https://openalex.org/W2080106644",
+        "https://openalex.org/W7146020487",
+        "https://openalex.org/W1574284959",
+        "https://openalex.org/W653649485",
+        "https://openalex.org/W4292622570",
+        "https://openalex.org/W2586399489",
+        "https://openalex.org/W635759566",
+        "https://openalex.org/W4245919884",
+        "https://openalex.org/W2796679147",
+        "https://openalex.org/W2206766602"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "600": [
+          89
+        ],
+        "2012": [
+          61
+        ],
+        "Abstract": [
+          0
+        ],
+        "Environmentally-friendly": [
+          1
+        ],
+        "solid": [
+          2,
+          25,
+          82
+        ],
+        "waste": [
+          3,
+          21,
+          26,
+          40,
+          83,
+          152,
+          167,
+          176,
+          202
+        ],
+        "management": [
+          4,
+          41
+        ],
+        "can": [
+          5,
+          143
+        ],
+        "present": [
+          6
+        ],
+        "a": [
+          7,
+          32,
+          36,
+          53,
+          131,
+          148,
+          166
+        ],
+        "challenge": [
+          8
+        ],
+        "at": [
+          9,
+          42,
+          52,
+          86
+        ],
+        "small,": [
+          10
+        ],
+        "often": [
+          11
+        ],
+        "temporary,": [
+          12
+        ],
+        "remote": [
+          13,
+          43,
+          189
+        ],
+        "sites": [
+          14
+        ],
+        "due": [
+          15
+        ],
+        "to": [
+          16,
+          103,
+          110,
+          121,
+          184,
+          188,
+          200
+        ],
+        "the": [
+          17,
+          107,
+          112,
+          123,
+          159,
+          175
+        ],
+        "high": [
+          18
+        ],
+        "cost": [
+          19
+        ],
+        "of": [
+          20,
+          74,
+          80,
+          125,
+          134,
+          170,
+          174
+        ],
+        "hauling.": [
+          22
+        ],
+        "A": [
+          23
+        ],
+        "transportable": [
+          24
+        ],
+        "gasification": [
+          27,
+          160
+        ],
+        "system": [
+          28,
+          66,
+          100,
+          181
+        ],
+        "was": [
+          29,
+          50,
+          68,
+          101,
+          178
+        ],
+        "evaluated": [
+          30,
+          67
+        ],
+        "over": [
+          31
+        ],
+        "five-month": [
+          33
+        ],
+        "period": [
+          34
+        ],
+        "as": [
+          35,
+          138,
+          147
+        ],
+        "potential": [
+          37
+        ],
+        "solution": [
+          38
+        ],
+        "for": [
+          39
+        ],
+        "drilling": [
+          44
+        ],
+        "and": [
+          45,
+          62,
+          94,
+          105,
+          127,
+          195
+        ],
+        "workover": [
+          46,
+          54
+        ],
+        "sites.": [
+          47
+        ],
+        "The": [
+          48,
+          65,
+          99
+        ],
+        "demonstration": [
+          49
+        ],
+        "conducted": [
+          51
+        ],
+        "camp": [
+          55,
+          92
+        ],
+        "in": [
+          56,
+          59
+        ],
+        "Saudi": [
+          57
+        ],
+        "Arabia": [
+          58
+        ],
+        "late": [
+          60
+        ],
+        "early": [
+          63
+        ],
+        "2013.": [
+          64
+        ],
+        "an": [
+          69
+        ],
+        "automated,": [
+          70
+        ],
+        "modular": [
+          71
+        ],
+        "unit": [
+          72
+        ],
+        "capable": [
+          73
+        ],
+        "thermally": [
+          75
+        ],
+        "gasifying": [
+          76
+        ],
+        "20-40": [
+          77
+        ],
+        "kg": [
+          78
+        ],
+        "batches": [
+          79
+        ],
+        "organic": [
+          81
+        ],
+        "per": [
+          84
+        ],
+        "hour": [
+          85
+        ],
+        "temperatures": [
+          87
+        ],
+        "exceeding": [
+          88
+        ],
+        "°C.": [
+          90
+        ],
+        "Ordinary": [
+          91
+        ],
+        "garbage": [
+          93
+        ],
+        "kitchen": [
+          95
+        ],
+        "wastes": [
+          96
+        ],
+        "were": [
+          97
+        ],
+        "treated.": [
+          98
+        ],
+        "designed": [
+          102
+        ],
+        "recycle": [
+          104
+        ],
+        "burn": [
+          106
+        ],
+        "syngas": [
+          108
+        ],
+        "generated": [
+          109
+        ],
+        "sustain": [
+          111
+        ],
+        "operation.": [
+          113
+        ],
+        "Gaseous": [
+          114
+        ],
+        "emissions": [
+          115
+        ],
+        "are": [
+          116,
+          203
+        ],
+        "rapidly": [
+          117
+        ],
+        "quenched": [
+          118
+        ],
+        "below": [
+          119
+        ],
+        "200°C": [
+          120
+        ],
+        "avoid": [
+          122
+        ],
+        "formation": [
+          124
+        ],
+        "dioxins": [
+          126
+        ],
+        "furans.": [
+          128
+        ],
+        "Following": [
+          129
+        ],
+        "gasification,": [
+          130
+        ],
+        "small": [
+          132
+        ],
+        "volume": [
+          133,
+          168
+        ],
+        "residual": [
+          135
+        ],
+        "solids": [
+          136
+        ],
+        "remain": [
+          137
+        ],
+        "non-toxic": [
+          139
+        ],
+        "bio-char.": [
+          140
+        ],
+        "This": [
+          141,
+          180
+        ],
+        "bio-char": [
+          142
+        ],
+        "potentially": [
+          144
+        ],
+        "be": [
+          145,
+          185
+        ],
+        "used": [
+          146
+        ],
+        "soil": [
+          149
+        ],
+        "additive.": [
+          150
+        ],
+        "Inorganic": [
+          151
+        ],
+        "is": [
+          153,
+          182
+        ],
+        "sterilized,": [
+          154
+        ],
+        "but": [
+          155
+        ],
+        "otherwise": [
+          156
+        ],
+        "unaffected": [
+          157
+        ],
+        "by": [
+          158
+        ],
+        "process.": [
+          161
+        ],
+        "Preliminary": [
+          162
+        ],
+        "results": [
+          163
+        ],
+        "indicate": [
+          164
+        ],
+        "that": [
+          165
+        ],
+        "reduction": [
+          169
+        ],
+        "more": [
+          171
+        ],
+        "than": [
+          172
+        ],
+        "95%": [
+          173
+        ],
+        "processed": [
+          177
+        ],
+        "achieved.": [
+          179
+        ],
+        "expected": [
+          183
+        ],
+        "especially": [
+          186
+        ],
+        "applicable": [
+          187
+        ],
+        "operations": [
+          190
+        ],
+        "or": [
+          191
+        ],
+        "on-board": [
+          192
+        ],
+        "off-shore": [
+          193
+        ],
+        "rigs": [
+          194
+        ],
+        "marine": [
+          196
+        ],
+        "vessels": [
+          197
+        ],
+        "where": [
+          198
+        ],
+        "costs": [
+          199
+        ],
+        "transport": [
+          201
+        ],
+        "high.": [
+          204
+        ]
+      },
       "counts_by_year": [
         {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
+          "year": 2026,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2789,8 +3306,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -3384,6 +3901,562 @@
       "created_date": "2020-05-13T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2042373016",
+      "doi": "https://doi.org/10.1016/j.coal.2014.01.007",
+      "title": "Coal occurrence in the Jurassic Dhruma Formation in Saudi Arabia: Inferences on its gas and surface mining potential",
+      "display_name": "Coal occurrence in the Jurassic Dhruma Formation in Saudi Arabia: Inferences on its gas and surface mining potential",
+      "publication_year": 2014,
+      "publication_date": "2014-01-22",
+      "ids": {
+        "openalex": "https://openalex.org/W2042373016",
+        "doi": "https://doi.org/10.1016/j.coal.2014.01.007",
+        "mag": "2042373016"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.coal.2014.01.007",
+        "doi": "https://doi.org/10.1016/j.coal.2014.01.007",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.coal.2014.01.007",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S6747076",
+          "display_name": "International Journal of Coal Geology",
+          "issn_l": "0166-5162",
+          "issn": [
+            "0166-5162",
+            "1872-7840"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-a",
+            "jufo-2",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Coal Geology",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5067739868",
+            "display_name": "Mohammed J. Al-Mahmoud",
+            "orcid": "https://orcid.org/0009-0001-8203-5279",
+            "observed_orcids": [
+              "https://orcid.org/0009-0001-8203-5279"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed J. Al-Mahmoud",
+          "raw_affiliation_strings": [
+            "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048746530",
+            "display_name": "Sedat İnan",
+            "orcid": "https://orcid.org/0000-0001-5639-6831",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5639-6831"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sedat İnan",
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5002859780",
+            "display_name": "Abdulaziz A. Al-Duaiji",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulaziz A. Al-Duaiji",
+          "raw_affiliation_strings": [
+            "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 4090,
+        "currency": "USD",
+        "value_usd": 4090
+      },
+      "apc_paid": null,
+      "fwci": 0.4023,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.71340085,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": "124",
+        "issue": null,
+        "first_page": "5",
+        "last_page": "10"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.7689999938011169,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.7689999938011169,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12218",
+          "display_name": "Coal and Its By-products",
+          "score": 0.20730000734329224,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11284",
+          "display_name": "Coal Properties and Utilization",
+          "score": 0.014000000432133675,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2103",
+            "display_name": "Fuel Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/coal-occurrence",
+          "display_name": "coal occurrence",
+          "score": 0.8550000190734863
+        },
+        {
+          "id": "https://openalex.org/keywords/jurassic",
+          "display_name": "Jurassic",
+          "score": 0.8069999814033508
+        },
+        {
+          "id": "https://openalex.org/keywords/middle-jurassic",
+          "display_name": "Middle Jurassic",
+          "score": 0.5920000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/coalbed-methane",
+          "display_name": "coalbed methane",
+          "score": 0.4909999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/surface-coal-mining",
+          "display_name": "surface coal mining",
+          "score": 0.7160000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/thermogenic-gas",
+          "display_name": "thermogenic gas",
+          "score": 0.8109999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/coal-maturity",
+          "display_name": "coal maturity",
+          "score": 0.6470000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-geochemistry",
+          "display_name": "organic geochemistry",
+          "score": 0.8830000162124634
+        },
+        {
+          "id": "https://openalex.org/keywords/organic-petrography",
+          "display_name": "organic petrography",
+          "score": 0.9290000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "total organic carbon",
+          "score": 0.7960000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/saudi-arabia",
+          "display_name": "Saudi Arabia",
+          "score": 0.460999995470047
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.799188494682312
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.5696843266487122
+        },
+        {
+          "id": "https://openalex.org/C518851703",
+          "wikidata": "https://www.wikidata.org/wiki/Q24489",
+          "display_name": "Coal",
+          "level": 2,
+          "score": 0.5594519972801208
+        },
+        {
+          "id": "https://openalex.org/C108615695",
+          "wikidata": "https://www.wikidata.org/wiki/Q12880211",
+          "display_name": "Coal mining",
+          "level": 3,
+          "score": 0.5181699991226196
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5011420249938965
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.49277880787849426
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.474972665309906
+        },
+        {
+          "id": "https://openalex.org/C516820309",
+          "wikidata": "https://www.wikidata.org/wiki/Q756944",
+          "display_name": "Surface mining",
+          "level": 4,
+          "score": 0.45090949535369873
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.16565266251564026
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.14402440190315247
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.coal.2014.01.007",
+          "doi": "https://doi.org/10.1016/j.coal.2014.01.007",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.coal.2014.01.007",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S6747076",
+            "display_name": "International Journal of Coal Geology",
+            "issn_l": "0166-5162",
+            "issn": [
+              "0166-5162",
+              "1872-7840"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-a",
+              "jufo-2",
+              "norway-1",
+              "poland-140",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Coal Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.875
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 21,
+      "referenced_works": [
+        "https://openalex.org/W1160582",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W296468733",
+        "https://openalex.org/W1497047052",
+        "https://openalex.org/W1521060394",
+        "https://openalex.org/W1986536215",
+        "https://openalex.org/W1989004297",
+        "https://openalex.org/W1990659805",
+        "https://openalex.org/W1995603005",
+        "https://openalex.org/W2001651429",
+        "https://openalex.org/W2050477784",
+        "https://openalex.org/W2123591318",
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W2156954622",
+        "https://openalex.org/W2166866809",
+        "https://openalex.org/W2902859246",
+        "https://openalex.org/W2982658177",
+        "https://openalex.org/W4250537886",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6678618728"
+      ],
+      "related_works": [
+        "https://openalex.org/W2350971892",
+        "https://openalex.org/W7167186980",
+        "https://openalex.org/W2036242646",
+        "https://openalex.org/W2118850941",
+        "https://openalex.org/W2617043958",
+        "https://openalex.org/W2356881213",
+        "https://openalex.org/W2512626307",
+        "https://openalex.org/W3093697837",
+        "https://openalex.org/W6963160677",
+        "https://openalex.org/W7162305052"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-16T09:59:22.235173",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2991480490",
       "doi": "https://doi.org/10.1306/13642175m1183806",
       "title": "High Resolution Sequence Stratigraphy and Sedimentology of the Prolific Devonian Jauf Formation Gas Reservoir: Transgressive Tidal Estuarine and Regressive Wave-Dominated Shoreface Deposits, Kingdom of Saudi Arabia",
@@ -3554,11 +4627,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8417,
+      "fwci": 0.754,
       "has_fulltext": false,
-      "cited_by_count": 2,
+      "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.74974568,
+        "value": 0.73410405,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3869,8 +4942,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -5129,6 +6202,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
           "year": 2024,
           "cited_by_count": 1
         },
@@ -5137,1073 +6214,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2019-12-05T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1970024393",
-      "doi": "https://doi.org/10.2118/170351-ms",
-      "title": "A Potential Solution for Waste Management at Remote Sites",
-      "display_name": "A Potential Solution for Waste Management at Remote Sites",
-      "publication_year": 2014,
-      "publication_date": "2014-09-19",
-      "ids": {
-        "openalex": "https://openalex.org/W1970024393",
-        "doi": "https://doi.org/10.2118/170351-ms",
-        "mag": "1970024393"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2118/170351-ms",
-        "doi": "https://doi.org/10.2118/170351-ms",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2118/170351-ms",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S7407105710",
-          "display_name": "SPE Middle East Health, Safety, Environment & Sustainable Development Conference and Exhibition",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4322614974",
-          "host_organization_name": "Society of Petroleum Engineers",
-          "host_organization_lineage": [
-            "https://openalex.org/P4322614974"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Petroleum Engineers"
-          ],
-          "type": "conference"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
-        "raw_type": "proceedings-article"
-      },
-      "volume": null,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5046095236",
-            "display_name": "J.E. Findley",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "J. Findley",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5053293005",
-            "display_name": "Haider Al-Haj",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "H. Al-Haj",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5098012372",
-            "display_name": "J.. Shanaa",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "J. Shanaa",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5002859780",
-            "display_name": "Abdulaziz A. Al-Duaiji",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A. Al-Duaiji",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5098284000",
-            "display_name": "S.. Economou",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S. Economou",
-          "raw_affiliation_strings": [
-            "Terragon Gulf Ltd"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Terragon Gulf Ltd",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.05167464,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11108",
-        "display_name": "Municipal Solid Waste Management",
-        "score": 0.9189000129699707,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2311",
-          "display_name": "Waste Management and Disposal"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11108",
-          "display_name": "Municipal Solid Waste Management",
-          "score": 0.9189000129699707,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2311",
-            "display_name": "Waste Management and Disposal"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10088",
-          "display_name": "Thermochemical Biomass Conversion Processes",
-          "score": 0.02630000002682209,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2103",
-            "display_name": "Fuel Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13790",
-          "display_name": "Waste Management and Environmental Impact",
-          "score": 0.02250000089406967,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2311",
-            "display_name": "Waste Management and Disposal"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/solid-waste-gasification",
-          "display_name": "solid waste gasification",
-          "score": 0.9750000238418579
-        },
-        {
-          "id": "https://openalex.org/keywords/biochar",
-          "display_name": "biochar",
-          "score": 0.8159999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-volume-reduction",
-          "display_name": "waste volume reduction",
-          "score": 0.9079999923706055
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.7880791425704956
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.6385073661804199
-        },
-        {
-          "id": "https://openalex.org/C33451869",
-          "wikidata": "https://www.wikidata.org/wiki/Q8035046",
-          "display_name": "Workover",
-          "level": 2,
-          "score": 0.6180382370948792
-        },
-        {
-          "id": "https://openalex.org/C75779659",
-          "wikidata": "https://www.wikidata.org/wiki/Q18538",
-          "display_name": "Municipal solid waste",
-          "level": 2,
-          "score": 0.5495669841766357
-        },
-        {
-          "id": "https://openalex.org/C130751788",
-          "wikidata": "https://www.wikidata.org/wiki/Q622772",
-          "display_name": "Incineration",
-          "level": 2,
-          "score": 0.5356480479240417
-        },
-        {
-          "id": "https://openalex.org/C171534860",
-          "wikidata": "https://www.wikidata.org/wiki/Q655870",
-          "display_name": "Environmentally friendly",
-          "level": 2,
-          "score": 0.5280538201332092
-        },
-        {
-          "id": "https://openalex.org/C18975541",
-          "wikidata": "https://www.wikidata.org/wiki/Q48404",
-          "display_name": "Refuse-derived fuel",
-          "level": 3,
-          "score": 0.5274838805198669
-        },
-        {
-          "id": "https://openalex.org/C2780841394",
-          "wikidata": "https://www.wikidata.org/wiki/Q262336",
-          "display_name": "Waste oil",
-          "level": 2,
-          "score": 0.4324491024017334
-        },
-        {
-          "id": "https://openalex.org/C2779970684",
-          "wikidata": "https://www.wikidata.org/wiki/Q11567121",
-          "display_name": "Char",
-          "level": 3,
-          "score": 0.42569032311439514
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.22315183281898499
-        },
-        {
-          "id": "https://openalex.org/C36759035",
-          "wikidata": "https://www.wikidata.org/wiki/Q176848",
-          "display_name": "Pyrolysis",
-          "level": 2,
-          "score": 0.18571621179580688
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.10966616868972778
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2118/170351-ms",
-          "doi": "https://doi.org/10.2118/170351-ms",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2118/170351-ms",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S7407105710",
-            "display_name": "SPE Middle East Health, Safety, Environment & Sustainable Development Conference and Exhibition",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4322614974",
-            "host_organization_name": "Society of Petroleum Engineers",
-            "host_organization_lineage": [
-              "https://openalex.org/P4322614974"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Petroleum Engineers"
-            ],
-            "type": "conference"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "SPE Middle East Health, Safety, Environment &amp; Sustainable Development Conference and Exhibition",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Responsible consumption and production",
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/12"
-        },
-        {
-          "display_name": "Affordable and clean energy",
-          "score": 0.5690000057220459,
-          "id": "https://metadata.un.org/sdg/7"
-        },
-        {
-          "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2080106644",
-        "https://openalex.org/W7146020487",
-        "https://openalex.org/W1574284959",
-        "https://openalex.org/W653649485",
-        "https://openalex.org/W4292622570",
-        "https://openalex.org/W2586399489",
-        "https://openalex.org/W635759566",
-        "https://openalex.org/W4245919884",
-        "https://openalex.org/W2796679147",
-        "https://openalex.org/W2206766602"
-      ],
-      "abstract_inverted_index": {
-        "600": [
-          89
-        ],
-        "2012": [
-          61
-        ],
-        "Abstract": [
-          0
-        ],
-        "Environmentally-friendly": [
-          1
-        ],
-        "solid": [
-          2,
-          25,
-          82
-        ],
-        "waste": [
-          3,
-          21,
-          26,
-          40,
-          83,
-          152,
-          167,
-          176,
-          202
-        ],
-        "management": [
-          4,
-          41
-        ],
-        "can": [
-          5,
-          143
-        ],
-        "present": [
-          6
-        ],
-        "a": [
-          7,
-          32,
-          36,
-          53,
-          131,
-          148,
-          166
-        ],
-        "challenge": [
-          8
-        ],
-        "at": [
-          9,
-          42,
-          52,
-          86
-        ],
-        "small,": [
-          10
-        ],
-        "often": [
-          11
-        ],
-        "temporary,": [
-          12
-        ],
-        "remote": [
-          13,
-          43,
-          189
-        ],
-        "sites": [
-          14
-        ],
-        "due": [
-          15
-        ],
-        "to": [
-          16,
-          103,
-          110,
-          121,
-          184,
-          188,
-          200
-        ],
-        "the": [
-          17,
-          107,
-          112,
-          123,
-          159,
-          175
-        ],
-        "high": [
-          18
-        ],
-        "cost": [
-          19
-        ],
-        "of": [
-          20,
-          74,
-          80,
-          125,
-          134,
-          170,
-          174
-        ],
-        "hauling.": [
-          22
-        ],
-        "A": [
-          23
-        ],
-        "transportable": [
-          24
-        ],
-        "gasification": [
-          27,
-          160
-        ],
-        "system": [
-          28,
-          66,
-          100,
-          181
-        ],
-        "was": [
-          29,
-          50,
-          68,
-          101,
-          178
-        ],
-        "evaluated": [
-          30,
-          67
-        ],
-        "over": [
-          31
-        ],
-        "five-month": [
-          33
-        ],
-        "period": [
-          34
-        ],
-        "as": [
-          35,
-          138,
-          147
-        ],
-        "potential": [
-          37
-        ],
-        "solution": [
-          38
-        ],
-        "for": [
-          39
-        ],
-        "drilling": [
-          44
-        ],
-        "and": [
-          45,
-          62,
-          94,
-          105,
-          127,
-          195
-        ],
-        "workover": [
-          46,
-          54
-        ],
-        "sites.": [
-          47
-        ],
-        "The": [
-          48,
-          65,
-          99
-        ],
-        "demonstration": [
-          49
-        ],
-        "conducted": [
-          51
-        ],
-        "camp": [
-          55,
-          92
-        ],
-        "in": [
-          56,
-          59
-        ],
-        "Saudi": [
-          57
-        ],
-        "Arabia": [
-          58
-        ],
-        "late": [
-          60
-        ],
-        "early": [
-          63
-        ],
-        "2013.": [
-          64
-        ],
-        "an": [
-          69
-        ],
-        "automated,": [
-          70
-        ],
-        "modular": [
-          71
-        ],
-        "unit": [
-          72
-        ],
-        "capable": [
-          73
-        ],
-        "thermally": [
-          75
-        ],
-        "gasifying": [
-          76
-        ],
-        "20-40": [
-          77
-        ],
-        "kg": [
-          78
-        ],
-        "batches": [
-          79
-        ],
-        "organic": [
-          81
-        ],
-        "per": [
-          84
-        ],
-        "hour": [
-          85
-        ],
-        "temperatures": [
-          87
-        ],
-        "exceeding": [
-          88
-        ],
-        "°C.": [
-          90
-        ],
-        "Ordinary": [
-          91
-        ],
-        "garbage": [
-          93
-        ],
-        "kitchen": [
-          95
-        ],
-        "wastes": [
-          96
-        ],
-        "were": [
-          97
-        ],
-        "treated.": [
-          98
-        ],
-        "designed": [
-          102
-        ],
-        "recycle": [
-          104
-        ],
-        "burn": [
-          106
-        ],
-        "syngas": [
-          108
-        ],
-        "generated": [
-          109
-        ],
-        "sustain": [
-          111
-        ],
-        "operation.": [
-          113
-        ],
-        "Gaseous": [
-          114
-        ],
-        "emissions": [
-          115
-        ],
-        "are": [
-          116,
-          203
-        ],
-        "rapidly": [
-          117
-        ],
-        "quenched": [
-          118
-        ],
-        "below": [
-          119
-        ],
-        "200°C": [
-          120
-        ],
-        "avoid": [
-          122
-        ],
-        "formation": [
-          124
-        ],
-        "dioxins": [
-          126
-        ],
-        "furans.": [
-          128
-        ],
-        "Following": [
-          129
-        ],
-        "gasification,": [
-          130
-        ],
-        "small": [
-          132
-        ],
-        "volume": [
-          133,
-          168
-        ],
-        "residual": [
-          135
-        ],
-        "solids": [
-          136
-        ],
-        "remain": [
-          137
-        ],
-        "non-toxic": [
-          139
-        ],
-        "bio-char.": [
-          140
-        ],
-        "This": [
-          141,
-          180
-        ],
-        "bio-char": [
-          142
-        ],
-        "potentially": [
-          144
-        ],
-        "be": [
-          145,
-          185
-        ],
-        "used": [
-          146
-        ],
-        "soil": [
-          149
-        ],
-        "additive.": [
-          150
-        ],
-        "Inorganic": [
-          151
-        ],
-        "is": [
-          153,
-          182
-        ],
-        "sterilized,": [
-          154
-        ],
-        "but": [
-          155
-        ],
-        "otherwise": [
-          156
-        ],
-        "unaffected": [
-          157
-        ],
-        "by": [
-          158
-        ],
-        "process.": [
-          161
-        ],
-        "Preliminary": [
-          162
-        ],
-        "results": [
-          163
-        ],
-        "indicate": [
-          164
-        ],
-        "that": [
-          165
-        ],
-        "reduction": [
-          169
-        ],
-        "more": [
-          171
-        ],
-        "than": [
-          172
-        ],
-        "95%": [
-          173
-        ],
-        "processed": [
-          177
-        ],
-        "achieved.": [
-          179
-        ],
-        "expected": [
-          183
-        ],
-        "especially": [
-          186
-        ],
-        "applicable": [
-          187
-        ],
-        "operations": [
-          190
-        ],
-        "or": [
-          191
-        ],
-        "on-board": [
-          192
-        ],
-        "off-shore": [
-          193
-        ],
-        "rigs": [
-          194
-        ],
-        "marine": [
-          196
-        ],
-        "vessels": [
-          197
-        ],
-        "where": [
-          198
-        ],
-        "costs": [
-          199
-        ],
-        "transport": [
-          201
-        ],
-        "high.": [
-          204
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2029365051",
@@ -6659,8 +6671,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7287,8 +7299,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7721,8 +7733,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8709,8 +8721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
