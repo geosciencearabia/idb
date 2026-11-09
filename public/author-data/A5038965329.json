@@ -99,12 +99,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "count": 24,
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "count": 25,
         "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -116,12 +116,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
         "count": 24,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000505,
+        "value": 0.0000506,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.000044,
+        "value": 0.0000459,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000301,
+        "value": 0.00003,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -239,7 +239,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.00002,
+        "value": 0.0000199,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -489,7 +489,7 @@
     ],
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2026-11-07T12:08:38",
+    "updated_date": "2026-11-08T12:57:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -589,11 +589,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9244,
+      "fwci": 0.9249,
       "has_fulltext": true,
       "cited_by_count": 198,
       "citation_normalized_percentile": {
-        "value": 0.76882477,
+        "value": 0.76890609,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -613,7 +613,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.42500001192092896,
+        "score": 0.5898000001907349,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -631,7 +631,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.42500001192092896,
+          "score": 0.5898000001907349,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -648,7 +648,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.3422999978065491,
+          "score": 0.24269999563694,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -663,12 +663,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.2029000073671341,
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.06620000302791595,
           "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -682,29 +682,44 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/upper-ordovician",
-          "display_name": "Upper Ordovician",
-          "score": 0.9760000109672546
+          "id": "https://openalex.org/keywords/periglacial-deposits",
+          "display_name": "periglacial deposits",
+          "score": 0.9369999766349792
         },
         {
-          "id": "https://openalex.org/keywords/glacial-deposits",
-          "display_name": "glacial deposits",
-          "score": 0.9940000176429749
+          "id": "https://openalex.org/keywords/late-ordovician-glaciation",
+          "display_name": "Late Ordovician glaciation",
+          "score": 0.902999997138977
         },
         {
-          "id": "https://openalex.org/keywords/glaciation",
-          "display_name": "glaciation",
-          "score": 0.8349999785423279
+          "id": "https://openalex.org/keywords/erosional-unconformity",
+          "display_name": "erosional unconformity",
+          "score": 0.871999979019165
         },
         {
-          "id": "https://openalex.org/keywords/paleoclimate",
-          "display_name": "paleoclimate",
-          "score": 0.675000011920929
+          "id": "https://openalex.org/keywords/llandoverian",
+          "display_name": "Llandoverian",
+          "score": 0.7480000257492065
         },
         {
-          "id": "https://openalex.org/keywords/saudi-arabia",
-          "display_name": "Saudi Arabia",
-          "score": 0.5370000004768372
+          "id": "https://openalex.org/keywords/paleofacies",
+          "display_name": "paleofacies",
+          "score": 0.7680000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/paleogeography",
+          "display_name": "paleogeography",
+          "score": 0.5519999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/arabian-peninsula",
+          "display_name": "Arabian Peninsula",
+          "score": 0.5669999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/glacial-stratigraphy",
+          "display_name": "glacial stratigraphy",
+          "score": 0.49399998784065247
         }
       ],
       "concepts": [
@@ -1360,7 +1375,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2019-09-26T00:00:00"
     },
     {
@@ -11746,8 +11761,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7778000235557556,
           "display_name": "Life below water",
+          "score": 0.7778000235557556,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -21492,8 +21507,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5769000053405762,
           "display_name": "Life below water",
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -27895,11 +27910,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9309,
+      "fwci": 0.9419,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.72298944,
+        "value": 0.72397945,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34615,11 +34630,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6814,
+      "fwci": 0.6968,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.75622407,
+        "value": 0.75619835,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38456,7 +38471,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52966102,
+        "value": 0.53055051,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38473,7 +38488,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.9980000257492065,
+        "score": 0.9970999956130981,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -38491,7 +38506,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.9980000257492065,
+          "score": 0.9970999956130981,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -38508,7 +38523,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.0006000000284984708,
+          "score": 0.0007999999797903001,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -38525,7 +38540,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.00039999998989515007,
+          "score": 0.0003000000142492354,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -38544,32 +38559,32 @@
         {
           "id": "https://openalex.org/keywords/chalk",
           "display_name": "chalk",
-          "score": 0.9750000238418579
+          "score": 0.9779999852180481
         },
         {
           "id": "https://openalex.org/keywords/upper-cretaceous",
           "display_name": "Upper Cretaceous",
-          "score": 0.906000018119812
+          "score": 0.9110000133514404
         },
         {
           "id": "https://openalex.org/keywords/paris-basin",
           "display_name": "Paris Basin",
-          "score": 0.8769999742507935
+          "score": 0.8920000195503235
         },
         {
           "id": "https://openalex.org/keywords/sedimentology",
           "display_name": "sedimentology",
-          "score": 0.9860000014305115
+          "score": 0.9850000143051147
         },
         {
           "id": "https://openalex.org/keywords/sequence-stratigraphy",
           "display_name": "sequence stratigraphy",
-          "score": 0.8539999723434448
+          "score": 0.925000011920929
         },
         {
           "id": "https://openalex.org/keywords/chalk-deposits",
           "display_name": "chalk deposits",
-          "score": 0.32199999690055847
+          "score": 0.3070000112056732
         }
       ],
       "concepts": [
@@ -38726,7 +38741,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2020-10-22T00:00:00"
     },
     {
@@ -40065,7 +40080,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56355932,
+        "value": 0.56442831,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40082,7 +40097,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.9951000213623047,
+        "score": 0.9932000041007996,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -40100,7 +40115,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.9951000213623047,
+          "score": 0.9932000041007996,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -40117,7 +40132,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.002099999925121665,
+          "score": 0.003000000026077032,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -40153,32 +40168,32 @@
         {
           "id": "https://openalex.org/keywords/chalk",
           "display_name": "chalk",
-          "score": 0.5899999737739563
+          "score": 0.6150000095367432
         },
         {
           "id": "https://openalex.org/keywords/upper-cretaceous",
           "display_name": "Upper Cretaceous",
-          "score": 0.8140000104904175
+          "score": 0.8240000009536743
         },
         {
           "id": "https://openalex.org/keywords/paris-basin",
           "display_name": "Paris Basin",
-          "score": 0.8840000033378601
+          "score": 0.8980000019073486
         },
         {
           "id": "https://openalex.org/keywords/sedimentology",
           "display_name": "sedimentology",
-          "score": 0.9300000071525574
+          "score": 0.8949999809265137
         },
         {
           "id": "https://openalex.org/keywords/sequence-stratigraphy",
           "display_name": "sequence stratigraphy",
-          "score": 0.7419999837875366
+          "score": 0.7590000033378601
         },
         {
           "id": "https://openalex.org/keywords/chalk-stratigraphy",
           "display_name": "chalk stratigraphy",
-          "score": 0.5479999780654907
+          "score": 0.492000013589859
         }
       ],
       "concepts": [
@@ -40251,7 +40266,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2022-09-02T00:00:00"
     }
   ]

@@ -399,7 +399,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001949,
+        "value": 0.0001952,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -416,7 +416,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001653,
+        "value": 0.0001651,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -450,7 +450,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.0000932,
+        "value": 0.000093,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -724,7 +724,7 @@
     ],
     "block_key": "m vecoli",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039685767",
-    "updated_date": "2026-11-07T12:08:38",
+    "updated_date": "2026-11-08T12:57:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1492,8 +1492,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7778000235557556,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -14332,11 +14332,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4669,
+      "fwci": 1.4677,
       "has_fulltext": false,
       "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.80858202,
+        "value": 0.80896893,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14356,7 +14356,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9682999849319458,
+        "score": 0.9980000257492065,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -14374,7 +14374,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9682999849319458,
+          "score": 0.9980000257492065,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -14389,26 +14389,26 @@
           }
         },
         {
-          "id": "https://openalex.org/T11879",
-          "display_name": "Protist diversity and phylogeny",
-          "score": 0.01769999973475933,
+          "id": "https://openalex.org/T10955",
+          "display_name": "Paleontology and Evolutionary Biology",
+          "score": 0.000699999975040555,
           "subfield": {
-            "id": "https://openalex.org/subfields/1105",
-            "display_name": "Ecology, Evolution, Behavior and Systematics"
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
           },
           "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
           }
         },
         {
-          "id": "https://openalex.org/T10955",
-          "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.004999999888241291,
+          "id": "https://openalex.org/T11354",
+          "display_name": "Evolution and Paleontology Studies",
+          "score": 0.00039999998989515007,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -14427,22 +14427,37 @@
         {
           "id": "https://openalex.org/keywords/acritarchs",
           "display_name": "acritarchs",
-          "score": 0.9300000071525574
+          "score": 0.9879999756813049
         },
         {
-          "id": "https://openalex.org/keywords/first-occurrence",
-          "display_name": "first occurrence",
-          "score": 0.796999990940094
+          "id": "https://openalex.org/keywords/taxonomic-revision",
+          "display_name": "taxonomic revision",
+          "score": 0.6420000195503235
         },
         {
-          "id": "https://openalex.org/keywords/taxonomic-reassessment",
-          "display_name": "taxonomic reassessment",
-          "score": 0.5950000286102295
+          "id": "https://openalex.org/keywords/first-appearance-datum",
+          "display_name": "first appearance datum",
+          "score": 0.7749999761581421
         },
         {
-          "id": "https://openalex.org/keywords/microfossils",
-          "display_name": "microfossils",
-          "score": 0.5450000166893005
+          "id": "https://openalex.org/keywords/tremadocian",
+          "display_name": "Tremadocian",
+          "score": 0.9089999794960022
+        },
+        {
+          "id": "https://openalex.org/keywords/ordovician-biostratigraphy",
+          "display_name": "Ordovician biostratigraphy",
+          "score": 0.8840000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/early-paleozoic",
+          "display_name": "Lower Paleozoic",
+          "score": 0.675000011920929
+        },
+        {
+          "id": "https://openalex.org/keywords/synonymy",
+          "display_name": "synonymy",
+          "score": 0.4449999928474426
         }
       ],
       "concepts": [
@@ -15265,7 +15280,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -16066,8 +16081,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -17820,8 +17835,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -19090,13 +19105,13 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land"
         },
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.75,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -22446,8 +22461,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46149998903274536,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         }
       ],
@@ -30299,8 +30314,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -49748,11 +49763,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.8382,
+      "fwci": 0.8387,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.69415504,
+        "value": 0.69456215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49772,7 +49787,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9976000189781189,
+        "score": 0.9990000128746033,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -49790,7 +49805,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9976000189781189,
+          "score": 0.9990000128746033,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -49807,7 +49822,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.0005000000237487257,
+          "score": 0.00039999998989515007,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -49841,19 +49856,14 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "biostratigraphy",
-          "score": 0.8579999804496765
-        },
-        {
-          "id": "https://openalex.org/keywords/palynology",
-          "display_name": "palynology",
-          "score": 0.9409999847412109
+          "id": "https://openalex.org/keywords/acritarchs",
+          "display_name": "acritarchs",
+          "score": 0.8149999976158142
         },
         {
           "id": "https://openalex.org/keywords/middle-cambrian",
           "display_name": "Middle Cambrian",
-          "score": 0.8579999804496765
+          "score": 0.7480000257492065
         },
         {
           "id": "https://openalex.org/keywords/late-cambrian",
@@ -49861,19 +49871,29 @@
           "score": 0.9990000128746033
         },
         {
-          "id": "https://openalex.org/keywords/stratigraphic-dating",
-          "display_name": "stratigraphic dating",
-          "score": 0.6460000276565552
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "biostratigraphy",
+          "score": 0.8989999890327454
         },
         {
-          "id": "https://openalex.org/keywords/regional-stratigraphy",
-          "display_name": "regional stratigraphy",
-          "score": 0.7260000109672546
+          "id": "https://openalex.org/keywords/palynology",
+          "display_name": "palynology",
+          "score": 0.8579999804496765
+        },
+        {
+          "id": "https://openalex.org/keywords/anti-atlas",
+          "display_name": "Anti-Atlas",
+          "score": 0.5849999785423279
         },
         {
           "id": "https://openalex.org/keywords/northwestern-algeria",
           "display_name": "northwestern Algeria",
-          "score": 0.7639999985694885
+          "score": 0.7390000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.6309999823570251
         }
       ],
       "concepts": [
@@ -50182,7 +50202,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -51543,8 +51563,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.7605999708175659,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land"
         }
       ],
@@ -52289,13 +52309,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.821399986743927,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action"
         },
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.7605999708175659,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land"
         }
       ],
@@ -58164,8 +58184,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5742999911308289,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -67511,16 +67531,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2412,
+      "fwci": 2.2471,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.87479936,
+        "value": 0.87542936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 95
       },
       "biblio": {
@@ -67535,7 +67555,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9965999722480774,
+        "score": 0.9984999895095825,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -67553,7 +67573,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9965999722480774,
+          "score": 0.9984999895095825,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -67570,7 +67590,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.002099999925121665,
+          "score": 0.0006000000284984708,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -67585,12 +67605,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T14047",
-          "display_name": "Marine and environmental studies",
-          "score": 0.00039999998989515007,
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.00019999999494757503,
           "subfield": {
-            "id": "https://openalex.org/subfields/1910",
-            "display_name": "Oceanography"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -67604,24 +67624,24 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/palynostratigraphy",
-          "display_name": "palynostratigraphy",
-          "score": 0.9010000228881836
-        },
-        {
           "id": "https://openalex.org/keywords/chitinozoans",
           "display_name": "chitinozoans",
-          "score": 0.8230000138282776
+          "score": 0.8790000081062317
         },
         {
           "id": "https://openalex.org/keywords/acritarchs",
           "display_name": "acritarchs",
-          "score": 0.9990000128746033
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/palynostratigraphy",
+          "display_name": "palynostratigraphy",
+          "score": 0.9869999885559082
         },
         {
           "id": "https://openalex.org/keywords/ordovician",
           "display_name": "Ordovician",
-          "score": 0.9359999895095825
+          "score": 0.8669999837875366
         },
         {
           "id": "https://openalex.org/keywords/silurian",
@@ -67629,34 +67649,54 @@
           "score": 1
         },
         {
-          "id": "https://openalex.org/keywords/early-paleozoic",
-          "display_name": "Lower Paleozoic",
-          "score": 0.9169999957084656
+          "id": "https://openalex.org/keywords/tornquist-zone",
+          "display_name": "Tornquist Zone",
+          "score": 0.8840000033378601
         },
         {
           "id": "https://openalex.org/keywords/baltic-sea",
           "display_name": "Baltic Sea",
-          "score": 0.7820000052452087
-        },
-        {
-          "id": "https://openalex.org/keywords/tornquist-zone",
-          "display_name": "Tornquist Zone",
-          "score": 0.859000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/caledonian-deformation-front",
-          "display_name": "Caledonian Deformation Front",
-          "score": 0.9240000247955322
+          "score": 0.5839999914169312
         },
         {
           "id": "https://openalex.org/keywords/east-european-platform",
           "display_name": "East European Platform",
-          "score": 0.8669999837875366
+          "score": 0.6179999709129333
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-succession",
-          "display_name": "sedimentary succession",
-          "score": 0.5339999794960022
+          "id": "https://openalex.org/keywords/sediment-provenance",
+          "display_name": "sediment provenance",
+          "score": 0.6740000247955322
+        },
+        {
+          "id": "https://openalex.org/keywords/gondwana",
+          "display_name": "Gondwana",
+          "score": 0.675000011920929
+        },
+        {
+          "id": "https://openalex.org/keywords/telychian",
+          "display_name": "Telychian",
+          "score": 0.6899999976158142
+        },
+        {
+          "id": "https://openalex.org/keywords/arenig",
+          "display_name": "Arenig",
+          "score": 0.4779999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/llanvirn",
+          "display_name": "Llanvirn",
+          "score": 0.6349999904632568
+        },
+        {
+          "id": "https://openalex.org/keywords/tremadoc",
+          "display_name": "Tremadoc",
+          "score": 0.6200000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/cambrian",
+          "display_name": "Cambrian",
+          "score": 0.4819999933242798
         }
       ],
       "concepts": [
@@ -68270,7 +68310,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-31T12:09:11.096373",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -70296,11 +70336,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.384,
+      "fwci": 0.3842,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.57973518,
+        "value": 0.58014038,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70320,7 +70360,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.5464000105857849,
+        "score": 0.5932999849319458,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -70338,7 +70378,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.5464000105857849,
+          "score": 0.5932999849319458,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -70355,7 +70395,7 @@
         {
           "id": "https://openalex.org/T10385",
           "display_name": "Plant Diversity and Evolution",
-          "score": 0.36959999799728394,
+          "score": 0.3285999894142151,
           "subfield": {
             "id": "https://openalex.org/subfields/1105",
             "display_name": "Ecology, Evolution, Behavior and Systematics"
@@ -70372,7 +70412,7 @@
         {
           "id": "https://openalex.org/T11354",
           "display_name": "Evolution and Paleontology Studies",
-          "score": 0.012400000356137753,
+          "score": 0.012900000438094139,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -70391,32 +70431,37 @@
         {
           "id": "https://openalex.org/keywords/land-colonization",
           "display_name": "land colonization",
-          "score": 0.9929999709129333
+          "score": 0.9940000176429749
         },
         {
           "id": "https://openalex.org/keywords/land-plants",
           "display_name": "land plants",
-          "score": 0.6549999713897705
+          "score": 0.6579999923706055
         },
         {
           "id": "https://openalex.org/keywords/plant-evolution",
           "display_name": "plant evolution",
-          "score": 0.652999997138977
+          "score": 0.6980000138282776
         },
         {
           "id": "https://openalex.org/keywords/paleobotany",
           "display_name": "paleobotany",
-          "score": 0.8069999814033508
+          "score": 0.7919999957084656
         },
         {
           "id": "https://openalex.org/keywords/palynology",
           "display_name": "palynology",
-          "score": 0.9129999876022339
+          "score": 0.968999981880188
         },
         {
-          "id": "https://openalex.org/keywords/fossil-plants",
-          "display_name": "fossil plants",
-          "score": 0.3240000009536743
+          "id": "https://openalex.org/keywords/fossil-pollen",
+          "display_name": "fossil pollen",
+          "score": 0.35499998927116394
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-spores",
+          "display_name": "fossil spores",
+          "score": 0.4970000088214874
         }
       ],
       "concepts": [
@@ -70673,8 +70718,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land"
         }
       ],
@@ -70811,7 +70856,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -73495,764 +73540,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W569050622",
-      "doi": "https://doi.org/10.1127/njgpa/222/2001/123",
-      "title": "Ordovician palynomorphs from the subsurface of Rügen (NE-Germany): review and perspectives",
-      "display_name": "Ordovician palynomorphs from the subsurface of Rügen (NE-Germany): review and perspectives",
-      "publication_year": 2001,
-      "publication_date": "2001-09-26",
-      "ids": {
-        "openalex": "https://openalex.org/W569050622",
-        "doi": "https://doi.org/10.1127/njgpa/222/2001/123",
-        "mag": "569050622"
-      },
-      "language": "de",
-      "primary_location": {
-        "id": "doi:10.1127/njgpa/222/2001/123",
-        "doi": "https://doi.org/10.1127/njgpa/222/2001/123",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1127/njgpa/222/2001/123",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S1000839972",
-          "display_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
-          "issn_l": "0077-7749",
-          "issn": [
-            "0077-7749",
-            "2363-717X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "poland-70",
-            "russia-white-list-3"
-          ],
-          "host_organization": "https://openalex.org/P4310320350",
-          "host_organization_name": "E. Schweizerbart",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320350"
-          ],
-          "host_organization_lineage_names": [
-            "E. Schweizerbart"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5088719239",
-            "display_name": "Thomas Servais",
-            "orcid": "https://orcid.org/0000-0002-4089-7874",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4089-7874"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Thomas Servais",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Joakim Samuelsson",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Joakim Samuelsson",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081442092",
-            "display_name": "Marion Sehnert",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Marion Sehnert",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039685767",
-            "display_name": "Marco Vecoli",
-            "orcid": "https://orcid.org/0000-0001-9203-7625",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9203-7625"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Marco Vecoli",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5104278448",
-            "display_name": "Uwe Giese",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Uwe Giese",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5029025019",
-            "display_name": "Jacques Verniers",
-            "orcid": "https://orcid.org/0000-0002-2939-7684",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2939-7684"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Jacques Verniers",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.5603,
-      "has_fulltext": false,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": {
-        "value": 0.63586333,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 94
-      },
-      "biblio": {
-        "volume": "222",
-        "issue": "1-2",
-        "first_page": "123",
-        "last_page": "139"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9984999895095825,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10955",
-          "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.00039999998989515007,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/ordovician",
-          "display_name": "Ordovician",
-          "score": 0.9539999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/palynomorphs",
-          "display_name": "palynomorphs",
-          "score": 0.996999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/palynology",
-          "display_name": "palynology",
-          "score": 0.6729999780654907
-        },
-        {
-          "id": "https://openalex.org/keywords/rugen",
-          "display_name": "Rügen",
-          "score": 0.6359999775886536
-        },
-        {
-          "id": "https://openalex.org/keywords/subsurface",
-          "display_name": "subsurface",
-          "score": 0.7390000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-spores-and-pollen",
-          "display_name": "fossil pollen and spores",
-          "score": 0.6620000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "biostratigraphy",
-          "score": 0.6060000061988831
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C91442348",
-          "wikidata": "https://www.wikidata.org/wiki/Q62100",
-          "display_name": "Ordovician",
-          "level": 2,
-          "score": 0.9252701997756958
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6087316870689392
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.4583534300327301
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.3432254195213318
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.1127/njgpa/222/2001/123",
-          "doi": "https://doi.org/10.1127/njgpa/222/2001/123",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1127/njgpa/222/2001/123",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S1000839972",
-            "display_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
-            "issn_l": "0077-7749",
-            "issn": [
-              "0077-7749",
-              "2363-717X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "poland-70",
-              "russia-white-list-3"
-            ],
-            "host_organization": "https://openalex.org/P4310320350",
-            "host_organization_name": "E. Schweizerbart",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320350"
-            ],
-            "host_organization_lineage_names": [
-              "E. Schweizerbart"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:archive.ugent.be:139912",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://biblio.ugent.be/publication/139912",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400478",
-            "display_name": "Ghent University Academic Bibliography (Ghent University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I32597200",
-            "host_organization_name": "Ghent University",
-            "host_organization_lineage": [
-              "https://openalex.org/I32597200"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ISSN: 0077-7749",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
-          "id": "pmh:oai:iris.unica.it:11584/86152",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/11584/86152",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4377196293",
-            "display_name": "UNICA IRIS Institutional Research Information System (University of Cagliari)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I172446870",
-            "host_organization_name": "University of Cagliari",
-            "host_organization_lineage": [
-              "https://openalex.org/I172446870"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2898448282",
-        "https://openalex.org/W3000101881",
-        "https://openalex.org/W3007035870",
-        "https://openalex.org/W3125125644",
-        "https://openalex.org/W7042121864",
-        "https://openalex.org/W7008194630",
-        "https://openalex.org/W2911088709",
-        "https://openalex.org/W6964429975",
-        "https://openalex.org/W2026467501",
-        "https://openalex.org/W415358279"
-      ],
-      "abstract_inverted_index": {
-        "Palynomorphs": [
-          0
-        ],
-        "(acritarchs": [
-          1
-        ],
-        "and": [
-          2,
-          7,
-          54,
-          72,
-          82,
-          94,
-          112
-        ],
-        "Chitinozoa)": [
-          3
-        ],
-        "provide": [
-          4
-        ],
-        "useful": [
-          5
-        ],
-        "biostratigraphical": [
-          6
-        ],
-        "palaeobiogeographical": [
-          8
-        ],
-        "information": [
-          9,
-          89
-        ],
-        "concerning": [
-          10
-        ],
-        "the": [
-          11,
-          15,
-          65,
-          77,
-          85,
-          92,
-          95,
-          99,
-          109
-        ],
-        "subsurface": [
-          12
-        ],
-        "Ordovician": [
-          13,
-          101
-        ],
-        "of": [
-          14,
-          32,
-          47
-        ],
-        "Rugen": [
-          16,
-          66,
-          100
-        ],
-        "Island": [
-          17
-        ],
-        "(NE-Germany,": [
-          18
-        ],
-        "Baltic": [
-          19
-        ],
-        "Sea).": [
-          20
-        ],
-        "The": [
-          21,
-          60
-        ],
-        "oldest": [
-          22
-        ],
-        "sedimentary": [
-          23
-        ],
-        "deposits": [
-          24
-        ],
-        "present": [
-          25
-        ],
-        "at": [
-          26
-        ],
-        "Rugen,": [
-          27
-        ],
-        "dated": [
-          28,
-          69
-        ],
-        "by": [
-          29,
-          70
-        ],
-        "acritarchs,": [
-          30
-        ],
-        "are": [
-          31,
-          68
-        ],
-        "late": [
-          33,
-          80
-        ],
-        "Tremadoc": [
-          34
-        ],
-        "age.": [
-          35,
-          59
-        ],
-        "Arenig": [
-          36
-        ],
-        "sediments": [
-          37
-        ],
-        "have": [
-          38
-        ],
-        "not": [
-          39
-        ],
-        "been": [
-          40
-        ],
-        "recorded.": [
-          41
-        ],
-        "Most": [
-          42
-        ],
-        "boreholes": [
-          43
-        ],
-        "contain": [
-          44
-        ],
-        "a": [
-          45,
-          51
-        ],
-        "succession": [
-          46
-        ],
-        "rocks": [
-          48,
-          62
-        ],
-        "attributed": [
-          49,
-          75,
-          104
-        ],
-        "to": [
-          50,
-          56,
-          76,
-          79,
-          84,
-          105,
-          115
-        ],
-        "Llanvirn": [
-          52
-        ],
-        "(Aberreiddian": [
-          53
-        ],
-        "Llandeilian)": [
-          55
-        ],
-        "early": [
-          57,
-          86
-        ],
-        "Caradoc": [
-          58,
-          81
-        ],
-        "youngest": [
-          61
-        ],
-        "recorded": [
-          63
-        ],
-        "in": [
-          64,
-          108
-        ],
-        "sequence": [
-          67
-        ],
-        "chitinozoa": [
-          71
-        ],
-        "can": [
-          73,
-          102
-        ],
-        "be": [
-          74,
-          103
-        ],
-        "middle": [
-          78
-        ],
-        "possibly": [
-          83
-        ],
-        "Ash-ill.": [
-          87
-        ],
-        "Palaeobiogeographical": [
-          88
-        ],
-        "from": [
-          90
-        ],
-        "both": [
-          91
-        ],
-        "acritarchs": [
-          93
-        ],
-        "Chitinozoa": [
-          96
-        ],
-        "indicates": [
-          97
-        ],
-        "that": [
-          98
-        ],
-        "high": [
-          106
-        ],
-        "latitudes": [
-          107
-        ],
-        "southern": [
-          110
-        ],
-        "hemisphere": [
-          111
-        ],
-        "most": [
-          113
-        ],
-        "probably": [
-          114
-        ],
-        "Avalonia.": [
-          116
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2085575216",
       "doi": "https://doi.org/10.1155/2010/872050",
       "title": "Laser Raman micro-spectroscopy of Proterozoic and Palaeozoic organic-walled microfossils (acritarchs and prasinophytes) from the Ghadamis Basin, Libya and Volta Basin, Ghana",
@@ -76145,6 +75432,779 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W569050622",
+      "doi": "https://doi.org/10.1127/njgpa/222/2001/123",
+      "title": "Ordovician palynomorphs from the subsurface of Rügen (NE-Germany): review and perspectives",
+      "display_name": "Ordovician palynomorphs from the subsurface of Rügen (NE-Germany): review and perspectives",
+      "publication_year": 2001,
+      "publication_date": "2001-09-26",
+      "ids": {
+        "openalex": "https://openalex.org/W569050622",
+        "doi": "https://doi.org/10.1127/njgpa/222/2001/123",
+        "mag": "569050622"
+      },
+      "language": "de",
+      "primary_location": {
+        "id": "doi:10.1127/njgpa/222/2001/123",
+        "doi": "https://doi.org/10.1127/njgpa/222/2001/123",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1127/njgpa/222/2001/123",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S1000839972",
+          "display_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
+          "issn_l": "0077-7749",
+          "issn": [
+            "0077-7749",
+            "2363-717X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-3"
+          ],
+          "host_organization": "https://openalex.org/P4310320350",
+          "host_organization_name": "E. Schweizerbart",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320350"
+          ],
+          "host_organization_lineage_names": [
+            "E. Schweizerbart"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5088719239",
+            "display_name": "Thomas Servais",
+            "orcid": "https://orcid.org/0000-0002-4089-7874",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4089-7874"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Servais",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Joakim Samuelsson",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Joakim Samuelsson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081442092",
+            "display_name": "Marion Sehnert",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Marion Sehnert",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039685767",
+            "display_name": "Marco Vecoli",
+            "orcid": "https://orcid.org/0000-0001-9203-7625",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9203-7625"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Marco Vecoli",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5104278448",
+            "display_name": "Uwe Giese",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Uwe Giese",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5029025019",
+            "display_name": "Jacques Verniers",
+            "orcid": "https://orcid.org/0000-0002-2939-7684",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2939-7684"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jacques Verniers",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.5618,
+      "has_fulltext": false,
+      "cited_by_count": 11,
+      "citation_normalized_percentile": {
+        "value": 0.63750859,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": "222",
+        "issue": "1-2",
+        "first_page": "123",
+        "last_page": "139"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10955",
+          "display_name": "Paleontology and Evolutionary Biology",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/acritarchs",
+          "display_name": "acritarchs",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/chitinozoans",
+          "display_name": "chitinozoans",
+          "score": 0.9629999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "biostratigraphy",
+          "score": 0.906000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/paleobiogeography",
+          "display_name": "paleobiogeography",
+          "score": 0.996999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/rugen",
+          "display_name": "Rügen",
+          "score": 0.6179999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/tremadoc",
+          "display_name": "Tremadoc",
+          "score": 0.7900000214576721
+        },
+        {
+          "id": "https://openalex.org/keywords/llanvirn",
+          "display_name": "Llanvirn",
+          "score": 0.906000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/caradoc",
+          "display_name": "Caradoc",
+          "score": 0.9769999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/ashgill",
+          "display_name": "Ashgill",
+          "score": 0.8849999904632568
+        },
+        {
+          "id": "https://openalex.org/keywords/avalonia",
+          "display_name": "Avalonia",
+          "score": 0.9290000200271606
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C91442348",
+          "wikidata": "https://www.wikidata.org/wiki/Q62100",
+          "display_name": "Ordovician",
+          "level": 2,
+          "score": 0.9252701997756958
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6087316870689392
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4583534300327301
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.3432254195213318
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1127/njgpa/222/2001/123",
+          "doi": "https://doi.org/10.1127/njgpa/222/2001/123",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1127/njgpa/222/2001/123",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S1000839972",
+            "display_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
+            "issn_l": "0077-7749",
+            "issn": [
+              "0077-7749",
+              "2363-717X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-3"
+            ],
+            "host_organization": "https://openalex.org/P4310320350",
+            "host_organization_name": "E. Schweizerbart",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320350"
+            ],
+            "host_organization_lineage_names": [
+              "E. Schweizerbart"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Neues Jahrbuch für Geologie und Paläontologie - Abhandlungen",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:archive.ugent.be:139912",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://biblio.ugent.be/publication/139912",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400478",
+            "display_name": "Ghent University Academic Bibliography (Ghent University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I32597200",
+            "host_organization_name": "Ghent University",
+            "host_organization_lineage": [
+              "https://openalex.org/I32597200"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ISSN: 0077-7749",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:iris.unica.it:11584/86152",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/11584/86152",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196293",
+            "display_name": "UNICA IRIS Institutional Research Information System (University of Cagliari)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I172446870",
+            "host_organization_name": "University of Cagliari",
+            "host_organization_lineage": [
+              "https://openalex.org/I172446870"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2898448282",
+        "https://openalex.org/W3000101881",
+        "https://openalex.org/W3007035870",
+        "https://openalex.org/W3125125644",
+        "https://openalex.org/W7042121864",
+        "https://openalex.org/W7008194630",
+        "https://openalex.org/W2911088709",
+        "https://openalex.org/W6964429975",
+        "https://openalex.org/W2026467501",
+        "https://openalex.org/W415358279"
+      ],
+      "abstract_inverted_index": {
+        "Palynomorphs": [
+          0
+        ],
+        "(acritarchs": [
+          1
+        ],
+        "and": [
+          2,
+          7,
+          54,
+          72,
+          82,
+          94,
+          112
+        ],
+        "Chitinozoa)": [
+          3
+        ],
+        "provide": [
+          4
+        ],
+        "useful": [
+          5
+        ],
+        "biostratigraphical": [
+          6
+        ],
+        "palaeobiogeographical": [
+          8
+        ],
+        "information": [
+          9,
+          89
+        ],
+        "concerning": [
+          10
+        ],
+        "the": [
+          11,
+          15,
+          65,
+          77,
+          85,
+          92,
+          95,
+          99,
+          109
+        ],
+        "subsurface": [
+          12
+        ],
+        "Ordovician": [
+          13,
+          101
+        ],
+        "of": [
+          14,
+          32,
+          47
+        ],
+        "Rugen": [
+          16,
+          66,
+          100
+        ],
+        "Island": [
+          17
+        ],
+        "(NE-Germany,": [
+          18
+        ],
+        "Baltic": [
+          19
+        ],
+        "Sea).": [
+          20
+        ],
+        "The": [
+          21,
+          60
+        ],
+        "oldest": [
+          22
+        ],
+        "sedimentary": [
+          23
+        ],
+        "deposits": [
+          24
+        ],
+        "present": [
+          25
+        ],
+        "at": [
+          26
+        ],
+        "Rugen,": [
+          27
+        ],
+        "dated": [
+          28,
+          69
+        ],
+        "by": [
+          29,
+          70
+        ],
+        "acritarchs,": [
+          30
+        ],
+        "are": [
+          31,
+          68
+        ],
+        "late": [
+          33,
+          80
+        ],
+        "Tremadoc": [
+          34
+        ],
+        "age.": [
+          35,
+          59
+        ],
+        "Arenig": [
+          36
+        ],
+        "sediments": [
+          37
+        ],
+        "have": [
+          38
+        ],
+        "not": [
+          39
+        ],
+        "been": [
+          40
+        ],
+        "recorded.": [
+          41
+        ],
+        "Most": [
+          42
+        ],
+        "boreholes": [
+          43
+        ],
+        "contain": [
+          44
+        ],
+        "a": [
+          45,
+          51
+        ],
+        "succession": [
+          46
+        ],
+        "rocks": [
+          48,
+          62
+        ],
+        "attributed": [
+          49,
+          75,
+          104
+        ],
+        "to": [
+          50,
+          56,
+          76,
+          79,
+          84,
+          105,
+          115
+        ],
+        "Llanvirn": [
+          52
+        ],
+        "(Aberreiddian": [
+          53
+        ],
+        "Llandeilian)": [
+          55
+        ],
+        "early": [
+          57,
+          86
+        ],
+        "Caradoc": [
+          58,
+          81
+        ],
+        "youngest": [
+          61
+        ],
+        "recorded": [
+          63
+        ],
+        "in": [
+          64,
+          108
+        ],
+        "sequence": [
+          67
+        ],
+        "chitinozoa": [
+          71
+        ],
+        "can": [
+          73,
+          102
+        ],
+        "be": [
+          74,
+          103
+        ],
+        "middle": [
+          78
+        ],
+        "possibly": [
+          83
+        ],
+        "Ash-ill.": [
+          87
+        ],
+        "Palaeobiogeographical": [
+          88
+        ],
+        "from": [
+          90
+        ],
+        "both": [
+          91
+        ],
+        "acritarchs": [
+          93
+        ],
+        "Chitinozoa": [
+          96
+        ],
+        "indicates": [
+          97
+        ],
+        "that": [
+          98
+        ],
+        "high": [
+          106
+        ],
+        "latitudes": [
+          107
+        ],
+        "southern": [
+          110
+        ],
+        "hemisphere": [
+          111
+        ],
+        "most": [
+          113
+        ],
+        "probably": [
+          114
+        ],
+        "Avalonia.": [
+          116
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-08T12:12:28.789561",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2026131738",
       "doi": "https://doi.org/10.4267/2042/4367",
       "title": "The role of marine microphytoplankton in the Ordovician Biodiversification Event",
@@ -76300,11 +76360,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.475,
+      "fwci": 0.4764,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.5953997,
+        "value": 0.59615747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76324,7 +76384,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9980000257492065,
+        "score": 0.9976000189781189,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -76342,7 +76402,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9980000257492065,
+          "score": 0.9976000189781189,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -76359,7 +76419,7 @@
         {
           "id": "https://openalex.org/T11354",
           "display_name": "Evolution and Paleontology Studies",
-          "score": 0.0012000000569969416,
+          "score": 0.001500000013038516,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -76395,12 +76455,17 @@
         {
           "id": "https://openalex.org/keywords/ordovician",
           "display_name": "Ordovician",
-          "score": 0.9190000295639038
+          "score": 0.9259999990463257
         },
         {
           "id": "https://openalex.org/keywords/phytoplankton-evolution",
           "display_name": "phytoplankton evolution",
-          "score": 0.5839999914169312
+          "score": 0.5920000076293945
+        },
+        {
+          "id": "https://openalex.org/keywords/microfossils",
+          "display_name": "microfossils",
+          "score": 0.46700000762939453
         }
       ],
       "concepts": [
@@ -76622,8 +76687,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -76671,7 +76736,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -81339,7 +81404,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.649399995803833,
+        "score": 0.7172999978065491,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -81357,7 +81422,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.649399995803833,
+          "score": 0.7172999978065491,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -81374,7 +81439,7 @@
         {
           "id": "https://openalex.org/T10385",
           "display_name": "Plant Diversity and Evolution",
-          "score": 0.2782999873161316,
+          "score": 0.20890000462532043,
           "subfield": {
             "id": "https://openalex.org/subfields/1105",
             "display_name": "Ecology, Evolution, Behavior and Systematics"
@@ -81410,27 +81475,32 @@
         {
           "id": "https://openalex.org/keywords/land-colonization",
           "display_name": "land colonization",
-          "score": 0.9929999709129333
+          "score": 0.9940000176429749
         },
         {
           "id": "https://openalex.org/keywords/land-plants",
           "display_name": "land plants",
-          "score": 0.6679999828338623
+          "score": 0.6259999871253967
         },
         {
           "id": "https://openalex.org/keywords/plant-evolution",
           "display_name": "plant evolution",
-          "score": 0.6769999861717224
+          "score": 0.7110000252723694
         },
         {
           "id": "https://openalex.org/keywords/paleobotany",
           "display_name": "paleobotany",
-          "score": 0.843999981880188
+          "score": 0.796999990940094
         },
         {
           "id": "https://openalex.org/keywords/palynology",
           "display_name": "palynology",
-          "score": 0.8360000252723694
+          "score": 0.9110000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-plants",
+          "display_name": "fossil plants",
+          "score": 0.3659999966621399
         }
       ],
       "concepts": [
@@ -81664,8 +81734,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land"
         }
       ],
@@ -81764,7 +81834,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -82287,11 +82357,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.7083,
+      "fwci": 10.8169,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.97265625,
+        "value": 0.97254902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -82308,7 +82378,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9945999979972839,
+        "score": 0.9951000213623047,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -82326,7 +82396,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9945999979972839,
+          "score": 0.9951000213623047,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -82343,7 +82413,7 @@
         {
           "id": "https://openalex.org/T10955",
           "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.0034000000450760126,
+          "score": 0.003000000026077032,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -82360,7 +82430,7 @@
         {
           "id": "https://openalex.org/T10385",
           "display_name": "Plant Diversity and Evolution",
-          "score": 0.0006000000284984708,
+          "score": 0.00039999998989515007,
           "subfield": {
             "id": "https://openalex.org/subfields/1105",
             "display_name": "Ecology, Evolution, Behavior and Systematics"
@@ -82379,22 +82449,22 @@
         {
           "id": "https://openalex.org/keywords/middle-cambrian",
           "display_name": "Middle Cambrian",
-          "score": 0.8379999995231628
+          "score": 0.8309999704360962
         },
         {
           "id": "https://openalex.org/keywords/cryptospores",
           "display_name": "cryptospores",
-          "score": 0.9929999709129333
+          "score": 0.9900000095367432
         },
         {
           "id": "https://openalex.org/keywords/algerian-sahara",
           "display_name": "Algerian Sahara",
-          "score": 0.7440000176429749
+          "score": 0.6959999799728394
         },
         {
-          "id": "https://openalex.org/keywords/paleoecology",
-          "display_name": "paleoecology",
-          "score": 0.4059999883174896
+          "id": "https://openalex.org/keywords/microfossil-taxonomy",
+          "display_name": "microfossil taxonomy",
+          "score": 0.34700000286102295
         }
       ],
       "concepts": [
@@ -82521,7 +82591,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-07-22T00:00:00"
     },
     {
@@ -85388,8 +85458,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -87914,7 +87984,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18518519,
+        "value": 0.18759455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -87983,7 +88053,7 @@
         {
           "id": "https://openalex.org/T10955",
           "display_name": "Paleontology and Evolutionary Biology",
-          "score": 0.0019000000320374966,
+          "score": 0.0020000000949949026,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -88002,22 +88072,32 @@
         {
           "id": "https://openalex.org/keywords/early-paleozoic",
           "display_name": "Lower Paleozoic",
-          "score": 0.9959999918937683
+          "score": 0.996999979019165
         },
         {
           "id": "https://openalex.org/keywords/paleogeography",
           "display_name": "paleogeography",
-          "score": 0.9269999861717224
+          "score": 0.9369999766349792
         },
         {
           "id": "https://openalex.org/keywords/biostratigraphy",
           "display_name": "biostratigraphy",
-          "score": 0.8550000190734863
+          "score": 0.8790000081062317
         },
         {
-          "id": "https://openalex.org/keywords/early-animal-evolution",
-          "display_name": "early animal evolution",
-          "score": 0.3140000104904175
+          "id": "https://openalex.org/keywords/early-cambrian",
+          "display_name": "Lower Cambrian",
+          "score": 0.49300000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/early-ordovician",
+          "display_name": "Lower Ordovician",
+          "score": 0.7749999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/paleobiogeography",
+          "display_name": "paleobiogeography",
+          "score": 0.574999988079071
         }
       ],
       "concepts": [
@@ -88149,7 +88229,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -96793,7 +96873,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26436782,
+        "value": 0.25,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96810,7 +96890,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.6133000254631042,
+        "score": 0.6807000041007996,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -96828,7 +96908,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.6133000254631042,
+          "score": 0.6807000041007996,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -96845,7 +96925,7 @@
         {
           "id": "https://openalex.org/T10385",
           "display_name": "Plant Diversity and Evolution",
-          "score": 0.30880001187324524,
+          "score": 0.23690000176429749,
           "subfield": {
             "id": "https://openalex.org/subfields/1105",
             "display_name": "Ecology, Evolution, Behavior and Systematics"
@@ -96860,12 +96940,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T11354",
-          "display_name": "Evolution and Paleontology Studies",
-          "score": 0.01269999984651804,
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.01140000019222498,
           "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -96881,37 +96961,42 @@
         {
           "id": "https://openalex.org/keywords/land-colonization",
           "display_name": "land colonization",
-          "score": 0.9940000176429749
+          "score": 0.9929999709129333
         },
         {
           "id": "https://openalex.org/keywords/land-plants",
           "display_name": "land plants",
-          "score": 0.6499999761581421
+          "score": 0.628000020980835
         },
         {
           "id": "https://openalex.org/keywords/plant-evolution",
           "display_name": "plant evolution",
-          "score": 0.6840000152587891
+          "score": 0.7160000205039978
         },
         {
           "id": "https://openalex.org/keywords/paleobotany",
           "display_name": "paleobotany",
-          "score": 0.8579999804496765
+          "score": 0.8159999847412109
         },
         {
           "id": "https://openalex.org/keywords/palynology",
           "display_name": "palynology",
-          "score": 0.9549999833106995
+          "score": 0.9789999723434448
         },
         {
           "id": "https://openalex.org/keywords/fossil-pollen",
           "display_name": "fossil pollen",
-          "score": 0.4410000145435333
+          "score": 0.42500001192092896
         },
         {
           "id": "https://openalex.org/keywords/fossil-spores",
           "display_name": "fossil spores",
-          "score": 0.5139999985694885
+          "score": 0.5540000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/early-land-plants",
+          "display_name": "early land plants",
+          "score": 0.39800000190734863
         }
       ],
       "concepts": [
@@ -97097,8 +97182,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land"
         }
       ],
@@ -97126,7 +97211,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-25T09:29:13.331239",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2022-02-24T00:00:00"
     },
     {
@@ -101334,8 +101419,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],

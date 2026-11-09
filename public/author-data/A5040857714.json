@@ -231,7 +231,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001486,
+        "value": 0.0001485,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -265,7 +265,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000929,
+        "value": 0.0000931,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -282,7 +282,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000716,
+        "value": 0.0000717,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -299,7 +299,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000561,
+        "value": 0.0000562,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -4705,8 +4705,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428
         }
       ],
@@ -12261,11 +12261,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.3357,
+      "fwci": 2.3346,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.87264065,
+        "value": 0.87255261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12285,7 +12285,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.5684000253677368,
+        "score": 0.5404999852180481,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -12303,7 +12303,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.5684000253677368,
+          "score": 0.5404999852180481,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -12320,7 +12320,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.4081999957561493,
+          "score": 0.43309998512268066,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -12337,7 +12337,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.007799999788403511,
+          "score": 0.00800000037997961,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -12356,62 +12356,37 @@
         {
           "id": "https://openalex.org/keywords/ophiomorpha",
           "display_name": "Ophiomorpha",
-          "score": 0.9829999804496765
+          "score": 0.9850000143051147
         },
         {
           "id": "https://openalex.org/keywords/burrows",
           "display_name": "burrows",
-          "score": 0.746999979019165
+          "score": 0.7409999966621399
         },
         {
           "id": "https://openalex.org/keywords/reservoir-quality",
           "display_name": "reservoir quality",
-          "score": 0.8180000185966492
+          "score": 0.9559999704360962
         },
         {
           "id": "https://openalex.org/keywords/dam-formation",
           "display_name": "Dam Formation",
-          "score": 0.9570000171661377
+          "score": 0.7620000243186951
         },
         {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "porosity",
-          "score": 0.640999972820282
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "permeability",
-          "score": 0.9589999914169312
+          "id": "https://openalex.org/keywords/bulk-porosity",
+          "display_name": "bulk porosity",
+          "score": 0.722000002861023
         },
         {
           "id": "https://openalex.org/keywords/petrophysical-properties",
           "display_name": "petrophysical properties",
-          "score": 0.6520000100135803
+          "score": 0.6359999775886536
         },
         {
-          "id": "https://openalex.org/keywords/bioerosion",
-          "display_name": "bioerosion",
-          "score": 0.4009999930858612
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-heterogeneity",
-          "display_name": "reservoir heterogeneity",
-          "score": 0.37700000405311584
-        },
-        {
-          "id": "https://openalex.org/keywords/computed-tomography",
-          "display_name": "computed tomography",
-          "score": 0.4189999997615814
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop-analogs",
-          "display_name": "outcrop analogs",
-          "score": 0.3580000102519989
-        },
-        {
-          "id": "https://openalex.org/keywords/tight-reservoirs",
-          "display_name": "tight reservoirs",
-          "score": 0.4580000042915344
+          "id": "https://openalex.org/keywords/permeability-heterogeneity",
+          "display_name": "permeability heterogeneity",
+          "score": 0.4000000059604645
         }
       ],
       "concepts": [
@@ -12756,7 +12731,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -18125,11 +18100,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.4108,
+      "fwci": 1.4099,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.79517856,
+        "value": 0.79517639,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18149,7 +18124,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9746000170707703,
+        "score": 0.9740999937057495,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -18167,7 +18142,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9746000170707703,
+          "score": 0.9740999937057495,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -18184,7 +18159,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.01769999973475933,
+          "score": 0.01600000075995922,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -18201,7 +18176,7 @@
         {
           "id": "https://openalex.org/T11302",
           "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.0010000000474974513,
+          "score": 0.0019000000320374966,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -18220,52 +18195,62 @@
         {
           "id": "https://openalex.org/keywords/porosity-evolution",
           "display_name": "porosity evolution",
-          "score": 0.9240000247955322
+          "score": 0.8980000019073486
         },
         {
           "id": "https://openalex.org/keywords/permeability-evolution",
           "display_name": "permeability evolution",
-          "score": 0.9869999885559082
+          "score": 0.9909999966621399
         },
         {
           "id": "https://openalex.org/keywords/bioturbation",
           "display_name": "bioturbation",
-          "score": 0.8299999833106995
+          "score": 0.7820000052452087
         },
         {
           "id": "https://openalex.org/keywords/hanifa-formation",
           "display_name": "Hanifa Formation",
-          "score": 0.8240000009536743
+          "score": 0.8259999752044678
         },
         {
           "id": "https://openalex.org/keywords/late-jurassic",
           "display_name": "Late Jurassic",
-          "score": 0.7149999737739563
+          "score": 0.746999979019165
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-reservoir-quality",
-          "display_name": "carbonate reservoir quality",
-          "score": 0.7390000224113464
+          "id": "https://openalex.org/keywords/carbonate-reservoirs",
+          "display_name": "carbonate reservoirs",
+          "score": 0.7910000085830688
         },
         {
           "id": "https://openalex.org/keywords/compaction",
           "display_name": "compaction",
-          "score": 0.8199999928474426
+          "score": 0.6010000109672546
         },
         {
           "id": "https://openalex.org/keywords/dolomitization",
           "display_name": "dolomitization",
-          "score": 0.9950000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/dissolution",
-          "display_name": "dissolution",
-          "score": 0.9359999895095825
+          "score": 0.8009999990463257
         },
         {
           "id": "https://openalex.org/keywords/backstripping",
           "display_name": "backstripping",
-          "score": 0.7400000095367432
+          "score": 0.8960000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/pore-network",
+          "display_name": "pore network",
+          "score": 0.6129999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-quality",
+          "display_name": "reservoir quality",
+          "score": 0.628000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "diagenesis",
+          "score": 0.6840000152587891
         }
       ],
       "concepts": [
@@ -18585,7 +18570,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2024-09-01T00:00:00"
     },
     {
@@ -20940,11 +20925,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2426,
+      "fwci": 2.2696,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.86569821,
+        "value": 0.86730891,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30846,11 +30831,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.6214,
+      "fwci": 0.6207,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.6155406,
+        "value": 0.61486673,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30870,7 +30855,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "score": 0.4503999948501587,
+        "score": 0.5863999724388123,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -30888,7 +30873,7 @@
         {
           "id": "https://openalex.org/T13067",
           "display_name": "Geological Modeling and Analysis",
-          "score": 0.4503999948501587,
+          "score": 0.5863999724388123,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -30905,7 +30890,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.4207000136375427,
+          "score": 0.29269999265670776,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -30922,7 +30907,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.04430000111460686,
+          "score": 0.05990000069141388,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -30939,49 +30924,59 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/hanifa-formation",
-          "display_name": "Hanifa Formation",
-          "score": 0.8029999732971191
+          "id": "https://openalex.org/keywords/3d-reservoir-modeling",
+          "display_name": "3D reservoir modeling",
+          "score": 0.878000020980835
         },
         {
           "id": "https://openalex.org/keywords/porosity-modeling",
           "display_name": "porosity modeling",
-          "score": 0.7620000243186951
+          "score": 0.6869999766349792
         },
         {
           "id": "https://openalex.org/keywords/permeability-modeling",
           "display_name": "permeability modeling",
-          "score": 0.9810000061988831
+          "score": 0.9890000224113464
         },
         {
-          "id": "https://openalex.org/keywords/microporosity",
-          "display_name": "microporosity",
-          "score": 0.7929999828338623
-        },
-        {
-          "id": "https://openalex.org/keywords/flow-simulation",
-          "display_name": "flow simulation",
-          "score": 0.8159999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/3d-reservoir-modeling",
-          "display_name": "3D reservoir modeling",
-          "score": 0.8220000267028809
+          "id": "https://openalex.org/keywords/hanifa-formation",
+          "display_name": "Hanifa Formation",
+          "score": 0.8640000224113464
         },
         {
           "id": "https://openalex.org/keywords/ichnology",
           "display_name": "ichnology",
-          "score": 0.7559999823570251
+          "score": 0.8059999942779541
+        },
+        {
+          "id": "https://openalex.org/keywords/microporosity",
+          "display_name": "microporosity",
+          "score": 0.9350000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/flow-simulation",
+          "display_name": "flow simulation",
+          "score": 0.8989999890327454
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-storage-capacity",
+          "display_name": "reservoir storage capacity",
+          "score": 0.4880000054836273
+        },
+        {
+          "id": "https://openalex.org/keywords/flow-capacity",
+          "display_name": "flow capacity",
+          "score": 0.5649999976158142
+        },
+        {
+          "id": "https://openalex.org/keywords/petrophysical-analysis",
+          "display_name": "petrophysical analysis",
+          "score": 0.6299999952316284
         },
         {
           "id": "https://openalex.org/keywords/geostatistical-modeling",
           "display_name": "geostatistical modeling",
-          "score": 0.7950000166893005
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-reservoirs",
-          "display_name": "hydrocarbon reservoirs",
-          "score": 0.699999988079071
+          "score": 0.9010000228881836
         }
       ],
       "concepts": [
@@ -31312,7 +31307,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2023-04-12T00:00:00"
     },
     {
@@ -34820,8 +34815,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1
         }
       ],
@@ -38397,8 +38392,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.965499997138977
         }
       ],
@@ -60896,8 +60891,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1
         }
       ],
@@ -64396,8 +64391,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5378999710083008
         }
       ],
@@ -66997,8 +66992,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903
         }
       ],
@@ -70530,7 +70525,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14438291,
+        "value": 0.13977544,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70616,44 +70611,54 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/co2-trapping",
-          "display_name": "CO2 trapping",
-          "score": 0.6470000147819519
-        },
-        {
-          "id": "https://openalex.org/keywords/microarchitecture",
-          "display_name": "microarchitecture",
-          "score": 0.5839999914169312
-        },
-        {
           "id": "https://openalex.org/keywords/bioturbation",
           "display_name": "bioturbation",
-          "score": 0.953000009059906
+          "score": 0.8949999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-trapping",
+          "display_name": "CO2 trapping",
+          "score": 0.7289999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/burrows",
+          "display_name": "burrows",
+          "score": 0.6620000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/permeability-barrier",
+          "display_name": "permeability barrier",
+          "score": 0.8640000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-migration",
+          "display_name": "CO2 migration",
+          "score": 0.5690000057220459
+        },
+        {
+          "id": "https://openalex.org/keywords/capillary-trapping",
+          "display_name": "capillary trapping",
+          "score": 0.6779999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/dissolution-trapping",
+          "display_name": "dissolution trapping",
+          "score": 0.9279999732971191
+        },
+        {
+          "id": "https://openalex.org/keywords/residual-trapping",
+          "display_name": "residual trapping",
+          "score": 0.8690000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/saline-aquifers",
+          "display_name": "saline aquifers",
+          "score": 0.7110000252723694
         },
         {
           "id": "https://openalex.org/keywords/carbonate-reservoirs",
           "display_name": "carbonate reservoirs",
-          "score": 0.6159999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-precipitation",
-          "display_name": "carbonate precipitation",
-          "score": 0.35199999809265137
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-microstructure",
-          "display_name": "carbonate microstructure",
-          "score": 0.4230000078678131
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-diagenesis",
-          "display_name": "carbonate diagenesis",
-          "score": 0.44999998807907104
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
-          "display_name": "carbon capture and storage",
-          "score": 0.4000000059604645
+          "score": 0.7590000033378601
         }
       ],
       "concepts": [
@@ -70779,8 +70784,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651
         }
       ],
@@ -70897,7 +70902,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-04-09T00:00:00"
     },
     {

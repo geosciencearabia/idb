@@ -1302,8 +1302,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -2091,8 +2091,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -2894,8 +2894,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -4053,8 +4053,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 110,
@@ -4823,8 +4823,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -5958,8 +5958,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -6659,8 +6659,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -8333,8 +8333,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -9568,8 +9568,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -11222,8 +11222,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -12674,8 +12674,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -13892,8 +13892,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -15272,8 +15272,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -16103,11 +16103,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.3357,
+      "fwci": 2.3346,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.87264065,
+        "value": 0.87255261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16127,7 +16127,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.5684000253677368,
+        "score": 0.5404999852180481,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -16145,7 +16145,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.5684000253677368,
+          "score": 0.5404999852180481,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -16162,7 +16162,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.4081999957561493,
+          "score": 0.43309998512268066,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -16179,7 +16179,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.007799999788403511,
+          "score": 0.00800000037997961,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -16198,62 +16198,37 @@
         {
           "id": "https://openalex.org/keywords/ophiomorpha",
           "display_name": "Ophiomorpha",
-          "score": 0.9829999804496765
+          "score": 0.9850000143051147
         },
         {
           "id": "https://openalex.org/keywords/burrows",
           "display_name": "burrows",
-          "score": 0.746999979019165
+          "score": 0.7409999966621399
         },
         {
           "id": "https://openalex.org/keywords/reservoir-quality",
           "display_name": "reservoir quality",
-          "score": 0.8180000185966492
+          "score": 0.9559999704360962
         },
         {
           "id": "https://openalex.org/keywords/dam-formation",
           "display_name": "Dam Formation",
-          "score": 0.9570000171661377
+          "score": 0.7620000243186951
         },
         {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "porosity",
-          "score": 0.640999972820282
-        },
-        {
-          "id": "https://openalex.org/keywords/permeability",
-          "display_name": "permeability",
-          "score": 0.9589999914169312
+          "id": "https://openalex.org/keywords/bulk-porosity",
+          "display_name": "bulk porosity",
+          "score": 0.722000002861023
         },
         {
           "id": "https://openalex.org/keywords/petrophysical-properties",
           "display_name": "petrophysical properties",
-          "score": 0.6520000100135803
+          "score": 0.6359999775886536
         },
         {
-          "id": "https://openalex.org/keywords/bioerosion",
-          "display_name": "bioerosion",
-          "score": 0.4009999930858612
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-heterogeneity",
-          "display_name": "reservoir heterogeneity",
-          "score": 0.37700000405311584
-        },
-        {
-          "id": "https://openalex.org/keywords/computed-tomography",
-          "display_name": "computed tomography",
-          "score": 0.4189999997615814
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop-analogs",
-          "display_name": "outcrop analogs",
-          "score": 0.3580000102519989
-        },
-        {
-          "id": "https://openalex.org/keywords/tight-reservoirs",
-          "display_name": "tight reservoirs",
-          "score": 0.4580000042915344
+          "id": "https://openalex.org/keywords/permeability-heterogeneity",
+          "display_name": "permeability heterogeneity",
+          "score": 0.4000000059604645
         }
       ],
       "concepts": [
@@ -16488,8 +16463,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -16598,7 +16573,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -17136,8 +17111,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -18010,8 +17985,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -19546,8 +19521,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -20892,8 +20867,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -21633,8 +21608,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -22880,9 +22855,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -22908,8 +22883,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -23719,8 +23694,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -25389,8 +25364,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -26740,8 +26715,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -27602,7 +27577,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "score": 0.7939000129699707,
+        "score": 0.8295999765396118,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -27620,7 +27595,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.7939000129699707,
+          "score": 0.8295999765396118,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -27637,7 +27612,7 @@
         {
           "id": "https://openalex.org/T10995",
           "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.15800000727176666,
+          "score": 0.1216999962925911,
           "subfield": {
             "id": "https://openalex.org/subfields/2304",
             "display_name": "Environmental Chemistry"
@@ -27654,7 +27629,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.020899999886751175,
+          "score": 0.026000000536441803,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -27673,22 +27648,22 @@
         {
           "id": "https://openalex.org/keywords/authigenic-clay-minerals",
           "display_name": "authigenic clay minerals",
-          "score": 0.9980000257492065
+          "score": 0.996999979019165
         },
         {
           "id": "https://openalex.org/keywords/clay-mineral-formation",
           "display_name": "clay mineral formation",
-          "score": 0.875
+          "score": 0.8629999756813049
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "diagenesis",
+          "score": 0.5519999861717224
         },
         {
           "id": "https://openalex.org/keywords/clay-mineralogy",
           "display_name": "clay mineralogy",
-          "score": 0.4399999976158142
-        },
-        {
-          "id": "https://openalex.org/keywords/marine-sediments",
-          "display_name": "marine sediment",
-          "score": 0.43799999356269836
+          "score": 0.39100000262260437
         }
       ],
       "concepts": [
@@ -27865,8 +27840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7167189447.pdf",
@@ -28078,7 +28053,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-07-03T00:00:00"
     },
     {
@@ -28345,7 +28320,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48848008,
+        "value": 0.47769852,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28706,22 +28681,22 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Good health and well-being",
+          "score": 0.98580002784729,
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.98580002784729
+          "display_name": "Good health and well-being"
         }
       ],
       "study_designs": [
         {
-          "display_name": "Observational Study",
-          "id": "https://openalex.org/study-designs/observational-study"
+          "id": "https://openalex.org/study-designs/observational-study",
+          "display_name": "Observational Study"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7204475104.pdf",
@@ -29829,8 +29804,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7204476743.pdf",
@@ -30525,7 +30500,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63358041,
+        "value": 0.62315705,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30780,8 +30755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -31120,7 +31095,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66523964,
+        "value": 0.65378623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31208,27 +31183,52 @@
         {
           "id": "https://openalex.org/keywords/hydrogen-production",
           "display_name": "hydrogen production",
-          "score": 0.9229999780654907
+          "score": 0.8870000243186951
         },
         {
           "id": "https://openalex.org/keywords/glauconitic-sandstone",
           "display_name": "glauconitic sandstone",
-          "score": 0.9020000100135803
+          "score": 0.8830000162124634
         },
         {
           "id": "https://openalex.org/keywords/water-rock-interaction",
           "display_name": "water-rock interaction",
-          "score": 0.949999988079071
+          "score": 0.843999981880188
         },
         {
           "id": "https://openalex.org/keywords/hydrothermal-experiments",
           "display_name": "hydrothermal experiments",
-          "score": 0.8410000205039978
+          "score": 0.746999979019165
         },
         {
-          "id": "https://openalex.org/keywords/glauconite",
-          "display_name": "glauconite",
-          "score": 0.5659999847412109
+          "id": "https://openalex.org/keywords/iron-minerals",
+          "display_name": "iron minerals",
+          "score": 0.6899999976158142
+        },
+        {
+          "id": "https://openalex.org/keywords/gas-composition",
+          "display_name": "gas composition",
+          "score": 0.5120000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/sulfur-speciation",
+          "display_name": "sulfur speciation",
+          "score": 0.6159999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-speciation",
+          "display_name": "carbon speciation",
+          "score": 0.8240000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/fluid-rock-ratio",
+          "display_name": "fluid/rock ratio",
+          "score": 0.8539999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/geologic-hydrogen",
+          "display_name": "geologic hydrogen",
+          "score": 0.5009999871253967
         }
       ],
       "concepts": [
@@ -31400,9 +31400,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -31415,8 +31415,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7214804335.pdf",
@@ -31952,7 +31952,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-01T11:40:01.658920",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-09-30T00:00:00"
     }
   ]

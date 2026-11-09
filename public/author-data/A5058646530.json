@@ -253,7 +253,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000734,
+        "value": 0.0000735,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -304,7 +304,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000404,
+        "value": 0.0000405,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -10353,8 +10353,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -14916,11 +14916,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.0958,
+      "fwci": 3.0516,
       "has_fulltext": false,
       "cited_by_count": 75,
       "citation_normalized_percentile": {
-        "value": 0.91866029,
+        "value": 0.91747573,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29291,16 +29291,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.2901,
+      "fwci": 5.2366,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.95546559,
+        "value": 0.95501022,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 97
       },
       "biblio": {
@@ -32032,8 +32032,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 1
+          "score": 1,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -35365,11 +35365,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6814,
+      "fwci": 0.6968,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.72251037,
+        "value": 0.72262397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36234,11 +36234,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.1707,
+      "fwci": 4.2656,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.87296588,
+        "value": 0.87329843,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40586,23 +40586,23 @@
     },
     {
       "id": "https://openalex.org/W2314467085",
-      "doi": "https://doi.org/10.2523/10659-abstract",
+      "doi": "https://doi.org/10.2523/iptc-10659-abstract",
       "title": "New Vision of the Shuaiba at a Regional Scale",
       "display_name": "New Vision of the Shuaiba at a Regional Scale",
       "publication_year": 2005,
       "publication_date": "2005-01-01",
       "ids": {
         "openalex": "https://openalex.org/W2314467085",
-        "doi": "https://doi.org/10.2523/10659-abstract",
+        "doi": "https://doi.org/10.2523/iptc-10659-abstract",
         "mag": "2314467085"
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.2523/10659-abstract",
-        "doi": "https://doi.org/10.2523/10659-abstract",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2523/10659-abstract",
-        "pdf_url": null,
+        "id": "doi:10.2523/iptc-10659-abstract",
+        "doi": "https://doi.org/10.2523/iptc-10659-abstract",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2523/iptc-10659-abstract",
+        "pdf_url": "https://onepetro.org/IPTCONF/proceedings-pdf/05IPTC/All-05IPTC/IPTC-10659-ABSTRACT/1844495/iptc-10659-abstract.pdf",
         "source": {
           "id": "https://openalex.org/S4363607700",
           "display_name": "International Petroleum Technology Conference",
@@ -40871,7 +40871,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23970944,
+        "value": 0.24016939,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41128,11 +41128,11 @@
       "locations_count": 2,
       "locations": [
         {
-          "id": "doi:10.2523/10659-abstract",
-          "doi": "https://doi.org/10.2523/10659-abstract",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2523/10659-abstract",
-          "pdf_url": null,
+          "id": "doi:10.2523/iptc-10659-abstract",
+          "doi": "https://doi.org/10.2523/iptc-10659-abstract",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2523/iptc-10659-abstract",
+          "pdf_url": "https://onepetro.org/IPTCONF/proceedings-pdf/05IPTC/All-05IPTC/IPTC-10659-ABSTRACT/1844495/iptc-10659-abstract.pdf",
           "source": {
             "id": "https://openalex.org/S4363607700",
             "display_name": "International Petroleum Technology Conference",
@@ -41157,11 +41157,11 @@
           "raw_type": "proceedings-article"
         },
         {
-          "id": "doi:10.2523/iptc-10659-abstract",
-          "doi": "https://doi.org/10.2523/iptc-10659-abstract",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2523/iptc-10659-abstract",
-          "pdf_url": "https://onepetro.org/IPTCONF/proceedings-pdf/05IPTC/All-05IPTC/IPTC-10659-ABSTRACT/1844495/iptc-10659-abstract.pdf",
+          "id": "doi:10.2523/10659-abstract",
+          "doi": "https://doi.org/10.2523/10659-abstract",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2523/10659-abstract",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4363607700",
             "display_name": "International Petroleum Technology Conference",
@@ -41949,7 +41949,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -44397,8 +44397,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],

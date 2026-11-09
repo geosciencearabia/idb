@@ -14,9 +14,9 @@
     ],
     "full_name": "Benaafi, Mohammed",
     "works_count": 92,
-    "cited_by_count": 1211,
+    "cited_by_count": 1213,
     "summary_stats": {
-      "2yr_mean_citedness": 4.659574468085107,
+      "2yr_mean_citedness": 4.702127659574468,
       "h_index": 21,
       "i10_index": 35
     },
@@ -72,7 +72,7 @@
       {
         "id": "https://openalex.org/T11634",
         "display_name": "Water Quality and Pollution Assessment",
-        "count": 24,
+        "count": 25,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -159,7 +159,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0002049,
+        "value": 0.0002067,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -176,7 +176,7 @@
       {
         "id": "https://openalex.org/T13563",
         "display_name": "Chemical Analysis and Environmental Impact",
-        "value": 0.0001483,
+        "value": 0.0001478,
         "subfield": {
           "id": "https://openalex.org/subfields/2307",
           "display_name": "Health, Toxicology and Mutagenesis"
@@ -193,7 +193,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0000999,
+        "value": 0.0001003,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -210,7 +210,7 @@
       {
         "id": "https://openalex.org/T11634",
         "display_name": "Water Quality and Pollution Assessment",
-        "value": 0.0000882,
+        "value": 0.0000918,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -227,7 +227,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000605,
+        "value": 0.0000606,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -351,7 +351,7 @@
         "year": 2026,
         "works_count": 21,
         "oa_works_count": 15,
-        "cited_by_count": 276
+        "cited_by_count": 278
       }
     ],
     "display_name_alternatives": [
@@ -362,7 +362,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-11-07T12:08:38",
+    "updated_date": "2026-11-08T12:57:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1230,8 +1230,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -2132,8 +2132,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4308105876.pdf",
@@ -3577,8 +3577,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -4575,8 +4575,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -5268,8 +5268,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -6355,8 +6355,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4304806286.pdf",
@@ -7513,11 +7513,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 8.2298,
+      "fwci": 8.4363,
       "has_fulltext": true,
-      "cited_by_count": 39,
+      "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.98115026,
+        "value": 0.98201189,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7537,7 +7537,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11781",
         "display_name": "Wastewater Treatment and Reuse",
-        "score": 1,
+        "score": 0.9990000128746033,
         "subfield": {
           "id": "https://openalex.org/subfields/2311",
           "display_name": "Waste Management and Disposal"
@@ -7555,7 +7555,7 @@
         {
           "id": "https://openalex.org/T11781",
           "display_name": "Wastewater Treatment and Reuse",
-          "score": 1,
+          "score": 0.9990000128746033,
           "subfield": {
             "id": "https://openalex.org/subfields/2311",
             "display_name": "Waste Management and Disposal"
@@ -7570,26 +7570,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T11404",
-          "display_name": "Irrigation Practices and Water Management",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1111",
-            "display_name": "Soil Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10969",
-          "display_name": "Water resources management and optimization",
-          "score": 0,
+          "id": "https://openalex.org/T11634",
+          "display_name": "Water Quality and Pollution Assessment",
+          "score": 0.0003000000142492354,
           "subfield": {
             "id": "https://openalex.org/subfields/2312",
             "display_name": "Water Science and Technology"
@@ -7602,73 +7585,80 @@
             "id": "https://openalex.org/domains/3",
             "display_name": "Physical Sciences"
           }
+        },
+        {
+          "id": "https://openalex.org/T11404",
+          "display_name": "Irrigation Practices and Water Management",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1111",
+            "display_name": "Soil Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
         }
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/treated-wastewater-irrigation",
-          "display_name": "treated wastewater irrigation",
-          "score": 0.9300000071525574
+          "id": "https://openalex.org/keywords/treated-wastewater-reuse",
+          "display_name": "treated wastewater reuse",
+          "score": 0.8090000152587891
         },
         {
-          "id": "https://openalex.org/keywords/groundwater-quality",
-          "display_name": "groundwater quality",
-          "score": 0.5929999947547913
+          "id": "https://openalex.org/keywords/irrigation-water-quality",
+          "display_name": "irrigation water quality",
+          "score": 0.8870000243186951
         },
         {
-          "id": "https://openalex.org/keywords/shallow-aquifers",
-          "display_name": "shallow aquifers",
-          "score": 0.6710000038146973
+          "id": "https://openalex.org/keywords/groundwater-sustainability",
+          "display_name": "groundwater sustainability",
+          "score": 0.5640000104904175
         },
         {
-          "id": "https://openalex.org/keywords/deep-aquifers",
-          "display_name": "deep aquifers",
-          "score": 0.7839999794960022
+          "id": "https://openalex.org/keywords/irrigation-water-quality-index",
+          "display_name": "irrigation water quality index",
+          "score": 0.7269999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/stable-isotopes",
+          "display_name": "stable isotopes",
+          "score": 0.6840000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater-recharge",
+          "display_name": "groundwater recharge",
+          "score": 0.6029999852180481
         },
         {
           "id": "https://openalex.org/keywords/aquitard",
           "display_name": "aquitard",
-          "score": 0.8939999938011169
+          "score": 0.640999972820282
         },
         {
-          "id": "https://openalex.org/keywords/groundwater-level",
-          "display_name": "groundwater level",
-          "score": 0.6980000138282776
+          "id": "https://openalex.org/keywords/nitrate-pollution",
+          "display_name": "nitrate contamination",
+          "score": 0.7950000166893005
         },
         {
-          "id": "https://openalex.org/keywords/arid-coastal-regions",
-          "display_name": "arid coastal regions",
-          "score": 0.8730000257492065
+          "id": "https://openalex.org/keywords/water-scarcity",
+          "display_name": "water scarcity",
+          "score": 0.5630000233650208
         },
         {
-          "id": "https://openalex.org/keywords/water-resources-sustainability",
-          "display_name": "water resources sustainability",
-          "score": 0.7990000247955322
+          "id": "https://openalex.org/keywords/eastern-saudi-arabia",
+          "display_name": "eastern Saudi Arabia",
+          "score": 0.6029999852180481
         },
         {
-          "id": "https://openalex.org/keywords/sustainable-agriculture",
-          "display_name": "sustainable agriculture",
-          "score": 0.6990000009536743
-        },
-        {
-          "id": "https://openalex.org/keywords/effluent-quality",
-          "display_name": "effluent quality",
-          "score": 0.7300000190734863
-        },
-        {
-          "id": "https://openalex.org/keywords/buffer-zones",
-          "display_name": "buffer zones",
-          "score": 0.8190000057220459
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater-monitoring",
-          "display_name": "groundwater monitoring",
-          "score": 0.621999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/wastewater-treatment",
-          "display_name": "wastewater treatment",
-          "score": 0.8180000185966492
+          "id": "https://openalex.org/keywords/salt-tolerant-crops",
+          "display_name": "salt-tolerant crops",
+          "score": 0.7070000171661377
         }
       ],
       "concepts": [
@@ -8012,8 +8002,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4394837151.pdf",
@@ -8777,7 +8767,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2025,
@@ -8788,7 +8778,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2024-04-16T00:00:00"
     },
     {
@@ -9425,8 +9415,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4289597232.pdf",
@@ -10644,8 +10634,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399208527.pdf",
@@ -11980,8 +11970,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4286265175.pdf",
@@ -13401,8 +13391,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4212839989.pdf",
@@ -14486,11 +14476,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 2.8991,
+      "fwci": 2.9001,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.91478812,
+        "value": 0.91480037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14510,7 +14500,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11634",
         "display_name": "Water Quality and Pollution Assessment",
-        "score": 0.5508000254631042,
+        "score": 0.8353999853134155,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -14528,7 +14518,7 @@
         {
           "id": "https://openalex.org/T11634",
           "display_name": "Water Quality and Pollution Assessment",
-          "score": 0.5508000254631042,
+          "score": 0.8353999853134155,
           "subfield": {
             "id": "https://openalex.org/subfields/2312",
             "display_name": "Water Science and Technology"
@@ -14545,7 +14535,7 @@
         {
           "id": "https://openalex.org/T11490",
           "display_name": "Hydrological Forecasting Using AI",
-          "score": 0.2827000021934509,
+          "score": 0.09309999644756317,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -14562,7 +14552,7 @@
         {
           "id": "https://openalex.org/T10398",
           "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.05009999871253967,
+          "score": 0.020800000056624413,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -14586,27 +14576,32 @@
         {
           "id": "https://openalex.org/keywords/coastal-aquifers",
           "display_name": "coastal aquifers",
-          "score": 0.8629999756813049
+          "score": 0.9739999771118164
         },
         {
-          "id": "https://openalex.org/keywords/eastern-saudi-arabia",
-          "display_name": "eastern Saudi Arabia",
-          "score": 0.7749999761581421
+          "id": "https://openalex.org/keywords/salinity-mapping",
+          "display_name": "salinity mapping",
+          "score": 0.625
         },
         {
           "id": "https://openalex.org/keywords/metaheuristic-optimization",
           "display_name": "metaheuristic optimization",
-          "score": 0.7730000019073486
+          "score": 0.777999997138977
+        },
+        {
+          "id": "https://openalex.org/keywords/adaptive-neuro-fuzzy-inference-system",
+          "display_name": "adaptive neuro-fuzzy inference system",
+          "score": 0.746999979019165
         },
         {
           "id": "https://openalex.org/keywords/particle-swarm-optimization",
           "display_name": "particle swarm optimization",
-          "score": 0.8199999928474426
+          "score": 0.9419999718666077
         },
         {
           "id": "https://openalex.org/keywords/genetic-algorithm",
           "display_name": "genetic algorithm",
-          "score": 0.9929999709129333
+          "score": 0.9860000014305115
         },
         {
           "id": "https://openalex.org/keywords/biogeography-based-optimization",
@@ -14616,12 +14611,22 @@
         {
           "id": "https://openalex.org/keywords/feature-selection",
           "display_name": "feature selection",
-          "score": 0.7540000081062317
+          "score": 0.7549999952316284
         },
         {
-          "id": "https://openalex.org/keywords/water-resources-management",
-          "display_name": "water resources management",
-          "score": 0.8510000109672546
+          "id": "https://openalex.org/keywords/cation-and-anion-concentrations",
+          "display_name": "cation and anion concentrations",
+          "score": 0.593999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/water-quality-prediction",
+          "display_name": "water quality prediction",
+          "score": 0.4350000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/eastern-saudi-arabia",
+          "display_name": "eastern Saudi Arabia",
+          "score": 0.8450000286102295
         }
       ],
       "concepts": [
@@ -14925,8 +14930,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -15050,7 +15055,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2022-11-08T00:00:00"
     },
     {
@@ -15517,8 +15522,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -16417,8 +16422,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4382136343.pdf",
@@ -18187,8 +18192,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -19354,8 +19359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -20252,8 +20257,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939371353.pdf",
@@ -21654,8 +21659,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4362580681.pdf",
@@ -23008,8 +23013,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386774596.pdf",
@@ -23671,8 +23676,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -24759,8 +24764,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -25709,8 +25714,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -27311,8 +27316,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386365539.pdf",
@@ -28596,8 +28601,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -29831,8 +29836,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -31140,8 +31145,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -31941,8 +31946,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -32815,8 +32820,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -33671,8 +33676,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415680432.pdf",
@@ -35155,8 +35160,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4213328516.pdf",
@@ -36317,8 +36322,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3179531231.pdf"
@@ -37888,8 +37893,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4283746594.pdf",
@@ -39200,8 +39205,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -40021,8 +40026,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -40576,11 +40581,11 @@
         "currency": "USD",
         "value_usd": 2050
       },
-      "fwci": 0.8484,
+      "fwci": 0.847,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.62169801,
+        "value": 0.62151568,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40671,57 +40676,57 @@
         {
           "id": "https://openalex.org/keywords/boron-removal",
           "display_name": "boron removal",
-          "score": 0.7889999747276306
+          "score": 0.8479999899864197
         },
         {
           "id": "https://openalex.org/keywords/capacitive-deionization",
           "display_name": "capacitive deionization",
-          "score": 0.9459999799728394
+          "score": 0.9359999895095825
         },
         {
           "id": "https://openalex.org/keywords/mg-al-layered-double-hydroxide",
           "display_name": "Mg-Al layered double hydroxide",
-          "score": 0.9860000014305115
+          "score": 0.9660000205039978
         },
         {
           "id": "https://openalex.org/keywords/carbon-paper-electrode",
           "display_name": "carbon paper electrode",
-          "score": 0.8259999752044678
-        },
-        {
-          "id": "https://openalex.org/keywords/water-treatment",
-          "display_name": "water treatment",
-          "score": 0.5059999823570251
+          "score": 0.8100000023841858
         },
         {
           "id": "https://openalex.org/keywords/electrosorption",
           "display_name": "electrosorption",
-          "score": 0.7480000257492065
+          "score": 0.8230000138282776
         },
         {
           "id": "https://openalex.org/keywords/ph-dependence",
           "display_name": "pH dependence",
-          "score": 0.7889999747276306
-        },
-        {
-          "id": "https://openalex.org/keywords/borate-anions",
-          "display_name": "borate anions",
-          "score": 0.722000002861023
+          "score": 0.5820000171661377
         },
         {
           "id": "https://openalex.org/keywords/charge-storage",
           "display_name": "charge storage",
-          "score": 0.40700000524520874
+          "score": 0.4099999964237213
         },
         {
-          "id": "https://openalex.org/keywords/cycling-stability",
-          "display_name": "cycling stability",
-          "score": 0.6380000114440918
+          "id": "https://openalex.org/keywords/water-treatment",
+          "display_name": "water treatment",
+          "score": 0.5400000214576721
+        },
+        {
+          "id": "https://openalex.org/keywords/boric-acid",
+          "display_name": "boric acid",
+          "score": 0.6579999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/electrode-cycling-stability",
+          "display_name": "electrode cycling stability",
+          "score": 0.5680000185966492
         },
         {
           "id": "https://openalex.org/keywords/energy-consumption",
           "display_name": "energy consumption",
-          "score": 0.7279999852180481
+          "score": 0.6370000243186951
         }
       ],
       "concepts": [
@@ -41014,8 +41019,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -41648,7 +41653,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42383,8 +42388,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -43041,8 +43046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -43647,8 +43652,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -44413,8 +44418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -45269,8 +45274,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -46009,8 +46014,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -46545,8 +46550,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -47641,8 +47646,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -48085,11 +48090,11 @@
         "value_usd": 3690
       },
       "apc_paid": null,
-      "fwci": 0.4524,
+      "fwci": 0.4523,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.55612584,
+        "value": 0.55635556,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48109,7 +48114,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11634",
         "display_name": "Water Quality and Pollution Assessment",
-        "score": 0.5189999938011169,
+        "score": 0.5062999725341797,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -48127,7 +48132,7 @@
         {
           "id": "https://openalex.org/T11634",
           "display_name": "Water Quality and Pollution Assessment",
-          "score": 0.5189999938011169,
+          "score": 0.5062999725341797,
           "subfield": {
             "id": "https://openalex.org/subfields/2312",
             "display_name": "Water Science and Technology"
@@ -48144,7 +48149,7 @@
         {
           "id": "https://openalex.org/T11490",
           "display_name": "Hydrological Forecasting Using AI",
-          "score": 0.2946999967098236,
+          "score": 0.2883000075817108,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -48161,7 +48166,7 @@
         {
           "id": "https://openalex.org/T10398",
           "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.04780000075697899,
+          "score": 0.05420000106096268,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -48180,52 +48185,47 @@
         {
           "id": "https://openalex.org/keywords/groundwater-vulnerability-mapping",
           "display_name": "groundwater vulnerability mapping",
-          "score": 0.9340000152587891
+          "score": 0.921999990940094
         },
         {
           "id": "https://openalex.org/keywords/groundwater-quality",
           "display_name": "groundwater quality",
-          "score": 0.5389999747276306
+          "score": 0.5210000276565552
         },
         {
           "id": "https://openalex.org/keywords/xgboost",
           "display_name": "XGBoost",
-          "score": 0.7379999756813049
+          "score": 0.7269999980926514
         },
         {
           "id": "https://openalex.org/keywords/firefly-algorithm",
           "display_name": "firefly algorithm",
-          "score": 0.9670000076293945
+          "score": 0.949999988079071
         },
         {
           "id": "https://openalex.org/keywords/differential-evolution",
           "display_name": "differential evolution",
-          "score": 0.9940000176429749
+          "score": 0.9929999709129333
         },
         {
           "id": "https://openalex.org/keywords/metaheuristic-optimization",
           "display_name": "metaheuristic optimization",
-          "score": 0.9580000042915344
+          "score": 0.9610000252723694
         },
         {
           "id": "https://openalex.org/keywords/coastal-aquifers",
           "display_name": "coastal aquifers",
-          "score": 0.7620000243186951
+          "score": 0.7609999775886536
         },
         {
           "id": "https://openalex.org/keywords/eastern-saudi-arabia",
           "display_name": "eastern Saudi Arabia",
-          "score": 0.8880000114440918
+          "score": 0.8790000081062317
         },
         {
           "id": "https://openalex.org/keywords/water-resources-management",
           "display_name": "water resources management",
-          "score": 0.8169999718666077
-        },
-        {
-          "id": "https://openalex.org/keywords/gis-mapping",
-          "display_name": "GIS mapping",
-          "score": 0.38199999928474426
+          "score": 0.8190000057220459
         }
       ],
       "concepts": [
@@ -48446,8 +48446,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405386656.pdf",
@@ -49133,7 +49133,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-01T11:40:01.658920",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2024-12-14T00:00:00"
     },
     {
@@ -50201,8 +50201,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -51453,8 +51453,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3009319440.pdf",
@@ -52806,8 +52806,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -53544,8 +53544,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -54656,8 +54656,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -55645,8 +55645,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7125473168.pdf",
@@ -56236,6 +56236,848 @@
       ],
       "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2026-01-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7160114819",
+      "doi": "https://doi.org/10.1007/s10668-026-07689-4",
+      "title": "Assessing water security, climate risk, and groundwater resilience for sustainable development in the Eastern Province of Saudi Arabia",
+      "display_name": "Assessing water security, climate risk, and groundwater resilience for sustainable development in the Eastern Province of Saudi Arabia",
+      "publication_year": 2026,
+      "publication_date": "2026-04-30",
+      "ids": {
+        "openalex": "https://openalex.org/W7160114819",
+        "doi": "https://doi.org/10.1007/s10668-026-07689-4"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s10668-026-07689-4",
+        "doi": "https://doi.org/10.1007/s10668-026-07689-4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s10668-026-07689-4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S155209994",
+          "display_name": "Environment Development and Sustainability",
+          "issn_l": "1387-585X",
+          "issn": [
+            "1387-585X",
+            "1573-2975"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-c",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Environment, Development and Sustainability",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5129708590",
+            "display_name": "Mahfuzur Rahman",
+            "orcid": "https://orcid.org/0000-0001-8402-156X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8402-156X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210132231",
+              "display_name": "International University of Business Agriculture and Technology",
+              "ror": "https://ror.org/02m32cr13",
+              "country_code": "BD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ],
+          "countries": [
+            "BD",
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Mahfuzur Rahman",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
+              "institution_ids": [
+                "https://openalex.org/I4210132231"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109707707",
+            "display_name": "Md Anuwer Hossain",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210132231",
+              "display_name": "International University of Business Agriculture and Technology",
+              "ror": "https://ror.org/02m32cr13",
+              "country_code": "BD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ],
+          "countries": [
+            "BD"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Md Anuwer Hossain",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
+              "institution_ids": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034568196",
+            "display_name": "Mohammed Benaafi",
+            "orcid": "https://orcid.org/0000-0001-6246-7835",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6246-7835"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Benaafi",
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5129661867",
+            "display_name": "Mahmudur Rahman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210132231",
+              "display_name": "International University of Business Agriculture and Technology",
+              "ror": "https://ror.org/02m32cr13",
+              "country_code": "BD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ],
+          "countries": [
+            "BD",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mahmudur Rahman",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
+              "institution_ids": [
+                "https://openalex.org/I4210132231"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5159658023",
+            "display_name": "Md Ahadul Islam Patwary",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210132231",
+              "display_name": "International University of Business Agriculture and Technology",
+              "ror": "https://ror.org/02m32cr13",
+              "country_code": "BD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ],
+          "countries": [
+            "BD"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Md Ahadul Islam Patwary",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
+              "institution_ids": [
+                "https://openalex.org/I4210132231"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5159659173",
+            "display_name": "Golden Odey",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Golden Odey",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5159711458",
+            "display_name": "Isam H. Aljundi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Isam H. Aljundi",
+          "raw_affiliation_strings": [
+            "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5129708590"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I4210132231"
+      ],
+      "apc_list": {
+        "value": 2290,
+        "currency": "USD",
+        "value_usd": 2290
+      },
+      "apc_paid": null,
+      "fwci": 3.6901,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.92713501,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11186",
+        "display_name": "Hydrology and Drought Analysis",
+        "score": 0.8931000232696533,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2306",
+          "display_name": "Global and Planetary Change"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11186",
+          "display_name": "Hydrology and Drought Analysis",
+          "score": 0.8931000232696533,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10969",
+          "display_name": "Water resources management and optimization",
+          "score": 0.05050000175833702,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2312",
+            "display_name": "Water Science and Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11490",
+          "display_name": "Hydrological Forecasting Using AI",
+          "score": 0.020400000736117363,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/water-security",
+          "display_name": "water security",
+          "score": 0.9929999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-risk",
+          "display_name": "climate risk",
+          "score": 0.8259999752044678
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater-resilience",
+          "display_name": "groundwater resilience",
+          "score": 0.9950000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater-potential",
+          "display_name": "groundwater potential",
+          "score": 0.5860000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/drought-indices",
+          "display_name": "drought indices",
+          "score": 0.7730000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/evapotranspiration",
+          "display_name": "evapotranspiration",
+          "score": 0.7519999742507935
+        },
+        {
+          "id": "https://openalex.org/keywords/land-surface-temperature",
+          "display_name": "land surface temperature",
+          "score": 0.9610000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change-projections",
+          "display_name": "climate change projections",
+          "score": 0.5789999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/cmip6",
+          "display_name": "CMIP6",
+          "score": 0.7350000143051147
+        },
+        {
+          "id": "https://openalex.org/keywords/shared-socioeconomic-pathways",
+          "display_name": "Shared Socioeconomic Pathways",
+          "score": 0.7369999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/geospatial-artificial-intelligence",
+          "display_name": "GeoAI",
+          "score": 0.5830000042915344
+        },
+        {
+          "id": "https://openalex.org/keywords/arid-regions",
+          "display_name": "arid regions",
+          "score": 0.718999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/sustainable-water-management",
+          "display_name": "sustainable water management",
+          "score": 0.7049999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/eastern-province-saudi-arabia",
+          "display_name": "Eastern Province, Saudi Arabia",
+          "score": 0.8790000081062317
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C552854447",
+          "wikidata": "https://www.wikidata.org/wiki/Q131201",
+          "display_name": "Sustainable development",
+          "level": 2,
+          "score": 0.7311999797821045
+        },
+        {
+          "id": "https://openalex.org/C2779585090",
+          "wikidata": "https://www.wikidata.org/wiki/Q3457762",
+          "display_name": "Resilience (materials science)",
+          "level": 2,
+          "score": 0.5821999907493591
+        },
+        {
+          "id": "https://openalex.org/C524765639",
+          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+          "display_name": "Water resource management",
+          "level": 1,
+          "score": 0.5529999732971191
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.5120000243186951
+        },
+        {
+          "id": "https://openalex.org/C66204764",
+          "wikidata": "https://www.wikidata.org/wiki/Q219416",
+          "display_name": "Sustainability",
+          "level": 2,
+          "score": 0.4632999897003174
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.46239998936653137
+        },
+        {
+          "id": "https://openalex.org/C91375879",
+          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+          "display_name": "Environmental planning",
+          "level": 1,
+          "score": 0.4514999985694885
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4462999999523163
+        },
+        {
+          "id": "https://openalex.org/C526734887",
+          "wikidata": "https://www.wikidata.org/wiki/Q832237",
+          "display_name": "Environmental protection",
+          "level": 1,
+          "score": 0.3296000063419342
+        },
+        {
+          "id": "https://openalex.org/C137176749",
+          "wikidata": "https://www.wikidata.org/wiki/Q4105337",
+          "display_name": "Psychological resilience",
+          "level": 2,
+          "score": 0.31619998812675476
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3149999976158142
+        },
+        {
+          "id": "https://openalex.org/C153823671",
+          "wikidata": "https://www.wikidata.org/wiki/Q1049799",
+          "display_name": "Water resources",
+          "level": 2,
+          "score": 0.3149000108242035
+        },
+        {
+          "id": "https://openalex.org/C107826830",
+          "wikidata": "https://www.wikidata.org/wiki/Q929380",
+          "display_name": "Environmental resource management",
+          "level": 1,
+          "score": 0.3100000023841858
+        },
+        {
+          "id": "https://openalex.org/C95713431",
+          "wikidata": "https://www.wikidata.org/wiki/Q631425",
+          "display_name": "Vulnerability (computing)",
+          "level": 2,
+          "score": 0.2522999942302704
+        },
+        {
+          "id": "https://openalex.org/C2993807900",
+          "wikidata": "https://www.wikidata.org/wiki/Q1049799",
+          "display_name": "Groundwater resources",
+          "level": 4,
+          "score": 0.25220000743865967
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s10668-026-07689-4",
+          "doi": "https://doi.org/10.1007/s10668-026-07689-4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s10668-026-07689-4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S155209994",
+            "display_name": "Environment Development and Sustainability",
+            "issn_l": "1387-585X",
+            "issn": [
+              "1387-585X",
+              "1573-2975"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-c",
+              "jufo-1",
+              "ki-jl-1",
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Environment, Development and Sustainability",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1,
+          "display_name": "Climate action"
+        },
+        {
+          "id": "https://metadata.un.org/sdg/6",
+          "score": 0.965499997138977,
+          "display_name": "Clean water and sanitation"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 64,
+      "referenced_works": [
+        "https://openalex.org/W1888268865",
+        "https://openalex.org/W1983897182",
+        "https://openalex.org/W2037855854",
+        "https://openalex.org/W2048968715",
+        "https://openalex.org/W2059320386",
+        "https://openalex.org/W2080584583",
+        "https://openalex.org/W2090792035",
+        "https://openalex.org/W2128104848",
+        "https://openalex.org/W2275873056",
+        "https://openalex.org/W2535655240",
+        "https://openalex.org/W2736478985",
+        "https://openalex.org/W2770949156",
+        "https://openalex.org/W2807084824",
+        "https://openalex.org/W2908965886",
+        "https://openalex.org/W2972365774",
+        "https://openalex.org/W2991006026",
+        "https://openalex.org/W3003542426",
+        "https://openalex.org/W3081551152",
+        "https://openalex.org/W3086074313",
+        "https://openalex.org/W3091976521",
+        "https://openalex.org/W3182706339",
+        "https://openalex.org/W3188744712",
+        "https://openalex.org/W3208268338",
+        "https://openalex.org/W4212928315",
+        "https://openalex.org/W4280632061",
+        "https://openalex.org/W4281641492",
+        "https://openalex.org/W4283696483",
+        "https://openalex.org/W4304806286",
+        "https://openalex.org/W4308545238",
+        "https://openalex.org/W4318617096",
+        "https://openalex.org/W4319826237",
+        "https://openalex.org/W4322487878",
+        "https://openalex.org/W4362508074",
+        "https://openalex.org/W4362580681",
+        "https://openalex.org/W4366168953",
+        "https://openalex.org/W4383551476",
+        "https://openalex.org/W4385212868",
+        "https://openalex.org/W4386214156",
+        "https://openalex.org/W4387221150",
+        "https://openalex.org/W4387437512",
+        "https://openalex.org/W4389636497",
+        "https://openalex.org/W4390475072",
+        "https://openalex.org/W4390630540",
+        "https://openalex.org/W4392559216",
+        "https://openalex.org/W4392582599",
+        "https://openalex.org/W4393132371",
+        "https://openalex.org/W4393376793",
+        "https://openalex.org/W4394816185",
+        "https://openalex.org/W4394837151",
+        "https://openalex.org/W4394960619",
+        "https://openalex.org/W4396607793",
+        "https://openalex.org/W4396907299",
+        "https://openalex.org/W4399437179",
+        "https://openalex.org/W4401046387",
+        "https://openalex.org/W4402355276",
+        "https://openalex.org/W4402469109",
+        "https://openalex.org/W4405866995",
+        "https://openalex.org/W4410495230",
+        "https://openalex.org/W4410942210",
+        "https://openalex.org/W4412551575",
+        "https://openalex.org/W4413147490",
+        "https://openalex.org/W4414050526",
+        "https://openalex.org/W4415680395",
+        "https://openalex.org/W7083582223"
+      ],
+      "related_works": [
+        "https://openalex.org/W7119894233",
+        "https://openalex.org/W7066122167",
+        "https://openalex.org/W7203995775",
+        "https://openalex.org/W4411376698",
+        "https://openalex.org/W4409582667",
+        "https://openalex.org/W4403021661",
+        "https://openalex.org/W4388764005",
+        "https://openalex.org/W4415370785",
+        "https://openalex.org/W4412404373",
+        "https://openalex.org/W7165143349"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-08T12:12:28.789561",
+      "created_date": "2026-05-05T00:00:00"
     },
     {
       "id": "https://openalex.org/W2167330935",
@@ -56972,8 +57814,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2167330935.pdf",
@@ -58133,8 +58975,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -58867,8 +59709,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -59680,8 +60522,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4315434479.pdf",
@@ -61003,8 +61845,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -62745,8 +63587,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -62852,848 +63694,6 @@
       ],
       "updated_date": "2026-10-13T10:08:12.033832",
       "created_date": "2025-12-29T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W7160114819",
-      "doi": "https://doi.org/10.1007/s10668-026-07689-4",
-      "title": "Assessing water security, climate risk, and groundwater resilience for sustainable development in the Eastern Province of Saudi Arabia",
-      "display_name": "Assessing water security, climate risk, and groundwater resilience for sustainable development in the Eastern Province of Saudi Arabia",
-      "publication_year": 2026,
-      "publication_date": "2026-04-30",
-      "ids": {
-        "openalex": "https://openalex.org/W7160114819",
-        "doi": "https://doi.org/10.1007/s10668-026-07689-4"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s10668-026-07689-4",
-        "doi": "https://doi.org/10.1007/s10668-026-07689-4",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s10668-026-07689-4",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S155209994",
-          "display_name": "Environment Development and Sustainability",
-          "issn_l": "1387-585X",
-          "issn": [
-            "1387-585X",
-            "1573-2975"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-c",
-            "jufo-1",
-            "ki-jl-1",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Environment, Development and Sustainability",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5129708590",
-            "display_name": "Mahfuzur Rahman",
-            "orcid": "https://orcid.org/0000-0001-8402-156X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8402-156X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210132231",
-              "display_name": "International University of Business Agriculture and Technology",
-              "ror": "https://ror.org/02m32cr13",
-              "country_code": "BD",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ],
-          "countries": [
-            "BD",
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mahfuzur Rahman",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
-              "institution_ids": [
-                "https://openalex.org/I4210132231"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5109707707",
-            "display_name": "Md Anuwer Hossain",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210132231",
-              "display_name": "International University of Business Agriculture and Technology",
-              "ror": "https://ror.org/02m32cr13",
-              "country_code": "BD",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ],
-          "countries": [
-            "BD"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Md Anuwer Hossain",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
-              "institution_ids": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6246-7835"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5129661867",
-            "display_name": "Mahmudur Rahman",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210132231",
-              "display_name": "International University of Business Agriculture and Technology",
-              "ror": "https://ror.org/02m32cr13",
-              "country_code": "BD",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ],
-          "countries": [
-            "BD",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mahmudur Rahman",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
-              "institution_ids": [
-                "https://openalex.org/I4210132231"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5159658023",
-            "display_name": "Md Ahadul Islam Patwary",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210132231",
-              "display_name": "International University of Business Agriculture and Technology",
-              "ror": "https://ror.org/02m32cr13",
-              "country_code": "BD",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ],
-          "countries": [
-            "BD"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Md Ahadul Islam Patwary",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, International University of Business Agriculture and Technology, Dhaka, Bangladesh",
-              "institution_ids": [
-                "https://openalex.org/I4210132231"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5159659173",
-            "display_name": "Golden Odey",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Golden Odey",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5159711458",
-            "display_name": "Isam H. Aljundi",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Isam H. Aljundi",
-          "raw_affiliation_strings": [
-            "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes & Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5129708590"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210132231"
-      ],
-      "apc_list": {
-        "value": 2290,
-        "currency": "USD",
-        "value_usd": 2290
-      },
-      "apc_paid": null,
-      "fwci": 1.8479,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.83507139,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 95
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11186",
-        "display_name": "Hydrology and Drought Analysis",
-        "score": 0.8931000232696533,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2306",
-          "display_name": "Global and Planetary Change"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11186",
-          "display_name": "Hydrology and Drought Analysis",
-          "score": 0.8931000232696533,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10969",
-          "display_name": "Water resources management and optimization",
-          "score": 0.05050000175833702,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2312",
-            "display_name": "Water Science and Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11490",
-          "display_name": "Hydrological Forecasting Using AI",
-          "score": 0.020400000736117363,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/water-security",
-          "display_name": "water security",
-          "score": 0.9929999709129333
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-risk",
-          "display_name": "climate risk",
-          "score": 0.8259999752044678
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater-resilience",
-          "display_name": "groundwater resilience",
-          "score": 0.9950000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater-potential",
-          "display_name": "groundwater potential",
-          "score": 0.5860000252723694
-        },
-        {
-          "id": "https://openalex.org/keywords/drought-indices",
-          "display_name": "drought indices",
-          "score": 0.7730000019073486
-        },
-        {
-          "id": "https://openalex.org/keywords/evapotranspiration",
-          "display_name": "evapotranspiration",
-          "score": 0.7519999742507935
-        },
-        {
-          "id": "https://openalex.org/keywords/land-surface-temperature",
-          "display_name": "land surface temperature",
-          "score": 0.9610000252723694
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change-projections",
-          "display_name": "climate change projections",
-          "score": 0.5789999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/cmip6",
-          "display_name": "CMIP6",
-          "score": 0.7350000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/shared-socioeconomic-pathways",
-          "display_name": "Shared Socioeconomic Pathways",
-          "score": 0.7369999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/geospatial-artificial-intelligence",
-          "display_name": "GeoAI",
-          "score": 0.5830000042915344
-        },
-        {
-          "id": "https://openalex.org/keywords/arid-regions",
-          "display_name": "arid regions",
-          "score": 0.718999981880188
-        },
-        {
-          "id": "https://openalex.org/keywords/sustainable-water-management",
-          "display_name": "sustainable water management",
-          "score": 0.7049999833106995
-        },
-        {
-          "id": "https://openalex.org/keywords/eastern-province-saudi-arabia",
-          "display_name": "Eastern Province, Saudi Arabia",
-          "score": 0.8790000081062317
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C552854447",
-          "wikidata": "https://www.wikidata.org/wiki/Q131201",
-          "display_name": "Sustainable development",
-          "level": 2,
-          "score": 0.7311999797821045
-        },
-        {
-          "id": "https://openalex.org/C2779585090",
-          "wikidata": "https://www.wikidata.org/wiki/Q3457762",
-          "display_name": "Resilience (materials science)",
-          "level": 2,
-          "score": 0.5821999907493591
-        },
-        {
-          "id": "https://openalex.org/C524765639",
-          "wikidata": "https://www.wikidata.org/wiki/Q1501619",
-          "display_name": "Water resource management",
-          "level": 1,
-          "score": 0.5529999732971191
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.5120000243186951
-        },
-        {
-          "id": "https://openalex.org/C66204764",
-          "wikidata": "https://www.wikidata.org/wiki/Q219416",
-          "display_name": "Sustainability",
-          "level": 2,
-          "score": 0.4632999897003174
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.46239998936653137
-        },
-        {
-          "id": "https://openalex.org/C91375879",
-          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
-          "display_name": "Environmental planning",
-          "level": 1,
-          "score": 0.4514999985694885
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.4462999999523163
-        },
-        {
-          "id": "https://openalex.org/C526734887",
-          "wikidata": "https://www.wikidata.org/wiki/Q832237",
-          "display_name": "Environmental protection",
-          "level": 1,
-          "score": 0.3296000063419342
-        },
-        {
-          "id": "https://openalex.org/C137176749",
-          "wikidata": "https://www.wikidata.org/wiki/Q4105337",
-          "display_name": "Psychological resilience",
-          "level": 2,
-          "score": 0.31619998812675476
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3149999976158142
-        },
-        {
-          "id": "https://openalex.org/C153823671",
-          "wikidata": "https://www.wikidata.org/wiki/Q1049799",
-          "display_name": "Water resources",
-          "level": 2,
-          "score": 0.3149000108242035
-        },
-        {
-          "id": "https://openalex.org/C107826830",
-          "wikidata": "https://www.wikidata.org/wiki/Q929380",
-          "display_name": "Environmental resource management",
-          "level": 1,
-          "score": 0.3100000023841858
-        },
-        {
-          "id": "https://openalex.org/C95713431",
-          "wikidata": "https://www.wikidata.org/wiki/Q631425",
-          "display_name": "Vulnerability (computing)",
-          "level": 2,
-          "score": 0.2522999942302704
-        },
-        {
-          "id": "https://openalex.org/C2993807900",
-          "wikidata": "https://www.wikidata.org/wiki/Q1049799",
-          "display_name": "Groundwater resources",
-          "level": 4,
-          "score": 0.25220000743865967
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s10668-026-07689-4",
-          "doi": "https://doi.org/10.1007/s10668-026-07689-4",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s10668-026-07689-4",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S155209994",
-            "display_name": "Environment Development and Sustainability",
-            "issn_l": "1387-585X",
-            "issn": [
-              "1387-585X",
-              "1573-2975"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-c",
-              "jufo-1",
-              "ki-jl-1",
-              "norway-1",
-              "poland-40",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Environment, Development and Sustainability",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
-        },
-        {
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977,
-          "display_name": "Clean water and sanitation"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 64,
-      "referenced_works": [
-        "https://openalex.org/W1888268865",
-        "https://openalex.org/W1983897182",
-        "https://openalex.org/W2037855854",
-        "https://openalex.org/W2048968715",
-        "https://openalex.org/W2059320386",
-        "https://openalex.org/W2080584583",
-        "https://openalex.org/W2090792035",
-        "https://openalex.org/W2128104848",
-        "https://openalex.org/W2275873056",
-        "https://openalex.org/W2535655240",
-        "https://openalex.org/W2736478985",
-        "https://openalex.org/W2770949156",
-        "https://openalex.org/W2807084824",
-        "https://openalex.org/W2908965886",
-        "https://openalex.org/W2972365774",
-        "https://openalex.org/W2991006026",
-        "https://openalex.org/W3003542426",
-        "https://openalex.org/W3081551152",
-        "https://openalex.org/W3086074313",
-        "https://openalex.org/W3091976521",
-        "https://openalex.org/W3182706339",
-        "https://openalex.org/W3188744712",
-        "https://openalex.org/W3208268338",
-        "https://openalex.org/W4212928315",
-        "https://openalex.org/W4280632061",
-        "https://openalex.org/W4281641492",
-        "https://openalex.org/W4283696483",
-        "https://openalex.org/W4304806286",
-        "https://openalex.org/W4308545238",
-        "https://openalex.org/W4318617096",
-        "https://openalex.org/W4319826237",
-        "https://openalex.org/W4322487878",
-        "https://openalex.org/W4362508074",
-        "https://openalex.org/W4362580681",
-        "https://openalex.org/W4366168953",
-        "https://openalex.org/W4383551476",
-        "https://openalex.org/W4385212868",
-        "https://openalex.org/W4386214156",
-        "https://openalex.org/W4387221150",
-        "https://openalex.org/W4387437512",
-        "https://openalex.org/W4389636497",
-        "https://openalex.org/W4390475072",
-        "https://openalex.org/W4390630540",
-        "https://openalex.org/W4392559216",
-        "https://openalex.org/W4392582599",
-        "https://openalex.org/W4393132371",
-        "https://openalex.org/W4393376793",
-        "https://openalex.org/W4394816185",
-        "https://openalex.org/W4394837151",
-        "https://openalex.org/W4394960619",
-        "https://openalex.org/W4396607793",
-        "https://openalex.org/W4396907299",
-        "https://openalex.org/W4399437179",
-        "https://openalex.org/W4401046387",
-        "https://openalex.org/W4402355276",
-        "https://openalex.org/W4402469109",
-        "https://openalex.org/W4405866995",
-        "https://openalex.org/W4410495230",
-        "https://openalex.org/W4410942210",
-        "https://openalex.org/W4412551575",
-        "https://openalex.org/W4413147490",
-        "https://openalex.org/W4414050526",
-        "https://openalex.org/W4415680395",
-        "https://openalex.org/W7083582223"
-      ],
-      "related_works": [
-        "https://openalex.org/W7119894233",
-        "https://openalex.org/W7066122167",
-        "https://openalex.org/W7203995775",
-        "https://openalex.org/W4411376698",
-        "https://openalex.org/W4409582667",
-        "https://openalex.org/W4403021661",
-        "https://openalex.org/W4388764005",
-        "https://openalex.org/W4415370785",
-        "https://openalex.org/W4412404373",
-        "https://openalex.org/W7165143349"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-27T15:51:10.671819",
-      "created_date": "2026-05-05T00:00:00"
     },
     {
       "id": "https://openalex.org/W7165841200",
@@ -64452,8 +64452,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7165841200.pdf",
@@ -65672,8 +65672,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -66799,8 +66799,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67711,8 +67711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68850,8 +68850,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -69376,7 +69376,7 @@
         },
         {
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.9074000120162964,
+          "score": 0.8371999859809875,
           "display_name": "Good health and well-being"
         }
       ],
@@ -69384,8 +69384,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -69802,7 +69802,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2025-03-15T00:00:00"
     },
     {
@@ -70408,8 +70408,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2539001916.pdf",
@@ -71617,8 +71617,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -72944,8 +72944,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -74006,8 +74006,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74400,8 +74400,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -74858,8 +74858,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -75450,8 +75450,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76425,8 +76425,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77652,8 +77652,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78988,7 +78988,7 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.965499997138977,
+          "score": 0.9090999960899353,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -78996,8 +78996,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -79592,7 +79592,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2024-03-09T00:00:00"
     },
     {
@@ -80158,8 +80158,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -81564,8 +81564,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128452096.pdf",
@@ -83184,8 +83184,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128704649.pdf",
@@ -84468,8 +84468,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -85675,8 +85675,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87048,7 +87048,7 @@
         },
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.9090999960899353,
+          "score": 0.8999999761581421,
           "display_name": "Clean water and sanitation"
         },
         {
@@ -87061,8 +87061,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87633,7 +87633,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-03-14T00:00:00"
     },
     {
@@ -88234,8 +88234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -89034,8 +89034,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155098166.pdf"
@@ -89295,7 +89295,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80050136,
+        "value": 0.78972848,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -89553,8 +89553,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90527,8 +90527,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91262,8 +91262,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -92050,8 +92050,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -92898,7 +92898,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37518757,
+        "value": 0.36488505,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -93299,8 +93299,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -94652,8 +94652,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -96061,8 +96061,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -97233,7 +97233,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46383834,
+        "value": 0.45350093,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97553,8 +97553,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7202130880.pdf",
@@ -98809,8 +98809,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7203693229.pdf",
@@ -99889,7 +99889,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78112361,
+        "value": 0.77967791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99906,7 +99906,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11206",
         "display_name": "Model Reduction and Neural Networks",
-        "score": 0.7997999787330627,
+        "score": 0.9692000150680542,
         "subfield": {
           "id": "https://openalex.org/subfields/3109",
           "display_name": "Statistical and Nonlinear Physics"
@@ -99924,7 +99924,7 @@
         {
           "id": "https://openalex.org/T11206",
           "display_name": "Model Reduction and Neural Networks",
-          "score": 0.7997999787330627,
+          "score": 0.9692000150680542,
           "subfield": {
             "id": "https://openalex.org/subfields/3109",
             "display_name": "Statistical and Nonlinear Physics"
@@ -99941,7 +99941,7 @@
         {
           "id": "https://openalex.org/T11490",
           "display_name": "Hydrological Forecasting Using AI",
-          "score": 0.18330000340938568,
+          "score": 0.018799999728798866,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -99958,7 +99958,7 @@
         {
           "id": "https://openalex.org/T10894",
           "display_name": "Groundwater flow and contamination studies",
-          "score": 0.004699999932199717,
+          "score": 0.007300000172108412,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -99980,19 +99980,54 @@
           "score": 1
         },
         {
-          "id": "https://openalex.org/keywords/groundwater-flow",
-          "display_name": "groundwater flow",
-          "score": 0.765999972820282
+          "id": "https://openalex.org/keywords/groundwater-flow-modeling",
+          "display_name": "groundwater flow modeling",
+          "score": 0.9739999771118164
         },
         {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "hydrogeology",
-          "score": 0.6299999952316284
+          "id": "https://openalex.org/keywords/inverse-problems",
+          "display_name": "inverse problems",
+          "score": 0.6880000233650208
         },
         {
-          "id": "https://openalex.org/keywords/data-assimilation",
-          "display_name": "data assimilation",
-          "score": 0.5249999761581421
+          "id": "https://openalex.org/keywords/surrogate-modeling",
+          "display_name": "surrogate models",
+          "score": 0.7820000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/data-scarce-conditions",
+          "display_name": "data-scarce conditions",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/unsteady-flow",
+          "display_name": "unsteady flow",
+          "score": 0.5550000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer-heterogeneity",
+          "display_name": "aquifer heterogeneity",
+          "score": 0.6449999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/parameter-estimation",
+          "display_name": "parameter estimation",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/uncertainty-quantification",
+          "display_name": "uncertainty quantification",
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/loss-weighting",
+          "display_name": "loss weighting",
+          "score": 0.5230000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/hyperparameter-sensitivity",
+          "display_name": "hyperparameter sensitivity",
+          "score": 0.7490000128746033
         }
       ],
       "concepts": [
@@ -100200,8 +100235,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -100855,7 +100890,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-11-04T00:00:00"
     }
   ]

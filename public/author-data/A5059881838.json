@@ -161,7 +161,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 53,
+        "count": 52,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "count": 39,
+        "count": 40,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -231,7 +231,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.000163,
+        "value": 0.0001629,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -248,7 +248,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0001135,
+        "value": 0.0001137,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -265,7 +265,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0001084,
+        "value": 0.0001086,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -282,7 +282,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000731,
+        "value": 0.0000749,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -299,7 +299,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000722,
+        "value": 0.0000723,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -445,7 +445,7 @@
     ],
     "block_key": "a koeshidayatullah",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059881838",
-    "updated_date": "2026-11-07T12:08:38",
+    "updated_date": "2026-11-08T12:57:04",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1576,11 +1576,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 3.7117,
+      "fwci": 3.7112,
       "has_fulltext": false,
       "cited_by_count": 100,
       "citation_normalized_percentile": {
-        "value": 0.94384768,
+        "value": 0.94383006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1600,7 +1600,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10036",
         "display_name": "Advanced Neural Network Applications",
-        "score": 0.76419997215271,
+        "score": 0.7573000192642212,
         "subfield": {
           "id": "https://openalex.org/subfields/1707",
           "display_name": "Computer Vision and Pattern Recognition"
@@ -1618,7 +1618,7 @@
         {
           "id": "https://openalex.org/T10036",
           "display_name": "Advanced Neural Network Applications",
-          "score": 0.76419997215271,
+          "score": 0.7573000192642212,
           "subfield": {
             "id": "https://openalex.org/subfields/1707",
             "display_name": "Computer Vision and Pattern Recognition"
@@ -1635,7 +1635,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.08829999715089798,
+          "score": 0.09449999779462814,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -1652,7 +1652,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.023499999195337296,
+          "score": 0.024800000712275505,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -1671,37 +1671,42 @@
         {
           "id": "https://openalex.org/keywords/carbonate-petrography",
           "display_name": "carbonate petrography",
-          "score": 0.9900000095367432
+          "score": 0.9909999966621399
         },
         {
           "id": "https://openalex.org/keywords/deep-convolutional-neural-networks",
           "display_name": "deep convolutional neural networks",
-          "score": 0.8840000033378601
+          "score": 0.8899999856948853
         },
         {
           "id": "https://openalex.org/keywords/object-detection",
           "display_name": "object detection",
-          "score": 0.9490000009536743
+          "score": 0.9480000138282776
         },
         {
           "id": "https://openalex.org/keywords/image-classification",
           "display_name": "image classification",
-          "score": 0.8970000147819519
+          "score": 0.9039999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-cement",
+          "display_name": "carbonate cement",
+          "score": 0.5460000038146973
         },
         {
           "id": "https://openalex.org/keywords/thin-sections",
           "display_name": "thin sections",
-          "score": 0.6669999957084656
+          "score": 0.7179999947547913
         },
         {
           "id": "https://openalex.org/keywords/class-imbalance",
           "display_name": "class imbalance",
-          "score": 0.6679999828338623
+          "score": 0.6890000104904175
         },
         {
           "id": "https://openalex.org/keywords/lithofacies-classification",
           "display_name": "lithofacies classification",
-          "score": 0.6050000190734863
+          "score": 0.6209999918937683
         }
       ],
       "concepts": [
@@ -2980,7 +2985,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2020-09-08T00:00:00"
     },
     {
@@ -46827,14 +46832,14 @@
     },
     {
       "id": "https://openalex.org/W4365516011",
-      "doi": "https://doi.org/10.2139/ssrn.4197997",
+      "doi": "https://doi.org/10.3389/feart.2023.1105547",
       "title": "Impact of Magmatic Intrusion on Diagenesis of Shallow Marine Sandstones: An Example from Qasim Formation, Northwest Saudi Arabia",
       "display_name": "Impact of Magmatic Intrusion on Diagenesis of Shallow Marine Sandstones: An Example from Qasim Formation, Northwest Saudi Arabia",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
       "ids": {
         "openalex": "https://openalex.org/W4365516011",
-        "doi": "https://doi.org/10.2139/ssrn.4197997"
+        "doi": "https://doi.org/10.3389/feart.2023.1105547"
       },
       "language": "en",
       "primary_location": {
@@ -47203,11 +47208,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.8686,
+      "fwci": 1.8677,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.84377863,
+        "value": 0.84364135,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48552,7 +48557,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2023-04-15T00:00:00"
     },
     {
@@ -76008,11 +76013,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 56.125,
+      "fwci": 57.3846,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.99643494,
+        "value": 0.99642378,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -77070,11 +77075,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 56.125,
+      "fwci": 57.3846,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.99688057,
+        "value": 0.99687081,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -82677,11 +82682,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2318,
+      "fwci": 0.2267,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.44327657,
+        "value": 0.44331662,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85811,11 +85816,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.551,
+      "fwci": 8.789,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.95886822,
+        "value": 0.95927956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -93835,11 +93840,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.14,
+      "fwci": 1.1538,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.72229361,
+        "value": 0.72280083,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97011,11 +97016,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6068,
+      "fwci": 1.6086,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.77894737,
+        "value": 0.77964072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97035,7 +97040,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.5795999765396118,
+        "score": 0.6366999745368958,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -97053,7 +97058,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.5795999765396118,
+          "score": 0.6366999745368958,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -97070,7 +97075,7 @@
         {
           "id": "https://openalex.org/T10995",
           "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.3197999894618988,
+          "score": 0.326200008392334,
           "subfield": {
             "id": "https://openalex.org/subfields/2304",
             "display_name": "Environmental Chemistry"
@@ -97085,12 +97090,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.05310000106692314,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.020999999716877937,
           "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -97106,27 +97111,67 @@
         {
           "id": "https://openalex.org/keywords/gas-chimneys",
           "display_name": "gas chimneys",
-          "score": 0.8379999995231628
+          "score": 0.9089999794960022
         },
         {
           "id": "https://openalex.org/keywords/siltstone",
           "display_name": "siltstone",
-          "score": 0.9599999785423279
+          "score": 0.7300000190734863
         },
         {
-          "id": "https://openalex.org/keywords/carbonates",
-          "display_name": "carbonates",
-          "score": 0.9100000262260437
+          "id": "https://openalex.org/keywords/carbonate-rocks",
+          "display_name": "carbonate rocks",
+          "score": 0.6769999861717224
         },
         {
-          "id": "https://openalex.org/keywords/gas-seeps",
-          "display_name": "gas seepage",
-          "score": 0.5609999895095825
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "diagenesis",
+          "score": 0.8529999852180481
         },
         {
-          "id": "https://openalex.org/keywords/sediment-characteristics",
-          "display_name": "sediment characteristics",
-          "score": 0.38199999928474426
+          "id": "https://openalex.org/keywords/methane",
+          "display_name": "methane",
+          "score": 0.33500000834465027
+        },
+        {
+          "id": "https://openalex.org/keywords/anaerobic-oxidation-of-methane",
+          "display_name": "anaerobic oxidation of methane",
+          "score": 0.9490000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/microbially-induced-carbonate-precipitation",
+          "display_name": "microbial carbonate precipitation",
+          "score": 0.7710000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/calcite-cementation",
+          "display_name": "calcite cementation",
+          "score": 0.75
+        },
+        {
+          "id": "https://openalex.org/keywords/silicification",
+          "display_name": "silicification",
+          "score": 0.9900000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/mesogenesis",
+          "display_name": "mesogenesis",
+          "score": 0.5379999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/biogenic-gas",
+          "display_name": "biogenic gas",
+          "score": 0.7450000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/petrographic-texture",
+          "display_name": "petrographic texture",
+          "score": 0.6150000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/makassar-strait",
+          "display_name": "Makassar Strait",
+          "score": 0.9279999732971191
         }
       ],
       "concepts": [
@@ -98054,7 +98099,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-27T15:51:10.671819",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2024-06-06T00:00:00"
     },
     {
@@ -113095,7 +113140,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.33570000529289246,
+        "score": 0.4975999891757965,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -113113,7 +113158,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.33570000529289246,
+          "score": 0.4975999891757965,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -113130,7 +113175,7 @@
         {
           "id": "https://openalex.org/T10001",
           "display_name": "Geological and Geochemical Analysis",
-          "score": 0.2363000065088272,
+          "score": 0.1664000004529953,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -113147,7 +113192,7 @@
         {
           "id": "https://openalex.org/T11740",
           "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.15309999883174896,
+          "score": 0.11460000276565552,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -113166,52 +113211,77 @@
         {
           "id": "https://openalex.org/keywords/hydrothermal-dolomitization",
           "display_name": "hydrothermal dolomitization",
-          "score": 0.996999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/middle-cambrian",
-          "display_name": "Middle Cambrian",
-          "score": 0.890999972820282
+          "score": 0.9990000128746033
         },
         {
           "id": "https://openalex.org/keywords/dolostone",
           "display_name": "dolostone",
-          "score": 0.7099999785423279
-        },
-        {
-          "id": "https://openalex.org/keywords/fluid-sources",
-          "display_name": "fluid sources",
-          "score": 0.36399999260902405
-        },
-        {
-          "id": "https://openalex.org/keywords/oxygen-isotopes",
-          "display_name": "oxygen isotopes",
-          "score": 0.7089999914169312
-        },
-        {
-          "id": "https://openalex.org/keywords/strontium-isotopes",
-          "display_name": "strontium isotopes",
-          "score": 0.9570000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/rare-earth-elements",
-          "display_name": "rare earth elements",
-          "score": 0.9660000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/metasomatism",
-          "display_name": "metasomatism",
-          "score": 0.6520000100135803
+          "score": 0.7390000224113464
         },
         {
           "id": "https://openalex.org/keywords/western-canada-sedimentary-basin",
           "display_name": "Western Canada Sedimentary Basin",
-          "score": 0.6539999842643738
+          "score": 0.8679999709129333
         },
         {
-          "id": "https://openalex.org/keywords/bioturbation",
-          "display_name": "bioturbation",
-          "score": 0.42500001192092896
+          "id": "https://openalex.org/keywords/magnesium-source",
+          "display_name": "magnesium source",
+          "score": 0.628000020980835
+        },
+        {
+          "id": "https://openalex.org/keywords/serpentinite",
+          "display_name": "serpentinite",
+          "score": 0.5270000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/fluid-sources",
+          "display_name": "fluid sources",
+          "score": 0.3709999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/oxygen-isotopes",
+          "display_name": "oxygen isotopes",
+          "score": 0.5590000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/strontium-isotopes",
+          "display_name": "strontium isotopes",
+          "score": 0.949999988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/rare-earth-elements",
+          "display_name": "rare earth elements",
+          "score": 0.9509999752044678
+        },
+        {
+          "id": "https://openalex.org/keywords/europium-anomaly",
+          "display_name": "Eu anomaly",
+          "score": 0.46000000834465027
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-rich-fluids",
+          "display_name": "CO2-rich fluids",
+          "score": 0.4749999940395355
+        },
+        {
+          "id": "https://openalex.org/keywords/metasomatism",
+          "display_name": "metasomatism",
+          "score": 0.7129999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/subduction-complex",
+          "display_name": "subduction complex",
+          "score": 0.5249999761581421
+        },
+        {
+          "id": "https://openalex.org/keywords/middle-cambrian",
+          "display_name": "Middle Cambrian",
+          "score": 0.6710000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/stylolites",
+          "display_name": "stylolites",
+          "score": 0.5090000033378601
         }
       ],
       "concepts": [
@@ -114458,7 +114528,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -150711,7 +150781,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36147378,
+        "value": 0.35064649,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -156385,7 +156455,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67857143,
+        "value": 0.69444444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -156402,7 +156472,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9990000128746033,
+        "score": 0.9994999766349792,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -156420,7 +156490,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9990000128746033,
+          "score": 0.9994999766349792,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -156428,23 +156498,6 @@
           "field": {
             "id": "https://openalex.org/fields/19",
             "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11948",
-          "display_name": "Machine Learning in Materials Science",
-          "score": 0.00019999999494757503,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2505",
-            "display_name": "Materials Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/25",
-            "display_name": "Materials Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -156467,48 +156520,55 @@
             "id": "https://openalex.org/domains/3",
             "display_name": "Physical Sciences"
           }
+        },
+        {
+          "id": "https://openalex.org/T11948",
+          "display_name": "Machine Learning in Materials Science",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2505",
+            "display_name": "Materials Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/25",
+            "display_name": "Materials Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
         }
       ],
       "keywords": [
         {
+          "id": "https://openalex.org/keywords/polymetallic-mineralization",
+          "display_name": "polymetallic mineralization",
+          "score": 0.8069999814033508
+        },
+        {
           "id": "https://openalex.org/keywords/gold-silver-mineralization",
           "display_name": "gold-silver mineralization",
-          "score": 0.8790000081062317
+          "score": 0.8339999914169312
+        },
+        {
+          "id": "https://openalex.org/keywords/machine-learning-classification",
+          "display_name": "machine learning classification",
+          "score": 0.6539999842643738
         },
         {
           "id": "https://openalex.org/keywords/soil-geochemistry",
           "display_name": "soil geochemistry",
-          "score": 0.7940000295639038
-        },
-        {
-          "id": "https://openalex.org/keywords/mineral-exploration",
-          "display_name": "mineral exploration",
-          "score": 0.5109999775886536
-        },
-        {
-          "id": "https://openalex.org/keywords/random-forest",
-          "display_name": "random forest",
-          "score": 0.5879999995231628
-        },
-        {
-          "id": "https://openalex.org/keywords/xgboost",
-          "display_name": "XGBoost",
-          "score": 0.9990000128746033
-        },
-        {
-          "id": "https://openalex.org/keywords/support-vector-machine",
-          "display_name": "support vector machine",
-          "score": 0.9919999837875366
+          "score": 0.7089999914169312
         },
         {
           "id": "https://openalex.org/keywords/feature-importance",
           "display_name": "feature importance",
-          "score": 0.8949999809265137
+          "score": 0.8259999752044678
         },
         {
           "id": "https://openalex.org/keywords/data-balancing",
           "display_name": "data balancing",
-          "score": 0.6240000128746033
+          "score": 0.3059999942779541
         }
       ],
       "concepts": [
@@ -156870,7 +156930,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-08-16T00:00:00"
     },
     {
@@ -157439,7 +157499,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60400914,
+        "value": 0.59616056,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -157525,44 +157585,79 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/ocean-anoxia",
-          "display_name": "ocean anoxia",
-          "score": 0.9639999866485596
-        },
-        {
-          "id": "https://openalex.org/keywords/eustasy",
-          "display_name": "eustasy",
-          "score": 0.9810000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonic-control",
-          "display_name": "tectonic control",
-          "score": 0.8519999980926514
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate-factory",
-          "display_name": "carbonate factory",
-          "score": 0.7379999756813049
+          "id": "https://openalex.org/keywords/oceanic-anoxic-event-1a",
+          "display_name": "Oceanic Anoxic Event 1a",
+          "score": 0.9919999837875366
         },
         {
           "id": "https://openalex.org/keywords/aptian",
           "display_name": "Aptian",
-          "score": 0.9909999966621399
+          "score": 0.7020000219345093
         },
         {
           "id": "https://openalex.org/keywords/intrashelf-basin",
           "display_name": "intrashelf basin",
-          "score": 0.9890000224113464
+          "score": 0.7879999876022339
         },
         {
-          "id": "https://openalex.org/keywords/carbonate-sedimentation",
-          "display_name": "carbonate sedimentation",
-          "score": 0.5350000262260437
+          "id": "https://openalex.org/keywords/carbonate-factory",
+          "display_name": "carbonate factory",
+          "score": 0.722000002861023
         },
         {
-          "id": "https://openalex.org/keywords/cretaceous-paleoenvironment",
-          "display_name": "Cretaceous paleoenvironment",
-          "score": 0.531000018119812
+          "id": "https://openalex.org/keywords/zagros-basin",
+          "display_name": "Zagros Basin",
+          "score": 0.8019999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/calcareous-nannofossils",
+          "display_name": "calcareous nannofossils",
+          "score": 0.8259999752044678
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoecology",
+          "display_name": "paleoecology",
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/microfacies",
+          "display_name": "microfacies",
+          "score": 0.7910000085830688
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.984000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/differential-subsidence",
+          "display_name": "differential subsidence",
+          "score": 0.8040000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-isotopes",
+          "display_name": "carbon isotopes",
+          "score": 0.6759999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/eustasy",
+          "display_name": "eustasy",
+          "score": 0.722000002861023
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonic-control",
+          "display_name": "tectonic control",
+          "score": 0.6980000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-platform",
+          "display_name": "carbonate platform",
+          "score": 0.6179999709129333
+        },
+        {
+          "id": "https://openalex.org/keywords/nutrient-enrichment",
+          "display_name": "nutrient enrichment",
+          "score": 0.46700000762939453
         }
       ],
       "concepts": [
@@ -157910,7 +158005,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-09-11T00:00:00"
     },
     {
@@ -162413,7 +162508,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78112361,
+        "value": 0.77967791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -162430,7 +162525,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11206",
         "display_name": "Model Reduction and Neural Networks",
-        "score": 0.7997999787330627,
+        "score": 0.9692000150680542,
         "subfield": {
           "id": "https://openalex.org/subfields/3109",
           "display_name": "Statistical and Nonlinear Physics"
@@ -162448,7 +162543,7 @@
         {
           "id": "https://openalex.org/T11206",
           "display_name": "Model Reduction and Neural Networks",
-          "score": 0.7997999787330627,
+          "score": 0.9692000150680542,
           "subfield": {
             "id": "https://openalex.org/subfields/3109",
             "display_name": "Statistical and Nonlinear Physics"
@@ -162465,7 +162560,7 @@
         {
           "id": "https://openalex.org/T11490",
           "display_name": "Hydrological Forecasting Using AI",
-          "score": 0.18330000340938568,
+          "score": 0.018799999728798866,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -162482,7 +162577,7 @@
         {
           "id": "https://openalex.org/T10894",
           "display_name": "Groundwater flow and contamination studies",
-          "score": 0.004699999932199717,
+          "score": 0.007300000172108412,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -162504,19 +162599,54 @@
           "score": 1
         },
         {
-          "id": "https://openalex.org/keywords/groundwater-flow",
-          "display_name": "groundwater flow",
-          "score": 0.765999972820282
+          "id": "https://openalex.org/keywords/groundwater-flow-modeling",
+          "display_name": "groundwater flow modeling",
+          "score": 0.9739999771118164
         },
         {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "hydrogeology",
-          "score": 0.6299999952316284
+          "id": "https://openalex.org/keywords/inverse-problems",
+          "display_name": "inverse problems",
+          "score": 0.6880000233650208
         },
         {
-          "id": "https://openalex.org/keywords/data-assimilation",
-          "display_name": "data assimilation",
-          "score": 0.5249999761581421
+          "id": "https://openalex.org/keywords/surrogate-modeling",
+          "display_name": "surrogate models",
+          "score": 0.7820000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/data-scarce-conditions",
+          "display_name": "data-scarce conditions",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/unsteady-flow",
+          "display_name": "unsteady flow",
+          "score": 0.5550000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer-heterogeneity",
+          "display_name": "aquifer heterogeneity",
+          "score": 0.6449999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/parameter-estimation",
+          "display_name": "parameter estimation",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/uncertainty-quantification",
+          "display_name": "uncertainty quantification",
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/loss-weighting",
+          "display_name": "loss weighting",
+          "score": 0.5230000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/hyperparameter-sensitivity",
+          "display_name": "hyperparameter sensitivity",
+          "score": 0.7490000128746033
         }
       ],
       "concepts": [
@@ -163379,7 +163509,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-11-04T00:00:00"
     }
   ]

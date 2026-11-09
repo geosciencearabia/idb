@@ -191,7 +191,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0002157,
+        "value": 0.0002156,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -208,7 +208,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0001387,
+        "value": 0.0001385,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001203,
+        "value": 0.0001205,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -259,7 +259,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.000067,
+        "value": 0.0000668,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -2695,11 +2695,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 3.7117,
+      "fwci": 3.7112,
       "has_fulltext": false,
       "cited_by_count": 100,
       "citation_normalized_percentile": {
-        "value": 0.94384768,
+        "value": 0.94383006,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2719,7 +2719,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10036",
         "display_name": "Advanced Neural Network Applications",
-        "score": 0.76419997215271,
+        "score": 0.7573000192642212,
         "subfield": {
           "id": "https://openalex.org/subfields/1707",
           "display_name": "Computer Vision and Pattern Recognition"
@@ -2737,7 +2737,7 @@
         {
           "id": "https://openalex.org/T10036",
           "display_name": "Advanced Neural Network Applications",
-          "score": 0.76419997215271,
+          "score": 0.7573000192642212,
           "subfield": {
             "id": "https://openalex.org/subfields/1707",
             "display_name": "Computer Vision and Pattern Recognition"
@@ -2754,7 +2754,7 @@
         {
           "id": "https://openalex.org/T12157",
           "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.08829999715089798,
+          "score": 0.09449999779462814,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -2771,7 +2771,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.023499999195337296,
+          "score": 0.024800000712275505,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -2790,37 +2790,42 @@
         {
           "id": "https://openalex.org/keywords/carbonate-petrography",
           "display_name": "carbonate petrography",
-          "score": 0.9900000095367432
+          "score": 0.9909999966621399
         },
         {
           "id": "https://openalex.org/keywords/deep-convolutional-neural-networks",
           "display_name": "deep convolutional neural networks",
-          "score": 0.8840000033378601
+          "score": 0.8899999856948853
         },
         {
           "id": "https://openalex.org/keywords/object-detection",
           "display_name": "object detection",
-          "score": 0.9490000009536743
+          "score": 0.9480000138282776
         },
         {
           "id": "https://openalex.org/keywords/image-classification",
           "display_name": "image classification",
-          "score": 0.8970000147819519
+          "score": 0.9039999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate-cement",
+          "display_name": "carbonate cement",
+          "score": 0.5460000038146973
         },
         {
           "id": "https://openalex.org/keywords/thin-sections",
           "display_name": "thin sections",
-          "score": 0.6669999957084656
+          "score": 0.7179999947547913
         },
         {
           "id": "https://openalex.org/keywords/class-imbalance",
           "display_name": "class imbalance",
-          "score": 0.6679999828338623
+          "score": 0.6890000104904175
         },
         {
           "id": "https://openalex.org/keywords/lithofacies-classification",
           "display_name": "lithofacies classification",
-          "score": 0.6050000190734863
+          "score": 0.6209999918937683
         }
       ],
       "concepts": [
@@ -4099,7 +4104,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2020-09-08T00:00:00"
     },
     {
@@ -19169,9 +19174,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -38139,14 +38144,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.9786999821662903,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
+          "score": 0.4000000059604645,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4000000059604645
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -41309,9 +41314,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -49766,9 +49771,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -52738,9 +52743,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6618000268936157,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -53450,19 +53455,19 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
+          "score": 0.5171999931335449,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5171999931335449
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "study_designs": [],
@@ -54981,14 +54986,14 @@
     },
     {
       "id": "https://openalex.org/W4365516011",
-      "doi": "https://doi.org/10.2139/ssrn.4197997",
+      "doi": "https://doi.org/10.3389/feart.2023.1105547",
       "title": "Impact of Magmatic Intrusion on Diagenesis of Shallow Marine Sandstones: An Example from Qasim Formation, Northwest Saudi Arabia",
       "display_name": "Impact of Magmatic Intrusion on Diagenesis of Shallow Marine Sandstones: An Example from Qasim Formation, Northwest Saudi Arabia",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
       "ids": {
         "openalex": "https://openalex.org/W4365516011",
-        "doi": "https://doi.org/10.2139/ssrn.4197997"
+        "doi": "https://doi.org/10.3389/feart.2023.1105547"
       },
       "language": "en",
       "primary_location": {
@@ -55357,11 +55362,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.8686,
+      "fwci": 1.8677,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.84377863,
+        "value": 0.84364135,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56706,7 +56711,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2023-04-15T00:00:00"
     },
     {
@@ -61446,9 +61451,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -73741,9 +73746,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -76246,14 +76251,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.685699999332428,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428
+          "id": "https://metadata.un.org/sdg/13"
         },
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -77832,9 +77837,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -81878,9 +81883,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -83901,9 +83906,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -92397,9 +92402,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -95709,9 +95714,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8485000133514404,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8485000133514404
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -96892,11 +96897,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 27.8945,
+      "fwci": 27.3234,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.99120064,
+        "value": 0.99084967,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -97534,14 +97539,14 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
+          "score": 0.685699999332428,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -98664,9 +98669,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -107420,9 +107425,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -120816,9 +120821,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -128731,9 +128736,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -131924,9 +131929,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 1
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -141785,9 +141790,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.46149998903274536,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -148424,9 +148429,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -150777,9 +150782,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.46149998903274536,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -151577,9 +151582,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.9853000044822693,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9853000044822693
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -157607,9 +157612,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -163114,7 +163119,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63358041,
+        "value": 0.62315705,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -163709,7 +163714,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.66523964,
+        "value": 0.65378623,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -163797,27 +163802,52 @@
         {
           "id": "https://openalex.org/keywords/hydrogen-production",
           "display_name": "hydrogen production",
-          "score": 0.9229999780654907
+          "score": 0.8870000243186951
         },
         {
           "id": "https://openalex.org/keywords/glauconitic-sandstone",
           "display_name": "glauconitic sandstone",
-          "score": 0.9020000100135803
+          "score": 0.8830000162124634
         },
         {
           "id": "https://openalex.org/keywords/water-rock-interaction",
           "display_name": "water-rock interaction",
-          "score": 0.949999988079071
+          "score": 0.843999981880188
         },
         {
           "id": "https://openalex.org/keywords/hydrothermal-experiments",
           "display_name": "hydrothermal experiments",
-          "score": 0.8410000205039978
+          "score": 0.746999979019165
         },
         {
-          "id": "https://openalex.org/keywords/glauconite",
-          "display_name": "glauconite",
-          "score": 0.5659999847412109
+          "id": "https://openalex.org/keywords/iron-minerals",
+          "display_name": "iron minerals",
+          "score": 0.6899999976158142
+        },
+        {
+          "id": "https://openalex.org/keywords/gas-composition",
+          "display_name": "gas composition",
+          "score": 0.5120000243186951
+        },
+        {
+          "id": "https://openalex.org/keywords/sulfur-speciation",
+          "display_name": "sulfur speciation",
+          "score": 0.6159999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-speciation",
+          "display_name": "carbon speciation",
+          "score": 0.8240000009536743
+        },
+        {
+          "id": "https://openalex.org/keywords/fluid-rock-ratio",
+          "display_name": "fluid/rock ratio",
+          "score": 0.8539999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/geologic-hydrogen",
+          "display_name": "geologic hydrogen",
+          "score": 0.5009999871253967
         }
       ],
       "concepts": [
@@ -163989,9 +164019,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -164541,7 +164571,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-01T11:40:01.658920",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-09-30T00:00:00"
     },
     {
@@ -165325,9 +165355,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -166167,7 +166197,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64738265,
+        "value": 0.63524174,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -166494,9 +166524,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -167254,7 +167284,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70743001,
+        "value": 0.70912548,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -167271,7 +167301,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T12859",
         "display_name": "Cell Image Analysis Techniques",
-        "score": 0.9526000022888184,
+        "score": 0.6669999957084656,
         "subfield": {
           "id": "https://openalex.org/subfields/1304",
           "display_name": "Biophysics"
@@ -167289,7 +167319,7 @@
         {
           "id": "https://openalex.org/T12859",
           "display_name": "Cell Image Analysis Techniques",
-          "score": 0.9526000022888184,
+          "score": 0.6669999957084656,
           "subfield": {
             "id": "https://openalex.org/subfields/1304",
             "display_name": "Biophysics"
@@ -167306,7 +167336,7 @@
         {
           "id": "https://openalex.org/T10036",
           "display_name": "Advanced Neural Network Applications",
-          "score": 0.012199999764561653,
+          "score": 0.23849999904632568,
           "subfield": {
             "id": "https://openalex.org/subfields/1707",
             "display_name": "Computer Vision and Pattern Recognition"
@@ -167323,7 +167353,7 @@
         {
           "id": "https://openalex.org/T13114",
           "display_name": "Image Processing Techniques and Applications",
-          "score": 0.0038999998942017555,
+          "score": 0.017899999395012856,
           "subfield": {
             "id": "https://openalex.org/subfields/2214",
             "display_name": "Media Technology"
@@ -167342,32 +167372,57 @@
         {
           "id": "https://openalex.org/keywords/foraminifera",
           "display_name": "foraminifera",
-          "score": 0.984000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/foraminiferal-tests",
-          "display_name": "foraminiferal tests",
-          "score": 0.9010000228881836
+          "score": 0.8840000033378601
         },
         {
           "id": "https://openalex.org/keywords/morphometrics",
           "display_name": "morphometrics",
-          "score": 0.7390000224113464
+          "score": 0.7039999961853027
         },
         {
-          "id": "https://openalex.org/keywords/deep-learning",
-          "display_name": "deep learning",
-          "score": 0.7379999756813049
+          "id": "https://openalex.org/keywords/scale-calibration",
+          "display_name": "scale calibration",
+          "score": 0.703000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/mask-r-cnn",
+          "display_name": "Mask R-CNN",
+          "score": 0.7960000038146973
         },
         {
           "id": "https://openalex.org/keywords/scanning-electron-microscopy-images",
           "display_name": "scanning electron microscopy images",
-          "score": 0.8320000171661377
+          "score": 0.7120000123977661
+        },
+        {
+          "id": "https://openalex.org/keywords/optical-character-recognition",
+          "display_name": "optical character recognition",
+          "score": 0.9419999718666077
+        },
+        {
+          "id": "https://openalex.org/keywords/scale-bar",
+          "display_name": "scale bar",
+          "score": 0.7639999985694885
+        },
+        {
+          "id": "https://openalex.org/keywords/neorotalia-calcar",
+          "display_name": "Neorotalia calcar",
+          "score": 0.9570000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/feret-diameter",
+          "display_name": "Feret diameter",
+          "score": 0.8069999814033508
+        },
+        {
+          "id": "https://openalex.org/keywords/benthic-foraminifera",
+          "display_name": "benthic foraminifera",
+          "score": 0.8550000190734863
         },
         {
           "id": "https://openalex.org/keywords/high-throughput-image-analysis",
           "display_name": "high-throughput image analysis",
-          "score": 0.8529999852180481
+          "score": 0.7609999775886536
         }
       ],
       "concepts": [
@@ -167569,7 +167624,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-10-17T00:00:00"
     },
     {
@@ -167943,7 +167998,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.78112361,
+        "value": 0.77967791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -167960,7 +168015,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T11206",
         "display_name": "Model Reduction and Neural Networks",
-        "score": 0.7997999787330627,
+        "score": 0.9692000150680542,
         "subfield": {
           "id": "https://openalex.org/subfields/3109",
           "display_name": "Statistical and Nonlinear Physics"
@@ -167978,7 +168033,7 @@
         {
           "id": "https://openalex.org/T11206",
           "display_name": "Model Reduction and Neural Networks",
-          "score": 0.7997999787330627,
+          "score": 0.9692000150680542,
           "subfield": {
             "id": "https://openalex.org/subfields/3109",
             "display_name": "Statistical and Nonlinear Physics"
@@ -167995,7 +168050,7 @@
         {
           "id": "https://openalex.org/T11490",
           "display_name": "Hydrological Forecasting Using AI",
-          "score": 0.18330000340938568,
+          "score": 0.018799999728798866,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -168012,7 +168067,7 @@
         {
           "id": "https://openalex.org/T10894",
           "display_name": "Groundwater flow and contamination studies",
-          "score": 0.004699999932199717,
+          "score": 0.007300000172108412,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -168034,19 +168089,54 @@
           "score": 1
         },
         {
-          "id": "https://openalex.org/keywords/groundwater-flow",
-          "display_name": "groundwater flow",
-          "score": 0.765999972820282
+          "id": "https://openalex.org/keywords/groundwater-flow-modeling",
+          "display_name": "groundwater flow modeling",
+          "score": 0.9739999771118164
         },
         {
-          "id": "https://openalex.org/keywords/hydrogeology",
-          "display_name": "hydrogeology",
-          "score": 0.6299999952316284
+          "id": "https://openalex.org/keywords/inverse-problems",
+          "display_name": "inverse problems",
+          "score": 0.6880000233650208
         },
         {
-          "id": "https://openalex.org/keywords/data-assimilation",
-          "display_name": "data assimilation",
-          "score": 0.5249999761581421
+          "id": "https://openalex.org/keywords/surrogate-modeling",
+          "display_name": "surrogate models",
+          "score": 0.7820000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/data-scarce-conditions",
+          "display_name": "data-scarce conditions",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/unsteady-flow",
+          "display_name": "unsteady flow",
+          "score": 0.5550000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer-heterogeneity",
+          "display_name": "aquifer heterogeneity",
+          "score": 0.6449999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/parameter-estimation",
+          "display_name": "parameter estimation",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/uncertainty-quantification",
+          "display_name": "uncertainty quantification",
+          "score": 0.9129999876022339
+        },
+        {
+          "id": "https://openalex.org/keywords/loss-weighting",
+          "display_name": "loss weighting",
+          "score": 0.5230000019073486
+        },
+        {
+          "id": "https://openalex.org/keywords/hyperparameter-sensitivity",
+          "display_name": "hyperparameter sensitivity",
+          "score": 0.7490000128746033
         }
       ],
       "concepts": [
@@ -168240,9 +168330,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6618000268936157,
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [
@@ -168909,7 +168999,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-06T12:05:46.655746",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2026-11-04T00:00:00"
     }
   ]

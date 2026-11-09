@@ -198,7 +198,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001662,
+        "value": 0.000166,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -215,7 +215,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000571,
+        "value": 0.000057,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -232,7 +232,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000404,
+        "value": 0.0000405,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -1109,8 +1109,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -1924,8 +1924,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2400592313.pdf",
@@ -2979,8 +2979,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W176213037.pdf",
@@ -4001,8 +4001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -4879,8 +4879,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1966461395.pdf",
@@ -6095,8 +6095,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4403532362.pdf",
@@ -7227,8 +7227,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -8136,8 +8136,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -9684,8 +9684,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -10179,11 +10179,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.5199,
+      "fwci": 0.5188,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.5208,
+        "value": 0.52001922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10203,7 +10203,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.7285000085830688,
+        "score": 0.8939999938011169,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -10221,7 +10221,7 @@
         {
           "id": "https://openalex.org/T10109",
           "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.7285000085830688,
+          "score": 0.8939999938011169,
           "subfield": {
             "id": "https://openalex.org/subfields/1911",
             "display_name": "Paleontology"
@@ -10238,7 +10238,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.2524000108242035,
+          "score": 0.09679999947547913,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -10255,7 +10255,7 @@
         {
           "id": "https://openalex.org/T14047",
           "display_name": "Marine and environmental studies",
-          "score": 0.004999999888241291,
+          "score": 0.00279999990016222,
           "subfield": {
             "id": "https://openalex.org/subfields/1910",
             "display_name": "Oceanography"
@@ -10274,57 +10274,62 @@
         {
           "id": "https://openalex.org/keywords/larger-benthic-foraminifera",
           "display_name": "larger benthic foraminifera",
-          "score": 0.9580000042915344
+          "score": 0.9629999995231628
         },
         {
           "id": "https://openalex.org/keywords/biofacies",
           "display_name": "biofacies",
-          "score": 0.8820000290870667
+          "score": 0.8220000267028809
         },
         {
           "id": "https://openalex.org/keywords/depositional-environment",
           "display_name": "depositional environment",
-          "score": 0.921999990940094
+          "score": 0.9580000042915344
         },
         {
           "id": "https://openalex.org/keywords/bartonian",
           "display_name": "Bartonian",
-          "score": 0.8379999995231628
+          "score": 0.7369999885559082
         },
         {
           "id": "https://openalex.org/keywords/eocene",
           "display_name": "Eocene",
-          "score": 0.7549999952316284
-        },
-        {
-          "id": "https://openalex.org/keywords/phosphate-rock",
-          "display_name": "phosphate rock",
-          "score": 0.6380000114440918
+          "score": 0.6880000233650208
         },
         {
           "id": "https://openalex.org/keywords/carbonate-ramp",
           "display_name": "carbonate ramp",
-          "score": 0.6050000190734863
+          "score": 0.6389999985694885
         },
         {
           "id": "https://openalex.org/keywords/paleogene",
           "display_name": "Paleogene",
-          "score": 0.4790000021457672
+          "score": 0.5239999890327454
+        },
+        {
+          "id": "https://openalex.org/keywords/microbial-sulfate-reduction",
+          "display_name": "microbial sulfate reduction",
+          "score": 0.4869999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/anoxia",
+          "display_name": "anoxia",
+          "score": 0.5230000019073486
         },
         {
           "id": "https://openalex.org/keywords/tethys-ocean",
           "display_name": "Tethys",
-          "score": 0.5640000104904175
+          "score": 0.46299999952316284
         },
         {
-          "id": "https://openalex.org/keywords/oil-reservoirs",
-          "display_name": "hydrocarbon reservoirs",
-          "score": 0.6309999823570251
+          "id": "https://openalex.org/keywords/northwestern-tunisia",
+          "display_name": "northwestern Tunisia",
+          "score": 0.6039999723434448
         },
         {
-          "id": "https://openalex.org/keywords/gulf-of-gabes",
-          "display_name": "Gulf of Gabès",
-          "score": 0.7400000095367432
+          "id": "https://openalex.org/keywords/facies-correlation",
+          "display_name": "facies correlation",
+          "score": 0.3610000014305115
         }
       ],
       "concepts": [
@@ -10546,8 +10551,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385952766.pdf",
@@ -11234,7 +11239,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-31T12:09:11.096373",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2023-08-18T00:00:00"
     },
     {
@@ -11560,8 +11565,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12229,8 +12234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13022,8 +13027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13862,8 +13867,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -14256,7 +14261,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1230818,
+        "value": 0.12335193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14273,7 +14278,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.427700012922287,
+        "score": 0.45170000195503235,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -14291,7 +14296,7 @@
         {
           "id": "https://openalex.org/T13205",
           "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.427700012922287,
+          "score": 0.45170000195503235,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -14308,7 +14313,7 @@
         {
           "id": "https://openalex.org/T13193",
           "display_name": "Geological Studies and Exploration",
-          "score": 0.41190001368522644,
+          "score": 0.37400001287460327,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -14325,7 +14330,7 @@
         {
           "id": "https://openalex.org/T13177",
           "display_name": "Geological and Geophysical Studies",
-          "score": 0.10499999672174454,
+          "score": 0.11060000211000443,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -14344,27 +14349,27 @@
         {
           "id": "https://openalex.org/keywords/thick-skinned-tectonics",
           "display_name": "thick-skinned tectonics",
-          "score": 0.9369999766349792
+          "score": 0.9330000281333923
         },
         {
           "id": "https://openalex.org/keywords/tectonic-inversion",
           "display_name": "tectonic inversion",
-          "score": 0.9300000071525574
+          "score": 0.9319999814033508
         },
         {
           "id": "https://openalex.org/keywords/salt-tectonics",
           "display_name": "salt tectonics",
-          "score": 0.9819999933242798
+          "score": 0.9860000014305115
         },
         {
           "id": "https://openalex.org/keywords/hydrocarbon-potential",
           "display_name": "hydrocarbon potential",
-          "score": 0.9290000200271606
+          "score": 0.8970000147819519
         },
         {
           "id": "https://openalex.org/keywords/tunisia",
           "display_name": "Tunisia",
-          "score": 0.35600000619888306
+          "score": 0.3449999988079071
         }
       ],
       "concepts": [
@@ -14474,8 +14479,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14494,7 +14499,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-26T11:51:55.731654",
+      "updated_date": "2026-11-08T12:12:28.789561",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -14917,8 +14922,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15653,8 +15658,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3140554541.pdf",
@@ -16640,8 +16645,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -17321,8 +17326,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386418130.pdf",
@@ -18053,8 +18058,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -18731,8 +18736,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7124470295.pdf",
@@ -19940,8 +19945,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -20559,8 +20564,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21041,8 +21046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
