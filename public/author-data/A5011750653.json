@@ -287,7 +287,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.000176,
+        "value": 0.0001758,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -304,7 +304,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0001535,
+        "value": 0.0001534,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -321,7 +321,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0001466,
+        "value": 0.0001465,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -338,7 +338,7 @@
       {
         "id": "https://openalex.org/T13404",
         "display_name": "Geological and Tectonic Studies in Latin America",
-        "value": 0.0001417,
+        "value": 0.0001416,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -520,7 +520,7 @@
       {
         "year": 2022,
         "works_count": 10,
-        "oa_works_count": 4,
+        "oa_works_count": 5,
         "cited_by_count": 281
       },
       {
@@ -564,7 +564,8 @@
     ],
     "block_key": "s whattam",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5011750653",
-    "updated_date": "2026-11-08T12:57:04",
+    "awards_count": 0,
+    "updated_date": "2026-11-09T14:06:01",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -41112,13 +41113,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.75,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
           "score": 0.46149998903274536,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -43228,11 +43229,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1809,
+      "fwci": 2.1831,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.87520895,
+        "value": 0.87543579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43548,8 +43549,8 @@
           },
           "license": null,
           "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -43582,8 +43583,8 @@
         },
         "license": null,
         "license_id": null,
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -44532,7 +44533,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2023-08-25T00:00:00"
     },
     {
@@ -44923,11 +44924,11 @@
         "value_usd": 3570
       },
       "apc_paid": null,
-      "fwci": 5.4977,
+      "fwci": 5.488,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.9723039,
+        "value": 0.97218996,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -45266,8 +45267,8 @@
           },
           "license": null,
           "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -45300,8 +45301,8 @@
         },
         "license": null,
         "license_id": null,
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -45444,7 +45445,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2025-02-27T00:00:00"
     },
     {
@@ -67380,11 +67381,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.3982,
+      "fwci": 1.3967,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.79177804,
+        "value": 0.79175885,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67735,8 +67736,8 @@
           },
           "license": null,
           "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -68377,7 +68378,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2023-09-07T00:00:00"
     },
     {
@@ -70614,11 +70615,11 @@
         "currency": "USD",
         "value_usd": 4670
       },
-      "fwci": 2.6771,
+      "fwci": 2.6794,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.89751274,
+        "value": 0.89761235,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70904,8 +70905,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": "Research Square",
           "raw_type": "posted-content"
@@ -71887,7 +71888,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72374,8 +72375,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.875,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -93800,11 +93801,11 @@
         "currency": "USD",
         "value_usd": 3190
       },
-      "fwci": 0.9783,
+      "fwci": 0.9755,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.71461918,
+        "value": 0.71466759,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -94046,8 +94047,8 @@
           "source": null,
           "license": null,
           "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -94609,7 +94610,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -98814,13 +98815,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.9853000044822693,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -99907,8 +99908,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5692999958992004,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -104816,10 +104817,10 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://ora.ox.ac.uk/objects/uuid:73840e95-6b7f-44e3-8de5-25838aa4cfb3/files/r2n49t266x",
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -105164,10 +105165,10 @@
       },
       "apc_paid": null,
       "fwci": 0.1328,
-      "has_fulltext": false,
+      "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.33123884,
+        "value": 0.33157105,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -105439,9 +105440,9 @@
         {
           "id": "pmh:oai:ora.ox.ac.uk:uuid:73840e95-6b7f-44e3-8de5-25838aa4cfb3",
           "doi": null,
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:73840e95-6b7f-44e3-8de5-25838aa4cfb3",
-          "pdf_url": null,
+          "pdf_url": "https://ora.ox.ac.uk/objects/uuid:73840e95-6b7f-44e3-8de5-25838aa4cfb3/files/r2n49t266x",
           "source": {
             "id": "https://openalex.org/S4306402636",
             "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
@@ -105468,20 +105469,54 @@
           "raw_type": "Journal article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "pmh:oai:ora.ox.ac.uk:uuid:73840e95-6b7f-44e3-8de5-25838aa4cfb3",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:73840e95-6b7f-44e3-8de5-25838aa4cfb3",
+        "pdf_url": "https://ora.ox.ac.uk/objects/uuid:73840e95-6b7f-44e3-8de5-25838aa4cfb3/files/r2n49t266x",
+        "source": {
+          "id": "https://openalex.org/S4306402636",
+          "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I40120149",
+          "host_organization_name": "University of Oxford",
+          "host_organization_lineage": [
+            "https://openalex.org/I40120149"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "Symplectic Elements",
+        "raw_type": "Journal article"
+      },
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "grobid_xml": true,
+        "pdf": true
       },
-      "content_urls": null,
-      "referenced_works_count": 58,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4311040184.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4311040184.grobid-xml"
+      },
+      "referenced_works_count": 59,
       "referenced_works": [
         "https://openalex.org/W1964009514",
         "https://openalex.org/W1964909252",
+        "https://openalex.org/W1966408254",
         "https://openalex.org/W1973746072",
         "https://openalex.org/W1974309946",
         "https://openalex.org/W1981213611",
@@ -105558,7 +105593,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2022-12-22T00:00:00"
     },
     {
@@ -107066,8 +107101,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -107674,8 +107709,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -107704,8 +107739,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -107713,8 +107748,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -108634,7 +108669,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2024-03-12T00:00:00"
     },
     {
@@ -110773,8 +110808,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8371999859809875,
-          "display_name": "Good health and well-being",
-          "id": "https://metadata.un.org/sdg/3"
+          "id": "https://metadata.un.org/sdg/3",
+          "display_name": "Good health and well-being"
         }
       ],
       "study_designs": [],
@@ -111483,7 +111518,23 @@
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.5353/th_b3124489",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4377196271",
+          "display_name": "The HKU Scholars Hub (University of Hong Kong)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I889458895",
+          "host_organization_name": "University of Hong Kong",
+          "host_organization_lineage": [
+            "https://openalex.org/I889458895"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
@@ -111500,7 +111551,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
+        "oa_status": "green",
         "oa_url": "https://doi.org/10.5353/th_b3124489",
         "any_repository_has_fulltext": true
       },
@@ -111699,7 +111750,23 @@
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.5353/th_b3124489",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4377196271",
+            "display_name": "The HKU Scholars Hub (University of Hong Kong)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I889458895",
+            "host_organization_name": "University of Hong Kong",
+            "host_organization_lineage": [
+              "https://openalex.org/I889458895"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": "cc-by-nc-nd",
           "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "publishedVersion",
@@ -111746,7 +111813,23 @@
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.5353/th_b3124489",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4377196271",
+          "display_name": "The HKU Scholars Hub (University of Hong Kong)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I889458895",
+          "host_organization_name": "University of Hong Kong",
+          "host_organization_lineage": [
+            "https://openalex.org/I889458895"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
@@ -111780,7 +111863,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -117624,8 +117707,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -120894,8 +120977,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -121199,8 +121282,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -121229,8 +121312,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -122294,7 +122377,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2022-04-03T00:00:00"
     },
     {
@@ -124764,8 +124847,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -125307,8 +125390,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -125337,8 +125420,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -126425,7 +126508,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2024-03-09T00:00:00"
     },
     {
@@ -126463,8 +126546,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -127032,8 +127115,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -127062,8 +127145,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -128212,7 +128295,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2024-03-09T00:00:00"
     },
     {
@@ -128250,8 +128333,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -128824,8 +128907,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -128854,8 +128937,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -128863,8 +128946,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.75,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -129340,7 +129423,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2024-03-09T00:00:00"
     },
     {
@@ -129378,8 +129461,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -129827,8 +129910,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -129857,8 +129940,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -130828,7 +130911,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2024-03-09T00:00:00"
     },
     {
@@ -130866,8 +130949,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -131424,8 +131507,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -131514,8 +131597,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -132419,7 +132502,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2024-03-09T00:00:00"
     },
     {
@@ -187743,13 +187826,13 @@
       "sustainable_development_goals": [
         {
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -190441,8 +190524,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -190819,8 +190902,8 @@
           },
           "license": "cc-by",
           "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -190849,8 +190932,8 @@
         },
         "license": "cc-by",
         "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -190858,8 +190941,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -191523,7 +191606,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2025-03-15T00:00:00"
     },
     {
@@ -192020,8 +192103,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.571399986743927,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         }
       ],
       "study_designs": [],
@@ -196537,18 +196620,18 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
         },
         {
           "score": 0.5171999931335449,
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
@@ -202065,7 +202148,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.70096154,
+        "value": 0.70013689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -202372,8 +202455,8 @@
           },
           "license": null,
           "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -203029,7 +203112,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2026-10-16T00:00:00"
     },
     {

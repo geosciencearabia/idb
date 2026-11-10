@@ -182,7 +182,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000556,
+        "value": 0.0000555,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -319,6 +319,7 @@
     ],
     "block_key": "a salisu",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5072935704",
+    "awards_count": 0,
     "updated_date": "2026-11-07T12:08:38",
     "created_date": "2022-04-03T00:00:00"
   },
@@ -2546,11 +2547,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 5.6433,
+      "fwci": 5.64,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.96968607,
+        "value": 0.96968879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2849,8 +2850,8 @@
           },
           "license": null,
           "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "posted-content"
@@ -2883,8 +2884,8 @@
         },
         "license": null,
         "license_id": null,
-        "version": "acceptedVersion",
-        "is_accepted": true,
+        "version": "submittedVersion",
+        "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
         "raw_type": "posted-content"
@@ -3030,7 +3031,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2024-10-11T00:00:00"
     },
     {
@@ -20485,11 +20486,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.2791,
+      "fwci": 8.189,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.97439602,
+        "value": 0.97383042,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21236,11 +21237,11 @@
         "value_usd": 3810
       },
       "apc_paid": null,
-      "fwci": 2.8461,
+      "fwci": 2.8172,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.91441348,
+        "value": 0.91317959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22855,9 +22856,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46149998903274536,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.46149998903274536
         }
       ],
       "study_designs": [],
@@ -28681,9 +28682,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.98580002784729,
           "id": "https://metadata.un.org/sdg/3",
-          "display_name": "Good health and well-being"
+          "display_name": "Good health and well-being",
+          "score": 0.98580002784729
         }
       ],
       "study_designs": [
@@ -29440,7 +29441,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53166563,
+        "value": 0.52144283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31400,9 +31401,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.75
         }
       ],
       "study_designs": [],

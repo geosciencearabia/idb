@@ -32,13 +32,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1165,
-    "citations": 23234
+    "citations": 23235
   },
   {
     "id": "https://openalex.org/T13193",
     "name": "Geological Studies and Exploration",
     "publications": 870,
-    "citations": 22516
+    "citations": 22517
   },
   {
     "id": "https://openalex.org/T11740",
@@ -50,7 +50,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 699,
-    "citations": 30937
+    "citations": 30938
   },
   {
     "id": "https://openalex.org/T13177",
@@ -80,7 +80,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
     "publications": 208,
-    "citations": 1716
+    "citations": 1717
   },
   {
     "id": "https://openalex.org/T14047",
@@ -110,7 +110,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11757",
     "name": "Seismic Waves and Analysis",
     "publications": 118,
-    "citations": 769
+    "citations": 770
   },
   {
     "id": "https://openalex.org/T10765",
@@ -128,7 +128,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 104,
-    "citations": 1102
+    "citations": 1103
   },
   {
     "id": "https://openalex.org/T13205",
@@ -2417,7 +2417,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 1017,
-    "citations": 12143
+    "citations": 12144
   },
   {
     "id": "https://openalex.org/I4210143841",
@@ -2489,7 +2489,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I139290333",
     "name": "British Geological Survey",
     "publications": 90,
-    "citations": 3908
+    "citations": 3909
   },
   {
     "id": "https://openalex.org/I205640436",
@@ -3539,7 +3539,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I130701444",
     "name": "Georgia Institute of Technology",
     "publications": 8,
-    "citations": 138
+    "citations": 139
   },
   {
     "id": "https://openalex.org/I157392197",
@@ -4343,7 +4343,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I205051169",
     "name": "Kingston University London",
     "publications": 4,
-    "citations": 524
+    "citations": 525
   },
   {
     "id": "https://openalex.org/I897542642",
@@ -7610,6 +7610,18 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 29
   },
   {
+    "id": "https://openalex.org/I4210093363",
+    "name": "Czech Academy of Sciences, Institute of Rock Structure and Mechanics",
+    "publications": 1,
+    "citations": 29
+  },
+  {
+    "id": "https://openalex.org/I90610274",
+    "name": "University of Engineering and Technology Peshawar",
+    "publications": 1,
+    "citations": 29
+  },
+  {
     "id": "https://openalex.org/I2802865357",
     "name": "Hungarian National Museum",
     "publications": 1,
@@ -7636,18 +7648,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I55143463",
     "name": "University of Turin",
-    "publications": 1,
-    "citations": 28
-  },
-  {
-    "id": "https://openalex.org/I4210093363",
-    "name": "Czech Academy of Sciences, Institute of Rock Structure and Mechanics",
-    "publications": 1,
-    "citations": 28
-  },
-  {
-    "id": "https://openalex.org/I90610274",
-    "name": "University of Engineering and Technology Peshawar",
     "publications": 1,
     "citations": 28
   },

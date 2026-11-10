@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000302,
+        "value": 0.0000301,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -489,7 +489,8 @@
     ],
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2026-11-08T12:57:04",
+    "awards_count": 0,
+    "updated_date": "2026-11-09T14:06:01",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -10196,11 +10197,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6122,
+      "fwci": 2.6199,
       "has_fulltext": true,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.90271493,
+        "value": 0.90299491,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10450,7 +10451,7 @@
           "id": "pmh:oai:HAL:hal-00022141v1",
           "doi": null,
           "is_oa": false,
-          "landing_page_url": "https://hal.science/hal-00022141",
+          "landing_page_url": "https://hal.science/hal-00022141v1",
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402512",
@@ -10990,7 +10991,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -39231,7 +39232,23 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.3406/geoly.2002.3153",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S7407122262",
+          "display_name": "Documents des Laboratoires de Géologie Lyon",
+          "issn_l": "0750-6635",
+          "issn": [
+            "0750-6635"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
@@ -39347,7 +39364,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.58626659,
+        "value": 0.58590139,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39496,7 +39513,23 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.3406/geoly.2002.3153",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S7407122262",
+            "display_name": "Documents des Laboratoires de Géologie Lyon",
+            "issn_l": "0750-6635",
+            "issn": [
+              "0750-6635"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
@@ -39743,7 +39776,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2021-06-07T00:00:00"
     },
     {
