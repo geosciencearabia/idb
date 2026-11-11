@@ -10,7 +10,7 @@
     ],
     "full_name": "Jacques Manivit",
     "works_count": 8,
-    "cited_by_count": 330,
+    "cited_by_count": 331,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 6,
@@ -365,7 +365,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 15
+        "cited_by_count": 16
       }
     ],
     "display_name_alternatives": [
@@ -375,7 +375,8 @@
     "block_key": "j manivit",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051867931",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5051867931",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -647,16 +648,16 @@
         "value_usd": 3030
       },
       "apc_paid": null,
-      "fwci": 1.4462,
+      "fwci": 1.4484,
       "has_fulltext": false,
-      "cited_by_count": 101,
+      "cited_by_count": 102,
       "citation_normalized_percentile": {
-        "value": 0.81639592,
+        "value": 0.81190747,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -876,8 +877,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -915,7 +916,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -970,7 +971,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1405,8 +1406,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2658,8 +2659,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -3493,11 +3494,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3863,
+      "fwci": 1.3541,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.76624,
+        "value": 0.74630225,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3985,8 +3986,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -5140,12 +5141,12 @@
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.15224783,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 97
       },
       "biblio": {
@@ -5395,8 +5396,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -5869,8 +5870,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6478,8 +6479,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6961,8 +6962,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

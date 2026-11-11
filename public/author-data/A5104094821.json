@@ -18,9 +18,9 @@
     ],
     "full_name": "Khalid A. Al‐Ramadan",
     "works_count": 19,
-    "cited_by_count": 170,
+    "cited_by_count": 173,
     "summary_stats": {
-      "2yr_mean_citedness": 6,
+      "2yr_mean_citedness": 6.222222222222222,
       "h_index": 9,
       "i10_index": 9
     },
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000161,
+        "value": 0.000016,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -375,7 +375,7 @@
         "year": 2025,
         "works_count": 7,
         "oa_works_count": 3,
-        "cited_by_count": 33
+        "cited_by_count": 36
       },
       {
         "year": 2026,
@@ -397,7 +397,8 @@
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5104094821",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -685,11 +686,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.789,
+      "fwci": 1.7688,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81186441,
+        "value": 0.80816731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -994,8 +995,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 151,
@@ -1465,11 +1466,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.9559,
+      "fwci": 6.1416,
       "has_fulltext": false,
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.97695411,
+        "value": 0.97735359,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1710,11 +1711,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 132,
+      "referenced_works_count": 134,
       "referenced_works": [
         "https://openalex.org/W85414462",
         "https://openalex.org/W161642668",
@@ -1765,6 +1766,7 @@
         "https://openalex.org/W2096402342",
         "https://openalex.org/W2101054218",
         "https://openalex.org/W2101874561",
+        "https://openalex.org/W2102394579",
         "https://openalex.org/W2104600975",
         "https://openalex.org/W2105143136",
         "https://openalex.org/W2111517160",
@@ -1772,6 +1774,7 @@
         "https://openalex.org/W2112552796",
         "https://openalex.org/W2113574130",
         "https://openalex.org/W2115437113",
+        "https://openalex.org/W2118327433",
         "https://openalex.org/W2120162594",
         "https://openalex.org/W2121544434",
         "https://openalex.org/W2124677150",
@@ -2778,10 +2781,10 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-03-20T00:00:00"
     },
     {
@@ -3037,16 +3040,16 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 5.0396,
+      "fwci": 5.2642,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.96772208,
+        "value": 0.96859606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 95,
         "max": 99
       },
       "biblio": {
@@ -3364,8 +3367,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -4199,10 +4202,10 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-03-19T00:00:00"
     },
     {
@@ -4451,16 +4454,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.1233,
+      "fwci": 3.9482,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.95712234,
+        "value": 0.94423919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 93,
         "max": 99
       },
       "biblio": {
@@ -4806,8 +4809,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -5295,14 +5298,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 7
         },
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-01T08:54:57.152042",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5504,11 +5507,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8957,
+      "fwci": 1.8964,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.84791496,
+        "value": 0.82209586,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5849,8 +5852,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -6705,8 +6708,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2067784425.pdf",
@@ -8186,8 +8189,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3128211510.pdf",
@@ -9126,11 +9129,11 @@
         "value_usd": 4120
       },
       "apc_paid": null,
-      "fwci": 2.027,
+      "fwci": 2.0245,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.86145109,
+        "value": 0.84509938,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9406,8 +9409,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -9795,11 +9798,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7796,
+      "fwci": 0.7787,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.63184177,
+        "value": 0.59835504,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10116,11 +10119,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 91,
+      "referenced_works_count": 93,
       "referenced_works": [
         "https://openalex.org/W99522915",
         "https://openalex.org/W137341996",
@@ -10181,6 +10184,7 @@
         "https://openalex.org/W2111535271",
         "https://openalex.org/W2113298788",
         "https://openalex.org/W2114020378",
+        "https://openalex.org/W2120575309",
         "https://openalex.org/W2124033999",
         "https://openalex.org/W2126127598",
         "https://openalex.org/W2135341036",
@@ -10188,6 +10192,7 @@
         "https://openalex.org/W2141235941",
         "https://openalex.org/W2151298887",
         "https://openalex.org/W2151826663",
+        "https://openalex.org/W2155783530",
         "https://openalex.org/W2164480651",
         "https://openalex.org/W2173832424",
         "https://openalex.org/W2213375454",
@@ -10992,7 +10997,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2022-11-04T00:00:00"
     },
     {
@@ -11487,11 +11492,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 2.1162,
+      "fwci": 2.0477,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.85175857,
+        "value": 0.8471564,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11793,8 +11798,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -12280,11 +12285,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 1.1757,
+      "fwci": 1.1376,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.76072681,
+        "value": 0.73067809,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12651,14 +12656,14 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4401646659.grobid-xml"
       },
-      "referenced_works_count": 81,
+      "referenced_works_count": 82,
       "referenced_works": [
         "https://openalex.org/W148932376",
         "https://openalex.org/W203584942",
@@ -12692,6 +12697,7 @@
         "https://openalex.org/W2209467212",
         "https://openalex.org/W2223885932",
         "https://openalex.org/W2242774440",
+        "https://openalex.org/W2258792401",
         "https://openalex.org/W2259823555",
         "https://openalex.org/W2292572168",
         "https://openalex.org/W2315208717",
@@ -13459,7 +13465,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2024-08-17T00:00:00"
     },
     {
@@ -13807,11 +13813,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 1.9565,
+      "fwci": 1.8772,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.82942855,
+        "value": 0.81789775,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14187,8 +14193,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -15019,7 +15025,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.13258004,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15353,8 +15359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -15638,11 +15644,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9163,
+      "fwci": 0.8774,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.67161321,
+        "value": 0.60775862,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15914,8 +15920,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -16785,12 +16791,12 @@
           "is_corresponding": true,
           "raw_author_name": "Omar A. Radwan",
           "raw_affiliation_strings": [
-            "Geosciences Department College of Petroleum Engineering &amp; Geosciences King Fahd University of Petroleum &amp; Minerals (KFUPM) Dhahran Saudi Arabia"
+            "Geosciences Department College of Petroleum Engineering & Geosciences King Fahd University of Petroleum & Minerals (KFUPM) Dhahran Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-1104-2380",
           "affiliations": [
             {
-              "raw_affiliation_string": "Geosciences Department College of Petroleum Engineering &amp; Geosciences King Fahd University of Petroleum &amp; Minerals (KFUPM) Dhahran Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department College of Petroleum Engineering & Geosciences King Fahd University of Petroleum & Minerals (KFUPM) Dhahran Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -16825,12 +16831,12 @@
           "is_corresponding": true,
           "raw_author_name": "John D. Humphrey",
           "raw_affiliation_strings": [
-            "Geosciences Department College of Petroleum Engineering &amp; Geosciences King Fahd University of Petroleum &amp; Minerals (KFUPM) Dhahran Saudi Arabia"
+            "Geosciences Department College of Petroleum Engineering & Geosciences King Fahd University of Petroleum & Minerals (KFUPM) Dhahran Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8927-2322",
           "affiliations": [
             {
-              "raw_affiliation_string": "Geosciences Department College of Petroleum Engineering &amp; Geosciences King Fahd University of Petroleum &amp; Minerals (KFUPM) Dhahran Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department College of Petroleum Engineering & Geosciences King Fahd University of Petroleum & Minerals (KFUPM) Dhahran Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -16865,12 +16871,12 @@
           "is_corresponding": false,
           "raw_author_name": "Khalid A. Al‐Ramadan",
           "raw_affiliation_strings": [
-            "Geosciences Department College of Petroleum Engineering &amp; Geosciences King Fahd University of Petroleum &amp; Minerals (KFUPM) Dhahran Saudi Arabia"
+            "Geosciences Department College of Petroleum Engineering & Geosciences King Fahd University of Petroleum & Minerals (KFUPM) Dhahran Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Geosciences Department College of Petroleum Engineering &amp; Geosciences King Fahd University of Petroleum &amp; Minerals (KFUPM) Dhahran Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department College of Petroleum Engineering & Geosciences King Fahd University of Petroleum & Minerals (KFUPM) Dhahran Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -16898,11 +16904,11 @@
         "currency": "USD",
         "value_usd": 1800
       },
-      "fwci": 0.403,
+      "fwci": 0.4033,
       "has_fulltext": true,
-      "cited_by_count": 5,
+      "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.49384172,
+        "value": 0.45971378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17273,8 +17279,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3198961371.pdf",
@@ -17868,6 +17874,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 2
         },
@@ -17880,7 +17890,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2021-09-27T00:00:00"
     },
     {
@@ -18145,11 +18155,11 @@
         "currency": "USD",
         "value_usd": 2400
       },
-      "fwci": 0.4891,
+      "fwci": 0.4693,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.62600501,
+        "value": 0.53276625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18610,12 +18620,13 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 78,
+      "referenced_works_count": 79,
       "referenced_works": [
+        "https://openalex.org/W28830587",
         "https://openalex.org/W195523536",
         "https://openalex.org/W203584942",
         "https://openalex.org/W1531383480",
@@ -19482,7 +19493,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19976,8 +19987,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20322,8 +20333,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20574,7 +20585,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33280922,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20873,8 +20884,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,

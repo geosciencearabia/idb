@@ -15,9 +15,9 @@
     ],
     "full_name": "Nabil Ali Saraih",
     "works_count": 18,
-    "cited_by_count": 99,
+    "cited_by_count": 100,
     "summary_stats": {
-      "2yr_mean_citedness": 2.1538461538461537,
+      "2yr_mean_citedness": 2.230769230769231,
       "h_index": 6,
       "i10_index": 2
     },
@@ -154,7 +154,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000493,
+        "value": 0.0000492,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T11801",
         "display_name": "Reservoir Engineering and Simulation Methods",
-        "value": 0.0000424,
+        "value": 0.0000423,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000362,
+        "value": 0.0000361,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -316,7 +316,7 @@
         "year": 2026,
         "works_count": 7,
         "oa_works_count": 5,
-        "cited_by_count": 34
+        "cited_by_count": 35
       }
     ],
     "display_name_alternatives": [
@@ -329,7 +329,8 @@
     "block_key": "n saraih",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5088388992",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5088388992",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2019-09-12T00:00:00"
   },
   "works": [
@@ -676,11 +677,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.9126,
+      "fwci": 1.8866,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.83735961,
+        "value": 0.82547019,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1484,11 +1485,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 3.4239,
+      "fwci": 3.7545,
       "has_fulltext": true,
-      "cited_by_count": 7,
+      "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.92962739,
+        "value": 0.92674247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1984,39 +1985,59 @@
         "pdf": "https://content.openalex.org/works/W4417279471.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4417279471.grobid-xml"
       },
-      "referenced_works_count": 41,
+      "referenced_works_count": 66,
       "referenced_works": [
         "https://openalex.org/W76334744",
+        "https://openalex.org/W845365781",
         "https://openalex.org/W1537810918",
         "https://openalex.org/W1622545880",
+        "https://openalex.org/W1905829557",
         "https://openalex.org/W1968163704",
         "https://openalex.org/W2019969451",
         "https://openalex.org/W2025160327",
+        "https://openalex.org/W2116013899",
         "https://openalex.org/W2147318572",
+        "https://openalex.org/W2173520492",
+        "https://openalex.org/W2292976057",
+        "https://openalex.org/W2475287302",
         "https://openalex.org/W2539188151",
+        "https://openalex.org/W2552465644",
         "https://openalex.org/W2585033147",
         "https://openalex.org/W2606759614",
+        "https://openalex.org/W2786148941",
+        "https://openalex.org/W2790087134",
+        "https://openalex.org/W2794330802",
         "https://openalex.org/W2899283552",
         "https://openalex.org/W2904367110",
+        "https://openalex.org/W2910507003",
         "https://openalex.org/W2948893225",
+        "https://openalex.org/W2962793481",
         "https://openalex.org/W2995831381",
         "https://openalex.org/W3025658083",
         "https://openalex.org/W3034660000",
         "https://openalex.org/W3096679580",
         "https://openalex.org/W3102406053",
         "https://openalex.org/W3109916085",
+        "https://openalex.org/W3165204504",
         "https://openalex.org/W3176392714",
+        "https://openalex.org/W3216012648",
         "https://openalex.org/W4221055588",
         "https://openalex.org/W4224033008",
+        "https://openalex.org/W4226218359",
         "https://openalex.org/W4285093386",
+        "https://openalex.org/W4298289240",
         "https://openalex.org/W4307552158",
         "https://openalex.org/W4362728171",
         "https://openalex.org/W4364375188",
         "https://openalex.org/W4379112940",
         "https://openalex.org/W4379233128",
         "https://openalex.org/W4385490607",
+        "https://openalex.org/W4385527149",
+        "https://openalex.org/W4386332698",
         "https://openalex.org/W4386591428",
+        "https://openalex.org/W4389981268",
         "https://openalex.org/W4391446371",
+        "https://openalex.org/W4396600525",
         "https://openalex.org/W4399865106",
         "https://openalex.org/W4401020179",
         "https://openalex.org/W4402963373",
@@ -2024,9 +2045,14 @@
         "https://openalex.org/W4404093812",
         "https://openalex.org/W4405405236",
         "https://openalex.org/W4406978626",
+        "https://openalex.org/W4407944801",
+        "https://openalex.org/W4409180980",
         "https://openalex.org/W4409288082",
+        "https://openalex.org/W4409697526",
         "https://openalex.org/W4412972888",
-        "https://openalex.org/W6926524906"
+        "https://openalex.org/W6926524906",
+        "https://openalex.org/W6945303542",
+        "https://openalex.org/W7212370550"
       ],
       "related_works": [
         "https://openalex.org/W7129557883",
@@ -2826,10 +2852,10 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -3202,11 +3228,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.3967,
+      "fwci": 1.3646,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.79175885,
+        "value": 0.77231228,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4650,11 +4676,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.646,
+      "fwci": 1.5926,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.81676711,
+        "value": 0.79885162,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5351,11 +5377,11 @@
         "currency": "CHF",
         "value_usd": 1520
       },
-      "fwci": 0.604,
+      "fwci": 0.5958,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.61904005,
+        "value": 0.59956434,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5660,37 +5686,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:pubmedcentral.nih.gov:6780283",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6780283",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Polymers (Basel)",
-          "raw_type": "Text"
-        },
-        {
           "id": "pmid:31491849",
           "doi": null,
           "is_oa": false,
@@ -5720,6 +5715,37 @@
           "is_published": true,
           "raw_source_name": "Polymers",
           "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:6780283",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6780283/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Polymers (Basel)",
+          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:ac278b013714404a913e8ffb6ff018e1",
@@ -6380,7 +6406,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -6483,7 +6509,7 @@
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -6494,7 +6520,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -6530,7 +6556,7 @@
           "raw_author_name": "Nabil A. Saraih",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -6541,7 +6567,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -6575,7 +6601,7 @@
           "raw_author_name": "Oliver G. Esteva",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -6586,7 +6612,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -6620,7 +6646,7 @@
           "raw_author_name": "Lundi Kusuma",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -6631,7 +6657,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -6665,7 +6691,7 @@
           "raw_author_name": "Saleh Ahmed",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -6676,7 +6702,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -6712,7 +6738,7 @@
           "raw_author_name": "Mohamed A. Yassin",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Center for Environment &amp; Water, Research Institute, King Fahd University of Petroleum &amp; Minerals, Building 15, Dhahran 31261, Saudi Arabia"
+            "Center for Environment & Water, Research Institute, King Fahd University of Petroleum & Minerals, Building 15, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -6723,7 +6749,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Center for Environment &amp; Water, Research Institute, King Fahd University of Petroleum &amp; Minerals, Building 15, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Center for Environment & Water, Research Institute, King Fahd University of Petroleum & Minerals, Building 15, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -6750,11 +6776,11 @@
         "currency": "CHF",
         "value_usd": 1901
       },
-      "fwci": 0.993,
+      "fwci": 0.9857,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.70548116,
+        "value": 0.6819132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8009,7 +8035,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2020-09-21T00:00:00"
     },
     {
@@ -8375,11 +8401,11 @@
         "value_usd": 2495
       },
       "apc_paid": null,
-      "fwci": 0.8079,
+      "fwci": 0.7867,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.63648946,
+        "value": 0.59105532,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9510,11 +9536,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 57.3846,
+      "fwci": 54.9024,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.99642378,
+        "value": 0.99422222,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -10572,11 +10598,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 57.3846,
+      "fwci": 54.9024,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.99687081,
+        "value": 0.99422222,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -12998,11 +13024,11 @@
         "currency": "USD",
         "value_usd": 3360
       },
-      "fwci": 1.6838,
+      "fwci": 1.6211,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.83095027,
+        "value": 0.74992633,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22001,7 +22027,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42626111,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

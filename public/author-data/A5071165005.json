@@ -11,9 +11,9 @@
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 7,
-    "cited_by_count": 139,
+    "cited_by_count": 140,
     "summary_stats": {
-      "2yr_mean_citedness": 14.75,
+      "2yr_mean_citedness": 15,
       "h_index": 4,
       "i10_index": 2
     },
@@ -212,7 +212,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0000113,
+        "value": 0.0000112,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -317,7 +317,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 40
+        "cited_by_count": 41
       }
     ],
     "display_name_alternatives": [
@@ -326,7 +326,8 @@
     "block_key": "r kanfar",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5071165005",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2020-02-07T00:00:00"
   },
   "works": [
@@ -660,11 +661,11 @@
         "value_usd": 3670
       },
       "apc_paid": null,
-      "fwci": 5.5487,
+      "fwci": 5.4195,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.97741054,
+        "value": 0.97559837,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -976,17 +977,17 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.685699999332428,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.685699999332428
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4402326942.pdf",
@@ -1728,8 +1729,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3003329782.pdf",
@@ -2740,11 +2741,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 3.4239,
+      "fwci": 3.7545,
       "has_fulltext": true,
-      "cited_by_count": 7,
+      "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.92962739,
+        "value": 0.92674247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3233,46 +3234,66 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4417279471.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4417279471.grobid-xml"
       },
-      "referenced_works_count": 41,
+      "referenced_works_count": 66,
       "referenced_works": [
         "https://openalex.org/W76334744",
+        "https://openalex.org/W845365781",
         "https://openalex.org/W1537810918",
         "https://openalex.org/W1622545880",
+        "https://openalex.org/W1905829557",
         "https://openalex.org/W1968163704",
         "https://openalex.org/W2019969451",
         "https://openalex.org/W2025160327",
+        "https://openalex.org/W2116013899",
         "https://openalex.org/W2147318572",
+        "https://openalex.org/W2173520492",
+        "https://openalex.org/W2292976057",
+        "https://openalex.org/W2475287302",
         "https://openalex.org/W2539188151",
+        "https://openalex.org/W2552465644",
         "https://openalex.org/W2585033147",
         "https://openalex.org/W2606759614",
+        "https://openalex.org/W2786148941",
+        "https://openalex.org/W2790087134",
+        "https://openalex.org/W2794330802",
         "https://openalex.org/W2899283552",
         "https://openalex.org/W2904367110",
+        "https://openalex.org/W2910507003",
         "https://openalex.org/W2948893225",
+        "https://openalex.org/W2962793481",
         "https://openalex.org/W2995831381",
         "https://openalex.org/W3025658083",
         "https://openalex.org/W3034660000",
         "https://openalex.org/W3096679580",
         "https://openalex.org/W3102406053",
         "https://openalex.org/W3109916085",
+        "https://openalex.org/W3165204504",
         "https://openalex.org/W3176392714",
+        "https://openalex.org/W3216012648",
         "https://openalex.org/W4221055588",
         "https://openalex.org/W4224033008",
+        "https://openalex.org/W4226218359",
         "https://openalex.org/W4285093386",
+        "https://openalex.org/W4298289240",
         "https://openalex.org/W4307552158",
         "https://openalex.org/W4362728171",
         "https://openalex.org/W4364375188",
         "https://openalex.org/W4379112940",
         "https://openalex.org/W4379233128",
         "https://openalex.org/W4385490607",
+        "https://openalex.org/W4385527149",
+        "https://openalex.org/W4386332698",
         "https://openalex.org/W4386591428",
+        "https://openalex.org/W4389981268",
         "https://openalex.org/W4391446371",
+        "https://openalex.org/W4396600525",
         "https://openalex.org/W4399865106",
         "https://openalex.org/W4401020179",
         "https://openalex.org/W4402963373",
@@ -3280,9 +3301,14 @@
         "https://openalex.org/W4404093812",
         "https://openalex.org/W4405405236",
         "https://openalex.org/W4406978626",
+        "https://openalex.org/W4407944801",
+        "https://openalex.org/W4409180980",
         "https://openalex.org/W4409288082",
+        "https://openalex.org/W4409697526",
         "https://openalex.org/W4412972888",
-        "https://openalex.org/W6926524906"
+        "https://openalex.org/W6926524906",
+        "https://openalex.org/W6945303542",
+        "https://openalex.org/W7212370550"
       ],
       "related_works": [
         "https://openalex.org/W7129557883",
@@ -4082,10 +4108,10 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 7
+          "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-12-12T00:00:00"
     },
     {
@@ -4271,11 +4297,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 1.1333,
+      "fwci": 1.0994,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.72674817,
+        "value": 0.69823308,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4587,11 +4613,11 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 36,
+      "referenced_works_count": 37,
       "referenced_works": [
         "https://openalex.org/W18847906",
         "https://openalex.org/W71764628",
@@ -4628,7 +4654,8 @@
         "https://openalex.org/W3201152061",
         "https://openalex.org/W4200622624",
         "https://openalex.org/W4285093386",
-        "https://openalex.org/W6948500947"
+        "https://openalex.org/W6948500947",
+        "https://openalex.org/W7212370550"
       ],
       "related_works": [
         "https://openalex.org/W2972756933",
@@ -4657,7 +4684,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2023-09-02T00:00:00"
     },
     {
@@ -4969,11 +4996,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7879,
+      "fwci": 1.7098,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.80283041,
+        "value": 0.78928743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5223,8 +5250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -5931,11 +5958,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7733,
+      "fwci": 0.7717,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.55763518,
+        "value": 0.53826758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6147,8 +6174,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -6647,7 +6674,7 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4363604378",
-          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "display_name": "Second International Meeting for Applied Geoscience & Energy",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -6834,7 +6861,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41628061,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7064,7 +7091,7 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4363604378",
-            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "display_name": "Second International Meeting for Applied Geoscience & Energy",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -7092,8 +7119,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -7102,7 +7129,6 @@
         "https://openalex.org/W1523068772",
         "https://openalex.org/W2559655401",
         "https://openalex.org/W2612690371",
-        "https://openalex.org/W2766527293",
         "https://openalex.org/W2884975835",
         "https://openalex.org/W2948893225",
         "https://openalex.org/W2999905431",
@@ -7110,7 +7136,8 @@
         "https://openalex.org/W3135021415",
         "https://openalex.org/W3209996675",
         "https://openalex.org/W4250310729",
-        "https://openalex.org/W4285093386"
+        "https://openalex.org/W4285093386",
+        "https://openalex.org/W7212370550"
       ],
       "related_works": [
         "https://openalex.org/W3200804986",
@@ -7349,7 +7376,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2023-12-15T00:00:00"
     }
   ]

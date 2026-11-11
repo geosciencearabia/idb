@@ -10,7 +10,7 @@
     ],
     "full_name": "Khalid Al Ramadan",
     "works_count": 7,
-    "cited_by_count": 64,
+    "cited_by_count": 65,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 3,
@@ -354,7 +354,7 @@
         "year": 2025,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 4
+        "cited_by_count": 5
       },
       {
         "year": 2026,
@@ -370,7 +370,8 @@
     "block_key": "k al ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5021382014",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5021382014",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2808,14 +2809,14 @@
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": true,
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.19573935,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 95
       },
       "biblio": {
@@ -3349,14 +3350,14 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2021,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3380,7 +3381,7 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4363604378",
-          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "display_name": "Second International Meeting for Applied Geoscience & Energy",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -3520,7 +3521,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07600184,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3787,7 +3788,7 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4363604378",
-            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "display_name": "Second International Meeting for Applied Geoscience & Energy",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -4226,7 +4227,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4346,7 +4347,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2073963,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6507,7 +6508,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49798297,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

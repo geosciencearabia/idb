@@ -12,7 +12,7 @@
     ],
     "full_name": "Adhipa Herlambang",
     "works_count": 35,
-    "cited_by_count": 96,
+    "cited_by_count": 98,
     "summary_stats": {
       "2yr_mean_citedness": 1.8461538461538463,
       "h_index": 6,
@@ -281,6 +281,12 @@
     ],
     "counts_by_year": [
       {
+        "year": 2020,
+        "works_count": 0,
+        "oa_works_count": 0,
+        "cited_by_count": 1
+      },
+      {
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 0,
@@ -308,7 +314,7 @@
         "year": 2025,
         "works_count": 8,
         "oa_works_count": 5,
-        "cited_by_count": 32
+        "cited_by_count": 33
       },
       {
         "year": 2026,
@@ -324,7 +330,8 @@
     "block_key": "a herlambang",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051302005",
     "awards_count": 0,
-    "updated_date": "2026-11-08T12:57:04",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5051302005",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2021-01-18T00:00:00"
   },
   "works": [
@@ -706,11 +713,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.8677,
+      "fwci": 1.7912,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.84364135,
+        "value": 0.82010079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2436,11 +2443,11 @@
         "currency": "USD",
         "value_usd": 2950
       },
-      "fwci": 1.5572,
+      "fwci": 1.6419,
       "has_fulltext": true,
-      "cited_by_count": 14,
+      "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.80676196,
+        "value": 0.80193972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3683,7 +3690,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2024,
@@ -3698,7 +3705,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2022-11-28T00:00:00"
     },
     {
@@ -4063,11 +4070,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 2.1133,
+      "fwci": 2.0581,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.85982728,
+        "value": 0.83688689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4815,11 +4822,11 @@
         "currency": "USD",
         "value_usd": 900
       },
-      "fwci": 1.4746,
+      "fwci": 1.4313,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.78663004,
+        "value": 0.76790141,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6284,11 +6291,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.7112,
+      "fwci": 3.5376,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.93567251,
+        "value": 0.92762961,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7910,11 +7917,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.0397,
+      "fwci": 1.0156,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.6768,
+        "value": 0.65884244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8542,11 +8549,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.4089,
+      "fwci": 1.3721,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.74869507,
+        "value": 0.73783344,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8805,9 +8812,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 1
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -9309,11 +9316,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 1.0533,
+      "fwci": 1.0224,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.73238941,
+        "value": 0.67703095,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9877,11 +9884,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2399,
+      "fwci": 1.2024,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.7240991,
+        "value": 0.71034371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10903,11 +10910,11 @@
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 0.3466,
+      "fwci": 0.3385,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.40976,
+        "value": 0.39115756,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11296,9 +11303,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -12180,16 +12187,16 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 0.499,
+      "fwci": 0.4925,
       "has_fulltext": false,
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.52702254,
+        "value": 0.51884211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 93,
+        "min": 88,
         "max": 95
       },
       "biblio": {
@@ -12583,9 +12590,13 @@
         {
           "year": 2022,
           "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2021-01-18T00:00:00"
     },
     {
@@ -12850,11 +12861,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.3238,
+      "fwci": 0.3141,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.49789731,
+        "value": 0.45443716,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13117,9 +13128,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5769000053405762
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -13561,11 +13572,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.9755,
+      "fwci": 0.9386,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.74096749,
+        "value": 0.67763215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14505,11 +14516,11 @@
         "currency": "USD",
         "value_usd": 2400
       },
-      "fwci": 0.4891,
+      "fwci": 0.4693,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.62600501,
+        "value": 0.53276625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14974,8 +14985,9 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 78,
+      "referenced_works_count": 79,
       "referenced_works": [
+        "https://openalex.org/W28830587",
         "https://openalex.org/W195523536",
         "https://openalex.org/W203584942",
         "https://openalex.org/W1531383480",
@@ -15842,7 +15854,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16216,11 +16228,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5302,
+      "fwci": 0.5054,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.59619133,
+        "value": 0.4544501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16568,9 +16580,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -17367,11 +17379,11 @@
         "currency": "USD",
         "value_usd": 3120
       },
-      "fwci": 2.7984,
+      "fwci": 2.6368,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.86432954,
+        "value": 0.78332182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17780,9 +17792,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 1
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -18595,11 +18607,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 0.3104,
+      "fwci": 0.3032,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.48230088,
+        "value": 0.46096516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20105,11 +20117,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6086,
+      "fwci": 1.591,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.77964072,
+        "value": 0.72220557,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20362,9 +20374,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -21568,11 +21580,11 @@
         "currency": "USD",
         "value_usd": 3600
       },
-      "fwci": 0.5283,
+      "fwci": 0.5109,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.57238726,
+        "value": 0.50049314,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24506,7 +24518,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30737193,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28026,9 +28038,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5769000053405762
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -29152,7 +29164,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20918822,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32459,7 +32471,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15915537,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32829,7 +32841,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 15,
+      "referenced_works_count": 17,
       "referenced_works": [
         "https://openalex.org/W1547907389",
         "https://openalex.org/W1821990314",
@@ -32845,7 +32857,9 @@
         "https://openalex.org/W2212178433",
         "https://openalex.org/W2315023265",
         "https://openalex.org/W2338438729",
-        "https://openalex.org/W4381251823"
+        "https://openalex.org/W4309609812",
+        "https://openalex.org/W4381251823",
+        "https://openalex.org/W4408878224"
       ],
       "related_works": [
         "https://openalex.org/W2918991227",
@@ -33571,7 +33585,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34036,7 +34050,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2943038,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34353,9 +34367,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -34372,7 +34386,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 113,
+      "referenced_works_count": 115,
       "referenced_works": [
         "https://openalex.org/W60944675",
         "https://openalex.org/W66185056",
@@ -34424,6 +34438,7 @@
         "https://openalex.org/W2131438758",
         "https://openalex.org/W2132223903",
         "https://openalex.org/W2132730568",
+        "https://openalex.org/W2133321830",
         "https://openalex.org/W2138821921",
         "https://openalex.org/W2139326036",
         "https://openalex.org/W2146169843",
@@ -34458,6 +34473,7 @@
         "https://openalex.org/W2945148837",
         "https://openalex.org/W2951947590",
         "https://openalex.org/W2958702840",
+        "https://openalex.org/W2993258028",
         "https://openalex.org/W3009690168",
         "https://openalex.org/W3047494734",
         "https://openalex.org/W3049447969",
@@ -34502,7 +34518,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-06-13T00:00:00"
     },
     {
@@ -34886,7 +34902,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3573155,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36493,7 +36509,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46753142,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36779,7 +36795,7 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 102,
+      "referenced_works_count": 104,
       "referenced_works": [
         "https://openalex.org/W873443637",
         "https://openalex.org/W1233342656",
@@ -36796,6 +36812,7 @@
         "https://openalex.org/W1999598486",
         "https://openalex.org/W2005237573",
         "https://openalex.org/W2006254584",
+        "https://openalex.org/W2006815492",
         "https://openalex.org/W2007958895",
         "https://openalex.org/W2011801766",
         "https://openalex.org/W2016379558",
@@ -36844,6 +36861,7 @@
         "https://openalex.org/W2770811858",
         "https://openalex.org/W2770898066",
         "https://openalex.org/W2793563589",
+        "https://openalex.org/W2793986365",
         "https://openalex.org/W2795868077",
         "https://openalex.org/W2800941391",
         "https://openalex.org/W2803001074",
@@ -36898,7 +36916,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-07-30T00:00:00"
     },
     {
@@ -38796,7 +38814,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59616056,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39145,19 +39163,14 @@
         "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 140,
+      "referenced_works_count": 124,
       "referenced_works": [
-        "https://openalex.org/W122358588",
-        "https://openalex.org/W136332873",
         "https://openalex.org/W654711263",
         "https://openalex.org/W1157347561",
         "https://openalex.org/W1483307609",
-        "https://openalex.org/W1524540913",
         "https://openalex.org/W1558076851",
-        "https://openalex.org/W1567684566",
         "https://openalex.org/W1620496676",
         "https://openalex.org/W1657989518",
-        "https://openalex.org/W1741697551",
         "https://openalex.org/W1753926244",
         "https://openalex.org/W1936050515",
         "https://openalex.org/W1947593235",
@@ -39192,7 +39205,6 @@
         "https://openalex.org/W2031547060",
         "https://openalex.org/W2039126607",
         "https://openalex.org/W2039235965",
-        "https://openalex.org/W2040649944",
         "https://openalex.org/W2042921697",
         "https://openalex.org/W2043074624",
         "https://openalex.org/W2043798412",
@@ -39203,18 +39215,18 @@
         "https://openalex.org/W2054067432",
         "https://openalex.org/W2054225764",
         "https://openalex.org/W2056212443",
+        "https://openalex.org/W2058695708",
         "https://openalex.org/W2059131953",
         "https://openalex.org/W2064409298",
-        "https://openalex.org/W2073421810",
         "https://openalex.org/W2074886561",
         "https://openalex.org/W2076897940",
         "https://openalex.org/W2079336411",
         "https://openalex.org/W2081033828",
         "https://openalex.org/W2081582907",
         "https://openalex.org/W2087829981",
+        "https://openalex.org/W2090086523",
         "https://openalex.org/W2091065315",
         "https://openalex.org/W2091941855",
-        "https://openalex.org/W2099878200",
         "https://openalex.org/W2104659005",
         "https://openalex.org/W2105771581",
         "https://openalex.org/W2106229214",
@@ -39236,44 +39248,35 @@
         "https://openalex.org/W2157349415",
         "https://openalex.org/W2157358846",
         "https://openalex.org/W2159534517",
-        "https://openalex.org/W2178590323",
         "https://openalex.org/W2229288588",
         "https://openalex.org/W2289428043",
-        "https://openalex.org/W2332341125",
         "https://openalex.org/W2346162627",
-        "https://openalex.org/W2405810537",
-        "https://openalex.org/W2495144388",
-        "https://openalex.org/W2499136226",
         "https://openalex.org/W2522822380",
         "https://openalex.org/W2549993001",
         "https://openalex.org/W2581527577",
-        "https://openalex.org/W2588103005",
         "https://openalex.org/W2610010470",
         "https://openalex.org/W2741530874",
         "https://openalex.org/W2753692421",
-        "https://openalex.org/W2754177110",
         "https://openalex.org/W2766244708",
         "https://openalex.org/W2774779682",
         "https://openalex.org/W2795297839",
         "https://openalex.org/W2803809009",
         "https://openalex.org/W2890981201",
-        "https://openalex.org/W2891991450",
         "https://openalex.org/W2893262164",
         "https://openalex.org/W2945045906",
         "https://openalex.org/W2972937562",
         "https://openalex.org/W2987868305",
         "https://openalex.org/W3018227034",
-        "https://openalex.org/W3119359546",
+        "https://openalex.org/W3035305122",
         "https://openalex.org/W3126931996",
         "https://openalex.org/W3133679106",
         "https://openalex.org/W3147388952",
-        "https://openalex.org/W3158958244",
         "https://openalex.org/W3159125505",
         "https://openalex.org/W3211284463",
-        "https://openalex.org/W4205662847",
         "https://openalex.org/W4206199937",
         "https://openalex.org/W4214634148",
         "https://openalex.org/W4280500633",
+        "https://openalex.org/W4281477895",
         "https://openalex.org/W4281564120",
         "https://openalex.org/W4375864641",
         "https://openalex.org/W4389778281",
@@ -39285,8 +39288,7 @@
         "https://openalex.org/W4407767884",
         "https://openalex.org/W4411984658",
         "https://openalex.org/W4413813321",
-        "https://openalex.org/W4415900681",
-        "https://openalex.org/W7168547433"
+        "https://openalex.org/W4415900681"
       ],
       "related_works": [
         "https://openalex.org/W4375864641",
@@ -39302,7 +39304,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-09-11T00:00:00"
     },
     {
@@ -39960,9 +39962,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],

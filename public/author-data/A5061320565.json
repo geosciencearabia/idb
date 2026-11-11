@@ -17,7 +17,7 @@
     ],
     "full_name": "Abdulaziz Abdullah al-Laboun",
     "works_count": 14,
-    "cited_by_count": 296,
+    "cited_by_count": 302,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 9,
@@ -186,7 +186,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000184,
+        "value": 0.0000183,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -203,7 +203,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.000011,
+        "value": 0.0000109,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -409,13 +409,13 @@
         "year": 2025,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 11
+        "cited_by_count": 16
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 6
+        "cited_by_count": 7
       }
     ],
     "display_name_alternatives": [
@@ -432,7 +432,8 @@
     "block_key": "a al-laboun",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5061320565",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5061320565",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -524,11 +525,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.321,
+      "fwci": 1.3115,
       "has_fulltext": false,
-      "cited_by_count": 88,
+      "cited_by_count": 89,
       "citation_normalized_percentile": {
-        "value": 0.75842697,
+        "value": 0.74651811,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1028,7 +1029,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2024,
@@ -1083,7 +1084,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-03T10:50:19.383937",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1182,16 +1183,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5194,
+      "fwci": 0.5201,
       "has_fulltext": false,
-      "cited_by_count": 66,
+      "cited_by_count": 68,
       "citation_normalized_percentile": {
-        "value": 0.71653326,
+        "value": 0.68214483,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 98
       },
       "biblio": {
@@ -1809,6 +1810,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
           "year": 2024,
           "cited_by_count": 1
         },
@@ -1853,7 +1858,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1977,16 +1982,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5782,
+      "fwci": 2.5775,
       "has_fulltext": false,
-      "cited_by_count": 47,
+      "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.88051613,
+        "value": 0.8721921,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 97
       },
       "biblio": {
@@ -3185,6 +3190,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
           "year": 2024,
           "cited_by_count": 1
         },
@@ -3217,7 +3226,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6183,11 +6192,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.207,
+      "fwci": 1.2115,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.83343099,
+        "value": 0.81607948,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7261,6 +7270,1287 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2159627547",
+      "doi": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
+      "title": "Paleozoic Oil and Gas Potential of Arabian Basin: ABSTRACT",
+      "display_name": "Paleozoic Oil and Gas Potential of Arabian Basin: ABSTRACT",
+      "publication_year": 1984,
+      "publication_date": "1984-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2159627547",
+        "doi": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
+        "mag": "2159627547"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1306/ad461700-16f7-11d7-8645000102c1865d",
+        "doi": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S144020083",
+          "display_name": "AAPG Bulletin",
+          "issn_l": "0149-1423",
+          "issn": [
+            "0149-1423",
+            "1522-1423",
+            "1558-9153"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316082"
+          ],
+          "host_organization_lineage_names": [
+            "American Association of Petroleum Geologists"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "AAPG Bulletin",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061320565",
+            "display_name": "Abdulaziz A. Al-Laboun",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Abdulaziz Abdullah Al-Laboun",
+          "raw_affiliation_strings": [
+            "Aramco, AI-Khobar, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Aramco, AI-Khobar, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5061320565"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 95
+      },
+      "biblio": {
+        "volume": "68",
+        "issue": "9",
+        "first_page": "1199",
+        "last_page": "1199"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13193",
+        "display_name": "Geological Studies and Exploration",
+        "score": 0.7070000171661377,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.7070000171661377,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.27730000019073486,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.005499999970197678,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/arabian-basin",
+          "display_name": "Arabian Basin",
+          "score": 0.7710000276565552
+        },
+        {
+          "id": "https://openalex.org/keywords/unayzah-formation",
+          "display_name": "Unayzah Formation",
+          "score": 0.9750000238418579
+        },
+        {
+          "id": "https://openalex.org/keywords/khuff-formation",
+          "display_name": "Khuff Formation",
+          "score": 0.9950000047683716
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.7609999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/caledonian-orogeny",
+          "display_name": "Caledonian orogeny",
+          "score": 0.8939999938011169
+        },
+        {
+          "id": "https://openalex.org/keywords/variscan-orogeny",
+          "display_name": "Variscan orogeny",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-control-of-sedimentation",
+          "display_name": "structural control on sedimentation",
+          "score": 0.44999998807907104
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8803595304489136
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.8469561338424683
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.6316768527030945
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.5428244471549988
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.45668378472328186
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.3500427007675171
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.34678149223327637
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.03622230887413025
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1306/ad461700-16f7-11d7-8645000102c1865d",
+          "doi": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S144020083",
+            "display_name": "AAPG Bulletin",
+            "issn_l": "0149-1423",
+            "issn": [
+              "0149-1423",
+              "1522-1423",
+              "1558-9153"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-2",
+              "poland-140",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316082"
+            ],
+            "host_organization_lineage_names": [
+              "American Association of Petroleum Geologists"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "AAPG Bulletin",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W1525628619",
+        "https://openalex.org/W2090539480",
+        "https://openalex.org/W1891617492",
+        "https://openalex.org/W2907934357",
+        "https://openalex.org/W2067071233",
+        "https://openalex.org/W4414227740",
+        "https://openalex.org/W2015065219",
+        "https://openalex.org/W1831163486",
+        "https://openalex.org/W4403075142"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "The": [
+          1,
+          27,
+          51,
+          91,
+          107,
+          213,
+          264,
+          297,
+          343,
+          370,
+          380
+        ],
+        "central": [
+          2,
+          218
+        ],
+        "and": [
+          3,
+          20,
+          23,
+          44,
+          98,
+          101,
+          116,
+          127,
+          133,
+          156,
+          171,
+          186,
+          198,
+          219,
+          223,
+          280,
+          291,
+          295,
+          323,
+          340,
+          351,
+          357,
+          367,
+          387,
+          390,
+          403,
+          407
+        ],
+        "northwestern": [
+          4,
+          220
+        ],
+        "region": [
+          5,
+          32,
+          222
+        ],
+        "of": [
+          6,
+          18,
+          86,
+          96,
+          112,
+          151,
+          160,
+          175,
+          179,
+          191,
+          209,
+          249,
+          276,
+          306,
+          354,
+          363,
+          396,
+          405,
+          422,
+          425,
+          428
+        ],
+        "the": [
+          7,
+          31,
+          37,
+          42,
+          45,
+          49,
+          62,
+          83,
+          87,
+          124,
+          152,
+          161,
+          165,
+          169,
+          176,
+          180,
+          192,
+          210,
+          216,
+          227,
+          237,
+          247,
+          250,
+          261,
+          274,
+          277,
+          284,
+          289,
+          307,
+          313,
+          327,
+          338,
+          349,
+          355,
+          361,
+          393,
+          397,
+          410,
+          414,
+          420,
+          423
+        ],
+        "greater": [
+          8,
+          88
+        ],
+        "Arabian": [
+          9,
+          89,
+          416
+        ],
+        "basin": [
+          10,
+          40,
+          47,
+          53,
+          64,
+          221,
+          279,
+          417
+        ],
+        "contains": [
+          11,
+          65
+        ],
+        "more": [
+          12
+        ],
+        "than": [
+          13
+        ],
+        "5,000": [
+          14
+        ],
+        "m": [
+          15
+        ],
+        "(16,400": [
+          16
+        ],
+        "ft)": [
+          17
+        ],
+        "oil-": [
+          19
+        ],
+        "gas-prospective": [
+          21
+        ],
+        "clastic": [
+          22,
+          119
+        ],
+        "carbonate": [
+          24
+        ],
+        "Paleozoic": [
+          25,
+          35,
+          242,
+          411
+        ],
+        "sediments.": [
+          26,
+          120
+        ],
+        "Hail-Rutbah": [
+          28,
+          228
+        ],
+        "arch": [
+          29,
+          229
+        ],
+        "divides": [
+          30
+        ],
+        "into": [
+          33,
+          231
+        ],
+        "two": [
+          34,
+          238,
+          398
+        ],
+        "basins,": [
+          36
+        ],
+        "western": [
+          38,
+          251
+        ],
+        "Tabuk": [
+          39,
+          52,
+          109,
+          166,
+          252,
+          356
+        ],
+        "on": [
+          41,
+          48
+        ],
+        "west": [
+          43
+        ],
+        "Widyan": [
+          46,
+          63,
+          262,
+          278,
+          358
+        ],
+        "east.": [
+          50
+        ],
+        "is": [
+          54,
+          168,
+          225,
+          244,
+          302,
+          360
+        ],
+        "filled": [
+          55
+        ],
+        "with": [
+          56,
+          337,
+          374,
+          384
+        ],
+        "Cambrian": [
+          57,
+          71
+        ],
+        "to": [
+          58,
+          266,
+          299,
+          348,
+          377
+        ],
+        "Devonian": [
+          59,
+          181
+        ],
+        "sediments,": [
+          60
+        ],
+        "whereas": [
+          61
+        ],
+        "sediments": [
+          66,
+          258
+        ],
+        "ranging": [
+          67
+        ],
+        "in": [
+          68,
+          246,
+          260,
+          273,
+          413,
+          430
+        ],
+        "age": [
+          69
+        ],
+        "from": [
+          70,
+          82,
+          409
+        ],
+        "through": [
+          72
+        ],
+        "Late": [
+          73
+        ],
+        "Permian.": [
+          74
+        ],
+        "A": [
+          75,
+          200
+        ],
+        "north-south-trending": [
+          76
+        ],
+        "Precambrian": [
+          77,
+          105,
+          316
+        ],
+        "platform": [
+          78
+        ],
+        "separates": [
+          79
+        ],
+        "these": [
+          80,
+          431
+        ],
+        "basins": [
+          81,
+          359
+        ],
+        "eastern": [
+          84,
+          415
+        ],
+        "sector": [
+          85
+        ],
+        "basin.": [
+          90,
+          263
+        ],
+        "Cambrian-Ordovician": [
+          92
+        ],
+        "Saq": [
+          93
+        ],
+        "Sandstone,": [
+          94
+        ],
+        "composed": [
+          95
+        ],
+        "fluvial": [
+          97
+        ],
+        "marginal-marine": [
+          99
+        ],
+        "sandstones": [
+          100,
+          134,
+          150
+        ],
+        "minor": [
+          102
+        ],
+        "shales,": [
+          103
+        ],
+        "overlies": [
+          104
+        ],
+        "basement.": [
+          106
+        ],
+        "Ordovician-Silurian": [
+          108
+        ],
+        "Formation": [
+          110,
+          167,
+          270
+        ],
+        "consists": [
+          111
+        ],
+        "cyclically": [
+          113
+        ],
+        "deposited": [
+          114,
+          272
+        ],
+        "marine": [
+          115,
+          118,
+          185
+        ],
+        "marginally": [
+          117
+        ],
+        "Three": [
+          121
+        ],
+        "shale": [
+          122,
+          140,
+          144,
+          378
+        ],
+        "members,": [
+          123
+        ],
+        "Hanadir,": [
+          125
+        ],
+        "Ra’an,": [
+          126
+        ],
+        "Quasaiba,": [
+          128
+        ],
+        "are": [
+          129,
+          146,
+          334
+        ],
+        "separated": [
+          130
+        ],
+        "by": [
+          131,
+          148,
+          205,
+          283,
+          304,
+          312
+        ],
+        "siltstones": [
+          132
+        ],
+        "that": [
+          135
+        ],
+        "pinch": [
+          136
+        ],
+        "out": [
+          137
+        ],
+        "basinward": [
+          138
+        ],
+        "where": [
+          139
+        ],
+        "becomes": [
+          141
+        ],
+        "dominant.": [
+          142
+        ],
+        "These": [
+          143
+        ],
+        "members": [
+          145
+        ],
+        "covered": [
+          147,
+          282
+        ],
+        "regressive": [
+          149
+        ],
+        "Sharawra": [
+          153
+        ],
+        "Member.": [
+          154
+        ],
+        "Uplift": [
+          155
+        ],
+        "erosion": [
+          157,
+          206
+        ],
+        "followed": [
+          158,
+          189,
+          207
+        ],
+        "deposition": [
+          159,
+          190,
+          208,
+          243,
+          325
+        ],
+        "Sharawra.": [
+          162
+        ],
+        "Unconformably": [
+          163
+        ],
+        "overlying": [
+          164
+        ],
+        "coarse": [
+          170
+        ],
+        "pebbly": [
+          172
+        ],
+        "continental": [
+          173
+        ],
+        "sandstone": [
+          174,
+          375
+        ],
+        "Tawil": [
+          177,
+          193
+        ],
+        "Member": [
+          178
+        ],
+        "Jauf": [
+          182,
+          211
+        ],
+        "Formation.": [
+          183,
+          212
+        ],
+        "Alternating": [
+          184
+        ],
+        "nonmarine": [
+          187
+        ],
+        "conditions": [
+          188
+        ],
+        "Member,": [
+          194
+        ],
+        "producing": [
+          195
+        ],
+        "interbedded": [
+          196
+        ],
+        "carbonates": [
+          197,
+          305
+        ],
+        "clastics.": [
+          199
+        ],
+        "major": [
+          201
+        ],
+        "regional": [
+          202
+        ],
+        "uplift": [
+          203,
+          214
+        ],
+        "accompanied": [
+          204
+        ],
+        "affected": [
+          215
+        ],
+        "entire": [
+          217
+        ],
+        "it": [
+          224
+        ],
+        "believed": [
+          226,
+          335
+        ],
+        "came": [
+          230
+        ],
+        "being": [
+          232
+        ],
+        "at": [
+          233
+        ],
+        "this": [
+          234
+        ],
+        "time,": [
+          235
+        ],
+        "creating": [
+          236
+        ],
+        "basins.": [
+          239,
+          399,
+          432
+        ],
+        "No": [
+          240
+        ],
+        "post-Devonian": [
+          241
+        ],
+        "recorded": [
+          245
+        ],
+        "rocks": [
+          248,
+          294
+        ],
+        "basin;": [
+          253
+        ],
+        "however,": [
+          254
+        ],
+        "thick": [
+          255,
+          364
+        ],
+        "Carboniferous-Upper": [
+          256
+        ],
+        "Permian": [
+          257,
+          268,
+          301
+        ],
+        "occur": [
+          259
+        ],
+        "Carboniferous": [
+          265
+        ],
+        "middle": [
+          267,
+          298
+        ],
+        "Berwath": [
+          269
+        ],
+        "was": [
+          271,
+          281
+        ],
+        "center": [
+          275
+        ],
+        "Unayzah": [
+          285
+        ],
+        "Formation,": [
+          286,
+          309
+        ],
+        "which": [
+          287
+        ],
+        "transgressed": [
+          288
+        ],
+        "area": [
+          290
+        ],
+        "overlapped": [
+          292
+        ],
+        "older": [
+          293
+        ],
+        "paleohighs.": [
+          296
+        ],
+        "Upper": [
+          300
+        ],
+        "represented": [
+          303
+        ],
+        "Khuff": [
+          308
+        ],
+        "laid": [
+          310
+        ],
+        "down": [
+          311
+        ],
+        "transgressive": [
+          314
+        ],
+        "sea.": [
+          315
+        ],
+        "structural": [
+          317,
+          321,
+          388
+        ],
+        "features": [
+          318
+        ],
+        "significantly": [
+          319
+        ],
+        "influenced": [
+          320
+        ],
+        "trends": [
+          322
+        ],
+        "sedimentary": [
+          324
+        ],
+        "during": [
+          326
+        ],
+        "Paleozoic.": [
+          328
+        ],
+        "Major": [
+          329
+        ],
+        "stratigraphic": [
+          330
+        ],
+        "breaks": [
+          331
+        ],
+        "or": [
+          332
+        ],
+        "unconformities": [
+          333,
+          386
+        ],
+        "associated": [
+          336
+        ],
+        "Caledonian": [
+          339
+        ],
+        "Hercynian": [
+          341
+        ],
+        "orogenies.": [
+          342
+        ],
+        "most": [
+          344
+        ],
+        "significant": [
+          345
+        ],
+        "factor": [
+          346
+        ],
+        "relating": [
+          347
+        ],
+        "oil": [
+          350,
+          406
+        ],
+        "gas": [
+          352,
+          408
+        ],
+        "prospectiveness": [
+          353
+        ],
+        "presence": [
+          362,
+          424
+        ],
+        "alternating": [
+          365
+        ],
+        "source": [
+          366
+        ],
+        "reservoir": [
+          368
+        ],
+        "sections.": [
+          369
+        ],
+        "facies": [
+          371,
+          381
+        ],
+        "vary": [
+          372
+        ],
+        "laterally,": [
+          373
+        ],
+        "grading": [
+          376
+        ],
+        "basinward.": [
+          379
+        ],
+        "changes": [
+          382
+        ],
+        "combined": [
+          383
+        ],
+        "several": [
+          385
+        ],
+        "folding": [
+          389
+        ],
+        "faulting": [
+          391
+        ],
+        "enhance": [
+          392
+        ],
+        "hydrocarbon": [
+          394
+        ],
+        "potential": [
+          395
+        ],
+        "Also,": [
+          400
+        ],
+        "known": [
+          401
+        ],
+        "shows": [
+          402
+        ],
+        "recoveries": [
+          404
+        ],
+        "section": [
+          412
+        ],
+        "further": [
+          418
+        ],
+        "support": [
+          419
+        ],
+        "possibility": [
+          421
+        ],
+        "commercial": [
+          426
+        ],
+        "quantities": [
+          427
+        ],
+        "hydrocarbons": [
+          429
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-10T11:39:43.021295",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2324975818",
       "doi": "https://doi.org/10.4197/ear.3-1.17",
       "title": "The Paleozoic Succession and the Influence of the Hercynian Equivalent Movements in the Greater Arabian Basin",
@@ -7654,12 +8944,12 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.13367742,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 94
       },
       "biblio": {
@@ -10808,1275 +12098,6 @@
       "abstract_inverted_index": null,
       "counts_by_year": [],
       "updated_date": "2026-09-11T09:22:31.653822",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2159627547",
-      "doi": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
-      "title": "Paleozoic Oil and Gas Potential of Arabian Basin: ABSTRACT",
-      "display_name": "Paleozoic Oil and Gas Potential of Arabian Basin: ABSTRACT",
-      "publication_year": 1984,
-      "publication_date": "1984-09-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2159627547",
-        "doi": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
-        "mag": "2159627547"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1306/ad461700-16f7-11d7-8645000102c1865d",
-        "doi": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S144020083",
-          "display_name": "AAPG Bulletin",
-          "issn_l": "0149-1423",
-          "issn": [
-            "0149-1423",
-            "1522-1423",
-            "1558-9153"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-b",
-            "jufo-1",
-            "norway-2",
-            "poland-140",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310316082",
-          "host_organization_name": "American Association of Petroleum Geologists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316082"
-          ],
-          "host_organization_lineage_names": [
-            "American Association of Petroleum Geologists"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "AAPG Bulletin",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5061320565",
-            "display_name": "Abdulaziz A. Al-Laboun",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Abdulaziz Abdullah Al-Laboun",
-          "raw_affiliation_strings": [
-            "Aramco, AI-Khobar, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Aramco, AI-Khobar, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5061320565"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.32570741,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "68",
-        "issue": "9",
-        "first_page": "1199",
-        "last_page": "1199"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13193",
-        "display_name": "Geological Studies and Exploration",
-        "score": 0.7070000171661377,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.7070000171661377,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.27730000019073486,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.005499999970197678,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/arabian-basin",
-          "display_name": "Arabian Basin",
-          "score": 0.7710000276565552
-        },
-        {
-          "id": "https://openalex.org/keywords/unayzah-formation",
-          "display_name": "Unayzah Formation",
-          "score": 0.9750000238418579
-        },
-        {
-          "id": "https://openalex.org/keywords/khuff-formation",
-          "display_name": "Khuff Formation",
-          "score": 0.9950000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "unconformity",
-          "score": 0.7609999775886536
-        },
-        {
-          "id": "https://openalex.org/keywords/caledonian-orogeny",
-          "display_name": "Caledonian orogeny",
-          "score": 0.8939999938011169
-        },
-        {
-          "id": "https://openalex.org/keywords/variscan-orogeny",
-          "display_name": "Variscan orogeny",
-          "score": 0.9980000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-control-of-sedimentation",
-          "display_name": "structural control on sedimentation",
-          "score": 0.44999998807907104
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8803595304489136
-        },
-        {
-          "id": "https://openalex.org/C13106087",
-          "wikidata": "https://www.wikidata.org/wiki/Q75507",
-          "display_name": "Paleozoic",
-          "level": 2,
-          "score": 0.8469561338424683
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.6316768527030945
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.5428244471549988
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.45668378472328186
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.3500427007675171
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.34678149223327637
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.03622230887413025
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1306/ad461700-16f7-11d7-8645000102c1865d",
-          "doi": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1306/ad461700-16f7-11d7-8645000102c1865d",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S144020083",
-            "display_name": "AAPG Bulletin",
-            "issn_l": "0149-1423",
-            "issn": [
-              "0149-1423",
-              "1522-1423",
-              "1558-9153"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-b",
-              "jufo-1",
-              "norway-2",
-              "poland-140",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310316082",
-            "host_organization_name": "American Association of Petroleum Geologists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316082"
-            ],
-            "host_organization_lineage_names": [
-              "American Association of Petroleum Geologists"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "AAPG Bulletin",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W1525628619",
-        "https://openalex.org/W2090539480",
-        "https://openalex.org/W1891617492",
-        "https://openalex.org/W2907934357",
-        "https://openalex.org/W2067071233",
-        "https://openalex.org/W4414227740",
-        "https://openalex.org/W2015065219",
-        "https://openalex.org/W1831163486",
-        "https://openalex.org/W4403075142"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "The": [
-          1,
-          27,
-          51,
-          91,
-          107,
-          213,
-          264,
-          297,
-          343,
-          370,
-          380
-        ],
-        "central": [
-          2,
-          218
-        ],
-        "and": [
-          3,
-          20,
-          23,
-          44,
-          98,
-          101,
-          116,
-          127,
-          133,
-          156,
-          171,
-          186,
-          198,
-          219,
-          223,
-          280,
-          291,
-          295,
-          323,
-          340,
-          351,
-          357,
-          367,
-          387,
-          390,
-          403,
-          407
-        ],
-        "northwestern": [
-          4,
-          220
-        ],
-        "region": [
-          5,
-          32,
-          222
-        ],
-        "of": [
-          6,
-          18,
-          86,
-          96,
-          112,
-          151,
-          160,
-          175,
-          179,
-          191,
-          209,
-          249,
-          276,
-          306,
-          354,
-          363,
-          396,
-          405,
-          422,
-          425,
-          428
-        ],
-        "the": [
-          7,
-          31,
-          37,
-          42,
-          45,
-          49,
-          62,
-          83,
-          87,
-          124,
-          152,
-          161,
-          165,
-          169,
-          176,
-          180,
-          192,
-          210,
-          216,
-          227,
-          237,
-          247,
-          250,
-          261,
-          274,
-          277,
-          284,
-          289,
-          307,
-          313,
-          327,
-          338,
-          349,
-          355,
-          361,
-          393,
-          397,
-          410,
-          414,
-          420,
-          423
-        ],
-        "greater": [
-          8,
-          88
-        ],
-        "Arabian": [
-          9,
-          89,
-          416
-        ],
-        "basin": [
-          10,
-          40,
-          47,
-          53,
-          64,
-          221,
-          279,
-          417
-        ],
-        "contains": [
-          11,
-          65
-        ],
-        "more": [
-          12
-        ],
-        "than": [
-          13
-        ],
-        "5,000": [
-          14
-        ],
-        "m": [
-          15
-        ],
-        "(16,400": [
-          16
-        ],
-        "ft)": [
-          17
-        ],
-        "oil-": [
-          19
-        ],
-        "gas-prospective": [
-          21
-        ],
-        "clastic": [
-          22,
-          119
-        ],
-        "carbonate": [
-          24
-        ],
-        "Paleozoic": [
-          25,
-          35,
-          242,
-          411
-        ],
-        "sediments.": [
-          26,
-          120
-        ],
-        "Hail-Rutbah": [
-          28,
-          228
-        ],
-        "arch": [
-          29,
-          229
-        ],
-        "divides": [
-          30
-        ],
-        "into": [
-          33,
-          231
-        ],
-        "two": [
-          34,
-          238,
-          398
-        ],
-        "basins,": [
-          36
-        ],
-        "western": [
-          38,
-          251
-        ],
-        "Tabuk": [
-          39,
-          52,
-          109,
-          166,
-          252,
-          356
-        ],
-        "on": [
-          41,
-          48
-        ],
-        "west": [
-          43
-        ],
-        "Widyan": [
-          46,
-          63,
-          262,
-          278,
-          358
-        ],
-        "east.": [
-          50
-        ],
-        "is": [
-          54,
-          168,
-          225,
-          244,
-          302,
-          360
-        ],
-        "filled": [
-          55
-        ],
-        "with": [
-          56,
-          337,
-          374,
-          384
-        ],
-        "Cambrian": [
-          57,
-          71
-        ],
-        "to": [
-          58,
-          266,
-          299,
-          348,
-          377
-        ],
-        "Devonian": [
-          59,
-          181
-        ],
-        "sediments,": [
-          60
-        ],
-        "whereas": [
-          61
-        ],
-        "sediments": [
-          66,
-          258
-        ],
-        "ranging": [
-          67
-        ],
-        "in": [
-          68,
-          246,
-          260,
-          273,
-          413,
-          430
-        ],
-        "age": [
-          69
-        ],
-        "from": [
-          70,
-          82,
-          409
-        ],
-        "through": [
-          72
-        ],
-        "Late": [
-          73
-        ],
-        "Permian.": [
-          74
-        ],
-        "A": [
-          75,
-          200
-        ],
-        "north-south-trending": [
-          76
-        ],
-        "Precambrian": [
-          77,
-          105,
-          316
-        ],
-        "platform": [
-          78
-        ],
-        "separates": [
-          79
-        ],
-        "these": [
-          80,
-          431
-        ],
-        "basins": [
-          81,
-          359
-        ],
-        "eastern": [
-          84,
-          415
-        ],
-        "sector": [
-          85
-        ],
-        "basin.": [
-          90,
-          263
-        ],
-        "Cambrian-Ordovician": [
-          92
-        ],
-        "Saq": [
-          93
-        ],
-        "Sandstone,": [
-          94
-        ],
-        "composed": [
-          95
-        ],
-        "fluvial": [
-          97
-        ],
-        "marginal-marine": [
-          99
-        ],
-        "sandstones": [
-          100,
-          134,
-          150
-        ],
-        "minor": [
-          102
-        ],
-        "shales,": [
-          103
-        ],
-        "overlies": [
-          104
-        ],
-        "basement.": [
-          106
-        ],
-        "Ordovician-Silurian": [
-          108
-        ],
-        "Formation": [
-          110,
-          167,
-          270
-        ],
-        "consists": [
-          111
-        ],
-        "cyclically": [
-          113
-        ],
-        "deposited": [
-          114,
-          272
-        ],
-        "marine": [
-          115,
-          118,
-          185
-        ],
-        "marginally": [
-          117
-        ],
-        "Three": [
-          121
-        ],
-        "shale": [
-          122,
-          140,
-          144,
-          378
-        ],
-        "members,": [
-          123
-        ],
-        "Hanadir,": [
-          125
-        ],
-        "Ra’an,": [
-          126
-        ],
-        "Quasaiba,": [
-          128
-        ],
-        "are": [
-          129,
-          146,
-          334
-        ],
-        "separated": [
-          130
-        ],
-        "by": [
-          131,
-          148,
-          205,
-          283,
-          304,
-          312
-        ],
-        "siltstones": [
-          132
-        ],
-        "that": [
-          135
-        ],
-        "pinch": [
-          136
-        ],
-        "out": [
-          137
-        ],
-        "basinward": [
-          138
-        ],
-        "where": [
-          139
-        ],
-        "becomes": [
-          141
-        ],
-        "dominant.": [
-          142
-        ],
-        "These": [
-          143
-        ],
-        "members": [
-          145
-        ],
-        "covered": [
-          147,
-          282
-        ],
-        "regressive": [
-          149
-        ],
-        "Sharawra": [
-          153
-        ],
-        "Member.": [
-          154
-        ],
-        "Uplift": [
-          155
-        ],
-        "erosion": [
-          157,
-          206
-        ],
-        "followed": [
-          158,
-          189,
-          207
-        ],
-        "deposition": [
-          159,
-          190,
-          208,
-          243,
-          325
-        ],
-        "Sharawra.": [
-          162
-        ],
-        "Unconformably": [
-          163
-        ],
-        "overlying": [
-          164
-        ],
-        "coarse": [
-          170
-        ],
-        "pebbly": [
-          172
-        ],
-        "continental": [
-          173
-        ],
-        "sandstone": [
-          174,
-          375
-        ],
-        "Tawil": [
-          177,
-          193
-        ],
-        "Member": [
-          178
-        ],
-        "Jauf": [
-          182,
-          211
-        ],
-        "Formation.": [
-          183,
-          212
-        ],
-        "Alternating": [
-          184
-        ],
-        "nonmarine": [
-          187
-        ],
-        "conditions": [
-          188
-        ],
-        "Member,": [
-          194
-        ],
-        "producing": [
-          195
-        ],
-        "interbedded": [
-          196
-        ],
-        "carbonates": [
-          197,
-          305
-        ],
-        "clastics.": [
-          199
-        ],
-        "major": [
-          201
-        ],
-        "regional": [
-          202
-        ],
-        "uplift": [
-          203,
-          214
-        ],
-        "accompanied": [
-          204
-        ],
-        "affected": [
-          215
-        ],
-        "entire": [
-          217
-        ],
-        "it": [
-          224
-        ],
-        "believed": [
-          226,
-          335
-        ],
-        "came": [
-          230
-        ],
-        "being": [
-          232
-        ],
-        "at": [
-          233
-        ],
-        "this": [
-          234
-        ],
-        "time,": [
-          235
-        ],
-        "creating": [
-          236
-        ],
-        "basins.": [
-          239,
-          399,
-          432
-        ],
-        "No": [
-          240
-        ],
-        "post-Devonian": [
-          241
-        ],
-        "recorded": [
-          245
-        ],
-        "rocks": [
-          248,
-          294
-        ],
-        "basin;": [
-          253
-        ],
-        "however,": [
-          254
-        ],
-        "thick": [
-          255,
-          364
-        ],
-        "Carboniferous-Upper": [
-          256
-        ],
-        "Permian": [
-          257,
-          268,
-          301
-        ],
-        "occur": [
-          259
-        ],
-        "Carboniferous": [
-          265
-        ],
-        "middle": [
-          267,
-          298
-        ],
-        "Berwath": [
-          269
-        ],
-        "was": [
-          271,
-          281
-        ],
-        "center": [
-          275
-        ],
-        "Unayzah": [
-          285
-        ],
-        "Formation,": [
-          286,
-          309
-        ],
-        "which": [
-          287
-        ],
-        "transgressed": [
-          288
-        ],
-        "area": [
-          290
-        ],
-        "overlapped": [
-          292
-        ],
-        "older": [
-          293
-        ],
-        "paleohighs.": [
-          296
-        ],
-        "Upper": [
-          300
-        ],
-        "represented": [
-          303
-        ],
-        "Khuff": [
-          308
-        ],
-        "laid": [
-          310
-        ],
-        "down": [
-          311
-        ],
-        "transgressive": [
-          314
-        ],
-        "sea.": [
-          315
-        ],
-        "structural": [
-          317,
-          321,
-          388
-        ],
-        "features": [
-          318
-        ],
-        "significantly": [
-          319
-        ],
-        "influenced": [
-          320
-        ],
-        "trends": [
-          322
-        ],
-        "sedimentary": [
-          324
-        ],
-        "during": [
-          326
-        ],
-        "Paleozoic.": [
-          328
-        ],
-        "Major": [
-          329
-        ],
-        "stratigraphic": [
-          330
-        ],
-        "breaks": [
-          331
-        ],
-        "or": [
-          332
-        ],
-        "unconformities": [
-          333,
-          386
-        ],
-        "associated": [
-          336
-        ],
-        "Caledonian": [
-          339
-        ],
-        "Hercynian": [
-          341
-        ],
-        "orogenies.": [
-          342
-        ],
-        "most": [
-          344
-        ],
-        "significant": [
-          345
-        ],
-        "factor": [
-          346
-        ],
-        "relating": [
-          347
-        ],
-        "oil": [
-          350,
-          406
-        ],
-        "gas": [
-          352,
-          408
-        ],
-        "prospectiveness": [
-          353
-        ],
-        "presence": [
-          362,
-          424
-        ],
-        "alternating": [
-          365
-        ],
-        "source": [
-          366
-        ],
-        "reservoir": [
-          368
-        ],
-        "sections.": [
-          369
-        ],
-        "facies": [
-          371,
-          381
-        ],
-        "vary": [
-          372
-        ],
-        "laterally,": [
-          373
-        ],
-        "grading": [
-          376
-        ],
-        "basinward.": [
-          379
-        ],
-        "changes": [
-          382
-        ],
-        "combined": [
-          383
-        ],
-        "several": [
-          385
-        ],
-        "folding": [
-          389
-        ],
-        "faulting": [
-          391
-        ],
-        "enhance": [
-          392
-        ],
-        "hydrocarbon": [
-          394
-        ],
-        "potential": [
-          395
-        ],
-        "Also,": [
-          400
-        ],
-        "known": [
-          401
-        ],
-        "shows": [
-          402
-        ],
-        "recoveries": [
-          404
-        ],
-        "section": [
-          412
-        ],
-        "further": [
-          418
-        ],
-        "support": [
-          419
-        ],
-        "possibility": [
-          421
-        ],
-        "commercial": [
-          426
-        ],
-        "quantities": [
-          427
-        ],
-        "hydrocarbons": [
-          429
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
       "created_date": "2016-06-24T00:00:00"
     }
   ]

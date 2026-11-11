@@ -12,7 +12,7 @@
     ],
     "full_name": "Hussain F. Al Ajmi",
     "works_count": 17,
-    "cited_by_count": 117,
+    "cited_by_count": 118,
     "summary_stats": {
       "2yr_mean_citedness": 6,
       "h_index": 5,
@@ -388,7 +388,7 @@
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 18
+        "cited_by_count": 19
       }
     ],
     "display_name_alternatives": [
@@ -400,7 +400,8 @@
     "block_key": "h al ajmi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5047482366",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -597,11 +598,11 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.6473,
+      "fwci": 0.6499,
       "has_fulltext": false,
-      "cited_by_count": 32,
+      "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.64829481,
+        "value": 0.64718163,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -925,8 +926,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action"
         }
       ],
@@ -974,7 +975,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -1001,7 +1002,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2018-03-29T00:00:00"
     },
     {
@@ -1323,13 +1324,13 @@
         "currency": "CHF",
         "value_usd": 3258
       },
-      "fwci": 2.8753,
+      "fwci": 2.7902,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.90501343,
+        "value": 0.89809558,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 93,
@@ -1677,8 +1678,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.965499997138977,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.965499997138977,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -2450,7 +2451,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-02-26T00:00:00"
     },
     {
@@ -5422,7 +5423,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.06890756,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5728,8 +5729,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6618000268936157,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.6618000268936157,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -10649,7 +10650,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06218333,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11591,7 +11592,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06310456,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

@@ -12,7 +12,7 @@
     ],
     "full_name": "Camilo A. Polo",
     "works_count": 9,
-    "cited_by_count": 208,
+    "cited_by_count": 210,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 6,
@@ -180,7 +180,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.000011,
+        "value": 0.0000109,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -319,7 +319,7 @@
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 11
+        "cited_by_count": 12
       },
       {
         "year": 2019,
@@ -367,7 +367,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 18
+        "cited_by_count": 19
       }
     ],
     "display_name_alternatives": [
@@ -379,7 +379,8 @@
     "block_key": "c polo",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5030587820",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5030587820",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -893,11 +894,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.7475,
+      "fwci": 16.6852,
       "has_fulltext": false,
-      "cited_by_count": 129,
+      "cited_by_count": 131,
       "citation_normalized_percentile": {
-        "value": 0.99496855,
+        "value": 0.99496222,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1206,8 +1207,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -1287,7 +1288,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -1319,7 +1320,7 @@
         },
         {
           "year": 2018,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2017,
@@ -1346,7 +1347,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2017-04-28T00:00:00"
     },
     {
@@ -1633,11 +1634,11 @@
         "value_usd": 3100
       },
       "apc_paid": null,
-      "fwci": 1.789,
+      "fwci": 1.7688,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81186441,
+        "value": 0.80816731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1942,8 +1943,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 151,
@@ -2389,11 +2390,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7796,
+      "fwci": 0.7787,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.63184177,
+        "value": 0.59835504,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2710,11 +2711,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 91,
+      "referenced_works_count": 93,
       "referenced_works": [
         "https://openalex.org/W99522915",
         "https://openalex.org/W137341996",
@@ -2775,6 +2776,7 @@
         "https://openalex.org/W2111535271",
         "https://openalex.org/W2113298788",
         "https://openalex.org/W2114020378",
+        "https://openalex.org/W2120575309",
         "https://openalex.org/W2124033999",
         "https://openalex.org/W2126127598",
         "https://openalex.org/W2135341036",
@@ -2782,6 +2784,7 @@
         "https://openalex.org/W2141235941",
         "https://openalex.org/W2151298887",
         "https://openalex.org/W2151826663",
+        "https://openalex.org/W2155783530",
         "https://openalex.org/W2164480651",
         "https://openalex.org/W2173832424",
         "https://openalex.org/W2213375454",
@@ -3586,7 +3589,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2022-11-04T00:00:00"
     },
     {
@@ -4237,8 +4240,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -5517,8 +5520,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -6962,8 +6965,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 121,
@@ -7473,11 +7476,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8631,
+      "fwci": 0.8665,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.71011799,
+        "value": 0.69013971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7756,11 +7759,11 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 102,
+      "referenced_works_count": 103,
       "referenced_works": [
         "https://openalex.org/W4272660",
         "https://openalex.org/W27186039",
@@ -7862,6 +7865,7 @@
         "https://openalex.org/W4210685001",
         "https://openalex.org/W4235833355",
         "https://openalex.org/W4285719527",
+        "https://openalex.org/W4406748917",
         "https://openalex.org/W4406759426",
         "https://openalex.org/W6602710262"
       ],
@@ -8899,7 +8903,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2018-09-27T00:00:00"
     },
     {
@@ -9512,8 +9516,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3005990354.pdf",
@@ -10433,8 +10437,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

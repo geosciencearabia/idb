@@ -12,9 +12,9 @@
     ],
     "full_name": "Rabah Alouani",
     "works_count": 45,
-    "cited_by_count": 222,
+    "cited_by_count": 226,
     "summary_stats": {
-      "2yr_mean_citedness": 0.8333333333333334,
+      "2yr_mean_citedness": 1,
       "h_index": 7,
       "i10_index": 6
     },
@@ -198,7 +198,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001659,
+        "value": 0.0001658,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -215,7 +215,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.000057,
+        "value": 0.0000569,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -232,7 +232,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000405,
+        "value": 0.0000404,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -426,13 +426,13 @@
         "year": 2023,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 22
+        "cited_by_count": 24
       },
       {
         "year": 2024,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 16
+        "cited_by_count": 17
       },
       {
         "year": 2025,
@@ -444,7 +444,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 22
+        "cited_by_count": 23
       }
     ],
     "display_name_alternatives": [
@@ -456,7 +456,8 @@
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
     "awards_count": 0,
-    "updated_date": "2026-11-09T14:06:01",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5051221143",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1479,11 +1480,11 @@
         "currency": "USD",
         "value_usd": 1630
       },
-      "fwci": 1.1673,
+      "fwci": 1.1654,
       "has_fulltext": true,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.80195098,
+        "value": 0.79343913,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1785,37 +1786,6 @@
           "raw_type": "Text"
         },
         {
-          "id": "pmh:oai:pubmedcentral.nih.gov:4897671",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4897671",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Int J Anal Chem",
-          "raw_type": "Text"
-        },
-        {
           "id": "pmid:27313617",
           "doi": null,
           "is_oa": false,
@@ -1845,6 +1815,37 @@
           "is_published": true,
           "raw_source_name": "International journal of analytical chemistry",
           "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:4897671",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4897671/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Int J Anal Chem",
+          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:5a913c462132460cb3d22fdcefc9a7e5",
@@ -2346,7 +2347,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -2642,11 +2643,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9379,
+      "fwci": 1.9375,
       "has_fulltext": true,
-      "cited_by_count": 41,
+      "cited_by_count": 44,
       "citation_normalized_percentile": {
-        "value": 0.8294761,
+        "value": 0.82940963,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3390,11 +3391,11 @@
         },
         {
           "year": 2024,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2023,
-          "cited_by_count": 2
+          "cited_by_count": 4
         },
         {
           "year": 2022,
@@ -3441,8 +3442,1249 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4403532362",
+      "doi": "https://doi.org/10.1007/s13369-024-09688-x",
+      "title": "Valorization of Different Clays Used in the Treatment of Oily Wastewater in the Development of Construction Products",
+      "display_name": "Valorization of Different Clays Used in the Treatment of Oily Wastewater in the Development of Construction Products",
+      "publication_year": 2024,
+      "publication_date": "2024-10-18",
+      "ids": {
+        "openalex": "https://openalex.org/W4403532362",
+        "doi": "https://doi.org/10.1007/s13369-024-09688-x"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s13369-024-09688-x",
+        "doi": "https://doi.org/10.1007/s13369-024-09688-x",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210185304",
+          "display_name": "Arabian Journal for Science and Engineering",
+          "issn_l": "1319-8025",
+          "issn": [
+            "1319-8025",
+            "2191-4281",
+            "2193-567X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal for Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5114319167",
+            "display_name": "Chaima Ayadi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I179097149",
+              "display_name": "University of Carthage",
+              "ror": "https://ror.org/057x6za15",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chaima Ayadi",
+          "raw_affiliation_strings": [
+            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051221143",
+            "display_name": "Rabah Alouani",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I179097149",
+              "display_name": "University of Carthage",
+              "ror": "https://ror.org/057x6za15",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rabah Alouani",
+          "raw_affiliation_strings": [
+            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017096272",
+            "display_name": "Kais Nahdi",
+            "orcid": "https://orcid.org/0000-0001-8061-0332",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8061-0332"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I179097149",
+              "display_name": "University of Carthage",
+              "ror": "https://ror.org/057x6za15",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kais Nahdi",
+          "raw_affiliation_strings": [
+            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5023620157",
+            "display_name": "Dolores Eliche‐Quesada",
+            "orcid": "https://orcid.org/0000-0003-3803-9595",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3803-9595"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I191420491",
+              "display_name": "Universidad de Jaén",
+              "ror": "https://ror.org/0122p5f64",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191420491"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dolores Eliche-Quesada",
+          "raw_affiliation_strings": [
+            "Center for Advanced Studies in Earth Sciences, Energy and Environment (CEACTEMA), University of Jaén, Campus Las Lagunillas, S/N, 23071, Jaén, Spain",
+            "Department of Chemical, Environmental, and Materials Engineering, Higher Polytechnic School of Jaén, University of Jaén, Campus Las Lagunillas S/N 23071, Jaén, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3803-9595",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Advanced Studies in Earth Sciences, Energy and Environment (CEACTEMA), University of Jaén, Campus Las Lagunillas, S/N, 23071, Jaén, Spain",
+              "institution_ids": [
+                "https://openalex.org/I191420491"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Chemical, Environmental, and Materials Engineering, Higher Polytechnic School of Jaén, University of Jaén, Campus Las Lagunillas S/N 23071, Jaén, Spain",
+              "institution_ids": [
+                "https://openalex.org/I191420491"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5023620157"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I191420491"
+      ],
+      "apc_list": {
+        "value": 3390,
+        "currency": "USD",
+        "value_usd": 3390
+      },
+      "apc_paid": {
+        "value": 3390,
+        "currency": "USD",
+        "value_usd": 3390
+      },
+      "fwci": 0.961,
+      "has_fulltext": true,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.70637221,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "50",
+        "issue": "18",
+        "first_page": "14909",
+        "last_page": "14929"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11672",
+        "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2215",
+          "display_name": "Building and Construction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11672",
+          "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12105",
+          "display_name": "Hygrothermal properties of building materials",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13140",
+          "display_name": "Materials Engineering and Processing",
+          "score": 0.00009999999747378752,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/oily-wastewater-treatment",
+          "display_name": "oily wastewater treatment",
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/olive-mill-wastewater",
+          "display_name": "olive mill wastewater",
+          "score": 0.8930000066757202
+        },
+        {
+          "id": "https://openalex.org/keywords/lubricating-oil",
+          "display_name": "lubricating oil",
+          "score": 0.8690000176429749
+        },
+        {
+          "id": "https://openalex.org/keywords/motor-oil",
+          "display_name": "engine oil",
+          "score": 0.9909999966621399
+        },
+        {
+          "id": "https://openalex.org/keywords/fired-clay-bricks",
+          "display_name": "ceramic bricks",
+          "score": 0.9259999990463257
+        },
+        {
+          "id": "https://openalex.org/keywords/kaolinite",
+          "display_name": "kaolinite",
+          "score": 0.8920000195503235
+        },
+        {
+          "id": "https://openalex.org/keywords/smectite",
+          "display_name": "smectite",
+          "score": 0.9980000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/filtration",
+          "display_name": "filtration",
+          "score": 0.36899998784065247
+        },
+        {
+          "id": "https://openalex.org/keywords/compressive-strength",
+          "display_name": "compressive strength",
+          "score": 0.7160000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "porosity",
+          "score": 0.6890000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/water-uptake",
+          "display_name": "water absorption",
+          "score": 0.8560000061988831
+        },
+        {
+          "id": "https://openalex.org/keywords/thermal-conductivity",
+          "display_name": "thermal conductivity",
+          "score": 0.9020000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/sintering-microstructure",
+          "display_name": "sintering microstructure",
+          "score": 0.7369999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/circular-economy",
+          "display_name": "circular economy",
+          "score": 0.7960000038146973
+        },
+        {
+          "id": "https://openalex.org/keywords/building-materials",
+          "display_name": "building materials",
+          "score": 0.6100000143051147
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.5556144118309021
+        },
+        {
+          "id": "https://openalex.org/C94061648",
+          "wikidata": "https://www.wikidata.org/wiki/Q336191",
+          "display_name": "Wastewater",
+          "level": 2,
+          "score": 0.5303438901901245
+        },
+        {
+          "id": "https://openalex.org/C57442070",
+          "wikidata": "https://www.wikidata.org/wiki/Q221275",
+          "display_name": "Sewage treatment",
+          "level": 2,
+          "score": 0.44316476583480835
+        },
+        {
+          "id": "https://openalex.org/C528095902",
+          "wikidata": "https://www.wikidata.org/wiki/Q2283886",
+          "display_name": "Pulp and paper industry",
+          "level": 1,
+          "score": 0.4127749502658844
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.39399784803390503
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.36244961619377136
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s13369-024-09688-x",
+          "doi": "https://doi.org/10.1007/s13369-024-09688-x",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
+          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210185304",
+            "display_name": "Arabian Journal for Science and Engineering",
+            "issn_l": "1319-8025",
+            "issn": [
+              "1319-8025",
+              "2191-4281",
+              "2193-567X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "jufo-1",
+              "norway-1",
+              "poland-40",
+              "russia-white-list-1",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Arabian Journal for Science and Engineering",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1007/s13369-024-09688-x",
+        "doi": "https://doi.org/10.1007/s13369-024-09688-x",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
+        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210185304",
+          "display_name": "Arabian Journal for Science and Engineering",
+          "issn_l": "1319-8025",
+          "issn": [
+            "1319-8025",
+            "2191-4281",
+            "2193-567X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal for Science and Engineering",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 1,
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
+        },
+        {
+          "score": 0.6618000268936157,
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
+        },
+        {
+          "score": 0.4943999946117401,
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320319409",
+          "display_name": "University of Carthage",
+          "ror": "https://ror.org/057x6za15"
+        },
+        {
+          "id": "https://openalex.org/F4320324132",
+          "display_name": "Universidad de Jaén",
+          "ror": "https://ror.org/0122p5f64"
+        },
+        {
+          "id": "https://openalex.org/F4320326754",
+          "display_name": "Junta de Andalucía",
+          "ror": "https://ror.org/01jem9c82"
+        },
+        {
+          "id": "https://openalex.org/F4320335548",
+          "display_name": "Centro de Instrumentación Científico-Técnica, Universidad de Jaén",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4403532362.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4403532362.grobid-xml"
+      },
+      "referenced_works_count": 41,
+      "referenced_works": [
+        "https://openalex.org/W69938921",
+        "https://openalex.org/W766537028",
+        "https://openalex.org/W1478516634",
+        "https://openalex.org/W1983077650",
+        "https://openalex.org/W1997740384",
+        "https://openalex.org/W2010777344",
+        "https://openalex.org/W2011254107",
+        "https://openalex.org/W2011607327",
+        "https://openalex.org/W2025755113",
+        "https://openalex.org/W2031473798",
+        "https://openalex.org/W2046112298",
+        "https://openalex.org/W2046710916",
+        "https://openalex.org/W2071478430",
+        "https://openalex.org/W2088354348",
+        "https://openalex.org/W2091915620",
+        "https://openalex.org/W2092890907",
+        "https://openalex.org/W2136704208",
+        "https://openalex.org/W2152947915",
+        "https://openalex.org/W2181039106",
+        "https://openalex.org/W2197056839",
+        "https://openalex.org/W2197874861",
+        "https://openalex.org/W2254296158",
+        "https://openalex.org/W2421079803",
+        "https://openalex.org/W2478335872",
+        "https://openalex.org/W2761932274",
+        "https://openalex.org/W2766283369",
+        "https://openalex.org/W2767404428",
+        "https://openalex.org/W2773932400",
+        "https://openalex.org/W2800232025",
+        "https://openalex.org/W2884297965",
+        "https://openalex.org/W2895879551",
+        "https://openalex.org/W2947526737",
+        "https://openalex.org/W2969503913",
+        "https://openalex.org/W3022301616",
+        "https://openalex.org/W3111011364",
+        "https://openalex.org/W3199684706",
+        "https://openalex.org/W4221035788",
+        "https://openalex.org/W4231665815",
+        "https://openalex.org/W4381740951",
+        "https://openalex.org/W4386156551",
+        "https://openalex.org/W4398768458"
+      ],
+      "related_works": [
+        "https://openalex.org/W1998481673",
+        "https://openalex.org/W4242607343",
+        "https://openalex.org/W2088354348",
+        "https://openalex.org/W2022632280",
+        "https://openalex.org/W2048111216",
+        "https://openalex.org/W7027768185",
+        "https://openalex.org/W2060831491",
+        "https://openalex.org/W2979002841",
+        "https://openalex.org/W2254296158",
+        "https://openalex.org/W2011607327"
+      ],
+      "abstract_inverted_index": {
+        "900": [
+          88
+        ],
+        "Abstract": [
+          0
+        ],
+        "The": [
+          1,
+          100,
+          118,
+          135,
+          156
+        ],
+        "aim": [
+          2
+        ],
+        "of": [
+          3,
+          11,
+          18,
+          36,
+          41,
+          71,
+          84,
+          125,
+          132,
+          137,
+          158,
+          164,
+          209,
+          215,
+          226,
+          243,
+          248
+        ],
+        "this": [
+          4,
+          228
+        ],
+        "research": [
+          5
+        ],
+        "is": [
+          6
+        ],
+        "to": [
+          7,
+          142,
+          181,
+          199,
+          253
+        ],
+        "study": [
+          8
+        ],
+        "the": [
+          9,
+          16,
+          34,
+          76,
+          82,
+          122,
+          129,
+          133,
+          162,
+          191,
+          200,
+          207,
+          213,
+          233,
+          241
+        ],
+        "feasibility": [
+          10
+        ],
+        "using": [
+          12
+        ],
+        "clays": [
+          13,
+          42,
+          67,
+          159,
+          210
+        ],
+        "used": [
+          14,
+          44,
+          80,
+          127,
+          160,
+          211
+        ],
+        "in": [
+          15,
+          33,
+          81,
+          161,
+          171,
+          184,
+          190,
+          212
+        ],
+        "decontamination": [
+          17,
+          163
+        ],
+        "wastewater": [
+          19,
+          23
+        ],
+        "containing": [
+          20,
+          68,
+          166
+        ],
+        "olive": [
+          21
+        ],
+        "oil": [
+          22,
+          27,
+          31
+        ],
+        "(OOW),": [
+          24
+        ],
+        "new": [
+          25
+        ],
+        "lubricating": [
+          26
+        ],
+        "(NOW)": [
+          28
+        ],
+        "or": [
+          29
+        ],
+        "motor": [
+          30
+        ],
+        "(MOW)": [
+          32
+        ],
+        "manufacture": [
+          35,
+          83
+        ],
+        "ceramic": [
+          37
+        ],
+        "bricks.": [
+          38,
+          134
+        ],
+        "Three": [
+          39
+        ],
+        "types": [
+          40,
+          70
+        ],
+        "were": [
+          43,
+          79,
+          92
+        ],
+        "for": [
+          45,
+          240
+        ],
+        "filtration,": [
+          46
+        ],
+        "kaolinite": [
+          47
+        ],
+        "type": [
+          48,
+          52,
+          124
+        ],
+        "clay": [
+          49,
+          53,
+          61,
+          126,
+          139
+        ],
+        "(KT),": [
+          50
+        ],
+        "smectite": [
+          51
+        ],
+        "(CT)": [
+          54
+        ],
+        "both": [
+          55
+        ],
+        "from": [
+          56,
+          63
+        ],
+        "Tunisia": [
+          57
+        ],
+        "and": [
+          58,
+          97,
+          113,
+          149,
+          153,
+          176,
+          179,
+          187,
+          236
+        ],
+        "illitic": [
+          59
+        ],
+        "chloritic": [
+          60
+        ],
+        "(CS)": [
+          62
+        ],
+        "Jaén": [
+          64
+        ],
+        "(Spain).": [
+          65
+        ],
+        "These": [
+          66,
+          90
+        ],
+        "different": [
+          69,
+          219
+        ],
+        "oils,": [
+          72
+        ],
+        "as": [
+          73,
+          75
+        ],
+        "well": [
+          74
+        ],
+        "control": [
+          77
+        ],
+        "clays,": [
+          78
+        ],
+        "bricks": [
+          85,
+          91
+        ],
+        "fired": [
+          86
+        ],
+        "at": [
+          87
+        ],
+        "°C.": [
+          89
+        ],
+        "characterized": [
+          93
+        ],
+        "by": [
+          94,
+          106
+        ],
+        "physical,": [
+          95
+        ],
+        "mechanical": [
+          96
+        ],
+        "thermal": [
+          98,
+          177,
+          249
+        ],
+        "tests.": [
+          99
+        ],
+        "sintered": [
+          101
+        ],
+        "microstructure’s": [
+          102
+        ],
+        "evolution": [
+          103
+        ],
+        "was": [
+          104
+        ],
+        "followed": [
+          105
+        ],
+        "tracked": [
+          107
+        ],
+        "through": [
+          108
+        ],
+        "scanning": [
+          109
+        ],
+        "electron": [
+          110
+        ],
+        "microscopy": [
+          111
+        ],
+        "(SEM)": [
+          112
+        ],
+        "X-ray": [
+          114
+        ],
+        "diffraction": [
+          115
+        ],
+        "analysis": [
+          116
+        ],
+        "(XRD).": [
+          117
+        ],
+        "results": [
+          119
+        ],
+        "indicate": [
+          120
+        ],
+        "that": [
+          121,
+          217
+        ],
+        "specific": [
+          123
+        ],
+        "influences": [
+          128
+        ],
+        "technological": [
+          130
+        ],
+        "characteristics": [
+          131
+        ],
+        "use": [
+          136,
+          157,
+          208
+        ],
+        "CT": [
+          138
+        ],
+        "gives": [
+          140
+        ],
+        "rise": [
+          141
+        ],
+        "increase": [
+          143,
+          183
+        ],
+        "bulk": [
+          144,
+          172
+        ],
+        "density,": [
+          145,
+          173
+        ],
+        "greater": [
+          146
+        ],
+        "compressive": [
+          147,
+          174
+        ],
+        "strength,": [
+          148
+        ],
+        "reduced": [
+          150
+        ],
+        "apparent": [
+          151,
+          185
+        ],
+        "porosity": [
+          152,
+          186
+        ],
+        "water": [
+          154,
+          165,
+          188,
+          216
+        ],
+        "absorption.": [
+          155
+        ],
+        "oils": [
+          167,
+          220
+        ],
+        "produced": [
+          168
+        ],
+        "a": [
+          169,
+          223,
+          254
+        ],
+        "decrease": [
+          170
+        ],
+        "strength": [
+          175
+        ],
+        "conductivity": [
+          178
+        ],
+        "leads": [
+          180
+        ],
+        "an": [
+          182
+        ],
+        "absorption": [
+          189
+        ],
+        "order": [
+          192
+        ],
+        "OOW": [
+          193
+        ],
+        ">": [
+          194,
+          196
+        ],
+        "NOW": [
+          195
+        ],
+        "MOW": [
+          197
+        ],
+        "according": [
+          198
+        ],
+        "total": [
+          201
+        ],
+        "organic": [
+          202
+        ],
+        "carbon": [
+          203
+        ],
+        "content": [
+          204
+        ],
+        "(TOC).": [
+          205
+        ],
+        "Therefore,": [
+          206
+        ],
+        "filtration": [
+          214
+        ],
+        "contain": [
+          218
+        ],
+        "can": [
+          221,
+          231
+        ],
+        "represent": [
+          222
+        ],
+        "promising": [
+          224
+        ],
+        "way": [
+          225
+        ],
+        "valorizing": [
+          227
+        ],
+        "waste,": [
+          229
+        ],
+        "which": [
+          230
+        ],
+        "alleviate": [
+          232
+        ],
+        "environmental": [
+          234
+        ],
+        "impact": [
+          235
+        ],
+        "represents": [
+          237
+        ],
+        "economic": [
+          238
+        ],
+        "savings": [
+          239
+        ],
+        "industry": [
+          242
+        ],
+        "construction": [
+          244
+        ],
+        "materials": [
+          245
+        ],
+        "with": [
+          246
+        ],
+        "properties": [
+          247
+        ],
+        "insulation,": [
+          250
+        ],
+        "getting": [
+          251
+        ],
+        "closer": [
+          252
+        ],
+        "circular": [
+          255
+        ],
+        "economy.": [
+          256
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-11-10T11:39:43.021295",
+      "created_date": "2024-10-19T00:00:00"
     },
     {
       "id": "https://openalex.org/W2140958647",
@@ -3740,7 +4982,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.14483507,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5493,1247 +6735,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4403532362",
-      "doi": "https://doi.org/10.1007/s13369-024-09688-x",
-      "title": "Valorization of Different Clays Used in the Treatment of Oily Wastewater in the Development of Construction Products",
-      "display_name": "Valorization of Different Clays Used in the Treatment of Oily Wastewater in the Development of Construction Products",
-      "publication_year": 2024,
-      "publication_date": "2024-10-18",
-      "ids": {
-        "openalex": "https://openalex.org/W4403532362",
-        "doi": "https://doi.org/10.1007/s13369-024-09688-x"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s13369-024-09688-x",
-        "doi": "https://doi.org/10.1007/s13369-024-09688-x",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
-        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210185304",
-          "display_name": "Arabian Journal for Science and Engineering",
-          "issn_l": "1319-8025",
-          "issn": [
-            "1319-8025",
-            "2191-4281",
-            "2193-567X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal for Science and Engineering",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5114319167",
-            "display_name": "Chaima Ayadi",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Chaima Ayadi",
-          "raw_affiliation_strings": [
-            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051221143",
-            "display_name": "Rabah Alouani",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rabah Alouani",
-          "raw_affiliation_strings": [
-            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017096272",
-            "display_name": "Kais Nahdi",
-            "orcid": "https://orcid.org/0000-0001-8061-0332",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8061-0332"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I179097149",
-              "display_name": "University of Carthage",
-              "ror": "https://ror.org/057x6za15",
-              "country_code": "TN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ],
-          "countries": [
-            "TN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Kais Nahdi",
-          "raw_affiliation_strings": [
-            "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratory for the Application of Chemistry to Natural Resources and Substances and the Environment, Faculty of Sciences of Bizerte, University of Carthage, 7021, Bizerte, Zarzouna, Tunisia",
-              "institution_ids": [
-                "https://openalex.org/I179097149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5023620157",
-            "display_name": "Dolores Eliche‐Quesada",
-            "orcid": "https://orcid.org/0000-0003-3803-9595",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3803-9595"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I191420491",
-              "display_name": "Universidad de Jaén",
-              "ror": "https://ror.org/0122p5f64",
-              "country_code": "ES",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I191420491"
-              ]
-            }
-          ],
-          "countries": [
-            "ES"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Dolores Eliche-Quesada",
-          "raw_affiliation_strings": [
-            "Center for Advanced Studies in Earth Sciences, Energy and Environment (CEACTEMA), University of Jaén, Campus Las Lagunillas, S/N, 23071, Jaén, Spain",
-            "Department of Chemical, Environmental, and Materials Engineering, Higher Polytechnic School of Jaén, University of Jaén, Campus Las Lagunillas S/N 23071, Jaén, Spain"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-3803-9595",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Advanced Studies in Earth Sciences, Energy and Environment (CEACTEMA), University of Jaén, Campus Las Lagunillas, S/N, 23071, Jaén, Spain",
-              "institution_ids": [
-                "https://openalex.org/I191420491"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Chemical, Environmental, and Materials Engineering, Higher Polytechnic School of Jaén, University of Jaén, Campus Las Lagunillas S/N 23071, Jaén, Spain",
-              "institution_ids": [
-                "https://openalex.org/I191420491"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5023620157"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I191420491"
-      ],
-      "apc_list": {
-        "value": 3390,
-        "currency": "USD",
-        "value_usd": 3390
-      },
-      "apc_paid": {
-        "value": 3390,
-        "currency": "USD",
-        "value_usd": 3390
-      },
-      "fwci": 0.8117,
-      "has_fulltext": true,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.70141237,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 93,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "50",
-        "issue": "18",
-        "first_page": "14909",
-        "last_page": "14929"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11672",
-        "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2215",
-          "display_name": "Building and Construction"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11672",
-          "display_name": "Recycling and utilization of industrial and municipal waste in materials production",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2215",
-            "display_name": "Building and Construction"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12105",
-          "display_name": "Hygrothermal properties of building materials",
-          "score": 0.00019999999494757503,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2215",
-            "display_name": "Building and Construction"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13140",
-          "display_name": "Materials Engineering and Processing",
-          "score": 0.00009999999747378752,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2215",
-            "display_name": "Building and Construction"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/oily-wastewater-treatment",
-          "display_name": "oily wastewater treatment",
-          "score": 0.8180000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/olive-mill-wastewater",
-          "display_name": "olive mill wastewater",
-          "score": 0.8930000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/lubricating-oil",
-          "display_name": "lubricating oil",
-          "score": 0.8690000176429749
-        },
-        {
-          "id": "https://openalex.org/keywords/motor-oil",
-          "display_name": "engine oil",
-          "score": 0.9909999966621399
-        },
-        {
-          "id": "https://openalex.org/keywords/fired-clay-bricks",
-          "display_name": "ceramic bricks",
-          "score": 0.9259999990463257
-        },
-        {
-          "id": "https://openalex.org/keywords/kaolinite",
-          "display_name": "kaolinite",
-          "score": 0.8920000195503235
-        },
-        {
-          "id": "https://openalex.org/keywords/smectite",
-          "display_name": "smectite",
-          "score": 0.9980000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/filtration",
-          "display_name": "filtration",
-          "score": 0.36899998784065247
-        },
-        {
-          "id": "https://openalex.org/keywords/compressive-strength",
-          "display_name": "compressive strength",
-          "score": 0.7160000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "porosity",
-          "score": 0.6890000104904175
-        },
-        {
-          "id": "https://openalex.org/keywords/water-uptake",
-          "display_name": "water absorption",
-          "score": 0.8560000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/thermal-conductivity",
-          "display_name": "thermal conductivity",
-          "score": 0.9020000100135803
-        },
-        {
-          "id": "https://openalex.org/keywords/sintering-microstructure",
-          "display_name": "sintering microstructure",
-          "score": 0.7369999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/circular-economy",
-          "display_name": "circular economy",
-          "score": 0.7960000038146973
-        },
-        {
-          "id": "https://openalex.org/keywords/building-materials",
-          "display_name": "building materials",
-          "score": 0.6100000143051147
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.5556144118309021
-        },
-        {
-          "id": "https://openalex.org/C94061648",
-          "wikidata": "https://www.wikidata.org/wiki/Q336191",
-          "display_name": "Wastewater",
-          "level": 2,
-          "score": 0.5303438901901245
-        },
-        {
-          "id": "https://openalex.org/C57442070",
-          "wikidata": "https://www.wikidata.org/wiki/Q221275",
-          "display_name": "Sewage treatment",
-          "level": 2,
-          "score": 0.44316476583480835
-        },
-        {
-          "id": "https://openalex.org/C528095902",
-          "wikidata": "https://www.wikidata.org/wiki/Q2283886",
-          "display_name": "Pulp and paper industry",
-          "level": 1,
-          "score": 0.4127749502658844
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.39399784803390503
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.36244961619377136
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s13369-024-09688-x",
-          "doi": "https://doi.org/10.1007/s13369-024-09688-x",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
-          "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
-          "source": {
-            "id": "https://openalex.org/S4210185304",
-            "display_name": "Arabian Journal for Science and Engineering",
-            "issn_l": "1319-8025",
-            "issn": [
-              "1319-8025",
-              "2191-4281",
-              "2193-567X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "jufo-1",
-              "norway-1",
-              "poland-40",
-              "russia-white-list-1",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Arabian Journal for Science and Engineering",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1007/s13369-024-09688-x",
-        "doi": "https://doi.org/10.1007/s13369-024-09688-x",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1007/s13369-024-09688-x",
-        "pdf_url": "https://link.springer.com/content/pdf/10.1007/s13369-024-09688-x.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210185304",
-          "display_name": "Arabian Journal for Science and Engineering",
-          "issn_l": "1319-8025",
-          "issn": [
-            "1319-8025",
-            "2191-4281",
-            "2193-567X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "jufo-1",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-1",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Arabian Journal for Science and Engineering",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "score": 1,
-          "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production"
-        },
-        {
-          "score": 0.6618000268936157,
-          "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation"
-        },
-        {
-          "score": 0.4943999946117401,
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320319409",
-          "display_name": "University of Carthage",
-          "ror": "https://ror.org/057x6za15"
-        },
-        {
-          "id": "https://openalex.org/F4320324132",
-          "display_name": "Universidad de Jaén",
-          "ror": "https://ror.org/0122p5f64"
-        },
-        {
-          "id": "https://openalex.org/F4320326754",
-          "display_name": "Junta de Andalucía",
-          "ror": "https://ror.org/01jem9c82"
-        },
-        {
-          "id": "https://openalex.org/F4320335548",
-          "display_name": "Centro de Instrumentación Científico-Técnica, Universidad de Jaén",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4403532362.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4403532362.grobid-xml"
-      },
-      "referenced_works_count": 41,
-      "referenced_works": [
-        "https://openalex.org/W69938921",
-        "https://openalex.org/W766537028",
-        "https://openalex.org/W1478516634",
-        "https://openalex.org/W1983077650",
-        "https://openalex.org/W1997740384",
-        "https://openalex.org/W2010777344",
-        "https://openalex.org/W2011254107",
-        "https://openalex.org/W2011607327",
-        "https://openalex.org/W2025755113",
-        "https://openalex.org/W2031473798",
-        "https://openalex.org/W2046112298",
-        "https://openalex.org/W2046710916",
-        "https://openalex.org/W2071478430",
-        "https://openalex.org/W2088354348",
-        "https://openalex.org/W2091915620",
-        "https://openalex.org/W2092890907",
-        "https://openalex.org/W2136704208",
-        "https://openalex.org/W2152947915",
-        "https://openalex.org/W2181039106",
-        "https://openalex.org/W2197056839",
-        "https://openalex.org/W2197874861",
-        "https://openalex.org/W2254296158",
-        "https://openalex.org/W2421079803",
-        "https://openalex.org/W2478335872",
-        "https://openalex.org/W2761932274",
-        "https://openalex.org/W2766283369",
-        "https://openalex.org/W2767404428",
-        "https://openalex.org/W2773932400",
-        "https://openalex.org/W2800232025",
-        "https://openalex.org/W2884297965",
-        "https://openalex.org/W2895879551",
-        "https://openalex.org/W2947526737",
-        "https://openalex.org/W2969503913",
-        "https://openalex.org/W3022301616",
-        "https://openalex.org/W3111011364",
-        "https://openalex.org/W3199684706",
-        "https://openalex.org/W4221035788",
-        "https://openalex.org/W4231665815",
-        "https://openalex.org/W4381740951",
-        "https://openalex.org/W4386156551",
-        "https://openalex.org/W4398768458"
-      ],
-      "related_works": [
-        "https://openalex.org/W1998481673",
-        "https://openalex.org/W4242607343",
-        "https://openalex.org/W2088354348",
-        "https://openalex.org/W2022632280",
-        "https://openalex.org/W2048111216",
-        "https://openalex.org/W7027768185",
-        "https://openalex.org/W2060831491",
-        "https://openalex.org/W2979002841",
-        "https://openalex.org/W2254296158",
-        "https://openalex.org/W2011607327"
-      ],
-      "abstract_inverted_index": {
-        "900": [
-          88
-        ],
-        "Abstract": [
-          0
-        ],
-        "The": [
-          1,
-          100,
-          118,
-          135,
-          156
-        ],
-        "aim": [
-          2
-        ],
-        "of": [
-          3,
-          11,
-          18,
-          36,
-          41,
-          71,
-          84,
-          125,
-          132,
-          137,
-          158,
-          164,
-          209,
-          215,
-          226,
-          243,
-          248
-        ],
-        "this": [
-          4,
-          228
-        ],
-        "research": [
-          5
-        ],
-        "is": [
-          6
-        ],
-        "to": [
-          7,
-          142,
-          181,
-          199,
-          253
-        ],
-        "study": [
-          8
-        ],
-        "the": [
-          9,
-          16,
-          34,
-          76,
-          82,
-          122,
-          129,
-          133,
-          162,
-          191,
-          200,
-          207,
-          213,
-          233,
-          241
-        ],
-        "feasibility": [
-          10
-        ],
-        "using": [
-          12
-        ],
-        "clays": [
-          13,
-          42,
-          67,
-          159,
-          210
-        ],
-        "used": [
-          14,
-          44,
-          80,
-          127,
-          160,
-          211
-        ],
-        "in": [
-          15,
-          33,
-          81,
-          161,
-          171,
-          184,
-          190,
-          212
-        ],
-        "decontamination": [
-          17,
-          163
-        ],
-        "wastewater": [
-          19,
-          23
-        ],
-        "containing": [
-          20,
-          68,
-          166
-        ],
-        "olive": [
-          21
-        ],
-        "oil": [
-          22,
-          27,
-          31
-        ],
-        "(OOW),": [
-          24
-        ],
-        "new": [
-          25
-        ],
-        "lubricating": [
-          26
-        ],
-        "(NOW)": [
-          28
-        ],
-        "or": [
-          29
-        ],
-        "motor": [
-          30
-        ],
-        "(MOW)": [
-          32
-        ],
-        "manufacture": [
-          35,
-          83
-        ],
-        "ceramic": [
-          37
-        ],
-        "bricks.": [
-          38,
-          134
-        ],
-        "Three": [
-          39
-        ],
-        "types": [
-          40,
-          70
-        ],
-        "were": [
-          43,
-          79,
-          92
-        ],
-        "for": [
-          45,
-          240
-        ],
-        "filtration,": [
-          46
-        ],
-        "kaolinite": [
-          47
-        ],
-        "type": [
-          48,
-          52,
-          124
-        ],
-        "clay": [
-          49,
-          53,
-          61,
-          126,
-          139
-        ],
-        "(KT),": [
-          50
-        ],
-        "smectite": [
-          51
-        ],
-        "(CT)": [
-          54
-        ],
-        "both": [
-          55
-        ],
-        "from": [
-          56,
-          63
-        ],
-        "Tunisia": [
-          57
-        ],
-        "and": [
-          58,
-          97,
-          113,
-          149,
-          153,
-          176,
-          179,
-          187,
-          236
-        ],
-        "illitic": [
-          59
-        ],
-        "chloritic": [
-          60
-        ],
-        "(CS)": [
-          62
-        ],
-        "Jaén": [
-          64
-        ],
-        "(Spain).": [
-          65
-        ],
-        "These": [
-          66,
-          90
-        ],
-        "different": [
-          69,
-          219
-        ],
-        "oils,": [
-          72
-        ],
-        "as": [
-          73,
-          75
-        ],
-        "well": [
-          74
-        ],
-        "control": [
-          77
-        ],
-        "clays,": [
-          78
-        ],
-        "bricks": [
-          85,
-          91
-        ],
-        "fired": [
-          86
-        ],
-        "at": [
-          87
-        ],
-        "°C.": [
-          89
-        ],
-        "characterized": [
-          93
-        ],
-        "by": [
-          94,
-          106
-        ],
-        "physical,": [
-          95
-        ],
-        "mechanical": [
-          96
-        ],
-        "thermal": [
-          98,
-          177,
-          249
-        ],
-        "tests.": [
-          99
-        ],
-        "sintered": [
-          101
-        ],
-        "microstructure’s": [
-          102
-        ],
-        "evolution": [
-          103
-        ],
-        "was": [
-          104
-        ],
-        "followed": [
-          105
-        ],
-        "tracked": [
-          107
-        ],
-        "through": [
-          108
-        ],
-        "scanning": [
-          109
-        ],
-        "electron": [
-          110
-        ],
-        "microscopy": [
-          111
-        ],
-        "(SEM)": [
-          112
-        ],
-        "X-ray": [
-          114
-        ],
-        "diffraction": [
-          115
-        ],
-        "analysis": [
-          116
-        ],
-        "(XRD).": [
-          117
-        ],
-        "results": [
-          119
-        ],
-        "indicate": [
-          120
-        ],
-        "that": [
-          121,
-          217
-        ],
-        "specific": [
-          123
-        ],
-        "influences": [
-          128
-        ],
-        "technological": [
-          130
-        ],
-        "characteristics": [
-          131
-        ],
-        "use": [
-          136,
-          157,
-          208
-        ],
-        "CT": [
-          138
-        ],
-        "gives": [
-          140
-        ],
-        "rise": [
-          141
-        ],
-        "increase": [
-          143,
-          183
-        ],
-        "bulk": [
-          144,
-          172
-        ],
-        "density,": [
-          145,
-          173
-        ],
-        "greater": [
-          146
-        ],
-        "compressive": [
-          147,
-          174
-        ],
-        "strength,": [
-          148
-        ],
-        "reduced": [
-          150
-        ],
-        "apparent": [
-          151,
-          185
-        ],
-        "porosity": [
-          152,
-          186
-        ],
-        "water": [
-          154,
-          165,
-          188,
-          216
-        ],
-        "absorption.": [
-          155
-        ],
-        "oils": [
-          167,
-          220
-        ],
-        "produced": [
-          168
-        ],
-        "a": [
-          169,
-          223,
-          254
-        ],
-        "decrease": [
-          170
-        ],
-        "strength": [
-          175
-        ],
-        "conductivity": [
-          178
-        ],
-        "leads": [
-          180
-        ],
-        "an": [
-          182
-        ],
-        "absorption": [
-          189
-        ],
-        "order": [
-          192
-        ],
-        "OOW": [
-          193
-        ],
-        ">": [
-          194,
-          196
-        ],
-        "NOW": [
-          195
-        ],
-        "MOW": [
-          197
-        ],
-        "according": [
-          198
-        ],
-        "total": [
-          201
-        ],
-        "organic": [
-          202
-        ],
-        "carbon": [
-          203
-        ],
-        "content": [
-          204
-        ],
-        "(TOC).": [
-          205
-        ],
-        "Therefore,": [
-          206
-        ],
-        "filtration": [
-          214
-        ],
-        "contain": [
-          218
-        ],
-        "can": [
-          221,
-          231
-        ],
-        "represent": [
-          222
-        ],
-        "promising": [
-          224
-        ],
-        "way": [
-          225
-        ],
-        "valorizing": [
-          227
-        ],
-        "waste,": [
-          229
-        ],
-        "which": [
-          230
-        ],
-        "alleviate": [
-          232
-        ],
-        "environmental": [
-          234
-        ],
-        "impact": [
-          235
-        ],
-        "represents": [
-          237
-        ],
-        "economic": [
-          238
-        ],
-        "savings": [
-          239
-        ],
-        "industry": [
-          242
-        ],
-        "construction": [
-          244
-        ],
-        "materials": [
-          245
-        ],
-        "with": [
-          246
-        ],
-        "properties": [
-          247
-        ],
-        "insulation,": [
-          250
-        ],
-        "getting": [
-          251
-        ],
-        "closer": [
-          252
-        ],
-        "circular": [
-          255
-        ],
-        "economy.": [
-          256
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
-      "created_date": "2024-10-19T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3131337938",
       "doi": "https://doi.org/10.5252/geodiversitas2021v43a4",
       "title": "Le Jurassique du Jebel Ressas (Tunisie). Identification du Sinémurien supérieur dans la Formation Zaghouan. Précisions stratigraphiques et paléobiogéographiques sur le Sinémurien de Tunisie",
@@ -7949,7 +7950,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.14340921,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10180,11 +10181,11 @@
         "value_usd": 2890
       },
       "apc_paid": null,
-      "fwci": 0.5188,
+      "fwci": 0.5078,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.51977582,
+        "value": 0.4721865,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11374,16 +11375,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4625,
+      "fwci": 1.4557,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.87165775,
+        "value": 0.79251337,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 94
       },
       "biblio": {
@@ -13591,12 +13592,12 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.20667705,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 93
       },
       "biblio": {
@@ -14710,7 +14711,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02708102,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15376,7 +15377,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0242483,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16406,7 +16407,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04403842,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17640,7 +17641,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60226915,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18398,7 +18399,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40569524,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18744,7 +18745,7 @@
         "pdf": "https://content.openalex.org/works/W7124470295.pdf",
         "grobid_xml": "https://content.openalex.org/works/W7124470295.grobid-xml"
       },
-      "referenced_works_count": 35,
+      "referenced_works_count": 36,
       "referenced_works": [
         "https://openalex.org/W1036466678",
         "https://openalex.org/W1566988147",
@@ -18754,6 +18755,7 @@
         "https://openalex.org/W1976383991",
         "https://openalex.org/W1986243759",
         "https://openalex.org/W1991744221",
+        "https://openalex.org/W2000695593",
         "https://openalex.org/W2005862378",
         "https://openalex.org/W2010177863",
         "https://openalex.org/W2010971046",
@@ -19244,7 +19246,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-01-17T00:00:00"
     },
     {

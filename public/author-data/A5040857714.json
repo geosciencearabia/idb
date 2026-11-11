@@ -15,7 +15,7 @@
     ],
     "full_name": "HASSAN ABDALLA ELTOM",
     "works_count": 81,
-    "cited_by_count": 723,
+    "cited_by_count": 725,
     "summary_stats": {
       "2yr_mean_citedness": 3.413793103448276,
       "h_index": 17,
@@ -231,7 +231,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001484,
+        "value": 0.0001483,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -248,7 +248,7 @@
       {
         "id": "https://openalex.org/T10491",
         "display_name": "Enhanced Oil Recovery Techniques",
-        "value": 0.0000931,
+        "value": 0.000093,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -299,7 +299,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000562,
+        "value": 0.0000561,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -435,7 +435,7 @@
         "year": 2026,
         "works_count": 7,
         "oa_works_count": 3,
-        "cited_by_count": 127
+        "cited_by_count": 129
       }
     ],
     "display_name_alternatives": [
@@ -448,7 +448,8 @@
     "block_key": "h eltom",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040857714",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5040857714",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -900,11 +901,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 7.9947,
+      "fwci": 7.7356,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.98614734,
+        "value": 0.98450602,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1181,8 +1182,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -1869,8 +1870,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -2559,8 +2560,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -3267,8 +3268,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -3929,8 +3930,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -4706,17 +4707,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -5414,8 +5415,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -6281,11 +6282,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 2.4739,
+      "fwci": 2.4603,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.88117599,
+        "value": 0.87075387,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6573,8 +6574,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -7276,8 +7277,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -8591,8 +8592,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -9303,8 +9304,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -10102,8 +10103,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -10758,16 +10759,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.5529,
+      "fwci": 6.4148,
       "has_fulltext": false,
-      "cited_by_count": 19,
+      "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.96866359,
+        "value": 0.96074933,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 98
       },
       "biblio": {
@@ -11076,8 +11077,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -11969,7 +11970,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -12000,7 +12001,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2020-06-05T00:00:00"
     },
     {
@@ -12262,11 +12263,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.3346,
+      "fwci": 2.239,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.87255261,
+        "value": 0.86517068,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12622,8 +12623,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -13578,8 +13579,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3171403328.pdf",
@@ -14571,11 +14572,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.5571,
+      "fwci": 1.4927,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.80749886,
+        "value": 0.77988019,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14869,8 +14870,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -15316,11 +15317,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 1.3967,
+      "fwci": 1.3646,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.79175885,
+        "value": 0.77231228,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15746,8 +15747,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -16575,11 +16576,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 1.2428,
+      "fwci": 1.213,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.75942483,
+        "value": 0.74650643,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16941,8 +16942,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -17464,11 +17465,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.646,
+      "fwci": 1.5926,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.81676711,
+        "value": 0.79885162,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17744,8 +17745,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -18101,11 +18102,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.41,
+      "fwci": 1.3651,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.79519698,
+        "value": 0.76831936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18508,8 +18509,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -18902,11 +18903,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 2.4457,
+      "fwci": 2.3465,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.87550791,
+        "value": 0.85886642,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19170,37 +19171,6 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:pubmedcentral.nih.gov:12059123",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12059123",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Sci Rep",
-          "raw_type": "Text"
-        },
-        {
           "id": "pmid:40335569",
           "doi": null,
           "is_oa": false,
@@ -19230,6 +19200,37 @@
           "is_published": true,
           "raw_source_name": "Scientific reports",
           "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:12059123",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12059123/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Sci Rep",
+          "raw_type": "Text"
         },
         {
           "id": "pmh:oai:doaj.org/article:6dbf70f8586e4d1eb045dabf20602076",
@@ -19323,8 +19324,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",
@@ -20011,7 +20012,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-05-08T00:00:00"
     },
     {
@@ -20331,11 +20332,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.6094,
+      "fwci": 1.6153,
       "has_fulltext": false,
-      "cited_by_count": 21,
+      "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.84749309,
+        "value": 0.84221072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20675,8 +20676,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -20733,7 +20734,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -20784,7 +20785,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -21284,8 +21285,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2283305001.pdf",
@@ -22374,8 +22375,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -23102,8 +23103,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -24513,8 +24514,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -24873,11 +24874,11 @@
         "value_usd": 3280
       },
       "apc_paid": null,
-      "fwci": 1.3011,
+      "fwci": 1.2864,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.75200714,
+        "value": 0.7305508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25171,8 +25172,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -25632,11 +25633,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.7129,
+      "fwci": 1.6419,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.81720726,
+        "value": 0.80193972,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26056,8 +26057,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -26564,8 +26565,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -27340,11 +27341,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.3982,
+      "fwci": 1.3646,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.78845977,
+        "value": 0.77231228,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27611,8 +27612,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -27845,11 +27846,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.8959,
+      "fwci": 1.8403,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.83734855,
+        "value": 0.82916637,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28105,8 +28106,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -28512,11 +28513,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 1.4108,
+      "fwci": 1.3651,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.79805703,
+        "value": 0.76831936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28820,8 +28821,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -29095,11 +29096,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 1.1757,
+      "fwci": 1.1376,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.74120716,
+        "value": 0.73067809,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29559,8 +29560,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391576828.pdf",
@@ -30222,11 +30223,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 1.1757,
+      "fwci": 1.1376,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.75308087,
+        "value": 0.73067809,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30442,8 +30443,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -30832,11 +30833,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.6207,
+      "fwci": 0.6065,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.61504425,
+        "value": 0.59586361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31241,8 +31242,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -31548,11 +31549,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1675,
+      "fwci": 2.1739,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.88102152,
+        "value": 0.87089902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31914,8 +31915,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -33025,11 +33026,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.9233,
+      "fwci": 0.9136,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.6755102,
+        "value": 0.64305105,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33460,8 +33461,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -34234,8 +34235,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -34482,12 +34483,12 @@
           "is_corresponding": false,
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
-            "Geosciences Department College of Petroleum Engineering &amp; Geosciences King Fahd University of Petroleum &amp; Minerals Building 76 Dhahran 31261 Saudi Arabia"
+            "Geosciences Department College of Petroleum Engineering & Geosciences King Fahd University of Petroleum & Minerals Building 76 Dhahran 31261 Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-3515-0127",
           "affiliations": [
             {
-              "raw_affiliation_string": "Geosciences Department College of Petroleum Engineering &amp; Geosciences King Fahd University of Petroleum &amp; Minerals Building 76 Dhahran 31261 Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department College of Petroleum Engineering & Geosciences King Fahd University of Petroleum & Minerals Building 76 Dhahran 31261 Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -34510,11 +34511,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 0.8275,
+      "fwci": 0.8214,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.66472691,
+        "value": 0.64512083,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34816,9 +34817,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -34839,8 +34840,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -35561,7 +35562,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2020-07-16T00:00:00"
     },
     {
@@ -35664,7 +35665,7 @@
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -35675,7 +35676,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -35711,7 +35712,7 @@
           "raw_author_name": "Nabil A. Saraih",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -35722,7 +35723,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -35756,7 +35757,7 @@
           "raw_author_name": "Oliver G. Esteva",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -35767,7 +35768,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -35801,7 +35802,7 @@
           "raw_author_name": "Lundi Kusuma",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -35812,7 +35813,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -35846,7 +35847,7 @@
           "raw_author_name": "Saleh Ahmed",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia"
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -35857,7 +35858,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering &amp; Geosciences, King Fahd University of Petroleum &amp; Minerals, Building 76, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -35893,7 +35894,7 @@
           "raw_author_name": "Mohamed A. Yassin",
           "raw_affiliation_strings": [
             "Geosciences Department , College of Petroleum Engineering & Geosciences , King Fahd University of Petroleum & Minerals , Building 76 , Dhahran , 31261 , KSA",
-            "Center for Environment &amp; Water, Research Institute, King Fahd University of Petroleum &amp; Minerals, Building 15, Dhahran 31261, Saudi Arabia"
+            "Center for Environment & Water, Research Institute, King Fahd University of Petroleum & Minerals, Building 15, Dhahran 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -35904,7 +35905,7 @@
               ]
             },
             {
-              "raw_affiliation_string": "Center for Environment &amp; Water, Research Institute, King Fahd University of Petroleum &amp; Minerals, Building 15, Dhahran 31261, Saudi Arabia",
+              "raw_affiliation_string": "Center for Environment & Water, Research Institute, King Fahd University of Petroleum & Minerals, Building 15, Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -35931,11 +35932,11 @@
         "currency": "CHF",
         "value_usd": 1901
       },
-      "fwci": 0.993,
+      "fwci": 0.9857,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.70548116,
+        "value": 0.6819132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36447,8 +36448,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3085505323.pdf",
@@ -37190,7 +37191,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2020-09-21T00:00:00"
     },
     {
@@ -37803,8 +37804,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -38124,11 +38125,11 @@
         "value_usd": 2760
       },
       "apc_paid": null,
-      "fwci": 0.4285,
+      "fwci": 0.4216,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.4941809,
+        "value": 0.48955071,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38393,9 +38394,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.965499997138977,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "study_designs": [],
@@ -38421,8 +38422,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -38860,11 +38861,11 @@
         "value_usd": 2495
       },
       "apc_paid": null,
-      "fwci": 0.8079,
+      "fwci": 0.7867,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.63648946,
+        "value": 0.59105532,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39115,8 +39116,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -40089,11 +40090,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.4674,
+      "fwci": 1.4079,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.78179303,
+        "value": 0.76069786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40385,8 +40386,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -40747,11 +40748,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.894,
+      "fwci": 0.8549,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.65471336,
+        "value": 0.599988,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41012,8 +41013,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -41786,8 +41787,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -42488,8 +42489,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -42808,11 +42809,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 0.6207,
+      "fwci": 0.6065,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.60794617,
+        "value": 0.59586361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43250,8 +43251,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -43592,11 +43593,11 @@
         "value_usd": 2780
       },
       "apc_paid": null,
-      "fwci": 0.403,
+      "fwci": 0.4033,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.49076258,
+        "value": 0.45971378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43895,8 +43896,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -44245,11 +44246,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4661,
+      "fwci": 0.4549,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.57286386,
+        "value": 0.53978014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44487,8 +44488,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -45340,11 +45341,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.1557,
+      "fwci": 0.1493,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.38271944,
+        "value": 0.34068651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45559,8 +45560,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -45858,11 +45859,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.9783,
+      "fwci": 0.9386,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.73121812,
+        "value": 0.67763215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46117,8 +46118,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -46739,8 +46740,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -47711,11 +47712,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5283,
+      "fwci": 0.5109,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.58741947,
+        "value": 0.50049314,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47961,8 +47962,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -49086,11 +49087,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.4891,
+      "fwci": 0.4693,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.65686868,
+        "value": 0.53276625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49448,11 +49449,11 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 73,
+      "referenced_works_count": 75,
       "referenced_works": [
         "https://openalex.org/W9189819",
         "https://openalex.org/W15242090",
@@ -49507,12 +49508,14 @@
         "https://openalex.org/W2971785233",
         "https://openalex.org/W2982501932",
         "https://openalex.org/W2991877883",
+        "https://openalex.org/W2991974515",
         "https://openalex.org/W2992184602",
         "https://openalex.org/W3019206785",
         "https://openalex.org/W3035028305",
         "https://openalex.org/W3036591066",
         "https://openalex.org/W3156502083",
         "https://openalex.org/W3171403328",
+        "https://openalex.org/W3196901206",
         "https://openalex.org/W4214854209",
         "https://openalex.org/W4220789552",
         "https://openalex.org/W4220873824",
@@ -49547,7 +49550,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-11-25T00:00:00"
     },
     {
@@ -49870,11 +49873,11 @@
         "currency": "USD",
         "value_usd": 1400
       },
-      "fwci": 0.4891,
+      "fwci": 0.4693,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66032679,
+        "value": 0.53276625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50308,16 +50311,18 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 39,
+      "referenced_works_count": 42,
       "referenced_works": [
         "https://openalex.org/W148932376",
         "https://openalex.org/W195523536",
         "https://openalex.org/W1540714975",
         "https://openalex.org/W1972284357",
+        "https://openalex.org/W1992006708",
+        "https://openalex.org/W2029837300",
         "https://openalex.org/W2048410163",
         "https://openalex.org/W2052346014",
         "https://openalex.org/W2095938124",
@@ -50325,6 +50330,7 @@
         "https://openalex.org/W2113648463",
         "https://openalex.org/W2143999902",
         "https://openalex.org/W2153482727",
+        "https://openalex.org/W2168562010",
         "https://openalex.org/W2249170896",
         "https://openalex.org/W2490149630",
         "https://openalex.org/W2499136226",
@@ -51273,7 +51279,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-12-03T00:00:00"
     },
     {
@@ -51850,8 +51856,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -52618,11 +52624,11 @@
         "value_usd": 3070
       },
       "apc_paid": null,
-      "fwci": 0.4703,
+      "fwci": 0.455,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.61662319,
+        "value": 0.55049216,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52885,8 +52891,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -53681,8 +53687,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -54453,8 +54459,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55328,8 +55334,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55792,8 +55798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55935,7 +55941,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.53891887,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56220,8 +56226,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56366,7 +56372,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.6142355,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -56581,8 +56587,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3214528663.pdf",
@@ -57183,8 +57189,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -58182,7 +58188,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03862804,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58381,8 +58387,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59337,8 +59343,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4238470914.pdf",
@@ -59902,8 +59908,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60636,7 +60642,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75231911,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60892,17 +60898,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4313173873.pdf",
@@ -61505,8 +61511,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62561,7 +62567,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01746498,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62834,8 +62840,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -63098,7 +63104,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33398311,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63442,8 +63448,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -64392,17 +64398,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.5378999710083008,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -65519,8 +65525,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -65801,7 +65807,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08042895,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66085,8 +66091,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66993,17 +66999,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68003,7 +68009,7 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4363604378",
-          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "display_name": "Second International Meeting for Applied Geoscience & Energy",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -68209,7 +68215,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14702851,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68436,7 +68442,7 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4363604378",
-            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "display_name": "Second International Meeting for Applied Geoscience & Energy",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -68464,8 +68470,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -68893,7 +68899,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-04-02T00:00:00"
     },
     {
@@ -69238,7 +69244,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13550802,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69539,8 +69545,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -70785,17 +70791,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -71797,8 +71803,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7162439439.pdf",
@@ -72947,8 +72953,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,

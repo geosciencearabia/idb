@@ -13,7 +13,7 @@
     ],
     "full_name": "Michael, Nikolaos A.",
     "works_count": 13,
-    "cited_by_count": 149,
+    "cited_by_count": 151,
     "summary_stats": {
       "2yr_mean_citedness": 3,
       "h_index": 7,
@@ -217,7 +217,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000161,
+        "value": 0.000016,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -375,7 +375,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 20
+        "cited_by_count": 22
       }
     ],
     "display_name_alternatives": [
@@ -386,7 +386,8 @@
     "block_key": "n michael",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002041459",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5002041459",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -768,11 +769,11 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 2.8065,
+      "fwci": 2.8012,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.88685209,
+        "value": 0.87476307,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2197,11 +2198,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 5.0396,
+      "fwci": 4.8255,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.96731177,
+        "value": 0.96202791,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4719,11 +4720,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2852,
+      "fwci": 2.2806,
       "has_fulltext": false,
-      "cited_by_count": 28,
+      "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.86858044,
+        "value": 0.85555694,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5770,6 +5771,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 2
         },
@@ -5818,7 +5823,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -6027,11 +6032,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.2248,
+      "fwci": 1.2304,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.76836618,
+        "value": 0.75466342,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7049,16 +7054,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0747,
+      "fwci": 1.0755,
       "has_fulltext": false,
-      "cited_by_count": 11,
+      "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.6856001,
+        "value": 0.68319937,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 93,
         "max": 97
       },
       "biblio": {
@@ -7932,7 +7937,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -7951,7 +7956,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2021-02-15T00:00:00"
     },
     {
@@ -8117,11 +8122,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 0.8132,
+      "fwci": 0.804,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.65994648,
+        "value": 0.62607049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9299,13 +9304,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6865,
+      "fwci": 3.67,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.93310463,
+        "value": 0.86440096,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 88,
@@ -10388,7 +10393,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2021-12-31T00:00:00"
     },
     {
@@ -10782,11 +10787,11 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.7004,
+      "fwci": 1.6211,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.76560807,
+        "value": 0.74992633,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11165,7 +11170,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 61,
+      "referenced_works_count": 64,
       "referenced_works": [
         "https://openalex.org/W1527101551",
         "https://openalex.org/W1623559396",
@@ -11179,8 +11184,10 @@
         "https://openalex.org/W2007248477",
         "https://openalex.org/W2009428627",
         "https://openalex.org/W2010296282",
+        "https://openalex.org/W2022286459",
         "https://openalex.org/W2023754619",
         "https://openalex.org/W2026541059",
+        "https://openalex.org/W2026752343",
         "https://openalex.org/W2031180241",
         "https://openalex.org/W2037123307",
         "https://openalex.org/W2053665288",
@@ -11194,6 +11201,7 @@
         "https://openalex.org/W2093851844",
         "https://openalex.org/W2100977469",
         "https://openalex.org/W2114987349",
+        "https://openalex.org/W2133307452",
         "https://openalex.org/W2141845276",
         "https://openalex.org/W2145722397",
         "https://openalex.org/W2171833124",
@@ -11248,7 +11256,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-01-20T00:00:00"
     },
     {
@@ -11423,7 +11431,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38437821,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15070,7 +15078,7 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4363604378",
-          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "display_name": "Second International Meeting for Applied Geoscience & Energy",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -15236,7 +15244,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23974983,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15504,7 +15512,7 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4363604378",
-            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "display_name": "Second International Meeting for Applied Geoscience & Energy",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -15816,7 +15824,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-04-02T00:00:00"
     }
   ]

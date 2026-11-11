@@ -16,7 +16,7 @@
     ],
     "full_name": "Mohammed A. Al-Masrahy",
     "works_count": 16,
-    "cited_by_count": 273,
+    "cited_by_count": 275,
     "summary_stats": {
       "2yr_mean_citedness": 2.5714285714285716,
       "h_index": 5,
@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000711,
+        "value": 0.000071,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -390,13 +390,13 @@
         "year": 2025,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 43
+        "cited_by_count": 44
       },
       {
         "year": 2026,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 23
+        "cited_by_count": 24
       }
     ],
     "display_name_alternatives": [
@@ -410,7 +410,8 @@
     "block_key": "m al-masrahy",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5042665751",
     "awards_count": 0,
-    "updated_date": "2026-11-08T12:57:04",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5042665751",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -580,16 +581,16 @@
         "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 11.5654,
+      "fwci": 11.5548,
       "has_fulltext": true,
-      "cited_by_count": 158,
+      "cited_by_count": 160,
       "citation_normalized_percentile": {
-        "value": 0.98973494,
+        "value": 0.98946999,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 96,
         "max": 100
       },
       "biblio": {
@@ -884,8 +885,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1999436875.pdf",
@@ -1016,11 +1017,11 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 14
+          "cited_by_count": 15
         },
         {
           "year": 2025,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2024,
@@ -1063,7 +1064,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1512,17 +1513,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -2030,8 +2031,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -3416,11 +3417,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 2.1162,
+      "fwci": 2.0477,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.85175857,
+        "value": 0.8471564,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3722,8 +3723,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -3942,11 +3943,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.7356,
+      "fwci": 2.7061,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.85242408,
+        "value": 0.8499733,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4239,8 +4240,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -5329,11 +5330,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.2726,
+      "fwci": 10.1469,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.97545739,
+        "value": 0.9741533,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5594,8 +5595,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -6683,11 +6684,11 @@
         "currency": "USD",
         "value_usd": 4250
       },
-      "fwci": 2.1134,
+      "fwci": 2.0438,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.83715104,
+        "value": 0.82022774,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7091,8 +7092,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 126,
@@ -8290,11 +8291,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3253,
+      "fwci": 0.3216,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.49652096,
+        "value": 0.4593888,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8595,8 +8596,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 116,
@@ -9741,13 +9742,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.3945,
+      "fwci": 4.3228,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.90498564,
+        "value": 0.85844868,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -10092,8 +10093,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -10816,7 +10817,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11370,8 +11371,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -12204,8 +12205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13298,8 +13299,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14038,7 +14039,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34449541,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14350,25 +14351,39 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 13,
+      "referenced_works_count": 27,
       "referenced_works": [
         "https://openalex.org/W101633874",
+        "https://openalex.org/W1520751961",
+        "https://openalex.org/W1526926281",
+        "https://openalex.org/W1573606339",
+        "https://openalex.org/W1906506370",
         "https://openalex.org/W1976116903",
+        "https://openalex.org/W1980860342",
         "https://openalex.org/W1983457220",
         "https://openalex.org/W1999436875",
+        "https://openalex.org/W1999626549",
         "https://openalex.org/W2000940771",
         "https://openalex.org/W2004408791",
         "https://openalex.org/W2008383141",
+        "https://openalex.org/W2023135865",
+        "https://openalex.org/W2061269799",
         "https://openalex.org/W2062745677",
         "https://openalex.org/W2072322879",
         "https://openalex.org/W2079131276",
+        "https://openalex.org/W2086668065",
+        "https://openalex.org/W2092922288",
         "https://openalex.org/W2134894619",
+        "https://openalex.org/W2152161497",
+        "https://openalex.org/W2158832342",
+        "https://openalex.org/W2485056805",
         "https://openalex.org/W2620854490",
-        "https://openalex.org/W4408385867"
+        "https://openalex.org/W4408385867",
+        "https://openalex.org/W7214158718"
       ],
       "related_works": [
         "https://openalex.org/W2362747289",
@@ -15366,7 +15381,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-05T09:50:58.205359",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15590,7 +15605,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36330275,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15899,8 +15914,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -17235,8 +17250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17752,8 +17767,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,

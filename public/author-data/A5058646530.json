@@ -19,11 +19,11 @@
     ],
     "full_name": "DROSTE, HENK, Shell Research B.V.,",
     "works_count": 52,
-    "cited_by_count": 2399,
+    "cited_by_count": 2417,
     "summary_stats": {
       "2yr_mean_citedness": 4,
       "h_index": 20,
-      "i10_index": 27
+      "i10_index": 28
     },
     "ids": {
       "openalex": "https://openalex.org/A5058646530",
@@ -270,7 +270,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000503,
+        "value": 0.0000502,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -304,7 +304,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000405,
+        "value": 0.0000404,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -457,25 +457,25 @@
         "year": 2012,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 101
+        "cited_by_count": 102
       },
       {
         "year": 2013,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 93
+        "cited_by_count": 94
       },
       {
         "year": 2014,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 93
+        "cited_by_count": 94
       },
       {
         "year": 2015,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 109
+        "cited_by_count": 110
       },
       {
         "year": 2016,
@@ -493,13 +493,13 @@
         "year": 2018,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 96
+        "cited_by_count": 97
       },
       {
         "year": 2019,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 117
+        "cited_by_count": 118
       },
       {
         "year": 2020,
@@ -511,37 +511,37 @@
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 150
+        "cited_by_count": 151
       },
       {
         "year": 2022,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 126
+        "cited_by_count": 127
       },
       {
         "year": 2023,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 137
+        "cited_by_count": 138
       },
       {
         "year": 2024,
         "works_count": 6,
         "oa_works_count": 6,
-        "cited_by_count": 181
+        "cited_by_count": 183
       },
       {
         "year": 2025,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 174
+        "cited_by_count": 177
       },
       {
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 97
+        "cited_by_count": 99
       }
     ],
     "display_name_alternatives": [
@@ -558,7 +558,8 @@
     "block_key": "h droste",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058646530",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5058646530",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1118,8 +1119,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2939888277.pdf",
@@ -2264,11 +2265,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.2204,
+      "fwci": 5.2088,
       "has_fulltext": false,
-      "cited_by_count": 155,
+      "cited_by_count": 156,
       "citation_normalized_percentile": {
-        "value": 0.9511893,
+        "value": 0.9451908,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2558,8 +2559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -3483,7 +3484,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 15
+          "cited_by_count": 16
         },
         {
           "year": 2024,
@@ -3538,7 +3539,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4106,8 +4107,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -5507,11 +5508,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 10.5808,
+      "fwci": 10.6021,
       "has_fulltext": true,
-      "cited_by_count": 229,
+      "cited_by_count": 231,
       "citation_normalized_percentile": {
-        "value": 0.98918188,
+        "value": 0.98731615,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5886,8 +5887,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2774779682.pdf",
@@ -6883,7 +6884,7 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2013,
@@ -6891,10 +6892,10 @@
         },
         {
           "year": 2012,
-          "cited_by_count": 9
+          "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2017-12-22T00:00:00"
     },
     {
@@ -7656,8 +7657,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -8324,11 +8325,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 35.7495,
+      "fwci": 35.9146,
       "has_fulltext": false,
-      "cited_by_count": 148,
+      "cited_by_count": 150,
       "citation_normalized_percentile": {
-        "value": 0.99907579,
+        "value": 0.99908004,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -8618,8 +8619,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -9506,7 +9507,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 4
+          "cited_by_count": 6
         },
         {
           "year": 2024,
@@ -9561,7 +9562,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10353,9 +10354,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -10368,8 +10369,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -11462,11 +11463,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.9954,
+      "fwci": 3.9944,
       "has_fulltext": false,
       "cited_by_count": 122,
       "citation_normalized_percentile": {
-        "value": 0.93008192,
+        "value": 0.91005693,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11800,8 +11801,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -12484,13 +12485,13 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.7485,
+      "fwci": 3.725,
       "has_fulltext": false,
       "cited_by_count": 117,
       "citation_normalized_percentile": {
-        "value": 0.90837575,
+        "value": 0.89478542,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 93,
@@ -12758,8 +12759,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -12861,7 +12862,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13691,8 +13692,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2773138833.pdf",
@@ -15204,8 +15205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16823,16 +16824,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1091,
+      "fwci": 2.1182,
       "has_fulltext": false,
-      "cited_by_count": 36,
+      "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.88689218,
+        "value": 0.82718651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 99
       },
       "biblio": {
@@ -17040,8 +17041,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -18510,10 +18511,22 @@
         },
         {
           "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
           "cited_by_count": 1
         },
         {
           "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
           "cited_by_count": 1
         },
         {
@@ -18529,12 +18542,1418 @@
           "cited_by_count": 2
         },
         {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
           "year": 2012,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2025-05-14T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3195207218",
+      "doi": "https://doi.org/10.1130/ges02376.1",
+      "title": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
+      "display_name": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
+      "publication_year": 2021,
+      "publication_date": "2021-08-19",
+      "ids": {
+        "openalex": "https://openalex.org/W3195207218",
+        "doi": "https://doi.org/10.1130/ges02376.1",
+        "mag": "3195207218"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1130/ges02376.1",
+        "doi": "https://doi.org/10.1130/ges02376.1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1130/ges02376.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S8074494",
+          "display_name": "Geosphere",
+          "issn_l": "1553-040X",
+          "issn": [
+            "1553-040X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "oarl",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319845",
+          "host_organization_name": "Geological Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319845"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geosphere",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1130/ges02376.1",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5041843348",
+            "display_name": "Bruce Levell",
+            "orcid": "https://orcid.org/0000-0002-7414-1565",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7414-1565"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bruce Levell",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7414-1565",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060286659",
+            "display_name": "M. P. Searle",
+            "orcid": "https://orcid.org/0000-0001-6904-6398",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-6904-6398"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael Searle",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007329363",
+            "display_name": "Adrian White",
+            "orcid": "https://orcid.org/0000-0003-3917-3438",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3917-3438"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adrian White",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5048457692",
+            "display_name": "Lauren Kedar",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lauren Kedar",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058646530",
+            "display_name": "Henk Droste",
+            "orcid": "https://orcid.org/0009-0008-1422-1783",
+            "observed_orcids": [
+              "https://orcid.org/0009-0008-1422-1783"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Henk Droste",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5074392881",
+            "display_name": "Mia Van Steenwinkel",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mia Van Steenwinkel",
+          "raw_affiliation_strings": [
+            "Locquetstraat 11, Hombeek, 2811, Belgium"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Locquetstraat 11, Hombeek, 2811, Belgium",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2750,
+        "currency": "USD",
+        "value_usd": 2750
+      },
+      "apc_paid": {
+        "value": 2750,
+        "currency": "USD",
+        "value_usd": 2750
+      },
+      "fwci": 1.3949,
+      "has_fulltext": false,
+      "cited_by_count": 22,
+      "citation_normalized_percentile": {
+        "value": 0.76996749,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "17",
+        "issue": "5",
+        "first_page": "1472",
+        "last_page": "1493"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.9057999849319458,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.9057999849319458,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.07980000227689743,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.006200000178068876,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/semail-ophiolite",
+          "display_name": "Samail ophiolite",
+          "score": 0.8830000162124634
+        },
+        {
+          "id": "https://openalex.org/keywords/obduction",
+          "display_name": "obduction",
+          "score": 0.6840000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/gulf-of-oman",
+          "display_name": "Gulf of Oman",
+          "score": 0.9570000171661377
+        },
+        {
+          "id": "https://openalex.org/keywords/thin-skinned-thrusting",
+          "display_name": "thin-skinned thrusting",
+          "score": 0.7820000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/extensional-faults",
+          "display_name": "extensional faults",
+          "score": 0.8050000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/growth-faults",
+          "display_name": "growth faults",
+          "score": 0.8529999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/box-folds",
+          "display_name": "box folds",
+          "score": 0.781000018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/makran-accretionary-prism",
+          "display_name": "Makran accretionary prism",
+          "score": 0.9200000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/subduction",
+          "display_name": "subduction",
+          "score": 0.621999979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/late-cretaceous",
+          "display_name": "Late Cretaceous",
+          "score": 0.6029999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/miocene",
+          "display_name": "Miocene",
+          "score": 0.5450000166893005
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonic-evolution",
+          "display_name": "tectonic evolution",
+          "score": 0.5950000286102295
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9361240863800049
+        },
+        {
+          "id": "https://openalex.org/C192717286",
+          "wikidata": "https://www.wikidata.org/wiki/Q772239",
+          "display_name": "Obduction",
+          "level": 5,
+          "score": 0.7040687203407288
+        },
+        {
+          "id": "https://openalex.org/C193748577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
+          "display_name": "Foreland basin",
+          "level": 3,
+          "score": 0.6503768563270569
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6149313449859619
+        },
+        {
+          "id": "https://openalex.org/C201867031",
+          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
+          "display_name": "Continental margin",
+          "level": 3,
+          "score": 0.5257319211959839
+        },
+        {
+          "id": "https://openalex.org/C2781297371",
+          "wikidata": "https://www.wikidata.org/wiki/Q234852",
+          "display_name": "Basement",
+          "level": 2,
+          "score": 0.5176113843917847
+        },
+        {
+          "id": "https://openalex.org/C201633675",
+          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
+          "display_name": "Passive margin",
+          "level": 4,
+          "score": 0.5169288516044617
+        },
+        {
+          "id": "https://openalex.org/C116637073",
+          "wikidata": "https://www.wikidata.org/wiki/Q190147",
+          "display_name": "Anticline",
+          "level": 3,
+          "score": 0.5082992911338806
+        },
+        {
+          "id": "https://openalex.org/C110041135",
+          "wikidata": "https://www.wikidata.org/wiki/Q496325",
+          "display_name": "Thrust fault",
+          "level": 3,
+          "score": 0.5056343078613281
+        },
+        {
+          "id": "https://openalex.org/C153220577",
+          "wikidata": "https://www.wikidata.org/wiki/Q1479638",
+          "display_name": "Nappe",
+          "level": 3,
+          "score": 0.4852876365184784
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.4573920965194702
+        },
+        {
+          "id": "https://openalex.org/C27543578",
+          "wikidata": "https://www.wikidata.org/wiki/Q185567",
+          "display_name": "Cenomanian",
+          "level": 3,
+          "score": 0.4412640929222107
+        },
+        {
+          "id": "https://openalex.org/C141646446",
+          "wikidata": "https://www.wikidata.org/wiki/Q858571",
+          "display_name": "Continental crust",
+          "level": 3,
+          "score": 0.4374120831489563
+        },
+        {
+          "id": "https://openalex.org/C175551986",
+          "wikidata": "https://www.wikidata.org/wiki/Q47089",
+          "display_name": "Fault (geology)",
+          "level": 2,
+          "score": 0.43662816286087036
+        },
+        {
+          "id": "https://openalex.org/C204330871",
+          "wikidata": "https://www.wikidata.org/wiki/Q55810",
+          "display_name": "Paleogene",
+          "level": 3,
+          "score": 0.4278808534145355
+        },
+        {
+          "id": "https://openalex.org/C117485682",
+          "wikidata": "https://www.wikidata.org/wiki/Q215920",
+          "display_name": "Seafloor spreading",
+          "level": 2,
+          "score": 0.4263201951980591
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.41147133708000183
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.4061698913574219
+        },
+        {
+          "id": "https://openalex.org/C2776698055",
+          "wikidata": "https://www.wikidata.org/wiki/Q4232578",
+          "display_name": "Crust",
+          "level": 2,
+          "score": 0.38596123456954956
+        },
+        {
+          "id": "https://openalex.org/C58097730",
+          "wikidata": "https://www.wikidata.org/wiki/Q176318",
+          "display_name": "Subduction",
+          "level": 3,
+          "score": 0.3784680962562561
+        },
+        {
+          "id": "https://openalex.org/C154200439",
+          "wikidata": "https://www.wikidata.org/wiki/Q238851",
+          "display_name": "Oceanic crust",
+          "level": 4,
+          "score": 0.3749732971191406
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.32843393087387085
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.2603079378604889
+        },
+        {
+          "id": "https://openalex.org/C147176958",
+          "wikidata": "https://www.wikidata.org/wiki/Q77590",
+          "display_name": "Civil engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1130/ges02376.1",
+          "doi": "https://doi.org/10.1130/ges02376.1",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1130/ges02376.1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S8074494",
+            "display_name": "Geosphere",
+            "issn_l": "1553-040X",
+            "issn": [
+              "1553-040X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "dongbi-c",
+              "jufo-1",
+              "norway-1",
+              "oarl",
+              "poland-140",
+              "russia-white-list-1"
+            ],
+            "host_organization": "https://openalex.org/P4310319845",
+            "host_organization_name": "Geological Society of America",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319845"
+            ],
+            "host_organization_lineage_names": [
+              "Geological Society of America"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geosphere",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1130/ges02376.1",
+        "doi": "https://doi.org/10.1130/ges02376.1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1130/ges02376.1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S8074494",
+          "display_name": "Geosphere",
+          "issn_l": "1553-040X",
+          "issn": [
+            "1553-040X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "oarl",
+            "poland-140",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310319845",
+          "host_organization_name": "Geological Society of America",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319845"
+          ],
+          "host_organization_lineage_names": [
+            "Geological Society of America"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geosphere",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 57,
+      "referenced_works": [
+        "https://openalex.org/W1537425267",
+        "https://openalex.org/W1839680979",
+        "https://openalex.org/W1965622457",
+        "https://openalex.org/W1969766565",
+        "https://openalex.org/W1971083798",
+        "https://openalex.org/W1976668940",
+        "https://openalex.org/W1977995085",
+        "https://openalex.org/W1980622023",
+        "https://openalex.org/W1981547392",
+        "https://openalex.org/W1985748982",
+        "https://openalex.org/W1991062313",
+        "https://openalex.org/W1991819870",
+        "https://openalex.org/W1994737413",
+        "https://openalex.org/W2007355390",
+        "https://openalex.org/W2008114980",
+        "https://openalex.org/W2023619610",
+        "https://openalex.org/W2029351736",
+        "https://openalex.org/W2048539408",
+        "https://openalex.org/W2060017564",
+        "https://openalex.org/W2065247298",
+        "https://openalex.org/W2065692916",
+        "https://openalex.org/W2071075619",
+        "https://openalex.org/W2074344573",
+        "https://openalex.org/W2077977387",
+        "https://openalex.org/W2079585454",
+        "https://openalex.org/W2081508306",
+        "https://openalex.org/W2083772074",
+        "https://openalex.org/W2086891158",
+        "https://openalex.org/W2088581780",
+        "https://openalex.org/W2092786871",
+        "https://openalex.org/W2108855048",
+        "https://openalex.org/W2140748778",
+        "https://openalex.org/W2144374166",
+        "https://openalex.org/W2145995786",
+        "https://openalex.org/W2146586425",
+        "https://openalex.org/W2155927047",
+        "https://openalex.org/W2160951938",
+        "https://openalex.org/W2163243405",
+        "https://openalex.org/W2165193198",
+        "https://openalex.org/W2168511870",
+        "https://openalex.org/W2186549523",
+        "https://openalex.org/W2274018172",
+        "https://openalex.org/W2314696333",
+        "https://openalex.org/W2319336632",
+        "https://openalex.org/W2332302581",
+        "https://openalex.org/W2465257908",
+        "https://openalex.org/W2615225651",
+        "https://openalex.org/W2766642050",
+        "https://openalex.org/W2779360006",
+        "https://openalex.org/W2954119218",
+        "https://openalex.org/W2967069995",
+        "https://openalex.org/W2992040756",
+        "https://openalex.org/W3028628319",
+        "https://openalex.org/W3038998202",
+        "https://openalex.org/W3043902524",
+        "https://openalex.org/W3112784815",
+        "https://openalex.org/W4255968852"
+      ],
+      "related_works": [
+        "https://openalex.org/W3112784815",
+        "https://openalex.org/W4392599299",
+        "https://openalex.org/W3078006393",
+        "https://openalex.org/W2615225651",
+        "https://openalex.org/W2032063496",
+        "https://openalex.org/W4409465277",
+        "https://openalex.org/W3082439147",
+        "https://openalex.org/W3028628319",
+        "https://openalex.org/W4415213820",
+        "https://openalex.org/W2073112890"
+      ],
+      "abstract_inverted_index": {
+        "4": [
+          142
+        ],
+        "5": [
+          132
+        ],
+        "Abstract": [
+          0
+        ],
+        "Late": [
+          1,
+          135,
+          241
+        ],
+        "Cretaceous": [
+          2,
+          136,
+          242
+        ],
+        "obduction": [
+          3
+        ],
+        "of": [
+          4,
+          12,
+          21,
+          58,
+          66,
+          76,
+          108,
+          127,
+          134,
+          144,
+          192,
+          203,
+          234
+        ],
+        "the": [
+          5,
+          17,
+          44,
+          56,
+          63,
+          67,
+          74,
+          89,
+          97,
+          101,
+          112,
+          116,
+          125,
+          170,
+          183,
+          193,
+          204,
+          224,
+          229,
+          235,
+          250
+        ],
+        "Semail": [
+          6,
+          68,
+          98
+        ],
+        "ophiolite": [
+          7,
+          99
+        ],
+        "and": [
+          8,
+          38,
+          146,
+          150,
+          160,
+          190
+        ],
+        "underlying": [
+          9
+        ],
+        "thrust": [
+          10,
+          45
+        ],
+        "sheets": [
+          11
+        ],
+        "Neo-Tethyan": [
+          13
+        ],
+        "oceanic": [
+          14,
+          106,
+          243
+        ],
+        "sediments": [
+          15
+        ],
+        "onto": [
+          16
+        ],
+        "submerged": [
+          18
+        ],
+        "continental": [
+          19
+        ],
+        "margin": [
+          20,
+          118
+        ],
+        "Oman": [
+          22,
+          77,
+          109,
+          128
+        ],
+        "involved": [
+          23
+        ],
+        "thin-skinned": [
+          24
+        ],
+        "SW-vergent": [
+          25
+        ],
+        "thrusting": [
+          26
+        ],
+        "above": [
+          27,
+          208
+        ],
+        "a": [
+          28,
+          120
+        ],
+        "thick": [
+          29
+        ],
+        "Guadalupian–Cenomanian": [
+          30
+        ],
+        "shelf-carbonate": [
+          31
+        ],
+        "sequence.": [
+          32
+        ],
+        "A": [
+          33,
+          213
+        ],
+        "flexural": [
+          34
+        ],
+        "foreland": [
+          35
+        ],
+        "basin": [
+          36,
+          117,
+          122,
+          171,
+          226,
+          237
+        ],
+        "(Muti": [
+          37
+        ],
+        "Aruma": [
+          39
+        ],
+        "Basin)": [
+          40
+        ],
+        "developed": [
+          41
+        ],
+        "due": [
+          42
+        ],
+        "to": [
+          43,
+          53,
+          88,
+          95,
+          100,
+          111,
+          119,
+          162,
+          217,
+          228
+        ],
+        "loading.": [
+          46
+        ],
+        "Newly": [
+          47
+        ],
+        "available": [
+          48
+        ],
+        "seismic": [
+          49
+        ],
+        "reflection": [
+          50
+        ],
+        "data,": [
+          51
+        ],
+        "tied": [
+          52
+        ],
+        "wells": [
+          54
+        ],
+        "in": [
+          55,
+          73,
+          104,
+          130,
+          200,
+          239
+        ],
+        "Gulf": [
+          57,
+          75,
+          107,
+          126
+        ],
+        "Oman,": [
+          59
+        ],
+        "suggest": [
+          60
+        ],
+        "indirectly": [
+          61
+        ],
+        "that": [
+          62,
+          245
+        ],
+        "trailing": [
+          64
+        ],
+        "edge": [
+          65
+        ],
+        "Ophiolite": [
+          69
+        ],
+        "is": [
+          70,
+          80,
+          93,
+          238,
+          246
+        ],
+        "not": [
+          71
+        ],
+        "rooted": [
+          72
+        ],
+        "crust": [
+          78,
+          110
+        ],
+        "but": [
+          79
+        ],
+        "truncated": [
+          81,
+          207
+        ],
+        "by": [
+          82,
+          209
+        ],
+        "an": [
+          83,
+          210
+        ],
+        "ENE-dipping": [
+          84
+        ],
+        "extensional": [
+          85
+        ],
+        "fault": [
+          86,
+          92
+        ],
+        "parallel": [
+          87,
+          182
+        ],
+        "coastline.": [
+          90
+        ],
+        "This": [
+          91,
+          196
+        ],
+        "inferred": [
+          94,
+          232
+        ],
+        "separate": [
+          96
+        ],
+        "SW": [
+          102
+        ],
+        "from": [
+          103
+        ],
+        "situ": [
+          105,
+          240
+        ],
+        "NE.": [
+          113
+        ],
+        "It": [
+          114
+        ],
+        "forms": [
+          115
+        ],
+        "“hinterland”": [
+          121
+        ],
+        "formed": [
+          123
+        ],
+        "atop": [
+          124
+        ],
+        "crust,": [
+          129
+        ],
+        "which": [
+          131
+        ],
+        "km": [
+          133,
+          143
+        ],
+        "deep-water": [
+          137,
+          148
+        ],
+        "mudstones": [
+          138,
+          149
+        ],
+        "accumulated": [
+          139
+        ],
+        "together": [
+          140
+        ],
+        "with": [
+          141,
+          166,
+          186
+        ],
+        "Miocene": [
+          145
+        ],
+        "younger": [
+          147
+        ],
+        "sandstones.": [
+          151
+        ],
+        "Syndepositional": [
+          152
+        ],
+        "folding": [
+          153
+        ],
+        "included": [
+          154
+        ],
+        "Paleocene–Eocene": [
+          155
+        ],
+        "folds": [
+          156,
+          179
+        ],
+        "on": [
+          157
+        ],
+        "N-S": [
+          158
+        ],
+        "axes,": [
+          159
+        ],
+        "Paleocene": [
+          161
+        ],
+        "Oligocene": [
+          163
+        ],
+        "growth": [
+          164,
+          194
+        ],
+        "faults": [
+          165
+        ],
+        "roll-over": [
+          167
+        ],
+        "anticlines,": [
+          168
+        ],
+        "along": [
+          169
+        ],
+        "flank.": [
+          172
+        ],
+        "Pliocene": [
+          173,
+          197
+        ],
+        "compression": [
+          174,
+          198
+        ],
+        "formed,": [
+          175
+        ],
+        "or": [
+          176
+        ],
+        "tightened,": [
+          177
+        ],
+        "box": [
+          178
+        ],
+        "whose": [
+          180
+        ],
+        "axes": [
+          181
+        ],
+        "modern": [
+          184
+        ],
+        "coast": [
+          185
+        ],
+        "local": [
+          187
+        ],
+        "south-vergent": [
+          188
+        ],
+        "thrusts": [
+          189
+        ],
+        "reversal": [
+          191
+        ],
+        "faults.": [
+          195
+        ],
+        "resulted": [
+          199
+        ],
+        "large-scale": [
+          201
+        ],
+        "buckling": [
+          202
+        ],
+        "Cenozoic": [
+          205
+        ],
+        "section,": [
+          206
+        ],
+        "intra-Pliocene": [
+          211
+        ],
+        "unconformity.": [
+          212
+        ],
+        "spectacular": [
+          214
+        ],
+        "60-km-long,": [
+          215
+        ],
+        "Eocene(?)": [
+          216
+        ],
+        "Recent,": [
+          218
+        ],
+        "low-angle,": [
+          219
+        ],
+        "extensional,": [
+          220
+        ],
+        "gravitational": [
+          221
+        ],
+        "fault,": [
+          222
+        ],
+        "down-throws": [
+          223
+        ],
+        "upper": [
+          225
+        ],
+        "fill": [
+          227
+        ],
+        "north.": [
+          230
+        ],
+        "The": [
+          231
+        ],
+        "basement": [
+          233
+        ],
+        "hinterland": [
+          236
+        ],
+        "lithosphere": [
+          244
+        ],
+        "subducting": [
+          247
+        ],
+        "northwards": [
+          248
+        ],
+        "beneath": [
+          249
+        ],
+        "Makran": [
+          251
+        ],
+        "accretionary": [
+          252
+        ],
+        "prism.": [
+          253
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-11-10T11:39:43.021295",
+      "created_date": "2021-08-30T00:00:00"
     },
     {
       "id": "https://openalex.org/W4399334238",
@@ -18874,11 +20293,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.4557,
+      "fwci": 5.2904,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.98310811,
+        "value": 0.98015169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19136,8 +20555,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 418,
@@ -20424,1404 +21843,6 @@
       "created_date": "2024-06-05T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3195207218",
-      "doi": "https://doi.org/10.1130/ges02376.1",
-      "title": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
-      "display_name": "Geological and seismic evidence for the tectonic evolution of the NE Oman continental margin and Gulf of Oman",
-      "publication_year": 2021,
-      "publication_date": "2021-08-19",
-      "ids": {
-        "openalex": "https://openalex.org/W3195207218",
-        "doi": "https://doi.org/10.1130/ges02376.1",
-        "mag": "3195207218"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1130/ges02376.1",
-        "doi": "https://doi.org/10.1130/ges02376.1",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1130/ges02376.1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S8074494",
-          "display_name": "Geosphere",
-          "issn_l": "1553-040X",
-          "issn": [
-            "1553-040X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "oarl",
-            "poland-140",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310319845",
-          "host_organization_name": "Geological Society of America",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319845"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of America"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geosphere",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1130/ges02376.1",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5041843348",
-            "display_name": "Bruce Levell",
-            "orcid": "https://orcid.org/0000-0002-7414-1565",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7414-1565"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bruce Levell",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-7414-1565",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5060286659",
-            "display_name": "M. P. Searle",
-            "orcid": "https://orcid.org/0000-0001-6904-6398",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-6904-6398"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michael Searle",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5007329363",
-            "display_name": "Adrian White",
-            "orcid": "https://orcid.org/0000-0003-3917-3438",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3917-3438"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Adrian White",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5048457692",
-            "display_name": "Lauren Kedar",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Lauren Kedar",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5058646530",
-            "display_name": "Henk Droste",
-            "orcid": "https://orcid.org/0009-0008-1422-1783",
-            "observed_orcids": [
-              "https://orcid.org/0009-0008-1422-1783"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Henk Droste",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, South Parks Road, Oxford OX1 3AN, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5074392881",
-            "display_name": "Mia Van Steenwinkel",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mia Van Steenwinkel",
-          "raw_affiliation_strings": [
-            "Locquetstraat 11, Hombeek, 2811, Belgium"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Locquetstraat 11, Hombeek, 2811, Belgium",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 2750,
-        "currency": "USD",
-        "value_usd": 2750
-      },
-      "apc_paid": {
-        "value": 2750,
-        "currency": "USD",
-        "value_usd": 2750
-      },
-      "fwci": 1.3979,
-      "has_fulltext": false,
-      "cited_by_count": 21,
-      "citation_normalized_percentile": {
-        "value": 0.78216863,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "17",
-        "issue": "5",
-        "first_page": "1472",
-        "last_page": "1493"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.9057999849319458,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9057999849319458,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.07980000227689743,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.006200000178068876,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/semail-ophiolite",
-          "display_name": "Samail ophiolite",
-          "score": 0.8830000162124634
-        },
-        {
-          "id": "https://openalex.org/keywords/obduction",
-          "display_name": "obduction",
-          "score": 0.6840000152587891
-        },
-        {
-          "id": "https://openalex.org/keywords/gulf-of-oman",
-          "display_name": "Gulf of Oman",
-          "score": 0.9570000171661377
-        },
-        {
-          "id": "https://openalex.org/keywords/thin-skinned-thrusting",
-          "display_name": "thin-skinned thrusting",
-          "score": 0.7820000052452087
-        },
-        {
-          "id": "https://openalex.org/keywords/extensional-faults",
-          "display_name": "extensional faults",
-          "score": 0.8050000071525574
-        },
-        {
-          "id": "https://openalex.org/keywords/growth-faults",
-          "display_name": "growth faults",
-          "score": 0.8529999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/box-folds",
-          "display_name": "box folds",
-          "score": 0.781000018119812
-        },
-        {
-          "id": "https://openalex.org/keywords/makran-accretionary-prism",
-          "display_name": "Makran accretionary prism",
-          "score": 0.9200000166893005
-        },
-        {
-          "id": "https://openalex.org/keywords/subduction",
-          "display_name": "subduction",
-          "score": 0.621999979019165
-        },
-        {
-          "id": "https://openalex.org/keywords/late-cretaceous",
-          "display_name": "Late Cretaceous",
-          "score": 0.6029999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/miocene",
-          "display_name": "Miocene",
-          "score": 0.5450000166893005
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonic-evolution",
-          "display_name": "tectonic evolution",
-          "score": 0.5950000286102295
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9361240863800049
-        },
-        {
-          "id": "https://openalex.org/C192717286",
-          "wikidata": "https://www.wikidata.org/wiki/Q772239",
-          "display_name": "Obduction",
-          "level": 5,
-          "score": 0.7040687203407288
-        },
-        {
-          "id": "https://openalex.org/C193748577",
-          "wikidata": "https://www.wikidata.org/wiki/Q1978695",
-          "display_name": "Foreland basin",
-          "level": 3,
-          "score": 0.6503768563270569
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6149313449859619
-        },
-        {
-          "id": "https://openalex.org/C201867031",
-          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
-          "display_name": "Continental margin",
-          "level": 3,
-          "score": 0.5257319211959839
-        },
-        {
-          "id": "https://openalex.org/C2781297371",
-          "wikidata": "https://www.wikidata.org/wiki/Q234852",
-          "display_name": "Basement",
-          "level": 2,
-          "score": 0.5176113843917847
-        },
-        {
-          "id": "https://openalex.org/C201633675",
-          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
-          "display_name": "Passive margin",
-          "level": 4,
-          "score": 0.5169288516044617
-        },
-        {
-          "id": "https://openalex.org/C116637073",
-          "wikidata": "https://www.wikidata.org/wiki/Q190147",
-          "display_name": "Anticline",
-          "level": 3,
-          "score": 0.5082992911338806
-        },
-        {
-          "id": "https://openalex.org/C110041135",
-          "wikidata": "https://www.wikidata.org/wiki/Q496325",
-          "display_name": "Thrust fault",
-          "level": 3,
-          "score": 0.5056343078613281
-        },
-        {
-          "id": "https://openalex.org/C153220577",
-          "wikidata": "https://www.wikidata.org/wiki/Q1479638",
-          "display_name": "Nappe",
-          "level": 3,
-          "score": 0.4852876365184784
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.4573920965194702
-        },
-        {
-          "id": "https://openalex.org/C27543578",
-          "wikidata": "https://www.wikidata.org/wiki/Q185567",
-          "display_name": "Cenomanian",
-          "level": 3,
-          "score": 0.4412640929222107
-        },
-        {
-          "id": "https://openalex.org/C141646446",
-          "wikidata": "https://www.wikidata.org/wiki/Q858571",
-          "display_name": "Continental crust",
-          "level": 3,
-          "score": 0.4374120831489563
-        },
-        {
-          "id": "https://openalex.org/C175551986",
-          "wikidata": "https://www.wikidata.org/wiki/Q47089",
-          "display_name": "Fault (geology)",
-          "level": 2,
-          "score": 0.43662816286087036
-        },
-        {
-          "id": "https://openalex.org/C204330871",
-          "wikidata": "https://www.wikidata.org/wiki/Q55810",
-          "display_name": "Paleogene",
-          "level": 3,
-          "score": 0.4278808534145355
-        },
-        {
-          "id": "https://openalex.org/C117485682",
-          "wikidata": "https://www.wikidata.org/wiki/Q215920",
-          "display_name": "Seafloor spreading",
-          "level": 2,
-          "score": 0.4263201951980591
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.41147133708000183
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.4061698913574219
-        },
-        {
-          "id": "https://openalex.org/C2776698055",
-          "wikidata": "https://www.wikidata.org/wiki/Q4232578",
-          "display_name": "Crust",
-          "level": 2,
-          "score": 0.38596123456954956
-        },
-        {
-          "id": "https://openalex.org/C58097730",
-          "wikidata": "https://www.wikidata.org/wiki/Q176318",
-          "display_name": "Subduction",
-          "level": 3,
-          "score": 0.3784680962562561
-        },
-        {
-          "id": "https://openalex.org/C154200439",
-          "wikidata": "https://www.wikidata.org/wiki/Q238851",
-          "display_name": "Oceanic crust",
-          "level": 4,
-          "score": 0.3749732971191406
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.32843393087387085
-        },
-        {
-          "id": "https://openalex.org/C50682988",
-          "wikidata": "https://www.wikidata.org/wiki/Q473935",
-          "display_name": "Rift",
-          "level": 3,
-          "score": 0.2603079378604889
-        },
-        {
-          "id": "https://openalex.org/C147176958",
-          "wikidata": "https://www.wikidata.org/wiki/Q77590",
-          "display_name": "Civil engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1130/ges02376.1",
-          "doi": "https://doi.org/10.1130/ges02376.1",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1130/ges02376.1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S8074494",
-            "display_name": "Geosphere",
-            "issn_l": "1553-040X",
-            "issn": [
-              "1553-040X"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "doaj",
-              "dongbi-c",
-              "jufo-1",
-              "norway-1",
-              "oarl",
-              "poland-140",
-              "russia-white-list-1"
-            ],
-            "host_organization": "https://openalex.org/P4310319845",
-            "host_organization_name": "Geological Society of America",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319845"
-            ],
-            "host_organization_lineage_names": [
-              "Geological Society of America"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geosphere",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1130/ges02376.1",
-        "doi": "https://doi.org/10.1130/ges02376.1",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1130/ges02376.1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S8074494",
-          "display_name": "Geosphere",
-          "issn_l": "1553-040X",
-          "issn": [
-            "1553-040X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "jufo-1",
-            "norway-1",
-            "oarl",
-            "poland-140",
-            "russia-white-list-1"
-          ],
-          "host_organization": "https://openalex.org/P4310319845",
-          "host_organization_name": "Geological Society of America",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319845"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of America"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geosphere",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 57,
-      "referenced_works": [
-        "https://openalex.org/W1537425267",
-        "https://openalex.org/W1839680979",
-        "https://openalex.org/W1965622457",
-        "https://openalex.org/W1969766565",
-        "https://openalex.org/W1971083798",
-        "https://openalex.org/W1976668940",
-        "https://openalex.org/W1977995085",
-        "https://openalex.org/W1980622023",
-        "https://openalex.org/W1981547392",
-        "https://openalex.org/W1985748982",
-        "https://openalex.org/W1991062313",
-        "https://openalex.org/W1991819870",
-        "https://openalex.org/W1994737413",
-        "https://openalex.org/W2007355390",
-        "https://openalex.org/W2008114980",
-        "https://openalex.org/W2023619610",
-        "https://openalex.org/W2029351736",
-        "https://openalex.org/W2048539408",
-        "https://openalex.org/W2060017564",
-        "https://openalex.org/W2065247298",
-        "https://openalex.org/W2065692916",
-        "https://openalex.org/W2071075619",
-        "https://openalex.org/W2074344573",
-        "https://openalex.org/W2077977387",
-        "https://openalex.org/W2079585454",
-        "https://openalex.org/W2081508306",
-        "https://openalex.org/W2083772074",
-        "https://openalex.org/W2086891158",
-        "https://openalex.org/W2088581780",
-        "https://openalex.org/W2092786871",
-        "https://openalex.org/W2108855048",
-        "https://openalex.org/W2140748778",
-        "https://openalex.org/W2144374166",
-        "https://openalex.org/W2145995786",
-        "https://openalex.org/W2146586425",
-        "https://openalex.org/W2155927047",
-        "https://openalex.org/W2160951938",
-        "https://openalex.org/W2163243405",
-        "https://openalex.org/W2165193198",
-        "https://openalex.org/W2168511870",
-        "https://openalex.org/W2186549523",
-        "https://openalex.org/W2274018172",
-        "https://openalex.org/W2314696333",
-        "https://openalex.org/W2319336632",
-        "https://openalex.org/W2332302581",
-        "https://openalex.org/W2465257908",
-        "https://openalex.org/W2615225651",
-        "https://openalex.org/W2766642050",
-        "https://openalex.org/W2779360006",
-        "https://openalex.org/W2954119218",
-        "https://openalex.org/W2967069995",
-        "https://openalex.org/W2992040756",
-        "https://openalex.org/W3028628319",
-        "https://openalex.org/W3038998202",
-        "https://openalex.org/W3043902524",
-        "https://openalex.org/W3112784815",
-        "https://openalex.org/W4255968852"
-      ],
-      "related_works": [
-        "https://openalex.org/W3112784815",
-        "https://openalex.org/W4392599299",
-        "https://openalex.org/W3078006393",
-        "https://openalex.org/W2615225651",
-        "https://openalex.org/W2032063496",
-        "https://openalex.org/W4409465277",
-        "https://openalex.org/W3082439147",
-        "https://openalex.org/W3028628319",
-        "https://openalex.org/W4415213820",
-        "https://openalex.org/W2073112890"
-      ],
-      "abstract_inverted_index": {
-        "4": [
-          142
-        ],
-        "5": [
-          132
-        ],
-        "Abstract": [
-          0
-        ],
-        "Late": [
-          1,
-          135,
-          241
-        ],
-        "Cretaceous": [
-          2,
-          136,
-          242
-        ],
-        "obduction": [
-          3
-        ],
-        "of": [
-          4,
-          12,
-          21,
-          58,
-          66,
-          76,
-          108,
-          127,
-          134,
-          144,
-          192,
-          203,
-          234
-        ],
-        "the": [
-          5,
-          17,
-          44,
-          56,
-          63,
-          67,
-          74,
-          89,
-          97,
-          101,
-          112,
-          116,
-          125,
-          170,
-          183,
-          193,
-          204,
-          224,
-          229,
-          235,
-          250
-        ],
-        "Semail": [
-          6,
-          68,
-          98
-        ],
-        "ophiolite": [
-          7,
-          99
-        ],
-        "and": [
-          8,
-          38,
-          146,
-          150,
-          160,
-          190
-        ],
-        "underlying": [
-          9
-        ],
-        "thrust": [
-          10,
-          45
-        ],
-        "sheets": [
-          11
-        ],
-        "Neo-Tethyan": [
-          13
-        ],
-        "oceanic": [
-          14,
-          106,
-          243
-        ],
-        "sediments": [
-          15
-        ],
-        "onto": [
-          16
-        ],
-        "submerged": [
-          18
-        ],
-        "continental": [
-          19
-        ],
-        "margin": [
-          20,
-          118
-        ],
-        "Oman": [
-          22,
-          77,
-          109,
-          128
-        ],
-        "involved": [
-          23
-        ],
-        "thin-skinned": [
-          24
-        ],
-        "SW-vergent": [
-          25
-        ],
-        "thrusting": [
-          26
-        ],
-        "above": [
-          27,
-          208
-        ],
-        "a": [
-          28,
-          120
-        ],
-        "thick": [
-          29
-        ],
-        "Guadalupian–Cenomanian": [
-          30
-        ],
-        "shelf-carbonate": [
-          31
-        ],
-        "sequence.": [
-          32
-        ],
-        "A": [
-          33,
-          213
-        ],
-        "flexural": [
-          34
-        ],
-        "foreland": [
-          35
-        ],
-        "basin": [
-          36,
-          117,
-          122,
-          171,
-          226,
-          237
-        ],
-        "(Muti": [
-          37
-        ],
-        "Aruma": [
-          39
-        ],
-        "Basin)": [
-          40
-        ],
-        "developed": [
-          41
-        ],
-        "due": [
-          42
-        ],
-        "to": [
-          43,
-          53,
-          88,
-          95,
-          100,
-          111,
-          119,
-          162,
-          217,
-          228
-        ],
-        "loading.": [
-          46
-        ],
-        "Newly": [
-          47
-        ],
-        "available": [
-          48
-        ],
-        "seismic": [
-          49
-        ],
-        "reflection": [
-          50
-        ],
-        "data,": [
-          51
-        ],
-        "tied": [
-          52
-        ],
-        "wells": [
-          54
-        ],
-        "in": [
-          55,
-          73,
-          104,
-          130,
-          200,
-          239
-        ],
-        "Gulf": [
-          57,
-          75,
-          107,
-          126
-        ],
-        "Oman,": [
-          59
-        ],
-        "suggest": [
-          60
-        ],
-        "indirectly": [
-          61
-        ],
-        "that": [
-          62,
-          245
-        ],
-        "trailing": [
-          64
-        ],
-        "edge": [
-          65
-        ],
-        "Ophiolite": [
-          69
-        ],
-        "is": [
-          70,
-          80,
-          93,
-          238,
-          246
-        ],
-        "not": [
-          71
-        ],
-        "rooted": [
-          72
-        ],
-        "crust": [
-          78,
-          110
-        ],
-        "but": [
-          79
-        ],
-        "truncated": [
-          81,
-          207
-        ],
-        "by": [
-          82,
-          209
-        ],
-        "an": [
-          83,
-          210
-        ],
-        "ENE-dipping": [
-          84
-        ],
-        "extensional": [
-          85
-        ],
-        "fault": [
-          86,
-          92
-        ],
-        "parallel": [
-          87,
-          182
-        ],
-        "coastline.": [
-          90
-        ],
-        "This": [
-          91,
-          196
-        ],
-        "inferred": [
-          94,
-          232
-        ],
-        "separate": [
-          96
-        ],
-        "SW": [
-          102
-        ],
-        "from": [
-          103
-        ],
-        "situ": [
-          105,
-          240
-        ],
-        "NE.": [
-          113
-        ],
-        "It": [
-          114
-        ],
-        "forms": [
-          115
-        ],
-        "“hinterland”": [
-          121
-        ],
-        "formed": [
-          123
-        ],
-        "atop": [
-          124
-        ],
-        "crust,": [
-          129
-        ],
-        "which": [
-          131
-        ],
-        "km": [
-          133,
-          143
-        ],
-        "deep-water": [
-          137,
-          148
-        ],
-        "mudstones": [
-          138,
-          149
-        ],
-        "accumulated": [
-          139
-        ],
-        "together": [
-          140
-        ],
-        "with": [
-          141,
-          166,
-          186
-        ],
-        "Miocene": [
-          145
-        ],
-        "younger": [
-          147
-        ],
-        "sandstones.": [
-          151
-        ],
-        "Syndepositional": [
-          152
-        ],
-        "folding": [
-          153
-        ],
-        "included": [
-          154
-        ],
-        "Paleocene–Eocene": [
-          155
-        ],
-        "folds": [
-          156,
-          179
-        ],
-        "on": [
-          157
-        ],
-        "N-S": [
-          158
-        ],
-        "axes,": [
-          159
-        ],
-        "Paleocene": [
-          161
-        ],
-        "Oligocene": [
-          163
-        ],
-        "growth": [
-          164,
-          194
-        ],
-        "faults": [
-          165
-        ],
-        "roll-over": [
-          167
-        ],
-        "anticlines,": [
-          168
-        ],
-        "along": [
-          169
-        ],
-        "flank.": [
-          172
-        ],
-        "Pliocene": [
-          173,
-          197
-        ],
-        "compression": [
-          174,
-          198
-        ],
-        "formed,": [
-          175
-        ],
-        "or": [
-          176
-        ],
-        "tightened,": [
-          177
-        ],
-        "box": [
-          178
-        ],
-        "whose": [
-          180
-        ],
-        "axes": [
-          181
-        ],
-        "modern": [
-          184
-        ],
-        "coast": [
-          185
-        ],
-        "local": [
-          187
-        ],
-        "south-vergent": [
-          188
-        ],
-        "thrusts": [
-          189
-        ],
-        "reversal": [
-          191
-        ],
-        "faults.": [
-          195
-        ],
-        "resulted": [
-          199
-        ],
-        "large-scale": [
-          201
-        ],
-        "buckling": [
-          202
-        ],
-        "Cenozoic": [
-          205
-        ],
-        "section,": [
-          206
-        ],
-        "intra-Pliocene": [
-          211
-        ],
-        "unconformity.": [
-          212
-        ],
-        "spectacular": [
-          214
-        ],
-        "60-km-long,": [
-          215
-        ],
-        "Eocene(?)": [
-          216
-        ],
-        "Recent,": [
-          218
-        ],
-        "low-angle,": [
-          219
-        ],
-        "extensional,": [
-          220
-        ],
-        "gravitational": [
-          221
-        ],
-        "fault,": [
-          222
-        ],
-        "down-throws": [
-          223
-        ],
-        "upper": [
-          225
-        ],
-        "fill": [
-          227
-        ],
-        "north.": [
-          230
-        ],
-        "The": [
-          231
-        ],
-        "basement": [
-          233
-        ],
-        "hinterland": [
-          236
-        ],
-        "lithosphere": [
-          244
-        ],
-        "subducting": [
-          247
-        ],
-        "northwards": [
-          248
-        ],
-        "beneath": [
-          249
-        ],
-        "Makran": [
-          251
-        ],
-        "accretionary": [
-          252
-        ],
-        "prism.": [
-          253
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
-      "created_date": "2021-08-30T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2943308556",
       "doi": "https://doi.org/10.2113/geoarabia130339",
       "title": "Outcrop sedimentology of the Natih Formation, northern Oman: A field guide to selected outcrops in the Adam Foothills and Al Jabal al Akhdar areas",
@@ -22359,8 +22380,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -23806,8 +23827,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -24976,8 +24997,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -26424,11 +26445,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4281,
+      "fwci": 1.4248,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.82739898,
+        "value": 0.79279842,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26797,8 +26818,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -28321,8 +28342,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -29520,8 +29541,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -30087,11 +30108,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4023,
+      "fwci": 0.4038,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.7533272,
+        "value": 0.69677743,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30283,8 +30304,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30594,11 +30615,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3503,
+      "fwci": 1.3467,
       "has_fulltext": false,
-      "cited_by_count": 13,
+      "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81979619,
+        "value": 0.7881689,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30899,8 +30920,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31264,6 +31285,10 @@
           "cited_by_count": 2
         },
         {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
           "year": 2021,
           "cited_by_count": 2
         },
@@ -31276,7 +31301,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-12T09:40:04.860316",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2017-01-06T00:00:00"
     },
     {
@@ -31546,8 +31571,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31745,16 +31770,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1626,
+      "fwci": 1.1572,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.68457944,
+        "value": 0.65492958,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 96
       },
       "biblio": {
@@ -32032,17 +32057,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -32518,8 +32543,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -33157,12 +33182,12 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.13562925,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 96
       },
       "biblio": {
@@ -33406,8 +33431,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33732,9 +33757,9 @@
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.16141929,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33912,8 +33937,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33932,6 +33957,10 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 1
@@ -33961,7 +33990,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -34077,11 +34106,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.867,
+      "fwci": 0.8696,
       "has_fulltext": false,
-      "cited_by_count": 7,
+      "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.82294158,
+        "value": 0.7848317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34302,8 +34331,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -34412,6 +34441,10 @@
           "cited_by_count": 1
         },
         {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
           "year": 2015,
           "cited_by_count": 1
         },
@@ -34420,7 +34453,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2019-09-12T00:00:00"
     },
     {
@@ -34590,11 +34623,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9591,
+      "fwci": 0.9564,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.82905983,
+        "value": 0.73142857,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34765,8 +34798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35001,13 +35034,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.3971,
+      "fwci": 2.3979,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.91385768,
+        "value": 0.89962825,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 88,
@@ -35223,8 +35256,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35252,7 +35285,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-29T14:09:16.559479",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2021-02-01T00:00:00"
     },
     {
@@ -35366,11 +35399,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6968,
+      "fwci": 0.6965,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.72262397,
+        "value": 0.70330237,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35555,8 +35588,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35781,11 +35814,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8766,
+      "fwci": 2.8774,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.92509363,
+        "value": 0.91449814,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35998,8 +36031,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36235,11 +36268,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2656,
+      "fwci": 4.2323,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.87329843,
+        "value": 0.85983264,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36470,8 +36503,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37662,8 +37695,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38578,7 +38611,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31594635,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38762,8 +38795,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38918,7 +38951,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25365631,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39224,8 +39257,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39508,7 +39541,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21654135,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39760,8 +39793,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41221,8 +41254,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2314467085.pdf",
@@ -42284,8 +42317,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42601,7 +42634,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4164916,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42940,8 +42973,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43793,8 +43826,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44041,7 +44074,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42279412,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44397,17 +44430,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45413,8 +45446,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -46555,8 +46588,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47738,8 +47771,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47912,8 +47945,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47999,7 +48032,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.72273567,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48325,8 +48358,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,

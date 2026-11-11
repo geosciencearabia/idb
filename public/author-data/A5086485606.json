@@ -21,7 +21,7 @@
     ],
     "full_name": "ZÜHLKE, RAINER",
     "works_count": 53,
-    "cited_by_count": 1038,
+    "cited_by_count": 1041,
     "summary_stats": {
       "2yr_mean_citedness": 3.1666666666666665,
       "h_index": 17,
@@ -219,7 +219,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000517,
+        "value": 0.0000516,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -460,13 +460,13 @@
         "year": 2025,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 72
+        "cited_by_count": 74
       },
       {
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 70
+        "cited_by_count": 71
       }
     ],
     "display_name_alternatives": [
@@ -485,7 +485,8 @@
     "block_key": "r zuhlke",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
     "awards_count": 0,
-    "updated_date": "2026-11-08T12:57:04",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5086485606",
+    "updated_date": "2026-11-10T14:30:39",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2078,16 +2079,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.2778,
+      "fwci": 14.2383,
       "has_fulltext": false,
-      "cited_by_count": 96,
+      "cited_by_count": 97,
       "citation_normalized_percentile": {
         "value": 0.99475524,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 91,
+        "min": 95,
         "max": 99
       },
       "biblio": {
@@ -2991,7 +2992,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -3050,7 +3051,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2020-12-21T00:00:00"
     },
     {
@@ -4299,11 +4300,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 4.1945,
+      "fwci": 4.0938,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.95289888,
+        "value": 0.94866778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5264,12 +5265,12 @@
           "is_corresponding": true,
           "raw_author_name": "Arnoud Slootman",
           "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia"
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum & Minerals Dhahran 31261 Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-8719-3041",
           "affiliations": [
             {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia",
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum & Minerals Dhahran 31261 Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -5329,12 +5330,12 @@
           "is_corresponding": false,
           "raw_author_name": "Guenther Glatz",
           "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia"
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum & Minerals Dhahran 31261 Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-8783-3096",
           "affiliations": [
             {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia",
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum & Minerals Dhahran 31261 Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -5471,14 +5472,14 @@
           "is_corresponding": false,
           "raw_author_name": "John J. G. Reijmer",
           "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia",
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum & Minerals Dhahran 31261 Saudi Arabia",
             "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands",
             "Department of Geosciences – Geology University of Fribourg  Chemin du Musée 6 Fribourg CH‐1700 Switzerland"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-5807-1256",
           "affiliations": [
             {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia",
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum & Minerals Dhahran 31261 Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -5509,11 +5510,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 28.6731,
+      "fwci": 28.164,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.99697885,
+        "value": 0.99697275,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6892,7 +6893,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-08T12:12:28.789561",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2023-05-10T00:00:00"
     },
     {
@@ -7178,11 +7179,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 3.0818,
+      "fwci": 2.9842,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.92373624,
+        "value": 0.91661703,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7948,11 +7949,11 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 3.9973,
+      "fwci": 3.8678,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.94297023,
+        "value": 0.93683923,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9330,11 +9331,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 4.2629,
+      "fwci": 4.2547,
       "has_fulltext": false,
-      "cited_by_count": 90,
+      "cited_by_count": 91,
       "citation_normalized_percentile": {
-        "value": 0.93345455,
+        "value": 0.92464137,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10190,6 +10191,10 @@
           "cited_by_count": 1
         },
         {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
           "year": 2024,
           "cited_by_count": 2
         },
@@ -10242,7 +10247,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10451,11 +10456,11 @@
         "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 5.67,
+      "fwci": 5.6885,
       "has_fulltext": false,
-      "cited_by_count": 85,
+      "cited_by_count": 86,
       "citation_normalized_percentile": {
-        "value": 0.96473706,
+        "value": 0.96188341,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11160,7 +11165,7 @@
         },
         {
           "year": 2025,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2024,
@@ -11211,7 +11216,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-10-30T12:39:25.321706",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -12721,11 +12726,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3266,
+      "fwci": 0.321,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.51196172,
+        "value": 0.48317308,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18627,11 +18632,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.9651,
+      "fwci": 0.9641,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.79380837,
+        "value": 0.77929716,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19261,11 +19266,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.2248,
+      "fwci": 1.2304,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.76836618,
+        "value": 0.75466342,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20275,11 +20280,11 @@
         "value_usd": 3600
       },
       "apc_paid": null,
-      "fwci": 0.8132,
+      "fwci": 0.804,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.65994648,
+        "value": 0.62607049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21501,11 +21506,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 1.2952,
+      "fwci": 1.2565,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.7600978,
+        "value": 0.73178479,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21831,9 +21836,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 1
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -22406,13 +22411,13 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.08758315,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 88,
-        "max": 95
+        "max": 96
       },
       "biblio": {
         "volume": null,
@@ -22973,11 +22978,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9918,
+      "fwci": 1.9963,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.86199575,
+        "value": 0.80223187,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23525,11 +23530,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6068,
+      "fwci": 1.591,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.77172932,
+        "value": 0.72220557,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24605,11 +24610,11 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 1.7004,
+      "fwci": 1.6211,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.76560807,
+        "value": 0.74992633,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24969,9 +24974,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -24988,7 +24993,7 @@
         "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 61,
+      "referenced_works_count": 64,
       "referenced_works": [
         "https://openalex.org/W1527101551",
         "https://openalex.org/W1623559396",
@@ -25002,8 +25007,10 @@
         "https://openalex.org/W2007248477",
         "https://openalex.org/W2009428627",
         "https://openalex.org/W2010296282",
+        "https://openalex.org/W2022286459",
         "https://openalex.org/W2023754619",
         "https://openalex.org/W2026541059",
+        "https://openalex.org/W2026752343",
         "https://openalex.org/W2031180241",
         "https://openalex.org/W2037123307",
         "https://openalex.org/W2053665288",
@@ -25017,6 +25024,7 @@
         "https://openalex.org/W2093851844",
         "https://openalex.org/W2100977469",
         "https://openalex.org/W2114987349",
+        "https://openalex.org/W2133307452",
         "https://openalex.org/W2141845276",
         "https://openalex.org/W2145722397",
         "https://openalex.org/W2171833124",
@@ -25071,628 +25079,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-01-20T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2086944217",
-      "doi": "https://doi.org/10.3997/2214-4609.20144202",
-      "title": "Thermo-hydraulic Modeling of the Permo-carboniferous in the Upper Rhine Valley",
-      "display_name": "Thermo-hydraulic Modeling of the Permo-carboniferous in the Upper Rhine Valley",
-      "publication_year": 2011,
-      "publication_date": "2011-11-08",
-      "ids": {
-        "openalex": "https://openalex.org/W2086944217",
-        "doi": "https://doi.org/10.3997/2214-4609.20144202",
-        "mag": "2086944217"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.3997/2214-4609.20144202",
-        "doi": "https://doi.org/10.3997/2214-4609.20144202",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609.20144202",
-        "pdf_url": "http://www.earthdoc.org/publication/download/?publication=55531",
-        "source": {
-          "id": "https://openalex.org/S4220650854",
-          "display_name": "Proceedings",
-          "issn_l": "2214-4609",
-          "issn": [
-            "2214-4609"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Proceedings",
-        "raw_type": "proceedings-article"
-      },
-      "volume": null,
-      "type": "conference-paper",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "http://www.earthdoc.org/publication/download/?publication=55531",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5024377207",
-            "display_name": "Lucas P. Rohrer",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "L. Rohrer",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5078153906",
-            "display_name": "A. Wenke",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A. Wenke",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086485606",
-            "display_name": "Rainer Zühlke",
-            "orcid": "https://orcid.org/0000-0001-8629-983X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8629-983X"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R. Zühlke",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5068687938",
-            "display_name": "F. Spath and S. Bissmann",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "F. Spath and S. Bissmann",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": true,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.18334344,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11225",
-        "display_name": "Geothermal Energy Systems and Applications",
-        "score": 0.9110999703407288,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2105",
-          "display_name": "Renewable Energy, Sustainability and the Environment"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11225",
-          "display_name": "Geothermal Energy Systems and Applications",
-          "score": 0.9110999703407288,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13067",
-          "display_name": "Geological Modeling and Analysis",
-          "score": 0.050599999725818634,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.007899999618530273,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/permo-carboniferous",
-          "display_name": "Permo-Carboniferous",
-          "score": 0.8640000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-rhine-valley",
-          "display_name": "Upper Rhine Valley",
-          "score": 0.8379999995231628
-        },
-        {
-          "id": "https://openalex.org/keywords/geothermal-reservoirs",
-          "display_name": "geothermal reservoirs",
-          "score": 0.8899999856948853
-        },
-        {
-          "id": "https://openalex.org/keywords/thermal-hydraulic-modeling",
-          "display_name": "thermal-hydraulic modeling",
-          "score": 0.9110000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/seismic-interpretation",
-          "display_name": "seismic interpretation",
-          "score": 0.5360000133514404
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop-analogs",
-          "display_name": "outcrop analogs",
-          "score": 0.734000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/deep-geothermal-energy",
-          "display_name": "deep geothermal energy",
-          "score": 0.7789999842643738
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-risk-assessment",
-          "display_name": "reservoir risk assessment",
-          "score": 0.5899999737739563
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.860628604888916
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7473573088645935
-        },
-        {
-          "id": "https://openalex.org/C149918038",
-          "wikidata": "https://www.wikidata.org/wiki/Q133738",
-          "display_name": "Carboniferous",
-          "level": 3,
-          "score": 0.678138792514801
-        },
-        {
-          "id": "https://openalex.org/C111766609",
-          "wikidata": "https://www.wikidata.org/wiki/Q636340",
-          "display_name": "Geothermal gradient",
-          "level": 2,
-          "score": 0.6518332958221436
-        },
-        {
-          "id": "https://openalex.org/C174306757",
-          "wikidata": "https://www.wikidata.org/wiki/Q5548582",
-          "display_name": "Geothermal exploration",
-          "level": 4,
-          "score": 0.4802680015563965
-        },
-        {
-          "id": "https://openalex.org/C518406490",
-          "wikidata": "https://www.wikidata.org/wiki/Q127993",
-          "display_name": "Geothermal energy",
-          "level": 3,
-          "score": 0.46268999576568604
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.44307321310043335
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.390019029378891
-        },
-        {
-          "id": "https://openalex.org/C16674752",
-          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
-          "display_name": "Mining engineering",
-          "level": 1,
-          "score": 0.3550342321395874
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.3267030119895935
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.2918239235877991
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.23351702094078064
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.3997/2214-4609.20144202",
-          "doi": "https://doi.org/10.3997/2214-4609.20144202",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609.20144202",
-          "pdf_url": "http://www.earthdoc.org/publication/download/?publication=55531",
-          "source": {
-            "id": "https://openalex.org/S4220650854",
-            "display_name": "Proceedings",
-            "issn_l": "2214-4609",
-            "issn": [
-              "2214-4609"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core"
-            ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Proceedings",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.3997/2214-4609.20144202",
-        "doi": "https://doi.org/10.3997/2214-4609.20144202",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609.20144202",
-        "pdf_url": "http://www.earthdoc.org/publication/download/?publication=55531",
-        "source": {
-          "id": "https://openalex.org/S4220650854",
-          "display_name": "Proceedings",
-          "issn_l": "2214-4609",
-          "issn": [
-            "2214-4609"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core"
-          ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Proceedings",
-        "raw_type": "proceedings-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.875
-        },
-        {
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2086944217.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2086944217.grobid-xml"
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W1999360003",
-        "https://openalex.org/W2072649687",
-        "https://openalex.org/W2160977128",
-        "https://openalex.org/W2190509199",
-        "https://openalex.org/W6960231678",
-        "https://openalex.org/W7034403734",
-        "https://openalex.org/W2561997983",
-        "https://openalex.org/W2207310297",
-        "https://openalex.org/W3092457296",
-        "https://openalex.org/W3214240395"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0
-        ],
-        "Permo-Carboniferous": [
-          1
-        ],
-        "in": [
-          2,
-          41
-        ],
-        "the": [
-          3,
-          22,
-          29,
-          34,
-          42
-        ],
-        "Upper": [
-          4
-        ],
-        "Rhine": [
-          5
-        ],
-        "Valley": [
-          6
-        ],
-        "is": [
-          7,
-          36
-        ],
-        "a": [
-          8,
-          51
-        ],
-        "potential": [
-          9
-        ],
-        "geothermal": [
-          10,
-          46
-        ],
-        "reservoir.": [
-          11
-        ],
-        "A": [
-          12
-        ],
-        "3D-model": [
-          13
-        ],
-        "based": [
-          14
-        ],
-        "on": [
-          15,
-          26
-        ],
-        "seismic,": [
-          16
-        ],
-        "wells": [
-          17
-        ],
-        "and": [
-          18
-        ],
-        "outcrop": [
-          19
-        ],
-        "analogues": [
-          20
-        ],
-        "builds": [
-          21
-        ],
-        "framework.": [
-          23
-        ],
-        "Building": [
-          24
-        ],
-        "up": [
-          25
-        ],
-        "this": [
-          27
-        ],
-        "model": [
-          28
-        ],
-        "spatial": [
-          30
-        ],
-        "thermal": [
-          31
-        ],
-        "development": [
-          32,
-          43
-        ],
-        "of": [
-          33,
-          44,
-          55
-        ],
-        "area": [
-          35
-        ],
-        "simulated": [
-          37
-        ],
-        "for": [
-          38
-        ],
-        "reducing": [
-          39
-        ],
-        "risk": [
-          40
-        ],
-        "deep": [
-          45
-        ],
-        "energy": [
-          47
-        ],
-        "projects.": [
-          48
-        ],
-        "Results": [
-          49
-        ],
-        "comprise": [
-          50
-        ],
-        "very": [
-          52
-        ],
-        "good": [
-          53
-        ],
-        "usability": [
-          54
-        ],
-        "these": [
-          56
-        ],
-        "formations.": [
-          57
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-09-22T06:50:58.402377",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2257218972",
@@ -25879,11 +25267,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4016,
+      "fwci": 0.4007,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.68632309,
+        "value": 0.63479766,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27845,6 +27233,626 @@
         }
       ],
       "updated_date": "2026-11-07T11:25:07.637180",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2086944217",
+      "doi": "https://doi.org/10.3997/2214-4609.20144202",
+      "title": "Thermo-hydraulic Modeling of the Permo-carboniferous in the Upper Rhine Valley",
+      "display_name": "Thermo-hydraulic Modeling of the Permo-carboniferous in the Upper Rhine Valley",
+      "publication_year": 2011,
+      "publication_date": "2011-11-08",
+      "ids": {
+        "openalex": "https://openalex.org/W2086944217",
+        "doi": "https://doi.org/10.3997/2214-4609.20144202",
+        "mag": "2086944217"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3997/2214-4609.20144202",
+        "doi": "https://doi.org/10.3997/2214-4609.20144202",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609.20144202",
+        "pdf_url": "http://www.earthdoc.org/publication/download/?publication=55531",
+        "source": {
+          "id": "https://openalex.org/S4220650854",
+          "display_name": "Proceedings",
+          "issn_l": "2214-4609",
+          "issn": [
+            "2214-4609"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings",
+        "raw_type": "proceedings-article"
+      },
+      "volume": null,
+      "type": "conference-paper",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://www.earthdoc.org/publication/download/?publication=55531",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5024377207",
+            "display_name": "Lucas P. Rohrer",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "L. Rohrer",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5078153906",
+            "display_name": "A. Wenke",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. Wenke",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086485606",
+            "display_name": "Rainer Zühlke",
+            "orcid": "https://orcid.org/0000-0001-8629-983X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8629-983X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R. Zühlke",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5068687938",
+            "display_name": "F. Spath and S. Bissmann",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "F. Spath and S. Bissmann",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11225",
+        "display_name": "Geothermal Energy Systems and Applications",
+        "score": 0.9110999703407288,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2105",
+          "display_name": "Renewable Energy, Sustainability and the Environment"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11225",
+          "display_name": "Geothermal Energy Systems and Applications",
+          "score": 0.9110999703407288,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.050599999725818634,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.007899999618530273,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/permo-carboniferous",
+          "display_name": "Permo-Carboniferous",
+          "score": 0.8640000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-rhine-valley",
+          "display_name": "Upper Rhine Valley",
+          "score": 0.8379999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/geothermal-reservoirs",
+          "display_name": "geothermal reservoirs",
+          "score": 0.8899999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/thermal-hydraulic-modeling",
+          "display_name": "thermal-hydraulic modeling",
+          "score": 0.9110000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-interpretation",
+          "display_name": "seismic interpretation",
+          "score": 0.5360000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop-analogs",
+          "display_name": "outcrop analogs",
+          "score": 0.734000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/deep-geothermal-energy",
+          "display_name": "deep geothermal energy",
+          "score": 0.7789999842643738
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-risk-assessment",
+          "display_name": "reservoir risk assessment",
+          "score": 0.5899999737739563
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.860628604888916
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7473573088645935
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.678138792514801
+        },
+        {
+          "id": "https://openalex.org/C111766609",
+          "wikidata": "https://www.wikidata.org/wiki/Q636340",
+          "display_name": "Geothermal gradient",
+          "level": 2,
+          "score": 0.6518332958221436
+        },
+        {
+          "id": "https://openalex.org/C174306757",
+          "wikidata": "https://www.wikidata.org/wiki/Q5548582",
+          "display_name": "Geothermal exploration",
+          "level": 4,
+          "score": 0.4802680015563965
+        },
+        {
+          "id": "https://openalex.org/C518406490",
+          "wikidata": "https://www.wikidata.org/wiki/Q127993",
+          "display_name": "Geothermal energy",
+          "level": 3,
+          "score": 0.46268999576568604
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.44307321310043335
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.390019029378891
+        },
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.3550342321395874
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.3267030119895935
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.2918239235877991
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.23351702094078064
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.3997/2214-4609.20144202",
+          "doi": "https://doi.org/10.3997/2214-4609.20144202",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3997/2214-4609.20144202",
+          "pdf_url": "http://www.earthdoc.org/publication/download/?publication=55531",
+          "source": {
+            "id": "https://openalex.org/S4220650854",
+            "display_name": "Proceedings",
+            "issn_l": "2214-4609",
+            "issn": [
+              "2214-4609"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3997/2214-4609.20144202",
+        "doi": "https://doi.org/10.3997/2214-4609.20144202",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3997/2214-4609.20144202",
+        "pdf_url": "http://www.earthdoc.org/publication/download/?publication=55531",
+        "source": {
+          "id": "https://openalex.org/S4220650854",
+          "display_name": "Proceedings",
+          "issn_l": "2214-4609",
+          "issn": [
+            "2214-4609"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings",
+        "raw_type": "proceedings-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.875,
+          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy"
+        },
+        {
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2086944217.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2086944217.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W1999360003",
+        "https://openalex.org/W2072649687",
+        "https://openalex.org/W2160977128",
+        "https://openalex.org/W2190509199",
+        "https://openalex.org/W6960231678",
+        "https://openalex.org/W7034403734",
+        "https://openalex.org/W2561997983",
+        "https://openalex.org/W2207310297",
+        "https://openalex.org/W3092457296",
+        "https://openalex.org/W3214240395"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "Permo-Carboniferous": [
+          1
+        ],
+        "in": [
+          2,
+          41
+        ],
+        "the": [
+          3,
+          22,
+          29,
+          34,
+          42
+        ],
+        "Upper": [
+          4
+        ],
+        "Rhine": [
+          5
+        ],
+        "Valley": [
+          6
+        ],
+        "is": [
+          7,
+          36
+        ],
+        "a": [
+          8,
+          51
+        ],
+        "potential": [
+          9
+        ],
+        "geothermal": [
+          10,
+          46
+        ],
+        "reservoir.": [
+          11
+        ],
+        "A": [
+          12
+        ],
+        "3D-model": [
+          13
+        ],
+        "based": [
+          14
+        ],
+        "on": [
+          15,
+          26
+        ],
+        "seismic,": [
+          16
+        ],
+        "wells": [
+          17
+        ],
+        "and": [
+          18
+        ],
+        "outcrop": [
+          19
+        ],
+        "analogues": [
+          20
+        ],
+        "builds": [
+          21
+        ],
+        "framework.": [
+          23
+        ],
+        "Building": [
+          24
+        ],
+        "up": [
+          25
+        ],
+        "this": [
+          27
+        ],
+        "model": [
+          28
+        ],
+        "spatial": [
+          30
+        ],
+        "thermal": [
+          31
+        ],
+        "development": [
+          32,
+          43
+        ],
+        "of": [
+          33,
+          44,
+          55
+        ],
+        "area": [
+          35
+        ],
+        "simulated": [
+          37
+        ],
+        "for": [
+          38
+        ],
+        "reducing": [
+          39
+        ],
+        "risk": [
+          40
+        ],
+        "deep": [
+          45
+        ],
+        "energy": [
+          47
+        ],
+        "projects.": [
+          48
+        ],
+        "Results": [
+          49
+        ],
+        "comprise": [
+          50
+        ],
+        "very": [
+          52
+        ],
+        "good": [
+          53
+        ],
+        "usability": [
+          54
+        ],
+        "these": [
+          56
+        ],
+        "formations.": [
+          57
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-22T06:50:58.402377",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30584,7 +30592,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04616088,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31464,7 +31472,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06739166,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32497,7 +32505,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08944444,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32974,7 +32982,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.28541775,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33894,7 +33902,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29535232,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34776,7 +34784,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41555556,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35668,7 +35676,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30984508,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36325,7 +36333,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.311286,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36523,9 +36531,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -38883,7 +38891,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29410704,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39267,7 +39275,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38437821,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40630,7 +40638,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13001745,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43312,7 +43320,7 @@
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4363604378",
-          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "display_name": "Second International Meeting for Applied Geoscience & Energy",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
@@ -43478,7 +43486,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23974983,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43746,7 +43754,7 @@
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4363604378",
-            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+            "display_name": "Second International Meeting for Applied Geoscience & Energy",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -43771,9 +43779,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5351999998092651
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -44058,7 +44066,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-28T10:33:24.094632",
+      "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-04-02T00:00:00"
     }
   ]
