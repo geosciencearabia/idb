@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T12383",
         "display_name": "Aeolian processes and effects",
-        "value": 0.0000178,
+        "value": 0.0000177,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -8417,6 +8417,1148 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4254410303",
+      "doi": "https://doi.org/10.15666/aeer/1804_56075625",
+      "title": "UPPER EOCENE CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY: A NEW PRELIMINARY PRIABONIAN RECORD FROM NORTHERN SAUDI ARABIA",
+      "display_name": "UPPER EOCENE CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY: A NEW PRELIMINARY PRIABONIAN RECORD FROM NORTHERN SAUDI ARABIA",
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4254410303",
+        "doi": "https://doi.org/10.15666/aeer/1804_56075625"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.15666/aeer/1804_56075625",
+        "doi": "https://doi.org/10.15666/aeer/1804_56075625",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "source": {
+          "id": "https://openalex.org/S87697115",
+          "display_name": "Applied Ecology and Environmental Research",
+          "issn_l": "1589-1623",
+          "issn": [
+            "1589-1623",
+            "1785-0037"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-d",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-3",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315419",
+          "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315419"
+          ],
+          "host_organization_lineage_names": [
+            "Hungarian University of Agriculture and Life Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Ecology and Environmental Research",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5032633264",
+            "display_name": "Mohammed H. Aljahdali",
+            "orcid": "https://orcid.org/0000-0001-8194-8810",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8194-8810"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "M.H. ALJAHDALI",
+          "raw_affiliation_strings": [
+            "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066220518",
+            "display_name": "Mohamed Elhag",
+            "orcid": "https://orcid.org/0000-0001-9048-0084",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9048-0084"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39706905",
+              "display_name": "German University of Technology",
+              "ror": "https://ror.org/055hq4920",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39706905"
+              ]
+            }
+          ],
+          "countries": [
+            "OM",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. ELHAG",
+          "raw_affiliation_strings": [
+            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+              "institution_ids": [
+                "https://openalex.org/I39706905"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011385947",
+            "display_name": "Yahya A. Mufrreh",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39706905",
+              "display_name": "German University of Technology",
+              "ror": "https://ror.org/055hq4920",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39706905"
+              ]
+            }
+          ],
+          "countries": [
+            "OM",
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Y. MUFRREH",
+          "raw_affiliation_strings": [
+            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
+              "institution_ids": [
+                "https://openalex.org/I39706905"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044930714",
+            "display_name": "Abdullah M. Memesh",
+            "orcid": "https://orcid.org/0000-0001-8551-3240",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8551-3240"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A. MEMESH",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+            "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003725129",
+            "display_name": "Salih A. AlSoubhi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S. ALSOUBHI",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+            "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067218163",
+            "display_name": "Iyad S. Zalmout",
+            "orcid": "https://orcid.org/0000-0003-1874-801X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1874-801X"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "I.S. ZALMOUT",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5032633264"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I185163786"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.0533,
+      "has_fulltext": true,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0.69768116,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "18",
+        "issue": "4",
+        "first_page": "5607",
+        "last_page": "5625"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11354",
+          "display_name": "Evolution and Paleontology Studies",
+          "score": 0.0003000000142492354,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/calcareous-nannofossils",
+          "display_name": "calcareous nannofossils",
+          "score": 0.9890000224113464
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "biostratigraphy",
+          "score": 0.921999990940094
+        },
+        {
+          "id": "https://openalex.org/keywords/priabonian",
+          "display_name": "Late Eocene",
+          "score": 0.7369999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/nannofossil-bioevents",
+          "display_name": "nannofossil bioevents",
+          "score": 0.7570000290870667
+        },
+        {
+          "id": "https://openalex.org/keywords/tethys-realm",
+          "display_name": "Tethys Realm",
+          "score": 0.722000002861023
+        },
+        {
+          "id": "https://openalex.org/keywords/northern-saudi-arabia",
+          "display_name": "northern Saudi Arabia",
+          "score": 0.675000011920929
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C123552892",
+          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
+          "display_name": "Calcareous",
+          "level": 2,
+          "score": 0.869719386100769
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.8680746555328369
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.6673723459243774
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6646689176559448
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.15666/aeer/1804_56075625",
+          "doi": "https://doi.org/10.15666/aeer/1804_56075625",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
+          "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
+          "source": {
+            "id": "https://openalex.org/S87697115",
+            "display_name": "Applied Ecology and Environmental Research",
+            "issn_l": "1589-1623",
+            "issn": [
+              "1589-1623",
+              "1785-0037"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "anvur-scientific",
+              "cwts-core",
+              "dongbi-d",
+              "norway-1",
+              "poland-40",
+              "russia-white-list-3",
+              "vabb-shw"
+            ],
+            "host_organization": "https://openalex.org/P4310315419",
+            "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310315419"
+            ],
+            "host_organization_lineage_names": [
+              "Hungarian University of Agriculture and Life Sciences"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Applied Ecology and Environmental Research",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.15666/aeer/1804_56075625",
+        "doi": "https://doi.org/10.15666/aeer/1804_56075625",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
+        "source": {
+          "id": "https://openalex.org/S87697115",
+          "display_name": "Applied Ecology and Environmental Research",
+          "issn_l": "1589-1623",
+          "issn": [
+            "1589-1623",
+            "1785-0037"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-d",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-3",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310315419",
+          "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315419"
+          ],
+          "host_organization_lineage_names": [
+            "Hungarian University of Agriculture and Life Sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Ecology and Environmental Research",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322322",
+          "display_name": "King Abdulaziz University",
+          "ror": "https://ror.org/02ma4wv74"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4254410303.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4254410303.grobid-xml"
+      },
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W51574308",
+        "https://openalex.org/W62718268",
+        "https://openalex.org/W138655657",
+        "https://openalex.org/W165726177",
+        "https://openalex.org/W619791465",
+        "https://openalex.org/W1963643588",
+        "https://openalex.org/W1992037087",
+        "https://openalex.org/W1999809323",
+        "https://openalex.org/W2005922833",
+        "https://openalex.org/W2034752484",
+        "https://openalex.org/W2051882950",
+        "https://openalex.org/W2051981199",
+        "https://openalex.org/W2054410655",
+        "https://openalex.org/W2070541126",
+        "https://openalex.org/W2107861740",
+        "https://openalex.org/W2110015126",
+        "https://openalex.org/W2112586657",
+        "https://openalex.org/W2130950244",
+        "https://openalex.org/W2163452924",
+        "https://openalex.org/W2188088257",
+        "https://openalex.org/W2241447090",
+        "https://openalex.org/W2263903515",
+        "https://openalex.org/W2321578907",
+        "https://openalex.org/W2415580977",
+        "https://openalex.org/W2487828741",
+        "https://openalex.org/W2488266322",
+        "https://openalex.org/W2581207081",
+        "https://openalex.org/W2606193916",
+        "https://openalex.org/W2972032438",
+        "https://openalex.org/W3008797821",
+        "https://openalex.org/W3162357285",
+        "https://openalex.org/W4234161373",
+        "https://openalex.org/W4254503286",
+        "https://openalex.org/W4390291387"
+      ],
+      "related_works": [
+        "https://openalex.org/W4416669882",
+        "https://openalex.org/W7160127788",
+        "https://openalex.org/W3203435426",
+        "https://openalex.org/W7167178790",
+        "https://openalex.org/W7133207698",
+        "https://openalex.org/W4282582161",
+        "https://openalex.org/W7160264021",
+        "https://openalex.org/W4409425286",
+        "https://openalex.org/W3217721935",
+        "https://openalex.org/W4310415640"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          182
+        ],
+        "3": [
+          184
+        ],
+        "21": [
+          71
+        ],
+        "44": [
+          67
+        ],
+        "The": [
+          0
+        ],
+        "current": [
+          1
+        ],
+        "research": [
+          2
+        ],
+        "work": [
+          3
+        ],
+        "represents": [
+          4
+        ],
+        "the": [
+          5,
+          12,
+          32,
+          45,
+          49,
+          58,
+          80,
+          86,
+          93,
+          110,
+          128,
+          132,
+          138,
+          142,
+          161,
+          172,
+          178,
+          186,
+          196
+        ],
+        "first": [
+          6
+        ],
+        "calcareous": [
+          7,
+          168
+        ],
+        "nannofossil": [
+          8,
+          40,
+          63,
+          169
+        ],
+        "biostratigraphic": [
+          9,
+          64
+        ],
+        "record": [
+          10
+        ],
+        "of": [
+          11,
+          48,
+          82,
+          88,
+          114,
+          122,
+          134,
+          150,
+          165,
+          185
+        ],
+        "upper": [
+          13
+        ],
+        "Eocene": [
+          14,
+          25,
+          117
+        ],
+        "Rashrashiyah": [
+          15,
+          21,
+          42,
+          173
+        ],
+        "Formation": [
+          16,
+          22,
+          43,
+          52,
+          174,
+          189
+        ],
+        "in": [
+          17,
+          90,
+          109,
+          141,
+          190,
+          195
+        ],
+        "northern": [
+          18
+        ],
+        "Saudi": [
+          19
+        ],
+        "Arabia.The": [
+          20
+        ],
+        "is": [
+          23,
+          54
+        ],
+        "an": [
+          24
+        ],
+        "carbonate": [
+          26
+        ],
+        "sedimentary": [
+          27
+        ],
+        "unit,": [
+          28
+        ],
+        "exposed": [
+          29
+        ],
+        "adjacent": [
+          30
+        ],
+        "to": [
+          31,
+          70
+        ],
+        "Jordanian": [
+          33
+        ],
+        "border,": [
+          34
+        ],
+        "and": [
+          35,
+          38,
+          53,
+          85,
+          100,
+          105,
+          146,
+          158,
+          183
+        ],
+        "yielded": [
+          36
+        ],
+        "rich": [
+          37
+        ],
+        "diverse": [
+          39
+        ],
+        "assemblages.The": [
+          41
+        ],
+        "overlies": [
+          44
+        ],
+        "Paleogene": [
+          46
+        ],
+        "rocks": [
+          47
+        ],
+        "Umm": [
+          50
+        ],
+        "Wu'al": [
+          51
+        ],
+        "unconformably": [
+          55
+        ],
+        "topped": [
+          56
+        ],
+        "by": [
+          57
+        ],
+        "Neogene": [
+          59
+        ],
+        "(Miocene)": [
+          60
+        ],
+        "Sirhan": [
+          61
+        ],
+        "Formation.Our": [
+          62
+        ],
+        "data": [
+          65
+        ],
+        "recognized": [
+          66,
+          108
+        ],
+        "species": [
+          68
+        ],
+        "belonging": [
+          69
+        ],
+        "genera.These": [
+          72
+        ],
+        "taxa": [
+          73
+        ],
+        "indicate": [
+          74
+        ],
+        "a": [
+          75,
+          115
+        ],
+        "Priabonian": [
+          76,
+          95
+        ],
+        "age": [
+          77
+        ],
+        "based": [
+          78
+        ],
+        "on": [
+          79
+        ],
+        "presence": [
+          81
+        ],
+        "Chiasmolithus": [
+          83,
+          135
+        ],
+        "oamaruensis,": [
+          84
+        ],
+        "recognition": [
+          87
+        ],
+        "bioevents": [
+          89
+        ],
+        "concordance": [
+          91
+        ],
+        "with": [
+          92,
+          177
+        ],
+        "global": [
+          94
+        ],
+        "zonations.Three": [
+          96
+        ],
+        "comparable": [
+          97
+        ],
+        "major": [
+          98
+        ],
+        "zones": [
+          99
+        ],
+        "zonal": [
+          101
+        ],
+        "boundaries": [
+          102
+        ],
+        "(CP14b/CP15,": [
+          103
+        ],
+        "NP18,": [
+          104
+        ],
+        "CNE17)": [
+          106
+        ],
+        "were": [
+          107
+        ],
+        "study": [
+          111
+        ],
+        "section": [
+          112
+        ],
+        "indicative": [
+          113
+        ],
+        "late": [
+          116
+        ],
+        "age.The": [
+          118
+        ],
+        "Base": [
+          119
+        ],
+        "common": [
+          120
+        ],
+        "(Bc)": [
+          121
+        ],
+        "Reticulofenestra": [
+          123
+        ],
+        "erbae": [
+          124
+        ],
+        "was": [
+          125,
+          153
+        ],
+        "detected": [
+          126
+        ],
+        "at": [
+          127,
+          160
+        ],
+        "same": [
+          129
+        ],
+        "level": [
+          130
+        ],
+        "as": [
+          131
+        ],
+        "top": [
+          133
+        ],
+        "grandis,": [
+          136
+        ],
+        "supporting": [
+          137
+        ],
+        "bioevent": [
+          139
+        ],
+        "reliability": [
+          140
+        ],
+        "Tethys": [
+          143
+        ],
+        "realm.A": [
+          144
+        ],
+        "single": [
+          145
+        ],
+        "more": [
+          147
+        ],
+        "isolated": [
+          148
+        ],
+        "occurrence": [
+          149
+        ],
+        "Isthmolithus": [
+          151
+        ],
+        "recurvus": [
+          152
+        ],
+        "observed": [
+          154
+        ],
+        "within": [
+          155
+        ],
+        "Zones": [
+          156
+        ],
+        "CP15": [
+          157
+        ],
+        "NP18": [
+          159
+        ],
+        "maximum": [
+          162
+        ],
+        "increase": [
+          163
+        ],
+        "abundance": [
+          164
+        ],
+        "R.": [
+          166
+        ],
+        "erbae.Our": [
+          167
+        ],
+        "biostratigraphy": [
+          170
+        ],
+        "from": [
+          171
+        ],
+        "has": [
+          175
+        ],
+        "coincided": [
+          176
+        ],
+        "assignment": [
+          179
+        ],
+        "for": [
+          180
+        ],
+        "units": [
+          181
+        ],
+        "Wadi": [
+          187
+        ],
+        "Esh-Shallalah": [
+          188
+        ],
+        "Qa'": [
+          191
+        ],
+        "Faydat": [
+          192
+        ],
+        "ad": [
+          193
+        ],
+        "Dahikiya": [
+          194
+        ],
+        "eastern": [
+          197
+        ],
+        "desert": [
+          198
+        ],
+        "Jordan.": [
+          199
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        }
+      ],
+      "updated_date": "2026-11-03T10:50:19.383937",
+      "created_date": "2022-05-12T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3203435426",
       "doi": "https://doi.org/10.5194/jm-40-145-2021",
       "title": "Upper Eocene planktonic foraminifera from northern Saudi Arabia: implications for stratigraphic ranges",
@@ -8688,11 +9830,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.1544,
+      "fwci": 0.1534,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.36939169,
+        "value": 0.31753685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14513,1148 +15655,6 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4254410303",
-      "doi": "https://doi.org/10.15666/aeer/1804_56075625",
-      "title": "UPPER EOCENE CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY: A NEW PRELIMINARY PRIABONIAN RECORD FROM NORTHERN SAUDI ARABIA",
-      "display_name": "UPPER EOCENE CALCAREOUS NANNOFOSSIL BIOSTRATIGRAPHY: A NEW PRELIMINARY PRIABONIAN RECORD FROM NORTHERN SAUDI ARABIA",
-      "publication_year": 2020,
-      "publication_date": "2020-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4254410303",
-        "doi": "https://doi.org/10.15666/aeer/1804_56075625"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.15666/aeer/1804_56075625",
-        "doi": "https://doi.org/10.15666/aeer/1804_56075625",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "source": {
-          "id": "https://openalex.org/S87697115",
-          "display_name": "Applied Ecology and Environmental Research",
-          "issn_l": "1589-1623",
-          "issn": [
-            "1589-1623",
-            "1785-0037"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-d",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-3",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310315419",
-          "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310315419"
-          ],
-          "host_organization_lineage_names": [
-            "Hungarian University of Agriculture and Life Sciences"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Applied Ecology and Environmental Research",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5032633264",
-            "display_name": "Mohammed H. Aljahdali",
-            "orcid": "https://orcid.org/0000-0001-8194-8810",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8194-8810"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "M.H. ALJAHDALI",
-          "raw_affiliation_strings": [
-            "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5066220518",
-            "display_name": "Mohamed Elhag",
-            "orcid": "https://orcid.org/0000-0001-9048-0084",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9048-0084"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I39706905",
-              "display_name": "German University of Technology",
-              "ror": "https://ror.org/055hq4920",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39706905"
-              ]
-            }
-          ],
-          "countries": [
-            "OM",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M. ELHAG",
-          "raw_affiliation_strings": [
-            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-              "institution_ids": [
-                "https://openalex.org/I39706905"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011385947",
-            "display_name": "Yahya A. Mufrreh",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I39706905",
-              "display_name": "German University of Technology",
-              "ror": "https://ror.org/055hq4920",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39706905"
-              ]
-            }
-          ],
-          "countries": [
-            "OM",
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Y. MUFRREH",
-          "raw_affiliation_strings": [
-            "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-            "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-            "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Applied Geosciences, Faculty of Science, German University of Technology in Oman, Muscat 1816, Oman",
-              "institution_ids": [
-                "https://openalex.org/I39706905"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Hydrology and Water Resources Management, Faculty of Meteorology,",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Environment & Arid Land Agriculture, King Abdulaziz University, Jeddah, 21589, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah M. Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8551-3240"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A. MEMESH",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-            "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Sedimentary Geology, Jeddah, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003725129",
-            "display_name": "Salih A. AlSoubhi",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S. ALSOUBHI",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-            "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067218163",
-            "display_name": "Iyad S. Zalmout",
-            "orcid": "https://orcid.org/0000-0003-1874-801X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1874-801X"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "I.S. ZALMOUT",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5032633264"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I185163786"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.0535,
-      "has_fulltext": true,
-      "cited_by_count": 13,
-      "citation_normalized_percentile": {
-        "value": 0.72968659,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "18",
-        "issue": "4",
-        "first_page": "5607",
-        "last_page": "5625"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9984999895095825,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.00039999998989515007,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11354",
-          "display_name": "Evolution and Paleontology Studies",
-          "score": 0.0003000000142492354,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/calcareous-nannofossils",
-          "display_name": "calcareous nannofossils",
-          "score": 0.9890000224113464
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "biostratigraphy",
-          "score": 0.921999990940094
-        },
-        {
-          "id": "https://openalex.org/keywords/priabonian",
-          "display_name": "Late Eocene",
-          "score": 0.7369999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/nannofossil-bioevents",
-          "display_name": "nannofossil bioevents",
-          "score": 0.7570000290870667
-        },
-        {
-          "id": "https://openalex.org/keywords/tethys-realm",
-          "display_name": "Tethys Realm",
-          "score": 0.722000002861023
-        },
-        {
-          "id": "https://openalex.org/keywords/northern-saudi-arabia",
-          "display_name": "northern Saudi Arabia",
-          "score": 0.675000011920929
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C123552892",
-          "wikidata": "https://www.wikidata.org/wiki/Q17005941",
-          "display_name": "Calcareous",
-          "level": 2,
-          "score": 0.869719386100769
-        },
-        {
-          "id": "https://openalex.org/C61721801",
-          "wikidata": "https://www.wikidata.org/wiki/Q864826",
-          "display_name": "Biostratigraphy",
-          "level": 2,
-          "score": 0.8680746555328369
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.6673723459243774
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6646689176559448
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.15666/aeer/1804_56075625",
-          "doi": "https://doi.org/10.15666/aeer/1804_56075625",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
-          "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
-          "source": {
-            "id": "https://openalex.org/S87697115",
-            "display_name": "Applied Ecology and Environmental Research",
-            "issn_l": "1589-1623",
-            "issn": [
-              "1589-1623",
-              "1785-0037"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "anvur-scientific",
-              "cwts-core",
-              "dongbi-d",
-              "norway-1",
-              "poland-40",
-              "russia-white-list-3",
-              "vabb-shw"
-            ],
-            "host_organization": "https://openalex.org/P4310315419",
-            "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310315419"
-            ],
-            "host_organization_lineage_names": [
-              "Hungarian University of Agriculture and Life Sciences"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Applied Ecology and Environmental Research",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.15666/aeer/1804_56075625",
-        "doi": "https://doi.org/10.15666/aeer/1804_56075625",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "pdf_url": "https://doi.org/10.15666/aeer/1804_56075625",
-        "source": {
-          "id": "https://openalex.org/S87697115",
-          "display_name": "Applied Ecology and Environmental Research",
-          "issn_l": "1589-1623",
-          "issn": [
-            "1589-1623",
-            "1785-0037"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "anvur-scientific",
-            "cwts-core",
-            "dongbi-d",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-3",
-            "vabb-shw"
-          ],
-          "host_organization": "https://openalex.org/P4310315419",
-          "host_organization_name": "Hungarian University of Agriculture and Life Sciences",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310315419"
-          ],
-          "host_organization_lineage_names": [
-            "Hungarian University of Agriculture and Life Sciences"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Applied Ecology and Environmental Research",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322322",
-          "display_name": "King Abdulaziz University",
-          "ror": "https://ror.org/02ma4wv74"
-        }
-      ],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4254410303.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4254410303.grobid-xml"
-      },
-      "referenced_works_count": 34,
-      "referenced_works": [
-        "https://openalex.org/W51574308",
-        "https://openalex.org/W62718268",
-        "https://openalex.org/W138655657",
-        "https://openalex.org/W165726177",
-        "https://openalex.org/W619791465",
-        "https://openalex.org/W1963643588",
-        "https://openalex.org/W1992037087",
-        "https://openalex.org/W1999809323",
-        "https://openalex.org/W2005922833",
-        "https://openalex.org/W2034752484",
-        "https://openalex.org/W2051882950",
-        "https://openalex.org/W2051981199",
-        "https://openalex.org/W2054410655",
-        "https://openalex.org/W2070541126",
-        "https://openalex.org/W2107861740",
-        "https://openalex.org/W2110015126",
-        "https://openalex.org/W2112586657",
-        "https://openalex.org/W2130950244",
-        "https://openalex.org/W2163452924",
-        "https://openalex.org/W2188088257",
-        "https://openalex.org/W2241447090",
-        "https://openalex.org/W2263903515",
-        "https://openalex.org/W2321578907",
-        "https://openalex.org/W2415580977",
-        "https://openalex.org/W2487828741",
-        "https://openalex.org/W2488266322",
-        "https://openalex.org/W2581207081",
-        "https://openalex.org/W2606193916",
-        "https://openalex.org/W2972032438",
-        "https://openalex.org/W3008797821",
-        "https://openalex.org/W3162357285",
-        "https://openalex.org/W4234161373",
-        "https://openalex.org/W4254503286",
-        "https://openalex.org/W4390291387"
-      ],
-      "related_works": [
-        "https://openalex.org/W4416669882",
-        "https://openalex.org/W7160127788",
-        "https://openalex.org/W3203435426",
-        "https://openalex.org/W7167178790",
-        "https://openalex.org/W7133207698",
-        "https://openalex.org/W4282582161",
-        "https://openalex.org/W7160264021",
-        "https://openalex.org/W4409425286",
-        "https://openalex.org/W3217721935",
-        "https://openalex.org/W4310415640"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          182
-        ],
-        "3": [
-          184
-        ],
-        "21": [
-          71
-        ],
-        "44": [
-          67
-        ],
-        "The": [
-          0
-        ],
-        "current": [
-          1
-        ],
-        "research": [
-          2
-        ],
-        "work": [
-          3
-        ],
-        "represents": [
-          4
-        ],
-        "the": [
-          5,
-          12,
-          32,
-          45,
-          49,
-          58,
-          80,
-          86,
-          93,
-          110,
-          128,
-          132,
-          138,
-          142,
-          161,
-          172,
-          178,
-          186,
-          196
-        ],
-        "first": [
-          6
-        ],
-        "calcareous": [
-          7,
-          168
-        ],
-        "nannofossil": [
-          8,
-          40,
-          63,
-          169
-        ],
-        "biostratigraphic": [
-          9,
-          64
-        ],
-        "record": [
-          10
-        ],
-        "of": [
-          11,
-          48,
-          82,
-          88,
-          114,
-          122,
-          134,
-          150,
-          165,
-          185
-        ],
-        "upper": [
-          13
-        ],
-        "Eocene": [
-          14,
-          25,
-          117
-        ],
-        "Rashrashiyah": [
-          15,
-          21,
-          42,
-          173
-        ],
-        "Formation": [
-          16,
-          22,
-          43,
-          52,
-          174,
-          189
-        ],
-        "in": [
-          17,
-          90,
-          109,
-          141,
-          190,
-          195
-        ],
-        "northern": [
-          18
-        ],
-        "Saudi": [
-          19
-        ],
-        "Arabia.The": [
-          20
-        ],
-        "is": [
-          23,
-          54
-        ],
-        "an": [
-          24
-        ],
-        "carbonate": [
-          26
-        ],
-        "sedimentary": [
-          27
-        ],
-        "unit,": [
-          28
-        ],
-        "exposed": [
-          29
-        ],
-        "adjacent": [
-          30
-        ],
-        "to": [
-          31,
-          70
-        ],
-        "Jordanian": [
-          33
-        ],
-        "border,": [
-          34
-        ],
-        "and": [
-          35,
-          38,
-          53,
-          85,
-          100,
-          105,
-          146,
-          158,
-          183
-        ],
-        "yielded": [
-          36
-        ],
-        "rich": [
-          37
-        ],
-        "diverse": [
-          39
-        ],
-        "assemblages.The": [
-          41
-        ],
-        "overlies": [
-          44
-        ],
-        "Paleogene": [
-          46
-        ],
-        "rocks": [
-          47
-        ],
-        "Umm": [
-          50
-        ],
-        "Wu'al": [
-          51
-        ],
-        "unconformably": [
-          55
-        ],
-        "topped": [
-          56
-        ],
-        "by": [
-          57
-        ],
-        "Neogene": [
-          59
-        ],
-        "(Miocene)": [
-          60
-        ],
-        "Sirhan": [
-          61
-        ],
-        "Formation.Our": [
-          62
-        ],
-        "data": [
-          65
-        ],
-        "recognized": [
-          66,
-          108
-        ],
-        "species": [
-          68
-        ],
-        "belonging": [
-          69
-        ],
-        "genera.These": [
-          72
-        ],
-        "taxa": [
-          73
-        ],
-        "indicate": [
-          74
-        ],
-        "a": [
-          75,
-          115
-        ],
-        "Priabonian": [
-          76,
-          95
-        ],
-        "age": [
-          77
-        ],
-        "based": [
-          78
-        ],
-        "on": [
-          79
-        ],
-        "presence": [
-          81
-        ],
-        "Chiasmolithus": [
-          83,
-          135
-        ],
-        "oamaruensis,": [
-          84
-        ],
-        "recognition": [
-          87
-        ],
-        "bioevents": [
-          89
-        ],
-        "concordance": [
-          91
-        ],
-        "with": [
-          92,
-          177
-        ],
-        "global": [
-          94
-        ],
-        "zonations.Three": [
-          96
-        ],
-        "comparable": [
-          97
-        ],
-        "major": [
-          98
-        ],
-        "zones": [
-          99
-        ],
-        "zonal": [
-          101
-        ],
-        "boundaries": [
-          102
-        ],
-        "(CP14b/CP15,": [
-          103
-        ],
-        "NP18,": [
-          104
-        ],
-        "CNE17)": [
-          106
-        ],
-        "were": [
-          107
-        ],
-        "study": [
-          111
-        ],
-        "section": [
-          112
-        ],
-        "indicative": [
-          113
-        ],
-        "late": [
-          116
-        ],
-        "age.The": [
-          118
-        ],
-        "Base": [
-          119
-        ],
-        "common": [
-          120
-        ],
-        "(Bc)": [
-          121
-        ],
-        "Reticulofenestra": [
-          123
-        ],
-        "erbae": [
-          124
-        ],
-        "was": [
-          125,
-          153
-        ],
-        "detected": [
-          126
-        ],
-        "at": [
-          127,
-          160
-        ],
-        "same": [
-          129
-        ],
-        "level": [
-          130
-        ],
-        "as": [
-          131
-        ],
-        "top": [
-          133
-        ],
-        "grandis,": [
-          136
-        ],
-        "supporting": [
-          137
-        ],
-        "bioevent": [
-          139
-        ],
-        "reliability": [
-          140
-        ],
-        "Tethys": [
-          143
-        ],
-        "realm.A": [
-          144
-        ],
-        "single": [
-          145
-        ],
-        "more": [
-          147
-        ],
-        "isolated": [
-          148
-        ],
-        "occurrence": [
-          149
-        ],
-        "Isthmolithus": [
-          151
-        ],
-        "recurvus": [
-          152
-        ],
-        "observed": [
-          154
-        ],
-        "within": [
-          155
-        ],
-        "Zones": [
-          156
-        ],
-        "CP15": [
-          157
-        ],
-        "NP18": [
-          159
-        ],
-        "maximum": [
-          162
-        ],
-        "increase": [
-          163
-        ],
-        "abundance": [
-          164
-        ],
-        "R.": [
-          166
-        ],
-        "erbae.Our": [
-          167
-        ],
-        "biostratigraphy": [
-          170
-        ],
-        "from": [
-          171
-        ],
-        "has": [
-          175
-        ],
-        "coincided": [
-          176
-        ],
-        "assignment": [
-          179
-        ],
-        "for": [
-          180
-        ],
-        "units": [
-          181
-        ],
-        "Wadi": [
-          187
-        ],
-        "Esh-Shallalah": [
-          188
-        ],
-        "Qa'": [
-          191
-        ],
-        "Faydat": [
-          192
-        ],
-        "ad": [
-          193
-        ],
-        "Dahikiya": [
-          194
-        ],
-        "eastern": [
-          197
-        ],
-        "desert": [
-          198
-        ],
-        "Jordan.": [
-          199
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        }
-      ],
-      "updated_date": "2026-11-03T10:50:19.383937",
-      "created_date": "2022-05-12T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2806939555",
       "doi": "https://doi.org/10.1016/j.jseaes.2018.05.036",
       "title": "Relative sea-level changes and sedimentary facies development of the lowermost Cretaceous (Berriasian–Valanginian) cycles in the north of Ar Riyad city, Saudi Arabia",
@@ -19247,11 +19247,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4025,
+      "fwci": 1.4031,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.81907895,
+        "value": 0.78265642,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23978,9 +23978,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651
+          "score": 0.5351999998092651,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -25475,11 +25475,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 1.9531,
+      "fwci": 1.9322,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.82772091,
+        "value": 0.8269672,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26976,11 +26976,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6368,
+      "fwci": 2.6066,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78332182,
+        "value": 0.78204686,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27320,9 +27320,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.617900013923645
+          "score": 0.617900013923645,
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -27999,11 +27999,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6968,
+      "fwci": 0.6965,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.75619835,
+        "value": 0.70330237,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29056,9 +29056,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -30566,7 +30566,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01666667,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

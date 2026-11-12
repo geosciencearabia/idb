@@ -8813,8 +8813,8 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -11304,8 +11304,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -13129,8 +13129,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -16581,8 +16581,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -17379,11 +17379,11 @@
         "currency": "USD",
         "value_usd": 3120
       },
-      "fwci": 2.6368,
+      "fwci": 2.6066,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78332182,
+        "value": 0.78204686,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17793,8 +17793,8 @@
       "sustainable_development_goals": [
         {
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -18607,11 +18607,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 0.3032,
+      "fwci": 0.3018,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.46096516,
+        "value": 0.45908072,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18631,7 +18631,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.37790000438690186,
+        "score": 0.3596000075340271,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -18649,7 +18649,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.37790000438690186,
+          "score": 0.3596000075340271,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -18664,9 +18664,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.14499999582767487,
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.18209999799728394,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -18681,9 +18681,9 @@
           }
         },
         {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.13570000231266022,
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.1800999939441681,
           "subfield": {
             "id": "https://openalex.org/subfields/1906",
             "display_name": "Geochemistry and Petrology"
@@ -19038,6 +19038,12 @@
         "https://openalex.org/W3204056318"
       ],
       "abstract_inverted_index": {
+        "48": [
+          206
+        ],
+        "171": [
+          208
+        ],
         "A": [
           0
         ],
@@ -19045,746 +19051,771 @@
           1
         ],
         "understanding": [
-          2,
-          319
+          2
         ],
         "of": [
           3,
-          39,
-          42,
-          59,
-          104,
-          118,
-          125,
+          48,
+          51,
+          66,
+          123,
+          130,
           153,
-          161,
-          195,
-          237,
-          248,
-          262,
-          272,
-          279,
-          300,
-          320,
-          347
+          169,
+          178,
+          191,
+          222,
+          257,
+          268,
+          278,
+          289,
+          296,
+          312,
+          316,
+          335,
+          362
         ],
         "constraining": [
           4
         ],
         "paleo": [
           5,
-          80,
-          174,
-          321
+          79,
+          185,
+          336
         ],
         "fluid": [
           6,
-          81,
-          238,
-          249,
-          280,
-          322
+          80,
+          258,
+          269,
+          297,
+          337
         ],
         "circulation": [
           7,
-          281,
-          323
+          298,
+          338
         ],
         "along": [
           8,
-          324
+          339
         ],
         "fractures": [
           9,
-          124,
-          158,
-          326
+          129,
+          341
         ],
         "in": [
           10,
-          17,
-          70,
-          122,
-          156,
-          240,
-          305,
-          327
+          21,
+          36,
+          127,
+          260,
+          321,
+          342,
+          365
         ],
-        "regions": [
+        "tectonically": [
           11
         ],
-        "with": [
-          12,
-          286
-        ],
         "complex": [
-          13,
-          116
-        ],
-        "tectonics": [
-          14
-        ],
-        "is": [
-          15,
-          198
-        ],
-        "important": [
-          16
-        ],
-        "order": [
-          18
-        ],
-        "to": [
-          19,
-          87,
-          172,
-          255
-        ],
-        "exploit": [
-          20
-        ],
-        "sustainable": [
-          21
-        ],
-        "geo-energies": [
-          22
-        ],
-        "such": [
-          23
-        ],
-        "as": [
-          24,
-          164,
-          166
-        ],
-        "geothermal": [
-          25,
-          208
-        ],
-        "resources,": [
-          26
-        ],
-        "but": [
-          27
-        ],
-        "it": [
-          28
-        ],
-        "remains": [
-          29
-        ],
-        "a": [
-          30,
-          101,
-          317,
-          328
-        ],
-        "challenge.": [
-          31
-        ],
-        "Salt": [
-          32
-        ],
-        "domes": [
-          33
-        ],
-        "are": [
-          34
-        ],
-        "ideal": [
-          35,
-          76
-        ],
-        "case": [
-          36,
-          77
-        ],
-        "studies": [
-          37
-        ],
-        "because": [
-          38
-        ],
-        "the": [
-          40,
-          56,
-          60,
-          94,
-          102,
-          105,
-          123,
-          126,
-          157,
-          162,
-          168,
-          192,
-          196,
-          207,
-          211,
-          220,
-          229,
-          235,
-          241,
-          269,
-          273,
-          297,
-          301,
-          312,
-          325,
-          335,
-          339,
-          345
-        ],
-        "complexity": [
-          41
-        ],
-        "their": [
-          43
-        ],
-        "tectonic": [
-          44
-        ],
-        "evolution": [
-          45,
-          236
-        ],
-        "and": [
-          46,
-          108,
-          113,
-          129,
-          159,
-          176,
-          293
-        ],
-        "diagenetic": [
-          47
-        ],
-        "process": [
-          48
-        ],
-        "history.": [
-          49
-        ],
-        "Here,": [
-          50,
-          83
-        ],
-        "we": [
-          51,
-          145
-        ],
-        "investigated": [
-          52
-        ],
-        "calcite": [
-          53,
-          154,
-          185,
-          287
-        ],
-        "infilling": [
-          54
-        ],
-        "within": [
-          55
-        ],
-        "carbonate": [
-          57,
-          147,
-          179,
-          203
-        ],
-        "carapace": [
-          58
-        ],
-        "salt": [
-          61,
-          67,
-          106,
-          127
-        ],
-        "domes,": [
-          62
-        ],
-        "particularly": [
-          63
-        ],
-        "at": [
-          64,
-          216,
-          228,
-          283,
-          344
-        ],
-        "Jebel": [
-          65
-        ],
-        "Madar": [
-          66
-        ],
-        "dome": [
-          68,
-          107
-        ],
-        "situated": [
-          69
-        ],
-        "Northern": [
-          71
-        ],
-        "Oman,": [
-          72
-        ],
-        "making": [
-          73
-        ],
-        "them": [
-          74
-        ],
-        "an": [
-          75
-        ],
-        "study": [
-          78,
-          242
-        ],
-        "for": [
-          79,
-          296,
-          334
-        ],
-        "flow.": [
-          82
-        ],
-        "our": [
-          84,
-          143,
-          202,
-          306
-        ],
-        "goal": [
-          85
-        ],
-        "was": [
-          86,
-          109,
-          133,
-          342
-        ],
-        "test": [
-          88
-        ],
-        "two": [
-          89,
-          245
-        ],
-        "different": [
-          90,
-          151
-        ],
-        "hypotheses:": [
-          91
-        ],
-        "(1)": [
-          92
-        ],
-        "that": [
-          93,
-          115,
-          130,
-          184,
-          234,
-          258,
-          311,
-          338
-        ],
-        "Hawasina": [
-          95,
-          221,
-          274,
-          340
-        ],
-        "Nappe": [
-          96,
-          222,
-          341
-        ],
-        "had": [
-          97
-        ],
-        "been": [
-          98,
-          226
-        ],
-        "previously": [
-          99
-        ],
-        "emplaced": [
-          100
-        ],
-        "location": [
-          103
-        ],
-        "subsequently": [
-          110
-        ],
-        "completely": [
-          111
-        ],
-        "eroded,": [
-          112
-        ],
-        "(2)": [
-          114
-        ],
-        "history": [
-          117
-        ],
-        "paleo-fluid": [
-          119
-        ],
-        "flow": [
-          120,
-          239
-        ],
-        "existed": [
+          12,
           121
         ],
-        "dome,": [
-          128
+        "regions": [
+          13
         ],
-        "this": [
-          131
+        "is": [
+          14,
+          42
         ],
-        "system": [
-          132
+        "essential": [
+          15
         ],
-        "not": [
-          134
+        "from": [
+          16
         ],
-        "yet": [
-          135
+        "the": [
+          17,
+          49,
+          62,
+          93,
+          101,
+          109,
+          120,
+          128,
+          131,
+          151,
+          175,
+          179,
+          188,
+          192,
+          219,
+          223,
+          225,
+          229,
+          240,
+          249,
+          255,
+          261,
+          276,
+          286,
+          290,
+          313,
+          317,
+          328,
+          340,
+          350,
+          354,
+          360,
+          366
         ],
-        "fully": [
-          136
+        "scientific": [
+          18
         ],
-        "constrained": [
-          137
+        "perspective": [
+          19
         ],
-        "by": [
-          138,
-          201,
-          265
+        "and": [
+          20,
+          55,
+          69,
+          112,
+          117,
+          134,
+          146,
+          187,
+          207
         ],
-        "previous": [
-          139
+        "exploiting": [
+          22
         ],
-        "studies.": [
-          140
+        "sustainable": [
+          23
         ],
-        "To": [
-          141
+        "geo-energies": [
+          24
         ],
-        "achieve": [
-          142
+        "such": [
+          25
         ],
-        "objectives,": [
-          144
-        ],
-        "applied": [
-          146
-        ],
-        "clumped": [
-          148,
-          180,
-          204,
-          302
-        ],
-        "isotopes": [
-          149,
-          205,
-          303
-        ],
-        "on": [
-          150,
-          167
-        ],
-        "generations": [
-          152
-        ],
-        "precipitated": [
-          155
-        ],
-        "veins": [
-          160
-        ],
-        "limestone": [
-          163,
-          197
-        ],
-        "well": [
-          165
-        ],
-        "host": [
-          169
-        ],
-        "rock": [
-          170
-        ],
-        "itself.": [
-          171
-        ],
-        "reconstruct": [
+        "as": [
+          26,
+          38,
+          171,
           173
         ],
-        "temperatures": [
-          175,
-          182,
-          285
+        "geothermal": [
+          27,
+          226
         ],
-        "paleo-fluids.": [
-          177
+        "resources,": [
+          28
         ],
-        "The": [
-          178,
-          251,
-          276
+        "but": [
+          29
         ],
-        "isotope": [
-          181
+        "it": [
+          30
         ],
-        "indicate": [
-          183,
-          259
+        "remains": [
+          31
         ],
-        "vein": [
-          186
-        ],
-        "precipitation": [
-          187
-        ],
-        "occurred": [
-          188,
-          282
-        ],
-        "between": [
-          189
-        ],
-        "48-171°C.": [
-          190
-        ],
-        "Assuming": [
-          191
-        ],
-        "recrystallization": [
-          193,
-          267
-        ],
-        "temperature": [
-          194
-        ],
-        "faithfully": [
-          199
-        ],
-        "captured": [
-          200
-        ],
-        "data,": [
-          206
-        ],
-        "gradient": [
-          209
-        ],
-        "during": [
-          210,
-          268
-        ],
-        "Campanian": [
-          212
-        ],
-        "can": [
-          213
-        ],
-        "be": [
-          214
-        ],
-        "estimated": [
-          215
-        ],
-        "33.5˚C": [
-          217
-        ],
-        "km-1,": [
-          218
-        ],
-        "implying": [
-          219
-        ],
-        "must": [
-          223
-        ],
-        "indeed": [
-          224
-        ],
-        "have": [
-          225
-        ],
-        "present": [
-          227,
-          316,
+        "a": [
+          32,
+          39,
           343
         ],
-        "location.": [
-          230
+        "challenge.": [
+          33
         ],
-        "We": [
-          231
+        "Jebel": [
+          34,
+          363
         ],
-        "also": [
-          232
+        "Madar": [
+          35,
+          364
         ],
-        "argue": [
-          233
+        "Oman": [
+          37
         ],
-        "area": [
-          243
+        "salt": [
+          40,
+          67,
+          132
         ],
-        "comprises": [
-          244
+        "dome": [
+          41
         ],
-        "distinct": [
-          246
+        "an": [
+          43,
+          74
         ],
-        "episodes": [
-          247
+        "ideal": [
+          44,
+          75
         ],
-        "circulation.": [
-          250
+        "case": [
+          45,
+          76
         ],
-        "first": [
-          252,
-          336
+        "study": [
+          46,
+          77,
+          95,
+          110,
+          262
         ],
-        "episode": [
-          253,
-          278
+        "because": [
+          47
         ],
-        "led": [
-          254
+        "complexity": [
+          50
         ],
-        "high-temperature": [
-          256,
-          260
+        "its": [
+          52
         ],
-        "calcites": [
-          257
+        "tectonic": [
+          53
         ],
-        "processes": [
-          261
+        "evolution": [
+          54,
+          256
         ],
-        "deposition": [
-          263
-        ],
-        "followed": [
-          264
-        ],
-        "closed-system": [
-          266
-        ],
-        "local": [
-          270
-        ],
-        "emplacement": [
-          271
-        ],
-        "Nappe.": [
-          275
-        ],
-        "second": [
-          277
-        ],
-        "lower": [
-          284
-        ],
-        "members": [
-          288
-        ],
-        "representing": [
-          289
-        ],
-        "meteoric": [
-          290
-        ],
-        "diagenesis": [
-          291
-        ],
-        "fluids": [
-          292
-        ],
-        "contained": [
-          294
-        ],
-        "evidence": [
-          295
-        ],
-        "kinetic": [
-          298
-        ],
-        "fractionation": [
-          299
-        ],
-        "signature": [
-          304
-        ],
-        "samples.": [
-          307
-        ],
-        "Our": [
+        "diagenetic": [
+          56,
           308
         ],
-        "result": [
-          309
+        "process": [
+          57
         ],
-        "demonstrates": [
-          310
+        "history.": [
+          58
         ],
-        "new": [
-          313,
-          318
+        "Here,": [
+          59
         ],
-        "paleotemperature": [
-          314
+        "we": [
+          60,
+          161
+        ],
+        "investigated": [
+          61
+        ],
+        "Cretaceous": [
+          63
+        ],
+        "carbonate-encasing": [
+          64
+        ],
+        "rock": [
+          65,
+          181
+        ],
+        "domes": [
+          68
+        ],
+        "calcite-infilling": [
+          70
+        ],
+        "fractures,": [
+          71
+        ],
+        "making": [
+          72
+        ],
+        "them": [
+          73
+        ],
+        "for": [
+          78,
+          150,
+          349
+        ],
+        "flow.": [
+          81
+        ],
+        "The": [
+          82,
+          194,
+          271,
+          293
+        ],
+        "objectives": [
+          83
+        ],
+        "were": [
+          84
+        ],
+        "to": [
+          85,
+          91,
+          183,
+          275
+        ],
+        "test": [
+          86
+        ],
+        "two": [
+          87,
+          265
+        ],
+        "different": [
+          88,
+          167
+        ],
+        "hypotheses:": [
+          89
+        ],
+        "(1)": [
+          90
+        ],
+        "verify": [
+          92
+        ],
+        "previous": [
+          94,
+          144
+        ],
+        "based": [
+          96
+        ],
+        "on": [
+          97,
+          166,
+          174
+        ],
+        "seismic": [
+          98
         ],
         "data": [
-          315
-        ],
-        "salt-domed": [
-          329
-        ],
-        "setting": [
-          330
-        ],
-        "and,": [
+          99,
+          216,
           331
         ],
-        "importantly,": [
-          332
+        "that": [
+          100,
+          119,
+          135,
+          200,
+          211,
+          239,
+          254,
+          327,
+          353
         ],
-        "confirms": [
+        "Hawasina": [
+          102,
+          241,
+          291,
+          355
+        ],
+        "Nappe": [
+          103,
+          242,
+          356
+        ],
+        "had": [
+          104
+        ],
+        "been": [
+          105,
+          246
+        ],
+        "priorly": [
+          106
+        ],
+        "emplaced": [
+          107
+        ],
+        "at": [
+          108,
+          234,
+          248,
+          300,
+          359
+        ],
+        "location": [
+          111
+        ],
+        "was": [
+          113,
+          138,
+          357
+        ],
+        "subsequently": [
+          114
+        ],
+        "completely": [
+          115
+        ],
+        "eroded,": [
+          116
+        ],
+        "(2)": [
+          118
+        ],
+        "history": [
+          122
+        ],
+        "paleo-fluid": [
+          124
+        ],
+        "flow": [
+          125,
+          259
+        ],
+        "existed": [
+          126
+        ],
+        "dome,": [
+          133
+        ],
+        "this": [
+          136
+        ],
+        "system": [
+          137
+        ],
+        "not": [
+          139
+        ],
+        "yet": [
+          140
+        ],
+        "fully": [
+          141
+        ],
+        "constrained": [
+          142
+        ],
+        "by": [
+          143,
+          282
+        ],
+        "studies,": [
+          145
+        ],
+        "also": [
+          147,
+          252
+        ],
+        "including": [
+          148
+        ],
+        "accounting": [
+          149
+        ],
+        "presence": [
+          152
+        ],
+        "any": [
+          154
+        ],
+        "kinetic": [
+          155,
+          314
+        ],
+        "fractionation.": [
+          156
+        ],
+        "To": [
+          157
+        ],
+        "achieve": [
+          158
+        ],
+        "our": [
+          159,
+          212,
+          322
+        ],
+        "objectives,": [
+          160
+        ],
+        "applied": [
+          162
+        ],
+        "carbonate": [
+          163,
+          176,
+          195,
+          213
+        ],
+        "clumped": [
+          164,
+          196,
+          214,
+          318
+        ],
+        "isotopes": [
+          165,
+          215,
+          319
+        ],
+        "generations": [
+          168
+        ],
+        "veins": [
+          170
+        ],
+        "well": [
+          172
+        ],
+        "cement": [
+          177
+        ],
+        "host": [
+          180
+        ],
+        "itself": [
+          182
+        ],
+        "reconstruct": [
+          184
+        ],
+        "temperatures": [
+          186,
+          198,
+          302
+        ],
+        "isotopic": [
+          189
+        ],
+        "composition": [
+          190
+        ],
+        "paleo-fluids.": [
+          193
+        ],
+        "isotope": [
+          197
+        ],
+        "indicate": [
+          199
+        ],
+        "calcite": [
+          201,
+          304
+        ],
+        "vein": [
+          202
+        ],
+        "precipitation": [
+          203,
+          277
+        ],
+        "occurred": [
+          204,
+          299
+        ],
+        "between": [
+          205
+        ],
+        "°C.": [
+          209
+        ],
+        "Assuming": [
+          210
+        ],
+        "faithfully": [
+          217
+        ],
+        "capture": [
+          218
+        ],
+        "recrystallization": [
+          220,
+          284
+        ],
+        "temperature": [
+          221
+        ],
+        "limestone,": [
+          224
+        ],
+        "gradient": [
+          227
+        ],
+        "during": [
+          228,
+          285
+        ],
+        "Campanian": [
+          230
+        ],
+        "can": [
+          231
+        ],
+        "be": [
+          232
+        ],
+        "estimated": [
+          233
+        ],
+        "33.5": [
+          235
+        ],
+        "°C": [
+          236
+        ],
+        "km−1,": [
+          237
+        ],
+        "implying": [
+          238
+        ],
+        "must": [
+          243
+        ],
+        "indeed": [
+          244
+        ],
+        "have": [
+          245
+        ],
+        "present": [
+          247,
+          332,
+          358
+        ],
+        "location.": [
+          250
+        ],
+        "We": [
+          251
+        ],
+        "argue": [
+          253
+        ],
+        "area": [
+          263
+        ],
+        "comprises": [
+          264
+        ],
+        "distinct": [
+          266
+        ],
+        "episodes": [
+          267
+        ],
+        "circulation.": [
+          270
+        ],
+        "first": [
+          272,
+          351
+        ],
+        "episode": [
+          273,
+          295
+        ],
+        "led": [
+          274
+        ],
+        "high-temperature": [
+          279
+        ],
+        "calcites": [
+          280
+        ],
+        "followed": [
+          281
+        ],
+        "closed-system": [
+          283
+        ],
+        "local": [
+          287
+        ],
+        "emplacement": [
+          288
+        ],
+        "Nappe.": [
+          292
+        ],
+        "second": [
+          294
+        ],
+        "lower": [
+          301
+        ],
+        "with": [
+          303,
+          310
+        ],
+        "members": [
+          305
+        ],
+        "representing": [
+          306
+        ],
+        "meteoric": [
+          307
+        ],
+        "fluids": [
+          309
+        ],
+        "evidence": [
+          311
+        ],
+        "fractionation": [
+          315
+        ],
+        "signature": [
+          320
+        ],
+        "samples.": [
+          323
+        ],
+        "Our": [
+          324
+        ],
+        "result": [
+          325
+        ],
+        "demonstrates": [
+          326
+        ],
+        "new": [
+          329,
           333
         ],
-        "time": [
-          337
+        "paleotemperature": [
+          330
         ],
-        "site": [
+        "constraints": [
+          334
+        ],
+        "salt-domed": [
+          344
+        ],
+        "setting": [
+          345
+        ],
+        "and,": [
           346
         ],
-        "Jabal": [
+        "importantly,": [
+          347
+        ],
+        "confirms": [
           348
         ],
-        "Madar.": [
-          349
+        "time": [
+          352
+        ],
+        "site": [
+          361
+        ],
+        "Late": [
+          367
+        ],
+        "Cretaceous.": [
+          368
         ]
       },
       "counts_by_year": [
@@ -19797,7 +19828,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-11T12:16:26.678958",
       "created_date": "2023-04-07T00:00:00"
     },
     {
@@ -20375,8 +20406,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -27793,7 +27824,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20785013,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28039,8 +28070,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -29969,7 +30000,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.55667789,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31234,7 +31265,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15631894,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34368,8 +34399,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -37320,7 +37351,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.80582524,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39635,7 +39666,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.63524174,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39963,8 +39994,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],

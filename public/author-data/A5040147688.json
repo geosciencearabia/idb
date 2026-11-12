@@ -24,7 +24,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 149,
-    "cited_by_count": 2959,
+    "cited_by_count": 2960,
     "summary_stats": {
       "2yr_mean_citedness": 2.2,
       "h_index": 31,
@@ -273,7 +273,7 @@
       {
         "id": "https://openalex.org/T13811",
         "display_name": "Earth Systems and Cosmic Evolution",
-        "value": 0.000138,
+        "value": 0.0001379,
         "subfield": {
           "id": "https://openalex.org/subfields/2306",
           "display_name": "Global and Planetary Change"
@@ -584,7 +584,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5040147688",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-11T13:02:13",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1386,8 +1386,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2969676768.pdf",
@@ -3475,8 +3475,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132519602.pdf",
@@ -4785,8 +4785,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2793424403.pdf",
@@ -6345,9 +6345,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
@@ -6387,8 +6387,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2148258822.pdf",
@@ -7818,17 +7818,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -8860,8 +8860,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -10506,8 +10506,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -12579,8 +12579,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2002716893.pdf",
@@ -13463,8 +13463,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2909098680.pdf",
@@ -14847,14 +14847,14 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6710000038146973,
-          "display_name": "Life below water"
+          "score": 0.6710000038146973
         },
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -14901,8 +14901,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -16053,8 +16053,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -17335,8 +17335,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 139,
@@ -18715,9 +18715,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -18745,8 +18745,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -20269,14 +20269,14 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9090999960899353,
-          "display_name": "Affordable and clean energy"
+          "score": 0.9090999960899353
         }
       ],
       "study_designs": [],
@@ -20302,8 +20302,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -21442,9 +21442,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy"
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
@@ -21457,8 +21457,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2159968487.pdf",
@@ -22934,8 +22934,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2730765521.pdf",
@@ -24763,8 +24763,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2955892120.pdf"
@@ -26173,8 +26173,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -27259,16 +27259,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8567,
+      "fwci": 1.8328,
       "has_fulltext": true,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.84556141,
+        "value": 0.83169252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -27567,8 +27567,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2903365142.pdf",
@@ -29284,9 +29284,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -29304,8 +29304,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2949181946.pdf",
@@ -31745,8 +31745,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32365,8 +32365,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33414,11 +33414,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 0.475,
+      "fwci": 0.4763,
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.59822775,
+        "value": 0.567476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33884,8 +33884,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -35631,9 +35631,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -35654,8 +35654,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -36344,8 +36344,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -36814,8 +36814,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2169713986.pdf",
@@ -37915,8 +37915,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -38651,17 +38651,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927,
-          "display_name": "Climate action"
+          "score": 0.821399986743927
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -39959,9 +39959,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
@@ -39999,8 +39999,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -41214,9 +41214,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428,
-          "display_name": "Climate action"
+          "score": 0.685699999332428
         }
       ],
       "study_designs": [],
@@ -41244,8 +41244,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -42412,17 +42412,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -44029,8 +44029,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2931062164.pdf",
@@ -45785,8 +45785,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -46643,8 +46643,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1501302398.pdf",
@@ -47579,11 +47579,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5333,
+      "fwci": 0.534,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.60982287,
+        "value": 0.56853933,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47940,8 +47940,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -48951,16 +48951,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4657,
+      "fwci": 0.4628,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.61704377,
+        "value": 0.57744995,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 98
       },
       "biblio": {
@@ -49227,8 +49227,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -50137,11 +50137,11 @@
         "currency": "USD",
         "value_usd": 3550
       },
-      "fwci": 1.4245,
+      "fwci": 1.4231,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.80722892,
+        "value": 0.79364807,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -50647,8 +50647,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2759881585.pdf",
@@ -52011,16 +52011,16 @@
         "currency": "USD",
         "value_usd": 3050
       },
-      "fwci": 1.7137,
+      "fwci": 1.702,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.82873908,
+        "value": 0.8099865,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 92,
+        "min": 91,
         "max": 98
       },
       "biblio": {
@@ -52526,8 +52526,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2987182603.pdf",
@@ -54370,8 +54370,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3029362192.pdf",
@@ -55414,8 +55414,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1903847998.pdf",
@@ -56615,8 +56615,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -57405,8 +57405,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -58717,8 +58717,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -59805,8 +59805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -61146,8 +61146,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4366992704.pdf",
@@ -62553,8 +62553,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -63123,8 +63123,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1571958385.pdf",
@@ -64104,11 +64104,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2631,
+      "fwci": 2.2727,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.87292818,
+        "value": 0.83241758,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64339,8 +64339,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -65229,9 +65229,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -65252,8 +65252,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -66311,8 +66311,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -68167,8 +68167,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1992673920.pdf",
@@ -68902,11 +68902,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2305,
+      "fwci": 1.2281,
       "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.77916472,
+        "value": 0.75522353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69368,8 +69368,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2564457604.pdf",
@@ -70701,8 +70701,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2923770826.pdf",
@@ -71709,14 +71709,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.878000020980835,
-          "display_name": "Affordable and clean energy"
+          "score": 0.878000020980835
         }
       ],
       "study_designs": [],
@@ -71737,8 +71737,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -72207,8 +72207,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -73695,8 +73695,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4380997768.pdf"
@@ -73977,11 +73977,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1544,
+      "fwci": 0.1534,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.37847509,
+        "value": 0.31753685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74330,8 +74330,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -75175,8 +75175,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -76216,8 +76216,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -76795,7 +76795,7 @@
         "openalex": "https://openalex.org/W4410828119",
         "doi": "https://doi.org/10.1127/njgpa/1254"
       },
-      "language": "de",
+      "language": "en",
       "primary_location": {
         "id": "doi:10.1127/njgpa/1254",
         "doi": "https://doi.org/10.1127/njgpa/1254",
@@ -76966,11 +76966,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5161,
+      "fwci": 1.511,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.75202277,
+        "value": 0.75131086,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77184,8 +77184,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77209,7 +77209,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-10-14T16:39:01.820549",
+      "updated_date": "2026-11-11T12:16:26.678958",
       "created_date": "2025-05-29T00:00:00"
     },
     {
@@ -77909,17 +77909,17 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -77974,786 +77974,6 @@
       ],
       "updated_date": "2026-11-09T13:22:03.289127",
       "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3154314550",
-      "doi": "https://doi.org/10.2113/9781733475709-12",
-      "title": "Description and Correlation of Late Permian Palynological Assemblages from the Khuff Formation, Saudi Arabia and Evidence for the Duration of the pre-Khuff Hiatus",
-      "display_name": "Description and Correlation of Late Permian Palynological Assemblages from the Khuff Formation, Saudi Arabia and Evidence for the Duration of the pre-Khuff Hiatus",
-      "publication_year": 2000,
-      "publication_date": "2000-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3154314550",
-        "doi": "https://doi.org/10.2113/9781733475709-12",
-        "mag": "3154314550"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/9781733475709-12",
-        "doi": "https://doi.org/10.2113/9781733475709-12",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2113/9781733475709-12",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
-        "raw_type": "book-chapter"
-      },
-      "volume": {
-        "id": "https://openalex.org/W7167665245",
-        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
-      },
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9881-1578"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michael H. Stephenson",
-          "raw_affiliation_strings": [
-            "British Geological Survey"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5027634361",
-            "display_name": "John Filatoff",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "John Filatoff",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.9052,
-      "has_fulltext": false,
-      "cited_by_count": 26,
-      "citation_normalized_percentile": {
-        "value": 0.6878453,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 96
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "192",
-        "last_page": "215"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9961000084877014,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9961000084877014,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.0007999999797903001,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10385",
-          "display_name": "Plant Diversity and Evolution",
-          "score": 0.0005000000237487257,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1105",
-            "display_name": "Ecology, Evolution, Behavior and Systematics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/khuff-formation",
-          "display_name": "Khuff Formation",
-          "score": 0.9409999847412109
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "unconformity",
-          "score": 0.6859999895095825
-        },
-        {
-          "id": "https://openalex.org/keywords/palynological-correlation",
-          "display_name": "palynological correlation",
-          "score": 0.7630000114440918
-        },
-        {
-          "id": "https://openalex.org/keywords/phytogeography",
-          "display_name": "phytogeography",
-          "score": 0.9020000100135803
-        },
-        {
-          "id": "https://openalex.org/keywords/unayzah-formation",
-          "display_name": "Unayzah Formation",
-          "score": 0.9629999995231628
-        },
-        {
-          "id": "https://openalex.org/keywords/middle-east",
-          "display_name": "Middle East",
-          "score": 0.5170000195503235
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C162501224",
-          "wikidata": "https://www.wikidata.org/wiki/Q212919",
-          "display_name": "Palynology",
-          "level": 3,
-          "score": 0.8339141011238098
-        },
-        {
-          "id": "https://openalex.org/C2780142684",
-          "wikidata": "https://www.wikidata.org/wiki/Q750663",
-          "display_name": "Hiatus",
-          "level": 2,
-          "score": 0.54892498254776
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5461394190788269
-        },
-        {
-          "id": "https://openalex.org/C112758219",
-          "wikidata": "https://www.wikidata.org/wiki/Q16038819",
-          "display_name": "Duration (music)",
-          "level": 2,
-          "score": 0.4779362976551056
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.31684574484825134
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.09203845262527466
-        },
-        {
-          "id": "https://openalex.org/C2780618852",
-          "wikidata": "https://www.wikidata.org/wiki/Q79932",
-          "display_name": "Pollen",
-          "level": 2,
-          "score": 0.0688580572605133
-        },
-        {
-          "id": "https://openalex.org/C124952713",
-          "wikidata": "https://www.wikidata.org/wiki/Q8242",
-          "display_name": "Literature",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C142362112",
-          "wikidata": "https://www.wikidata.org/wiki/Q735",
-          "display_name": "Art",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.2113/9781733475709-12",
-          "doi": "https://doi.org/10.2113/9781733475709-12",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2113/9781733475709-12",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
-          "raw_type": "book-chapter"
-        },
-        {
-          "id": "mag:3154314550",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "https://pubs.geoscienceworld.org/books/book/2223/chapter/125392141/Description-and-Correlation-of-Late-Permian",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 14,
-      "referenced_works": [
-        "https://openalex.org/W88175743",
-        "https://openalex.org/W103120822",
-        "https://openalex.org/W2007600091",
-        "https://openalex.org/W2014927583",
-        "https://openalex.org/W2016916053",
-        "https://openalex.org/W2035904748",
-        "https://openalex.org/W2047308636",
-        "https://openalex.org/W2048754471",
-        "https://openalex.org/W2051611285",
-        "https://openalex.org/W2133623028",
-        "https://openalex.org/W2139711367",
-        "https://openalex.org/W2142119806",
-        "https://openalex.org/W2154926820",
-        "https://openalex.org/W2191182709"
-      ],
-      "related_works": [
-        "https://openalex.org/W3127056474",
-        "https://openalex.org/W2287111010",
-        "https://openalex.org/W3160300026",
-        "https://openalex.org/W1981973424",
-        "https://openalex.org/W1970189954",
-        "https://openalex.org/W2954113145",
-        "https://openalex.org/W2473132188",
-        "https://openalex.org/W4299307649",
-        "https://openalex.org/W2972134149",
-        "https://openalex.org/W3150378705"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "Palynological": [
-          1
-        ],
-        "assemblages": [
-          2,
-          34,
-          54
-        ],
-        "from": [
-          3,
-          39,
-          84
-        ],
-        "the": [
-          4,
-          46,
-          80,
-          85,
-          89,
-          94,
-          97,
-          101,
-          116,
-          123,
-          130
-        ],
-        "basal": [
-          5
-        ],
-        "Khuff": [
-          6
-        ],
-        "clastics": [
-          7
-        ],
-        "in": [
-          8,
-          10,
-          43,
-          63,
-          75,
-          79,
-          104,
-          115,
-          129
-        ],
-        "wells": [
-          9
-        ],
-        "central": [
-          11,
-          105
-        ],
-        "Saudi": [
-          12,
-          106
-        ],
-        "Arabia": [
-          13
-        ],
-        "suggest": [
-          14
-        ],
-        "that": [
-          15,
-          22
-        ],
-        "those": [
-          16,
-          38,
-          58
-        ],
-        "deposits": [
-          17
-        ],
-        "are": [
-          18,
-          25,
-          35,
-          55,
-          138
-        ],
-        "broadly": [
-          19
-        ],
-        "synchronous": [
-          20
-        ],
-        "throughout": [
-          21
-        ],
-        "area,": [
-          23
-        ],
-        "and": [
-          24,
-          45,
-          66
-        ],
-        "of": [
-          26,
-          49,
-          59,
-          88,
-          96,
-          122,
-          126
-        ],
-        "Late": [
-          27
-        ],
-        "Permian": [
-          28,
-          41,
-          76,
-          113
-        ],
-        "(Tatarian": [
-          29
-        ],
-        "or": [
-          30
-        ],
-        "younger)": [
-          31
-        ],
-        "age.": [
-          32
-        ],
-        "The": [
-          33
-        ],
-        "similar": [
-          36
-        ],
-        "to": [
-          37,
-          132
-        ],
-        "Upper": [
-          40,
-          112
-        ],
-        "rocks": [
-          42
-        ],
-        "Iraq": [
-          44
-        ],
-        "Salt": [
-          47
-        ],
-        "Range": [
-          48
-        ],
-        "Pakistan.": [
-          50
-        ],
-        "Though": [
-          51
-        ],
-        "qualitatively": [
-          52
-        ],
-        "similar,": [
-          53
-        ],
-        "quantitatively": [
-          56
-        ],
-        "unlike": [
-          57
-        ],
-        "approximately": [
-          60
-        ],
-        "coeval": [
-          61
-        ],
-        "sequences": [
-          62,
-          114
-        ],
-        "Australia,": [
-          64
-        ],
-        "India": [
-          65
-        ],
-        "Antarctica,": [
-          67
-        ],
-        "suggesting": [
-          68
-        ],
-        "significant": [
-          69
-        ],
-        "phytogeographic": [
-          70
-        ],
-        "differences": [
-          71
-        ],
-        "between": [
-          72,
-          111
-        ],
-        "these": [
-          73
-        ],
-        "regions": [
-          74
-        ],
-        "time.": [
-          77
-        ],
-        "Assemblages": [
-          78
-        ],
-        "Hilwah-3": [
-          81
-        ],
-        "(HLWH-3)": [
-          82
-        ],
-        "well": [
-          83
-        ],
-        "upper": [
-          86
-        ],
-        "part": [
-          87
-        ],
-        "underlying": [
-          90
-        ],
-        "Unayzah": [
-          91
-        ],
-        "Formation": [
-          92
-        ],
-        "constrain": [
-          93
-        ],
-        "duration": [
-          95
-        ],
-        "hiatus": [
-          98
-        ],
-        "represented": [
-          99
-        ],
-        "by": [
-          100
-        ],
-        "pre-Khuff": [
-          102
-        ],
-        "unconformity": [
-          103
-        ],
-        "Arabia.": [
-          107
-        ],
-        "Improved": [
-          108
-        ],
-        "palynological": [
-          109
-        ],
-        "correlation": [
-          110
-        ],
-        "Middle": [
-          117
-        ],
-        "East": [
-          118
-        ],
-        "requires": [
-          119
-        ],
-        "taxonomic": [
-          120
-        ],
-        "study": [
-          121
-        ],
-        "large": [
-          124
-        ],
-        "number": [
-          125
-        ],
-        "undescribed": [
-          127
-        ],
-        "taxa": [
-          128
-        ],
-        "assemblages,": [
-          131
-        ],
-        "this": [
-          133
-        ],
-        "end": [
-          134
-        ],
-        "four": [
-          135
-        ],
-        "new": [
-          136
-        ],
-        "species": [
-          137
-        ],
-        "proposed.": [
-          139
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-10-16T09:59:22.235173",
-      "created_date": "2021-04-26T00:00:00"
     },
     {
       "id": "https://openalex.org/W2138670918",
@@ -79139,11 +78359,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 0.6287,
+      "fwci": 0.6278,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.66590147,
+        "value": 0.62422744,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79456,9 +78676,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -79479,8 +78699,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -80770,9 +79990,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -80798,8 +80018,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -81300,8 +80520,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -81846,8 +81066,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -82284,8 +81504,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -82750,11 +81970,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4978,
+      "fwci": 0.4963,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.57782127,
+        "value": 0.54914725,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83346,8 +82566,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2739257327.pdf",
@@ -84416,22 +83636,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8485000133514404,
-          "display_name": "Affordable and clean energy"
+          "score": 0.8485000133514404
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -85091,8 +84311,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2345181148.pdf",
@@ -85731,11 +84951,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.4094,
+      "fwci": 0.4072,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.59038873,
+        "value": 0.56276019,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -86035,8 +85255,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -86552,8 +85772,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -87021,8 +86241,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87518,11 +86738,11 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 0.2461,
+      "fwci": 0.2434,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.5486618,
+        "value": 0.54379203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -87843,8 +87063,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -88659,8 +87879,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -89471,22 +88691,22 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Partnerships for the goals",
           "id": "https://metadata.un.org/sdg/17",
-          "score": 0.75,
-          "display_name": "Partnerships for the goals"
+          "score": 0.75
         },
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5378999710083008,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.5378999710083008
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -90342,17 +89562,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -90477,11 +89697,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0639,
+      "fwci": 1.0579,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.80327869,
+        "value": 0.69589041,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -90865,27 +90085,27 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9853000044822693,
-          "display_name": "Affordable and clean energy"
+          "score": 0.9853000044822693
         },
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.821399986743927,
-          "display_name": "Climate action"
+          "score": 0.821399986743927
         },
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.5925999879837036,
-          "display_name": "Responsible consumption and production"
+          "score": 0.5925999879837036
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2765693573.pdf",
@@ -92185,22 +91405,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75,
-          "display_name": "Climate action"
+          "score": 0.75
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy"
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -93080,24 +92300,24 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.685699999332428,
-          "display_name": "Climate action"
+          "score": 0.685699999332428
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.47189998626708984,
-          "display_name": "Affordable and clean energy"
+          "score": 0.47189998626708984
         },
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.428600013256073,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.428600013256073
         },
         {
+          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
-          "score": 0.4000000059604645,
-          "display_name": "Reduced inequalities"
+          "score": 0.4000000059604645
         }
       ],
       "study_designs": [],
@@ -93118,8 +92338,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -93639,6 +92859,786 @@
       ],
       "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3154314550",
+      "doi": "https://doi.org/10.2113/9781733475709-12",
+      "title": "Description and Correlation of Late Permian Palynological Assemblages from the Khuff Formation, Saudi Arabia and Evidence for the Duration of the pre-Khuff Hiatus",
+      "display_name": "Description and Correlation of Late Permian Palynological Assemblages from the Khuff Formation, Saudi Arabia and Evidence for the Duration of the pre-Khuff Hiatus",
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3154314550",
+        "doi": "https://doi.org/10.2113/9781733475709-12",
+        "mag": "3154314550"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/9781733475709-12",
+        "doi": "https://doi.org/10.2113/9781733475709-12",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2113/9781733475709-12",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W7167665245",
+        "display_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia"
+      },
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9881-1578"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael H. Stephenson",
+          "raw_affiliation_strings": [
+            "British Geological Survey"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5027634361",
+            "display_name": "John Filatoff",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "John Filatoff",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.9091,
+      "has_fulltext": false,
+      "cited_by_count": 26,
+      "citation_normalized_percentile": {
+        "value": 0.6043956,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 95
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "192",
+        "last_page": "215"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9961000084877014,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9961000084877014,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.0007999999797903001,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10385",
+          "display_name": "Plant Diversity and Evolution",
+          "score": 0.0005000000237487257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1105",
+            "display_name": "Ecology, Evolution, Behavior and Systematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/khuff-formation",
+          "display_name": "Khuff Formation",
+          "score": 0.9409999847412109
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.6859999895095825
+        },
+        {
+          "id": "https://openalex.org/keywords/palynological-correlation",
+          "display_name": "palynological correlation",
+          "score": 0.7630000114440918
+        },
+        {
+          "id": "https://openalex.org/keywords/phytogeography",
+          "display_name": "phytogeography",
+          "score": 0.9020000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/unayzah-formation",
+          "display_name": "Unayzah Formation",
+          "score": 0.9629999995231628
+        },
+        {
+          "id": "https://openalex.org/keywords/middle-east",
+          "display_name": "Middle East",
+          "score": 0.5170000195503235
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C162501224",
+          "wikidata": "https://www.wikidata.org/wiki/Q212919",
+          "display_name": "Palynology",
+          "level": 3,
+          "score": 0.8339141011238098
+        },
+        {
+          "id": "https://openalex.org/C2780142684",
+          "wikidata": "https://www.wikidata.org/wiki/Q750663",
+          "display_name": "Hiatus",
+          "level": 2,
+          "score": 0.54892498254776
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5461394190788269
+        },
+        {
+          "id": "https://openalex.org/C112758219",
+          "wikidata": "https://www.wikidata.org/wiki/Q16038819",
+          "display_name": "Duration (music)",
+          "level": 2,
+          "score": 0.4779362976551056
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.31684574484825134
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.09203845262527466
+        },
+        {
+          "id": "https://openalex.org/C2780618852",
+          "wikidata": "https://www.wikidata.org/wiki/Q79932",
+          "display_name": "Pollen",
+          "level": 2,
+          "score": 0.0688580572605133
+        },
+        {
+          "id": "https://openalex.org/C124952713",
+          "wikidata": "https://www.wikidata.org/wiki/Q8242",
+          "display_name": "Literature",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.2113/9781733475709-12",
+          "doi": "https://doi.org/10.2113/9781733475709-12",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/9781733475709-12",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Stratigraphic Palynology of the Palaeozoic of Saudi Arabia",
+          "raw_type": "book-chapter"
+        },
+        {
+          "id": "mag:3154314550",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "https://pubs.geoscienceworld.org/books/book/2223/chapter/125392141/Description-and-Correlation-of-Late-Permian",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 14,
+      "referenced_works": [
+        "https://openalex.org/W88175743",
+        "https://openalex.org/W103120822",
+        "https://openalex.org/W2007600091",
+        "https://openalex.org/W2014927583",
+        "https://openalex.org/W2016916053",
+        "https://openalex.org/W2035904748",
+        "https://openalex.org/W2047308636",
+        "https://openalex.org/W2048754471",
+        "https://openalex.org/W2051611285",
+        "https://openalex.org/W2133623028",
+        "https://openalex.org/W2139711367",
+        "https://openalex.org/W2142119806",
+        "https://openalex.org/W2154926820",
+        "https://openalex.org/W2191182709"
+      ],
+      "related_works": [
+        "https://openalex.org/W3127056474",
+        "https://openalex.org/W2287111010",
+        "https://openalex.org/W3160300026",
+        "https://openalex.org/W1981973424",
+        "https://openalex.org/W1970189954",
+        "https://openalex.org/W2954113145",
+        "https://openalex.org/W2473132188",
+        "https://openalex.org/W4299307649",
+        "https://openalex.org/W2972134149",
+        "https://openalex.org/W3150378705"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "Palynological": [
+          1
+        ],
+        "assemblages": [
+          2,
+          34,
+          54
+        ],
+        "from": [
+          3,
+          39,
+          84
+        ],
+        "the": [
+          4,
+          46,
+          80,
+          85,
+          89,
+          94,
+          97,
+          101,
+          116,
+          123,
+          130
+        ],
+        "basal": [
+          5
+        ],
+        "Khuff": [
+          6
+        ],
+        "clastics": [
+          7
+        ],
+        "in": [
+          8,
+          10,
+          43,
+          63,
+          75,
+          79,
+          104,
+          115,
+          129
+        ],
+        "wells": [
+          9
+        ],
+        "central": [
+          11,
+          105
+        ],
+        "Saudi": [
+          12,
+          106
+        ],
+        "Arabia": [
+          13
+        ],
+        "suggest": [
+          14
+        ],
+        "that": [
+          15,
+          22
+        ],
+        "those": [
+          16,
+          38,
+          58
+        ],
+        "deposits": [
+          17
+        ],
+        "are": [
+          18,
+          25,
+          35,
+          55,
+          138
+        ],
+        "broadly": [
+          19
+        ],
+        "synchronous": [
+          20
+        ],
+        "throughout": [
+          21
+        ],
+        "area,": [
+          23
+        ],
+        "and": [
+          24,
+          45,
+          66
+        ],
+        "of": [
+          26,
+          49,
+          59,
+          88,
+          96,
+          122,
+          126
+        ],
+        "Late": [
+          27
+        ],
+        "Permian": [
+          28,
+          41,
+          76,
+          113
+        ],
+        "(Tatarian": [
+          29
+        ],
+        "or": [
+          30
+        ],
+        "younger)": [
+          31
+        ],
+        "age.": [
+          32
+        ],
+        "The": [
+          33
+        ],
+        "similar": [
+          36
+        ],
+        "to": [
+          37,
+          132
+        ],
+        "Upper": [
+          40,
+          112
+        ],
+        "rocks": [
+          42
+        ],
+        "Iraq": [
+          44
+        ],
+        "Salt": [
+          47
+        ],
+        "Range": [
+          48
+        ],
+        "Pakistan.": [
+          50
+        ],
+        "Though": [
+          51
+        ],
+        "qualitatively": [
+          52
+        ],
+        "similar,": [
+          53
+        ],
+        "quantitatively": [
+          56
+        ],
+        "unlike": [
+          57
+        ],
+        "approximately": [
+          60
+        ],
+        "coeval": [
+          61
+        ],
+        "sequences": [
+          62,
+          114
+        ],
+        "Australia,": [
+          64
+        ],
+        "India": [
+          65
+        ],
+        "Antarctica,": [
+          67
+        ],
+        "suggesting": [
+          68
+        ],
+        "significant": [
+          69
+        ],
+        "phytogeographic": [
+          70
+        ],
+        "differences": [
+          71
+        ],
+        "between": [
+          72,
+          111
+        ],
+        "these": [
+          73
+        ],
+        "regions": [
+          74
+        ],
+        "time.": [
+          77
+        ],
+        "Assemblages": [
+          78
+        ],
+        "Hilwah-3": [
+          81
+        ],
+        "(HLWH-3)": [
+          82
+        ],
+        "well": [
+          83
+        ],
+        "upper": [
+          86
+        ],
+        "part": [
+          87
+        ],
+        "underlying": [
+          90
+        ],
+        "Unayzah": [
+          91
+        ],
+        "Formation": [
+          92
+        ],
+        "constrain": [
+          93
+        ],
+        "duration": [
+          95
+        ],
+        "hiatus": [
+          98
+        ],
+        "represented": [
+          99
+        ],
+        "by": [
+          100
+        ],
+        "pre-Khuff": [
+          102
+        ],
+        "unconformity": [
+          103
+        ],
+        "Arabia.": [
+          107
+        ],
+        "Improved": [
+          108
+        ],
+        "palynological": [
+          109
+        ],
+        "correlation": [
+          110
+        ],
+        "Middle": [
+          117
+        ],
+        "East": [
+          118
+        ],
+        "requires": [
+          119
+        ],
+        "taxonomic": [
+          120
+        ],
+        "study": [
+          121
+        ],
+        "large": [
+          124
+        ],
+        "number": [
+          125
+        ],
+        "undescribed": [
+          127
+        ],
+        "taxa": [
+          128
+        ],
+        "assemblages,": [
+          131
+        ],
+        "this": [
+          133
+        ],
+        "end": [
+          134
+        ],
+        "four": [
+          135
+        ],
+        "new": [
+          136
+        ],
+        "species": [
+          137
+        ],
+        "proposed.": [
+          139
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-10-16T09:59:22.235173",
+      "created_date": "2021-04-26T00:00:00"
     },
     {
       "id": "https://openalex.org/W2233321510",
@@ -94242,8 +94242,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -95159,9 +95159,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7778000235557556,
-          "display_name": "Life below water"
+          "score": 0.7778000235557556
         }
       ],
       "study_designs": [],
@@ -95174,8 +95174,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1549392209.pdf",
@@ -95977,11 +95977,11 @@
         "value_usd": 3260
       },
       "apc_paid": null,
-      "fwci": 0.2218,
+      "fwci": 0.2209,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.46771251,
+        "value": 0.43089282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96196,8 +96196,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -96869,14 +96869,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.571399986743927,
-          "display_name": "Affordable and clean energy"
+          "score": 0.571399986743927
         }
       ],
       "study_designs": [],
@@ -96909,8 +96909,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -97762,22 +97762,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8485000133514404,
-          "display_name": "Affordable and clean energy"
+          "score": 0.8485000133514404
         },
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.651199996471405,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.651199996471405
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -98068,11 +98068,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.388,
+      "fwci": 0.3868,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.55484511,
+        "value": 0.53314861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -98349,8 +98349,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -99125,8 +99125,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312883963.pdf",
@@ -99363,11 +99363,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6279,
+      "fwci": 0.6267,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.65107496,
+        "value": 0.63150247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -99671,22 +99671,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75,
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -100118,8 +100118,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2948001292.pdf",
@@ -100763,8 +100763,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4318312072.pdf",
@@ -102369,8 +102369,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4409192459.pdf",
@@ -102457,23 +102457,23 @@
       "created_date": "2025-04-06T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2478323162",
-      "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
-      "title": "Accounting for Carbon",
-      "display_name": "Accounting for Carbon",
+      "id": "https://openalex.org/W225370162",
+      "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
+      "title": "Capturing Carbon Dioxide",
+      "display_name": "Capturing Carbon Dioxide",
       "publication_year": 2013,
       "publication_date": "2013-01-01",
       "ids": {
-        "openalex": "https://openalex.org/W2478323162",
-        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
-        "mag": "2478323162"
+        "openalex": "https://openalex.org/W225370162",
+        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
+        "mag": "225370162"
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.1016/b978-0-12-407671-6.00006-9",
-        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+        "id": "doi:10.1016/b978-0-12-407671-6.00003-3",
+        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+        "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
         "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306463230",
@@ -102546,66 +102546,49 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": 0.819,
       "has_fulltext": false,
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.13953636,
+        "value": 0.64912281,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 94
       },
       "biblio": {
         "volume": null,
         "issue": null,
-        "first_page": "121",
-        "last_page": "143"
+        "first_page": "45",
+        "last_page": "62"
       },
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10471",
-        "display_name": "Climate Change Policy and Economics",
-        "score": 0.7577999830245972,
+        "id": "https://openalex.org/T10967",
+        "display_name": "Carbon Dioxide Capture Technologies",
+        "score": 0.9907000064849854,
         "subfield": {
-          "id": "https://openalex.org/subfields/2002",
-          "display_name": "Economics and Econometrics"
+          "id": "https://openalex.org/subfields/1506",
+          "display_name": "Filtration and Separation"
         },
         "field": {
-          "id": "https://openalex.org/fields/20",
-          "display_name": "Economics, Econometrics and Finance"
+          "id": "https://openalex.org/fields/15",
+          "display_name": "Chemical Engineering"
         },
         "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
         }
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10471",
-          "display_name": "Climate Change Policy and Economics",
-          "score": 0.7577999830245972,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2002",
-            "display_name": "Economics and Econometrics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/20",
-            "display_name": "Economics, Econometrics and Finance"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10967",
           "display_name": "Carbon Dioxide Capture Technologies",
-          "score": 0.10199999809265137,
+          "score": 0.9907000064849854,
           "subfield": {
             "id": "https://openalex.org/subfields/1506",
             "display_name": "Filtration and Separation"
@@ -102622,7 +102605,7 @@
         {
           "id": "https://openalex.org/T11302",
           "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.06909999996423721,
+          "score": 0.007400000002235174,
           "subfield": {
             "id": "https://openalex.org/subfields/2305",
             "display_name": "Environmental Engineering"
@@ -102635,179 +102618,200 @@
             "id": "https://openalex.org/domains/3",
             "display_name": "Physical Sciences"
           }
+        },
+        {
+          "id": "https://openalex.org/T12271",
+          "display_name": "Renewable energy and sustainable power systems",
+          "score": 0.000699999975040555,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
         }
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
-          "display_name": "carbon capture and storage",
-          "score": 0.9990000128746033
+          "id": "https://openalex.org/keywords/co2-capture",
+          "display_name": "CO2 capture",
+          "score": 0.9139999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/power-plants",
+          "display_name": "power plants",
+          "score": 0.7770000100135803
+        },
+        {
+          "id": "https://openalex.org/keywords/coal-fired-power-generation",
+          "display_name": "coal-fired power generation",
+          "score": 0.6449999809265137
         },
         {
           "id": "https://openalex.org/keywords/co2-emission-reduction",
           "display_name": "CO2 emission reduction",
-          "score": 0.968999981880188
+          "score": 0.8560000061988831
         },
         {
-          "id": "https://openalex.org/keywords/co2-sequestration",
-          "display_name": "CO2 sequestration",
-          "score": 0.5360000133514404
+          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
+          "display_name": "carbon capture and storage",
+          "score": 0.75
         },
         {
-          "id": "https://openalex.org/keywords/carbon-tax",
-          "display_name": "carbon tax",
-          "score": 0.5320000052452087
+          "id": "https://openalex.org/keywords/geological-storage",
+          "display_name": "geological storage",
+          "score": 0.41600000858306885
         },
         {
-          "id": "https://openalex.org/keywords/climate-change-mitigation",
-          "display_name": "climate change mitigation",
-          "score": 0.5299999713897705
+          "id": "https://openalex.org/keywords/north-sea",
+          "display_name": "North Sea",
+          "score": 0.550000011920929
         },
         {
-          "id": "https://openalex.org/keywords/lifestyle-modification",
-          "display_name": "lifestyle modification",
-          "score": 0.45899999141693115
+          "id": "https://openalex.org/keywords/humber",
+          "display_name": "Humber",
+          "score": 0.46000000834465027
+        },
+        {
+          "id": "https://openalex.org/keywords/electricity-generation",
+          "display_name": "electricity generation",
+          "score": 0.6589999794960022
+        },
+        {
+          "id": "https://openalex.org/keywords/transport-decarbonization",
+          "display_name": "transport decarbonization",
+          "score": 0.8410000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-pipelines",
+          "display_name": "CO2 pipelines",
+          "score": 0.3479999899864197
         }
       ],
       "concepts": [
         {
-          "id": "https://openalex.org/C2778379663",
-          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
-          "display_name": "Carbon capture and storage (timeline)",
+          "id": "https://openalex.org/C206658404",
+          "wikidata": "https://www.wikidata.org/wiki/Q12725",
+          "display_name": "Electricity",
+          "level": 2,
+          "score": 0.699105978012085
+        },
+        {
+          "id": "https://openalex.org/C2778324724",
+          "wikidata": "https://www.wikidata.org/wiki/Q1076056",
+          "display_name": "Electrification",
           "level": 3,
-          "score": 0.6138653755187988
+          "score": 0.6670136451721191
         },
         {
-          "id": "https://openalex.org/C59427239",
-          "wikidata": "https://www.wikidata.org/wiki/Q40858",
-          "display_name": "Natural gas",
+          "id": "https://openalex.org/C52121051",
+          "wikidata": "https://www.wikidata.org/wiki/Q43193",
+          "display_name": "Truck",
           "level": 2,
-          "score": 0.5441974997520447
+          "score": 0.6366050839424133
         },
         {
-          "id": "https://openalex.org/C76758496",
-          "wikidata": "https://www.wikidata.org/wiki/Q191118",
-          "display_name": "Tonne",
+          "id": "https://openalex.org/C518851703",
+          "wikidata": "https://www.wikidata.org/wiki/Q24489",
+          "display_name": "Coal",
           "level": 2,
-          "score": 0.5238580703735352
+          "score": 0.5121123790740967
         },
         {
-          "id": "https://openalex.org/C47737302",
-          "wikidata": "https://www.wikidata.org/wiki/Q167336",
-          "display_name": "Greenhouse gas",
-          "level": 2,
-          "score": 0.47821304202079773
-        },
-        {
-          "id": "https://openalex.org/C2778137410",
-          "wikidata": "https://www.wikidata.org/wiki/Q2732820",
-          "display_name": "Government (linguistics)",
-          "level": 2,
-          "score": 0.45371541380882263
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.43674522638320923
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.4359420835971832
+          "id": "https://openalex.org/C423512",
+          "wikidata": "https://www.wikidata.org/wiki/Q383973",
+          "display_name": "Electricity generation",
+          "level": 3,
+          "score": 0.4445480704307556
         },
         {
           "id": "https://openalex.org/C127413603",
           "wikidata": "https://www.wikidata.org/wiki/Q11023",
           "display_name": "Engineering",
           "level": 0,
-          "score": 0.4170113205909729
+          "score": 0.4373217225074768
         },
         {
-          "id": "https://openalex.org/C2778976125",
-          "wikidata": "https://www.wikidata.org/wiki/Q288401",
-          "display_name": "Carbon tax",
-          "level": 3,
-          "score": 0.4155215322971344
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.4154224097728729
-        },
-        {
-          "id": "https://openalex.org/C108713360",
-          "wikidata": "https://www.wikidata.org/wiki/Q1824206",
-          "display_name": "Supply chain",
+          "id": "https://openalex.org/C163258240",
+          "wikidata": "https://www.wikidata.org/wiki/Q25342",
+          "display_name": "Power (physics)",
           "level": 2,
-          "score": 0.41126835346221924
-        },
-        {
-          "id": "https://openalex.org/C134560507",
-          "wikidata": "https://www.wikidata.org/wiki/Q753291",
-          "display_name": "Environmental economics",
-          "level": 1,
-          "score": 0.39508768916130066
+          "score": 0.4185987412929535
         },
         {
           "id": "https://openalex.org/C175605778",
           "wikidata": "https://www.wikidata.org/wiki/Q3299701",
           "display_name": "Natural resource economics",
           "level": 1,
-          "score": 0.38560351729393005
+          "score": 0.38247770071029663
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.38229119777679443
+        },
+        {
+          "id": "https://openalex.org/C134560507",
+          "wikidata": "https://www.wikidata.org/wiki/Q753291",
+          "display_name": "Environmental economics",
+          "level": 1,
+          "score": 0.3698105812072754
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.33028513193130493
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.24047747254371643
+        },
+        {
+          "id": "https://openalex.org/C119599485",
+          "wikidata": "https://www.wikidata.org/wiki/Q43035",
+          "display_name": "Electrical engineering",
+          "level": 1,
+          "score": 0.2332840859889984
+        },
+        {
+          "id": "https://openalex.org/C171146098",
+          "wikidata": "https://www.wikidata.org/wiki/Q124192",
+          "display_name": "Automotive engineering",
+          "level": 1,
+          "score": 0.2130209505558014
         },
         {
           "id": "https://openalex.org/C162324750",
           "wikidata": "https://www.wikidata.org/wiki/Q8134",
           "display_name": "Economics",
           "level": 0,
-          "score": 0.15403297543525696
+          "score": 0.13813698291778564
         },
         {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.12451934814453125
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
         },
         {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
           "level": 0,
-          "score": 0.12289571762084961
-        },
-        {
-          "id": "https://openalex.org/C162853370",
-          "wikidata": "https://www.wikidata.org/wiki/Q39809",
-          "display_name": "Marketing",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41895202",
-          "wikidata": "https://www.wikidata.org/wiki/Q8162",
-          "display_name": "Linguistics",
-          "level": 1,
           "score": 0
         }
       ],
@@ -102815,10 +102819,10 @@
       "locations_count": 1,
       "locations": [
         {
-          "id": "doi:10.1016/b978-0-12-407671-6.00006-9",
-          "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+          "id": "doi:10.1016/b978-0-12-407671-6.00003-3",
+          "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+          "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
           "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306463230",
@@ -102851,54 +102855,58 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4000000059604645,
-          "display_name": "Affordable and clean energy"
+          "score": 0.9090999960899353
+        },
+        {
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9",
+          "score": 0.8970999717712402
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
-      "referenced_works_count": 6,
+      "referenced_works_count": 1,
       "referenced_works": [
-        "https://openalex.org/W1598314256",
-        "https://openalex.org/W1854715208",
-        "https://openalex.org/W2077377887",
-        "https://openalex.org/W2106176530",
-        "https://openalex.org/W2148258822",
-        "https://openalex.org/W6635922959"
+        "https://openalex.org/W1993951635"
       ],
       "related_works": [
-        "https://openalex.org/W2022878502",
-        "https://openalex.org/W3022161946",
-        "https://openalex.org/W4400442186",
-        "https://openalex.org/W4392811665",
-        "https://openalex.org/W2057007381",
-        "https://openalex.org/W2001444850",
-        "https://openalex.org/W2081160795",
-        "https://openalex.org/W2187698382",
-        "https://openalex.org/W2339701996",
-        "https://openalex.org/W4400769879"
+        "https://openalex.org/W4230377011",
+        "https://openalex.org/W19749600",
+        "https://openalex.org/W2018635693",
+        "https://openalex.org/W2947035911",
+        "https://openalex.org/W1988460569",
+        "https://openalex.org/W7097290757",
+        "https://openalex.org/W7098724272",
+        "https://openalex.org/W3180801265",
+        "https://openalex.org/W2155241837",
+        "https://openalex.org/W1977724235"
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [
         {
-          "year": 2025,
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
           "cited_by_count": 1
         }
       ],
       "updated_date": "2026-10-14T16:39:01.820549",
-      "created_date": "2016-08-23T00:00:00"
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W1537786900",
@@ -103337,8 +103345,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1537786900.pdf",
@@ -104115,8 +104123,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2947262027.pdf"
@@ -104152,458 +104160,6 @@
       ],
       "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2019-06-07T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W225370162",
-      "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
-      "title": "Capturing Carbon Dioxide",
-      "display_name": "Capturing Carbon Dioxide",
-      "publication_year": 2013,
-      "publication_date": "2013-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W225370162",
-        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
-        "mag": "225370162"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-0-12-407671-6.00003-3",
-        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Returning Coal and Carbon to Nature",
-        "raw_type": "book-chapter"
-      },
-      "volume": {
-        "id": "https://openalex.org/W4246786965",
-        "display_name": "Returning Coal and Carbon to Nature"
-      },
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9881-1578"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Michael Stephenson",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.819,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.70175439,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "45",
-        "last_page": "62"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10967",
-        "display_name": "Carbon Dioxide Capture Technologies",
-        "score": 0.9907000064849854,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1506",
-          "display_name": "Filtration and Separation"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/15",
-          "display_name": "Chemical Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10967",
-          "display_name": "Carbon Dioxide Capture Technologies",
-          "score": 0.9907000064849854,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1506",
-            "display_name": "Filtration and Separation"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/15",
-            "display_name": "Chemical Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.007400000002235174,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12271",
-          "display_name": "Renewable energy and sustainable power systems",
-          "score": 0.000699999975040555,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/co2-capture",
-          "display_name": "CO2 capture",
-          "score": 0.9139999747276306
-        },
-        {
-          "id": "https://openalex.org/keywords/power-plants",
-          "display_name": "power plants",
-          "score": 0.7770000100135803
-        },
-        {
-          "id": "https://openalex.org/keywords/coal-fired-power-generation",
-          "display_name": "coal-fired power generation",
-          "score": 0.6449999809265137
-        },
-        {
-          "id": "https://openalex.org/keywords/co2-emission-reduction",
-          "display_name": "CO2 emission reduction",
-          "score": 0.8560000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
-          "display_name": "carbon capture and storage",
-          "score": 0.75
-        },
-        {
-          "id": "https://openalex.org/keywords/geological-storage",
-          "display_name": "geological storage",
-          "score": 0.41600000858306885
-        },
-        {
-          "id": "https://openalex.org/keywords/north-sea",
-          "display_name": "North Sea",
-          "score": 0.550000011920929
-        },
-        {
-          "id": "https://openalex.org/keywords/humber",
-          "display_name": "Humber",
-          "score": 0.46000000834465027
-        },
-        {
-          "id": "https://openalex.org/keywords/electricity-generation",
-          "display_name": "electricity generation",
-          "score": 0.6589999794960022
-        },
-        {
-          "id": "https://openalex.org/keywords/transport-decarbonization",
-          "display_name": "transport decarbonization",
-          "score": 0.8410000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/co2-pipelines",
-          "display_name": "CO2 pipelines",
-          "score": 0.3479999899864197
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C206658404",
-          "wikidata": "https://www.wikidata.org/wiki/Q12725",
-          "display_name": "Electricity",
-          "level": 2,
-          "score": 0.699105978012085
-        },
-        {
-          "id": "https://openalex.org/C2778324724",
-          "wikidata": "https://www.wikidata.org/wiki/Q1076056",
-          "display_name": "Electrification",
-          "level": 3,
-          "score": 0.6670136451721191
-        },
-        {
-          "id": "https://openalex.org/C52121051",
-          "wikidata": "https://www.wikidata.org/wiki/Q43193",
-          "display_name": "Truck",
-          "level": 2,
-          "score": 0.6366050839424133
-        },
-        {
-          "id": "https://openalex.org/C518851703",
-          "wikidata": "https://www.wikidata.org/wiki/Q24489",
-          "display_name": "Coal",
-          "level": 2,
-          "score": 0.5121123790740967
-        },
-        {
-          "id": "https://openalex.org/C423512",
-          "wikidata": "https://www.wikidata.org/wiki/Q383973",
-          "display_name": "Electricity generation",
-          "level": 3,
-          "score": 0.4445480704307556
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.4373217225074768
-        },
-        {
-          "id": "https://openalex.org/C163258240",
-          "wikidata": "https://www.wikidata.org/wiki/Q25342",
-          "display_name": "Power (physics)",
-          "level": 2,
-          "score": 0.4185987412929535
-        },
-        {
-          "id": "https://openalex.org/C175605778",
-          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
-          "display_name": "Natural resource economics",
-          "level": 1,
-          "score": 0.38247770071029663
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.38229119777679443
-        },
-        {
-          "id": "https://openalex.org/C134560507",
-          "wikidata": "https://www.wikidata.org/wiki/Q753291",
-          "display_name": "Environmental economics",
-          "level": 1,
-          "score": 0.3698105812072754
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.33028513193130493
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.24047747254371643
-        },
-        {
-          "id": "https://openalex.org/C119599485",
-          "wikidata": "https://www.wikidata.org/wiki/Q43035",
-          "display_name": "Electrical engineering",
-          "level": 1,
-          "score": 0.2332840859889984
-        },
-        {
-          "id": "https://openalex.org/C171146098",
-          "wikidata": "https://www.wikidata.org/wiki/Q124192",
-          "display_name": "Automotive engineering",
-          "level": 1,
-          "score": 0.2130209505558014
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0.13813698291778564
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-0-12-407671-6.00003-3",
-          "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00003-3",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Returning Coal and Carbon to Nature",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
-        },
-        {
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9090999960899353,
-          "display_name": "Affordable and clean energy"
-        },
-        {
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.8970999717712402,
-          "display_name": "Industry, innovation and infrastructure"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 1,
-      "referenced_works": [
-        "https://openalex.org/W1993951635"
-      ],
-      "related_works": [
-        "https://openalex.org/W4230377011",
-        "https://openalex.org/W19749600",
-        "https://openalex.org/W2018635693",
-        "https://openalex.org/W2947035911",
-        "https://openalex.org/W1988460569",
-        "https://openalex.org/W7097290757",
-        "https://openalex.org/W7098724272",
-        "https://openalex.org/W3180801265",
-        "https://openalex.org/W2155241837",
-        "https://openalex.org/W1977724235"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-14T16:39:01.820549",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2794465049",
@@ -104997,22 +104553,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy"
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -105456,27 +105012,27 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9090999960899353,
-          "display_name": "Affordable and clean energy"
+          "score": 0.9090999960899353
         },
         {
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.7811999917030334,
-          "display_name": "Responsible consumption and production"
+          "score": 0.7811999917030334
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -105842,8 +105398,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -105875,6 +105431,450 @@
       ],
       "updated_date": "2026-10-14T16:39:01.820549",
       "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2478323162",
+      "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+      "title": "Accounting for Carbon",
+      "display_name": "Accounting for Carbon",
+      "publication_year": 2013,
+      "publication_date": "2013-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2478323162",
+        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+        "mag": "2478323162"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-0-12-407671-6.00006-9",
+        "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463230",
+          "display_name": "Elsevier eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Returning Coal and Carbon to Nature",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4246786965",
+        "display_name": "Returning Coal and Carbon to Nature"
+      },
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9881-1578"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Michael Stephenson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "121",
+        "last_page": "143"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10471",
+        "display_name": "Climate Change Policy and Economics",
+        "score": 0.7577999830245972,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2002",
+          "display_name": "Economics and Econometrics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/20",
+          "display_name": "Economics, Econometrics and Finance"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10471",
+          "display_name": "Climate Change Policy and Economics",
+          "score": 0.7577999830245972,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2002",
+            "display_name": "Economics and Econometrics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/20",
+            "display_name": "Economics, Econometrics and Finance"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10967",
+          "display_name": "Carbon Dioxide Capture Technologies",
+          "score": 0.10199999809265137,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1506",
+            "display_name": "Filtration and Separation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/15",
+            "display_name": "Chemical Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.06909999996423721,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
+          "display_name": "carbon capture and storage",
+          "score": 0.9990000128746033
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-emission-reduction",
+          "display_name": "CO2 emission reduction",
+          "score": 0.968999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/co2-sequestration",
+          "display_name": "CO2 sequestration",
+          "score": 0.5360000133514404
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-tax",
+          "display_name": "carbon tax",
+          "score": 0.5320000052452087
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change-mitigation",
+          "display_name": "climate change mitigation",
+          "score": 0.5299999713897705
+        },
+        {
+          "id": "https://openalex.org/keywords/lifestyle-modification",
+          "display_name": "lifestyle modification",
+          "score": 0.45899999141693115
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2778379663",
+          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
+          "display_name": "Carbon capture and storage (timeline)",
+          "level": 3,
+          "score": 0.6138653755187988
+        },
+        {
+          "id": "https://openalex.org/C59427239",
+          "wikidata": "https://www.wikidata.org/wiki/Q40858",
+          "display_name": "Natural gas",
+          "level": 2,
+          "score": 0.5441974997520447
+        },
+        {
+          "id": "https://openalex.org/C76758496",
+          "wikidata": "https://www.wikidata.org/wiki/Q191118",
+          "display_name": "Tonne",
+          "level": 2,
+          "score": 0.5238580703735352
+        },
+        {
+          "id": "https://openalex.org/C47737302",
+          "wikidata": "https://www.wikidata.org/wiki/Q167336",
+          "display_name": "Greenhouse gas",
+          "level": 2,
+          "score": 0.47821304202079773
+        },
+        {
+          "id": "https://openalex.org/C2778137410",
+          "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+          "display_name": "Government (linguistics)",
+          "level": 2,
+          "score": 0.45371541380882263
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.43674522638320923
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.4359420835971832
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.4170113205909729
+        },
+        {
+          "id": "https://openalex.org/C2778976125",
+          "wikidata": "https://www.wikidata.org/wiki/Q288401",
+          "display_name": "Carbon tax",
+          "level": 3,
+          "score": 0.4155215322971344
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4154224097728729
+        },
+        {
+          "id": "https://openalex.org/C108713360",
+          "wikidata": "https://www.wikidata.org/wiki/Q1824206",
+          "display_name": "Supply chain",
+          "level": 2,
+          "score": 0.41126835346221924
+        },
+        {
+          "id": "https://openalex.org/C134560507",
+          "wikidata": "https://www.wikidata.org/wiki/Q753291",
+          "display_name": "Environmental economics",
+          "level": 1,
+          "score": 0.39508768916130066
+        },
+        {
+          "id": "https://openalex.org/C175605778",
+          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+          "display_name": "Natural resource economics",
+          "level": 1,
+          "score": 0.38560351729393005
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.15403297543525696
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.12451934814453125
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.12289571762084961
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-0-12-407671-6.00006-9",
+          "doi": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-0-12-407671-6.00006-9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463230",
+            "display_name": "Elsevier eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Returning Coal and Carbon to Nature",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1
+        },
+        {
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.4000000059604645
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 6,
+      "referenced_works": [
+        "https://openalex.org/W1598314256",
+        "https://openalex.org/W1854715208",
+        "https://openalex.org/W2077377887",
+        "https://openalex.org/W2106176530",
+        "https://openalex.org/W2148258822",
+        "https://openalex.org/W6635922959"
+      ],
+      "related_works": [
+        "https://openalex.org/W2022878502",
+        "https://openalex.org/W3022161946",
+        "https://openalex.org/W4400442186",
+        "https://openalex.org/W4392811665",
+        "https://openalex.org/W2057007381",
+        "https://openalex.org/W2001444850",
+        "https://openalex.org/W2081160795",
+        "https://openalex.org/W2187698382",
+        "https://openalex.org/W2339701996",
+        "https://openalex.org/W4400769879"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-14T16:39:01.820549",
+      "created_date": "2016-08-23T00:00:00"
     },
     {
       "id": "https://openalex.org/W2487076602",
@@ -105970,12 +105970,12 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.19545455,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 93
       },
       "biblio": {
@@ -106241,17 +106241,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75,
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -106381,7 +106381,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.30496454,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106688,17 +106688,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -106974,11 +106974,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1683,
+      "fwci": 0.1675,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.43038406,
+        "value": 0.290523,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -107253,8 +107253,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -107767,8 +107767,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -108506,8 +108506,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -110294,8 +110294,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -111130,17 +111130,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life on land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4390000104904175,
-          "display_name": "Life on land"
+          "score": 0.4390000104904175
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -111174,6 +111174,428 @@
       ],
       "updated_date": "2026-10-30T12:39:25.321706",
       "created_date": "2016-09-16T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W111117056",
+      "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
+      "title": "Shale Gas and Climate",
+      "display_name": "Shale Gas and Climate",
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W111117056",
+        "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
+        "mag": "111117056"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-0-12-801606-0.00007-8",
+        "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463230",
+          "display_name": "Elsevier eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Shale Gas and Fracking",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4235173206",
+        "display_name": "Shale Gas and Fracking"
+      },
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9881-1578"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Michael Stephenson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "111",
+        "last_page": "123"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12271",
+        "display_name": "Renewable energy and sustainable power systems",
+        "score": 0.3452000021934509,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2105",
+          "display_name": "Renewable Energy, Sustainability and the Environment"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12271",
+          "display_name": "Renewable energy and sustainable power systems",
+          "score": 0.3452000021934509,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11588",
+          "display_name": "Atmospheric and Environmental Gas Dynamics",
+          "score": 0.2957000136375427,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12129",
+          "display_name": "Global Energy Security and Policy",
+          "score": 0.12999999523162842,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2100",
+            "display_name": "General Energy"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/shale-gas",
+          "display_name": "shale gas",
+          "score": 1
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "climate change",
+          "score": 0.9319999814033508
+        },
+        {
+          "id": "https://openalex.org/keywords/greenhouse-gas-emissions",
+          "display_name": "greenhouse gas emissions",
+          "score": 0.8119999766349792
+        },
+        {
+          "id": "https://openalex.org/keywords/coal-comparison",
+          "display_name": "coal comparison",
+          "score": 0.460999995470047
+        },
+        {
+          "id": "https://openalex.org/keywords/hydraulic-fracturing",
+          "display_name": "hydraulic fracturing",
+          "score": 0.8349999785423279
+        },
+        {
+          "id": "https://openalex.org/keywords/energy-transition",
+          "display_name": "energy transition",
+          "score": 0.49300000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/low-carbon-energy",
+          "display_name": "low-carbon energy",
+          "score": 0.8019999861717224
+        },
+        {
+          "id": "https://openalex.org/keywords/electricity-generation",
+          "display_name": "electricity generation",
+          "score": 0.515999972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/electric-vehicles",
+          "display_name": "electric vehicles",
+          "score": 0.5789999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/energy-policy",
+          "display_name": "energy policy",
+          "score": 0.3409999907016754
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.6541854739189148
+        },
+        {
+          "id": "https://openalex.org/C518851703",
+          "wikidata": "https://www.wikidata.org/wiki/Q24489",
+          "display_name": "Coal",
+          "level": 2,
+          "score": 0.6219663619995117
+        },
+        {
+          "id": "https://openalex.org/C206658404",
+          "wikidata": "https://www.wikidata.org/wiki/Q12725",
+          "display_name": "Electricity",
+          "level": 2,
+          "score": 0.5815483927726746
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.5743697881698608
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.5652994513511658
+        },
+        {
+          "id": "https://openalex.org/C2993020645",
+          "wikidata": "https://www.wikidata.org/wiki/Q564726",
+          "display_name": "Shale gas",
+          "level": 3,
+          "score": 0.561065673828125
+        },
+        {
+          "id": "https://openalex.org/C188573790",
+          "wikidata": "https://www.wikidata.org/wiki/Q12705",
+          "display_name": "Renewable energy",
+          "level": 2,
+          "score": 0.5588842630386353
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.4944417476654053
+        },
+        {
+          "id": "https://openalex.org/C516920438",
+          "wikidata": "https://www.wikidata.org/wiki/Q37129",
+          "display_name": "Methane",
+          "level": 2,
+          "score": 0.48984286189079285
+        },
+        {
+          "id": "https://openalex.org/C175605778",
+          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+          "display_name": "Natural resource economics",
+          "level": 1,
+          "score": 0.35342320799827576
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.3485652208328247
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.11853516101837158
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0757502019405365
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C119599485",
+          "wikidata": "https://www.wikidata.org/wiki/Q43035",
+          "display_name": "Electrical engineering",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-0-12-801606-0.00007-8",
+          "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463230",
+            "display_name": "Elsevier eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Shale Gas and Fracking",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 1
+        },
+        {
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9853000044822693
+        }
+      ],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 7,
+      "referenced_works": [
+        "https://openalex.org/W2004216675",
+        "https://openalex.org/W2040812301",
+        "https://openalex.org/W2106176530",
+        "https://openalex.org/W2139010298",
+        "https://openalex.org/W2156092401",
+        "https://openalex.org/W2168126608",
+        "https://openalex.org/W2795275314"
+      ],
+      "related_works": [
+        "https://openalex.org/W2063530207",
+        "https://openalex.org/W2344588502",
+        "https://openalex.org/W2466284593",
+        "https://openalex.org/W4210985780",
+        "https://openalex.org/W2030976512",
+        "https://openalex.org/W2078989973",
+        "https://openalex.org/W1518296267",
+        "https://openalex.org/W2580063030",
+        "https://openalex.org/W2809225656",
+        "https://openalex.org/W2918486125"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-11-11T12:16:26.678958",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W144664623",
@@ -111560,8 +111982,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -112434,8 +112856,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7138960913.pdf",
@@ -113085,428 +113507,6 @@
       "created_date": "2026-03-20T00:00:00"
     },
     {
-      "id": "https://openalex.org/W111117056",
-      "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
-      "title": "Shale Gas and Climate",
-      "display_name": "Shale Gas and Climate",
-      "publication_year": 2015,
-      "publication_date": "2015-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W111117056",
-        "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
-        "mag": "111117056"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-0-12-801606-0.00007-8",
-        "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Shale Gas and Fracking",
-        "raw_type": "book-chapter"
-      },
-      "volume": {
-        "id": "https://openalex.org/W4235173206",
-        "display_name": "Shale Gas and Fracking"
-      },
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9881-1578"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Michael Stephenson",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.00291829,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "111",
-        "last_page": "123"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12271",
-        "display_name": "Renewable energy and sustainable power systems",
-        "score": 0.3452000021934509,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2105",
-          "display_name": "Renewable Energy, Sustainability and the Environment"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12271",
-          "display_name": "Renewable energy and sustainable power systems",
-          "score": 0.3452000021934509,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11588",
-          "display_name": "Atmospheric and Environmental Gas Dynamics",
-          "score": 0.2957000136375427,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12129",
-          "display_name": "Global Energy Security and Policy",
-          "score": 0.12999999523162842,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2100",
-            "display_name": "General Energy"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/shale-gas",
-          "display_name": "shale gas",
-          "score": 1
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "climate change",
-          "score": 0.9319999814033508
-        },
-        {
-          "id": "https://openalex.org/keywords/greenhouse-gas-emissions",
-          "display_name": "greenhouse gas emissions",
-          "score": 0.8119999766349792
-        },
-        {
-          "id": "https://openalex.org/keywords/coal-comparison",
-          "display_name": "coal comparison",
-          "score": 0.460999995470047
-        },
-        {
-          "id": "https://openalex.org/keywords/hydraulic-fracturing",
-          "display_name": "hydraulic fracturing",
-          "score": 0.8349999785423279
-        },
-        {
-          "id": "https://openalex.org/keywords/energy-transition",
-          "display_name": "energy transition",
-          "score": 0.49300000071525574
-        },
-        {
-          "id": "https://openalex.org/keywords/low-carbon-energy",
-          "display_name": "low-carbon energy",
-          "score": 0.8019999861717224
-        },
-        {
-          "id": "https://openalex.org/keywords/electricity-generation",
-          "display_name": "electricity generation",
-          "score": 0.515999972820282
-        },
-        {
-          "id": "https://openalex.org/keywords/electric-vehicles",
-          "display_name": "electric vehicles",
-          "score": 0.5789999961853027
-        },
-        {
-          "id": "https://openalex.org/keywords/energy-policy",
-          "display_name": "energy policy",
-          "score": 0.3409999907016754
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.6541854739189148
-        },
-        {
-          "id": "https://openalex.org/C518851703",
-          "wikidata": "https://www.wikidata.org/wiki/Q24489",
-          "display_name": "Coal",
-          "level": 2,
-          "score": 0.6219663619995117
-        },
-        {
-          "id": "https://openalex.org/C206658404",
-          "wikidata": "https://www.wikidata.org/wiki/Q12725",
-          "display_name": "Electricity",
-          "level": 2,
-          "score": 0.5815483927726746
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.5743697881698608
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.5652994513511658
-        },
-        {
-          "id": "https://openalex.org/C2993020645",
-          "wikidata": "https://www.wikidata.org/wiki/Q564726",
-          "display_name": "Shale gas",
-          "level": 3,
-          "score": 0.561065673828125
-        },
-        {
-          "id": "https://openalex.org/C188573790",
-          "wikidata": "https://www.wikidata.org/wiki/Q12705",
-          "display_name": "Renewable energy",
-          "level": 2,
-          "score": 0.5588842630386353
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.4944417476654053
-        },
-        {
-          "id": "https://openalex.org/C516920438",
-          "wikidata": "https://www.wikidata.org/wiki/Q37129",
-          "display_name": "Methane",
-          "level": 2,
-          "score": 0.48984286189079285
-        },
-        {
-          "id": "https://openalex.org/C175605778",
-          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
-          "display_name": "Natural resource economics",
-          "level": 1,
-          "score": 0.35342320799827576
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.3485652208328247
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.11853516101837158
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0.0757502019405365
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C119599485",
-          "wikidata": "https://www.wikidata.org/wiki/Q43035",
-          "display_name": "Electrical engineering",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-0-12-801606-0.00007-8",
-          "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-12-801606-0.00007-8",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Shale Gas and Fracking",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
-        },
-        {
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9853000044822693,
-          "display_name": "Affordable and clean energy"
-        }
-      ],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 7,
-      "referenced_works": [
-        "https://openalex.org/W2004216675",
-        "https://openalex.org/W2040812301",
-        "https://openalex.org/W2106176530",
-        "https://openalex.org/W2139010298",
-        "https://openalex.org/W2156092401",
-        "https://openalex.org/W2168126608",
-        "https://openalex.org/W2795275314"
-      ],
-      "related_works": [
-        "https://openalex.org/W2063530207",
-        "https://openalex.org/W2344588502",
-        "https://openalex.org/W2466284593",
-        "https://openalex.org/W4210985780",
-        "https://openalex.org/W2030976512",
-        "https://openalex.org/W2078989973",
-        "https://openalex.org/W1518296267",
-        "https://openalex.org/W2580063030",
-        "https://openalex.org/W2809225656",
-        "https://openalex.org/W2918486125"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2026-10-14T16:39:01.820549",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W1525699477",
       "doi": null,
       "title": "Development of an online database of mapped UK offshore carbon dioxide (CO2) storage capacity.",
@@ -113889,22 +113889,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         },
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.5378999710083008,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.5378999710083008
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -114324,7 +114324,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08920374,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -114477,17 +114477,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -114792,8 +114792,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -115843,8 +115843,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -116154,8 +116154,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -116340,7 +116340,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10055866,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -116667,22 +116667,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9853000044822693,
-          "display_name": "Affordable and clean energy"
+          "score": 0.9853000044822693
         },
         {
+          "display_name": "Industry, innovation and infrastructure",
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.8970999717712402,
-          "display_name": "Industry, innovation and infrastructure"
+          "score": 0.8970999717712402
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -117424,8 +117424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2174481660.pdf",
@@ -118115,8 +118115,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -118595,7 +118595,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.42442478,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -118849,22 +118849,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.571399986743927,
-          "display_name": "Affordable and clean energy"
+          "score": 0.571399986743927
         },
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46149998903274536,
-          "display_name": "Climate action"
+          "score": 0.46149998903274536
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -119280,7 +119280,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19694973,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -119481,8 +119481,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -119860,8 +119860,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -120206,8 +120206,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -120609,8 +120609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -120730,7 +120730,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34987593,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -120966,17 +120966,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -121150,7 +121150,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25031211,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -121392,8 +121392,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -121606,7 +121606,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21794872,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -121908,17 +121908,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -122927,8 +122927,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -123837,8 +123837,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -123946,7 +123946,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38656789,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -124165,17 +124165,17 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy"
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2759826826.pdf",
@@ -124294,7 +124294,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02719033,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -124555,17 +124555,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -124947,8 +124947,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -125074,7 +125074,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04346532,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -125320,17 +125320,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -125788,22 +125788,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.9786999821662903,
-          "display_name": "Climate action"
+          "score": 0.9786999821662903
         },
         {
+          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6618000268936157,
-          "display_name": "Clean water and sanitation"
+          "score": 0.6618000268936157
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -126096,7 +126096,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26145173,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -126299,17 +126299,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -126503,7 +126503,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32383058,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -126720,17 +126720,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "score": 0.5769000053405762
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -127026,7 +127026,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36260528,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -127189,17 +127189,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 1,
-          "display_name": "Life below water"
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -127577,8 +127577,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -128247,7 +128247,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.41523095,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -128474,17 +128474,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Peace, justice, and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
-          "score": 0.47620001435279846,
-          "display_name": "Peace, justice, and strong institutions"
+          "score": 0.47620001435279846
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -128580,7 +128580,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48457711,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -128713,8 +128713,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129154,8 +129154,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129626,8 +129626,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129837,7 +129837,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.73575557,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -130010,8 +130010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -130417,8 +130417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -131324,8 +131324,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4233155148.pdf",
@@ -131495,7 +131495,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.46026987,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -131782,8 +131782,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -132441,8 +132441,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132861,17 +132861,17 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W49122545.pdf",
@@ -133536,17 +133536,17 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75,
-          "display_name": "Climate action"
+          "score": 0.75
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -134963,22 +134963,22 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 1,
-          "display_name": "Climate action"
+          "score": 1
         },
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.9090999960899353,
-          "display_name": "Affordable and clean energy"
+          "score": 0.9090999960899353
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -136879,22 +136879,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.75,
-          "display_name": "Affordable and clean energy"
+          "score": 0.75
         },
         {
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -137456,8 +137456,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

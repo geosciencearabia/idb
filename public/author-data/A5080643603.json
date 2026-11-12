@@ -13,9 +13,9 @@
     ],
     "full_name": "Septriandi Asmaidi Chan",
     "works_count": 29,
-    "cited_by_count": 220,
+    "cited_by_count": 222,
     "summary_stats": {
-      "2yr_mean_citedness": 2,
+      "2yr_mean_citedness": 2.1666666666666665,
       "h_index": 9,
       "i10_index": 9
     },
@@ -328,7 +328,7 @@
         "year": 2026,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 28
+        "cited_by_count": 30
       }
     ],
     "display_name_alternatives": [
@@ -339,7 +339,8 @@
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
     "awards_count": 0,
-    "updated_date": "2026-11-07T12:08:38",
+    "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5080643603",
+    "updated_date": "2026-11-11T13:02:13",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -685,16 +686,16 @@
         "currency": "USD",
         "value_usd": 2710
       },
-      "fwci": 3.7278,
+      "fwci": 3.7128,
       "has_fulltext": true,
-      "cited_by_count": 40,
+      "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.93592677,
+        "value": 0.93294024,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 96,
+        "min": 97,
         "max": 99
       },
       "biblio": {
@@ -1683,7 +1684,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -1702,7 +1703,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-11T12:16:26.678958",
       "created_date": "2021-08-02T00:00:00"
     },
     {
@@ -3494,16 +3495,16 @@
         "value_usd": 3140
       },
       "apc_paid": null,
-      "fwci": 1.2463,
+      "fwci": 1.2378,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.7621452,
+        "value": 0.73954116,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -4074,11 +4075,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0535,
+      "fwci": 1.0529,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.72867092,
+        "value": 0.69759351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4804,11 +4805,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 16.7508,
+      "fwci": 16.5324,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.9917103,
+        "value": 0.99085764,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6912,11 +6913,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1533,
+      "fwci": 0.1534,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.43344527,
+        "value": 0.38861286,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10257,6 +10258,1658 @@
       "created_date": "2024-01-13T00:00:00"
     },
     {
+      "id": "https://openalex.org/W7133200968",
+      "doi": "https://doi.org/10.1016/j.jaesx.2026.100220",
+      "title": "Vertical variability of geochemical, petrophysical, and rock mechanical properties in upper Cretaceous organic-rich carbonate source rocks, Jordan",
+      "display_name": "Vertical variability of geochemical, petrophysical, and rock mechanical properties in upper Cretaceous organic-rich carbonate source rocks, Jordan",
+      "publication_year": 2026,
+      "publication_date": "2026-03-02",
+      "ids": {
+        "openalex": "https://openalex.org/W7133200968",
+        "doi": "https://doi.org/10.1016/j.jaesx.2026.100220"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.jaesx.2026.100220",
+        "doi": "https://doi.org/10.1016/j.jaesx.2026.100220",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210215885",
+          "display_name": "Journal of Asian Earth Sciences X",
+          "issn_l": "2590-0560",
+          "issn": [
+            "2590-0560"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "oarl",
+            "poland-20"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Asian Earth Sciences: X",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5094009312",
+            "display_name": "Samer Aljurf",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Samer Aljurf",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079903196",
+            "display_name": "Israa S. Abu‐Mahfouz",
+            "orcid": "https://orcid.org/0000-0001-5832-7354",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5832-7354"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Israa S. Abu-Mahfouz",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-5832-7354",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5064720324",
+            "display_name": "Ammar El‐Husseiny",
+            "orcid": "https://orcid.org/0000-0001-5762-6109",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-5762-6109"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ammar El-Husseiny",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5075429508",
+            "display_name": "Amjed Hassan",
+            "orcid": "https://orcid.org/0000-0002-4487-6982",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4487-6982"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amjed Hassan",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080643603",
+            "display_name": "Septriandi A. Chan",
+            "orcid": "https://orcid.org/0000-0002-3681-7464",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-3681-7464"
+            ]
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Septriandi Chan",
+          "raw_affiliation_strings": [
+            "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5061306034",
+            "display_name": "Thomas Finkbeiner",
+            "orcid": "https://orcid.org/0000-0002-6137-6162",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6137-6162"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Finkbeiner",
+          "raw_affiliation_strings": [
+            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology, Thuwal 23955‑6900, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology, Thuwal 23955‑6900, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5079903196"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 2460,
+        "currency": "USD",
+        "value_usd": 2460
+      },
+      "apc_paid": {
+        "value": 2460,
+        "currency": "USD",
+        "value_usd": 2460
+      },
+      "fwci": 7.9362,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.96149068,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": null,
+        "first_page": "100220",
+        "last_page": "100220"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9976000189781189,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9976000189781189,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10161",
+          "display_name": "Rock Mechanics and Modeling",
+          "score": 0.0006000000284984708,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/vertical-heterogeneity",
+          "display_name": "vertical heterogeneity",
+          "score": 0.9120000004768372
+        },
+        {
+          "id": "https://openalex.org/keywords/petrophysical-properties",
+          "display_name": "petrophysical properties",
+          "score": 0.734000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/rock-mechanical-properties",
+          "display_name": "rock mechanical properties",
+          "score": 0.9779999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "diagenesis",
+          "score": 0.7369999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity-reduction",
+          "display_name": "porosity reduction",
+          "score": 0.734000027179718
+        },
+        {
+          "id": "https://openalex.org/keywords/silica-enrichment",
+          "display_name": "silica enrichment",
+          "score": 0.9779999852180481
+        },
+        {
+          "id": "https://openalex.org/keywords/brittleness",
+          "display_name": "brittleness",
+          "score": 0.6639999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/total-organic-carbon",
+          "display_name": "total organic carbon",
+          "score": 0.6549999713897705
+        },
+        {
+          "id": "https://openalex.org/keywords/upper-cretaceous",
+          "display_name": "Upper Cretaceous",
+          "score": 0.7549999952316284
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "oil shale",
+          "score": 0.6740000247955322
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-characterization",
+          "display_name": "reservoir characterization",
+          "score": 0.6510000228881836
+        },
+        {
+          "id": "https://openalex.org/keywords/unconfined-compressive-strength",
+          "display_name": "unconfined compressive strength",
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/leeb-hardness",
+          "display_name": "Leeb hardness",
+          "score": 0.593999981880188
+        },
+        {
+          "id": "https://openalex.org/keywords/p-wave-velocity",
+          "display_name": "P-wave velocity",
+          "score": 0.640999972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "mineralogy",
+          "score": 0.515999972820282
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8496999740600586
+        },
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.7206000089645386
+        },
+        {
+          "id": "https://openalex.org/C130452526",
+          "wikidata": "https://www.wikidata.org/wiki/Q180621",
+          "display_name": "Diagenesis",
+          "level": 2,
+          "score": 0.6308000087738037
+        },
+        {
+          "id": "https://openalex.org/C46293882",
+          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
+          "display_name": "Petrophysics",
+          "level": 3,
+          "score": 0.5976999998092651
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5934000015258789
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.5582000017166138
+        },
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.5565999746322632
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.4661000072956085
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.45010000467300415
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.44690001010894775
+        },
+        {
+          "id": "https://openalex.org/C2779196632",
+          "wikidata": "https://www.wikidata.org/wiki/Q938398",
+          "display_name": "Kerogen",
+          "level": 4,
+          "score": 0.39500001072883606
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.38339999318122864
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.37400001287460327
+        },
+        {
+          "id": "https://openalex.org/C196715460",
+          "wikidata": "https://www.wikidata.org/wiki/Q1414356",
+          "display_name": "Compaction",
+          "level": 2,
+          "score": 0.364300012588501
+        },
+        {
+          "id": "https://openalex.org/C2779002002",
+          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
+          "display_name": "Carbonate minerals",
+          "level": 3,
+          "score": 0.34549999237060547
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.33340001106262207
+        },
+        {
+          "id": "https://openalex.org/C27438332",
+          "wikidata": "https://www.wikidata.org/wiki/Q2873",
+          "display_name": "Principal component analysis",
+          "level": 2,
+          "score": 0.328000009059906
+        },
+        {
+          "id": "https://openalex.org/C93973069",
+          "wikidata": "https://www.wikidata.org/wiki/Q899249",
+          "display_name": "Bulk density",
+          "level": 3,
+          "score": 0.3276999890804291
+        },
+        {
+          "id": "https://openalex.org/C113215200",
+          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
+          "display_name": "Petroleum reservoir",
+          "level": 2,
+          "score": 0.3248000144958496
+        },
+        {
+          "id": "https://openalex.org/C133916931",
+          "wikidata": "https://www.wikidata.org/wiki/Q1813872",
+          "display_name": "Stylolite",
+          "level": 3,
+          "score": 0.3059000074863434
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.29829999804496765
+        },
+        {
+          "id": "https://openalex.org/C2778537970",
+          "wikidata": "https://www.wikidata.org/wiki/Q1134814",
+          "display_name": "Dolostone",
+          "level": 4,
+          "score": 0.29750001430511475
+        },
+        {
+          "id": "https://openalex.org/C2779870107",
+          "wikidata": "https://www.wikidata.org/wiki/Q43010",
+          "display_name": "Quartz",
+          "level": 2,
+          "score": 0.28459998965263367
+        },
+        {
+          "id": "https://openalex.org/C29452850",
+          "wikidata": "https://www.wikidata.org/wiki/Q3823104",
+          "display_name": "Overpressure",
+          "level": 2,
+          "score": 0.2782999873161316
+        },
+        {
+          "id": "https://openalex.org/C174030287",
+          "wikidata": "https://www.wikidata.org/wiki/Q7414381",
+          "display_name": "San Joaquin",
+          "level": 2,
+          "score": 0.2770000100135803
+        },
+        {
+          "id": "https://openalex.org/C66097969",
+          "wikidata": "https://www.wikidata.org/wiki/Q2799076",
+          "display_name": "Drill cuttings",
+          "level": 4,
+          "score": 0.26910001039505005
+        },
+        {
+          "id": "https://openalex.org/C25197100",
+          "wikidata": "https://www.wikidata.org/wiki/Q890886",
+          "display_name": "Drilling",
+          "level": 2,
+          "score": 0.2680000066757202
+        },
+        {
+          "id": "https://openalex.org/C35817400",
+          "wikidata": "https://www.wikidata.org/wiki/Q2383566",
+          "display_name": "Well logging",
+          "level": 2,
+          "score": 0.2590000033378601
+        },
+        {
+          "id": "https://openalex.org/C2778609275",
+          "wikidata": "https://www.wikidata.org/wiki/Q691831",
+          "display_name": "Carbonate platform",
+          "level": 4,
+          "score": 0.25780001282691956
+        },
+        {
+          "id": "https://openalex.org/C122792734",
+          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
+          "display_name": "Lithology",
+          "level": 2,
+          "score": 0.25679999589920044
+        },
+        {
+          "id": "https://openalex.org/C14641988",
+          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
+          "display_name": "Reservoir modeling",
+          "level": 2,
+          "score": 0.2540000081062317
+        },
+        {
+          "id": "https://openalex.org/C2776662147",
+          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
+          "display_name": "Hydrocarbon exploration",
+          "level": 3,
+          "score": 0.25360000133514404
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.jaesx.2026.100220",
+          "doi": "https://doi.org/10.1016/j.jaesx.2026.100220",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210215885",
+            "display_name": "Journal of Asian Earth Sciences X",
+            "issn_l": "2590-0560",
+            "issn": [
+              "2590-0560"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "doaj",
+              "dongbi-c",
+              "jufo-1",
+              "oarl",
+              "poland-20"
+            ],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Asian Earth Sciences: X",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:bcac1de2bbf44c9ba46765b8fe77059f",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/bcac1de2bbf44c9ba46765b8fe77059f",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Asian Earth Sciences: X, Vol 15, Iss , Pp 100220- (2026)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.jaesx.2026.100220",
+        "doi": "https://doi.org/10.1016/j.jaesx.2026.100220",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210215885",
+          "display_name": "Journal of Asian Earth Sciences X",
+          "issn_l": "2590-0560",
+          "issn": [
+            "2590-0560"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "oarl",
+            "poland-20"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Asian Earth Sciences: X",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 53,
+      "referenced_works": [
+        "https://openalex.org/W15242090",
+        "https://openalex.org/W81898466",
+        "https://openalex.org/W766487889",
+        "https://openalex.org/W1517624071",
+        "https://openalex.org/W1584500860",
+        "https://openalex.org/W1664739277",
+        "https://openalex.org/W1970964011",
+        "https://openalex.org/W1978255350",
+        "https://openalex.org/W1989177492",
+        "https://openalex.org/W1990055209",
+        "https://openalex.org/W2018764726",
+        "https://openalex.org/W2022048614",
+        "https://openalex.org/W2028049334",
+        "https://openalex.org/W2036400800",
+        "https://openalex.org/W2038814186",
+        "https://openalex.org/W2039093876",
+        "https://openalex.org/W2057391595",
+        "https://openalex.org/W2058476170",
+        "https://openalex.org/W2060754934",
+        "https://openalex.org/W2068263661",
+        "https://openalex.org/W2070068226",
+        "https://openalex.org/W2074829498",
+        "https://openalex.org/W2092165323",
+        "https://openalex.org/W2101691304",
+        "https://openalex.org/W2124969384",
+        "https://openalex.org/W2126576368",
+        "https://openalex.org/W2141657015",
+        "https://openalex.org/W2150922969",
+        "https://openalex.org/W2152632663",
+        "https://openalex.org/W2291832752",
+        "https://openalex.org/W2342151210",
+        "https://openalex.org/W2343739054",
+        "https://openalex.org/W2417828621",
+        "https://openalex.org/W2442588307",
+        "https://openalex.org/W2531450076",
+        "https://openalex.org/W2730387433",
+        "https://openalex.org/W2742199217",
+        "https://openalex.org/W2965019317",
+        "https://openalex.org/W3002118051",
+        "https://openalex.org/W3010780595",
+        "https://openalex.org/W3046259337",
+        "https://openalex.org/W3096041113",
+        "https://openalex.org/W3143909073",
+        "https://openalex.org/W4213030173",
+        "https://openalex.org/W4232576780",
+        "https://openalex.org/W4312705019",
+        "https://openalex.org/W4315786625",
+        "https://openalex.org/W4319785709",
+        "https://openalex.org/W4392185288",
+        "https://openalex.org/W4403064028",
+        "https://openalex.org/W4411485386",
+        "https://openalex.org/W4413770498",
+        "https://openalex.org/W4414158554"
+      ],
+      "related_works": [
+        "https://openalex.org/W7168188589",
+        "https://openalex.org/W6964482684",
+        "https://openalex.org/W4315786625",
+        "https://openalex.org/W4407393621",
+        "https://openalex.org/W2999462428",
+        "https://openalex.org/W4213030173",
+        "https://openalex.org/W4411485386",
+        "https://openalex.org/W4399189172",
+        "https://openalex.org/W2897416659",
+        "https://openalex.org/W3128039934"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          239
+        ],
+        "14": [
+          202
+        ],
+        "19": [
+          221
+        ],
+        "132": [
+          223
+        ],
+        "375": [
+          228
+        ],
+        "710": [
+          230
+        ],
+        "2521": [
+          211
+        ],
+        "6383": [
+          213
+        ],
+        "•": [
+          0,
+          10,
+          21,
+          32,
+          45
+        ],
+        "Multidisciplinary": [
+          1
+        ],
+        "workflow": [
+          2,
+          134
+        ],
+        "reveals": [
+          3
+        ],
+        "strong": [
+          4
+        ],
+        "vertical": [
+          5,
+          103,
+          122,
+          190,
+          282
+        ],
+        "heterogeneity": [
+          6,
+          27,
+          123
+        ],
+        "in": [
+          7,
+          28,
+          41,
+          61
+        ],
+        "carbonate": [
+          8,
+          30,
+          56,
+          297
+        ],
+        "rocks.": [
+          9,
+          299
+        ],
+        "Dolomite": [
+          11,
+          242
+        ],
+        "and": [
+          12,
+          19,
+          26,
+          51,
+          70,
+          82,
+          124,
+          153,
+          164,
+          182,
+          205,
+          232,
+          243,
+          248,
+          254,
+          267,
+          278,
+          289
+        ],
+        "silica": [
+          13,
+          244
+        ],
+        "enrichments": [
+          14
+        ],
+        "increase": [
+          15,
+          246
+        ],
+        "rock": [
+          16,
+          43,
+          130
+        ],
+        "density,": [
+          17,
+          264
+        ],
+        "hardness,": [
+          18
+        ],
+        "strength.": [
+          20
+        ],
+        "Diagenesis": [
+          22
+        ],
+        "drives": [
+          23
+        ],
+        "porosity": [
+          24,
+          200,
+          255
+        ],
+        "loss": [
+          25
+        ],
+        "immature": [
+          29,
+          295
+        ],
+        "reservoirs.": [
+          31
+        ],
+        "Mineralogy": [
+          33
+        ],
+        "is": [
+          34,
+          89,
+          260
+        ],
+        "the": [
+          35,
+          106,
+          114,
+          126
+        ],
+        "key": [
+          36
+        ],
+        "predictor": [
+          37
+        ],
+        "of": [
+          38,
+          113
+        ],
+        "mechanical": [
+          39,
+          154,
+          257
+        ],
+        "properties": [
+          40,
+          84
+        ],
+        "source": [
+          42,
+          57,
+          298
+        ],
+        "systems.": [
+          44
+        ],
+        "Integrated": [
+          46
+        ],
+        "approach": [
+          47
+        ],
+        "refines": [
+          48
+        ],
+        "reservoir": [
+          49,
+          285
+        ],
+        "models": [
+          50
+        ],
+        "sweet-spot": [
+          52
+        ],
+        "identification.": [
+          53
+        ],
+        "Immature": [
+          54
+        ],
+        "organic-rich": [
+          55
+        ],
+        "rocks": [
+          58
+        ],
+        "are": [
+          59
+        ],
+        "widespread": [
+          60
+        ],
+        "sedimentary": [
+          62
+        ],
+        "basins,": [
+          63
+        ],
+        "serving": [
+          64
+        ],
+        "as": [
+          65,
+          71
+        ],
+        "major": [
+          66
+        ],
+        "oil": [
+          67
+        ],
+        "shale": [
+          68
+        ],
+        "resources": [
+          69
+        ],
+        "analogs": [
+          72
+        ],
+        "for": [
+          73,
+          91,
+          294
+        ],
+        "thermally": [
+          74
+        ],
+        "mature": [
+          75
+        ],
+        "unconventional": [
+          76,
+          296
+        ],
+        "plays.": [
+          77
+        ],
+        "Determining": [
+          78
+        ],
+        "their": [
+          79,
+          93
+        ],
+        "baseline": [
+          80
+        ],
+        "petrophysical": [
+          81
+        ],
+        "geomechanical": [
+          83
+        ],
+        "prior": [
+          85
+        ],
+        "to": [
+          86,
+          120,
+          173,
+          197,
+          203,
+          212,
+          222,
+          229,
+          240
+        ],
+        "hydrocarbon": [
+          87
+        ],
+        "generation": [
+          88
+        ],
+        "essential": [
+          90
+        ],
+        "predicting": [
+          92
+        ],
+        "behavior": [
+          94
+        ],
+        "during": [
+          95
+        ],
+        "advanced": [
+          96
+        ],
+        "extraction.": [
+          97
+        ],
+        "This": [
+          98
+        ],
+        "study": [
+          99
+        ],
+        "investigates": [
+          100
+        ],
+        "a": [
+          101,
+          175,
+          291
+        ],
+        "20-meter": [
+          102
+        ],
+        "core": [
+          104,
+          137
+        ],
+        "from": [
+          105,
+          195,
+          201,
+          210,
+          220,
+          227,
+          238
+        ],
+        "Upper": [
+          107
+        ],
+        "Cretaceous": [
+          108
+        ],
+        "bituminous": [
+          109
+        ],
+        "chalky": [
+          110
+        ],
+        "marl": [
+          111
+        ],
+        "interval": [
+          112
+        ],
+        "Al": [
+          115
+        ],
+        "Lajjun": [
+          116
+        ],
+        "Graben,": [
+          117
+        ],
+        "central": [
+          118
+        ],
+        "Jordan,": [
+          119
+        ],
+        "evaluate": [
+          121
+        ],
+        "identify": [
+          125
+        ],
+        "main": [
+          127
+        ],
+        "controls": [
+          128
+        ],
+        "on": [
+          129,
+          167
+        ],
+        "properties.": [
+          131
+        ],
+        "An": [
+          132
+        ],
+        "integrated": [
+          133
+        ],
+        "combined": [
+          135
+        ],
+        "detailed": [
+          136
+        ],
+        "description,": [
+          138
+        ],
+        "petrography,": [
+          139
+        ],
+        "inorganic": [
+          140
+        ],
+        "geochemistry,": [
+          141
+        ],
+        "Rock-Eval": [
+          142
+        ],
+        "pyrolysis,": [
+          143
+        ],
+        "Multi-Sensor": [
+          144
+        ],
+        "Core": [
+          145
+        ],
+        "Logger": [
+          146
+        ],
+        "(MSCL)": [
+          147
+        ],
+        "data,": [
+          148
+        ],
+        "spectral": [
+          149
+        ],
+        "gamma-ray": [
+          150
+        ],
+        "logging": [
+          151
+        ],
+        "(SGR),": [
+          152
+        ],
+        "testing.": [
+          155
+        ],
+        "Multivariate": [
+          156
+        ],
+        "statistical": [
+          157
+        ],
+        "methods,": [
+          158
+        ],
+        "including": [
+          159
+        ],
+        "principal": [
+          160,
+          168
+        ],
+        "component": [
+          161
+        ],
+        "analysis": [
+          162
+        ],
+        "(PCA)": [
+          163
+        ],
+        "hierarchical": [
+          165
+        ],
+        "clustering": [
+          166
+        ],
+        "components": [
+          169
+        ],
+        "(HCPC),": [
+          170
+        ],
+        "were": [
+          171,
+          186
+        ],
+        "applied": [
+          172
+        ],
+        "establish": [
+          174
+        ],
+        "chemofacies": [
+          176
+        ],
+        "classification.": [
+          177
+        ],
+        "Five": [
+          178
+        ],
+        "lithofacies,": [
+          179
+        ],
+        "three": [
+          180
+        ],
+        "chemofacies,": [
+          181
+        ],
+        "four": [
+          183
+        ],
+        "chemostratigraphic": [
+          184
+        ],
+        "zones": [
+          185
+        ],
+        "identified,": [
+          187
+        ],
+        "indicating": [
+          188
+        ],
+        "marked": [
+          189
+        ],
+        "variability.": [
+          191
+        ],
+        "Bulk": [
+          192
+        ],
+        "density": [
+          193,
+          247
+        ],
+        "ranges": [
+          194,
+          219,
+          237
+        ],
+        "1.65": [
+          196
+        ],
+        "2.40": [
+          198
+        ],
+        "g/cc,": [
+          199
+        ],
+        "36%,": [
+          204
+        ],
+        "compressional": [
+          206
+        ],
+        "wave": [
+          207
+        ],
+        "velocity": [
+          208
+        ],
+        "(Vp)": [
+          209
+        ],
+        "m/s.": [
+          214
+        ],
+        "Unconfined": [
+          215
+        ],
+        "compressive": [
+          216
+        ],
+        "strength": [
+          217
+        ],
+        "(UCS)": [
+          218
+        ],
+        "MPa,": [
+          224
+        ],
+        "Leeb": [
+          225
+        ],
+        "hardness": [
+          226
+        ],
+        "HLD,": [
+          231
+        ],
+        "total": [
+          233
+        ],
+        "organic": [
+          234,
+          279
+        ],
+        "carbon": [
+          235
+        ],
+        "(TOC)": [
+          236
+        ],
+        "17%.": [
+          241
+        ],
+        "enrichment": [
+          245
+        ],
+        "strength,": [
+          249,
+          266
+        ],
+        "whereas": [
+          250
+        ],
+        "elevated": [
+          251
+        ],
+        "clay": [
+          252
+        ],
+        "content": [
+          253,
+          280
+        ],
+        "reduce": [
+          256
+        ],
+        "competence.": [
+          258
+        ],
+        "Porosity": [
+          259
+        ],
+        "negatively": [
+          261
+        ],
+        "correlated": [
+          262,
+          271
+        ],
+        "with": [
+          263,
+          272
+        ],
+        "Vp,": [
+          265
+        ],
+        "brittleness,": [
+          268
+        ],
+        "but": [
+          269
+        ],
+        "positively": [
+          270
+        ],
+        "TOC.": [
+          273
+        ],
+        "Collectively,": [
+          274
+        ],
+        "mineralogy,": [
+          275
+        ],
+        "diagenesis,": [
+          276
+        ],
+        "porosity,": [
+          277
+        ],
+        "govern": [
+          281
+        ],
+        "variability,": [
+          283
+        ],
+        "improving": [
+          284
+        ],
+        "characterization,": [
+          286
+        ],
+        "exploration": [
+          287
+        ],
+        "planning,": [
+          288
+        ],
+        "providing": [
+          290
+        ],
+        "global": [
+          292
+        ],
+        "analog": [
+          293
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-11-11T12:16:26.678958",
+      "created_date": "2026-03-03T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2224953029",
       "doi": "https://doi.org/10.1016/j.jafrearsci.2016.01.003",
       "title": "Discrimination of inland and coastal dunes in Eastern Saudi Arabia desert system: An approach from particle size and textural parameter variations",
@@ -11918,1658 +13571,6 @@
       "created_date": "2023-03-07T00:00:00"
     },
     {
-      "id": "https://openalex.org/W7133200968",
-      "doi": "https://doi.org/10.1016/j.jaesx.2026.100220",
-      "title": "Vertical variability of geochemical, petrophysical, and rock mechanical properties in upper Cretaceous organic-rich carbonate source rocks, Jordan",
-      "display_name": "Vertical variability of geochemical, petrophysical, and rock mechanical properties in upper Cretaceous organic-rich carbonate source rocks, Jordan",
-      "publication_year": 2026,
-      "publication_date": "2026-03-02",
-      "ids": {
-        "openalex": "https://openalex.org/W7133200968",
-        "doi": "https://doi.org/10.1016/j.jaesx.2026.100220"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.jaesx.2026.100220",
-        "doi": "https://doi.org/10.1016/j.jaesx.2026.100220",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210215885",
-          "display_name": "Journal of Asian Earth Sciences X",
-          "issn_l": "2590-0560",
-          "issn": [
-            "2590-0560"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "jufo-1",
-            "oarl",
-            "poland-20"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Asian Earth Sciences: X",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5094009312",
-            "display_name": "Samer Aljurf",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Samer Aljurf",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5079903196",
-            "display_name": "Israa S. Abu‐Mahfouz",
-            "orcid": "https://orcid.org/0000-0001-5832-7354",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5832-7354"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Israa S. Abu-Mahfouz",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-5832-7354",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5064720324",
-            "display_name": "Ammar El‐Husseiny",
-            "orcid": "https://orcid.org/0000-0001-5762-6109",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-5762-6109"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ammar El-Husseiny",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5075429508",
-            "display_name": "Amjed Hassan",
-            "orcid": "https://orcid.org/0000-0002-4487-6982",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4487-6982"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Amjed Hassan",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5080643603",
-            "display_name": "Septriandi A. Chan",
-            "orcid": "https://orcid.org/0000-0002-3681-7464",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-3681-7464"
-            ]
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Septriandi Chan",
-          "raw_affiliation_strings": [
-            "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "National Petroleum Technology Company, NESR, Dhahran, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5061306034",
-            "display_name": "Thomas Finkbeiner",
-            "orcid": "https://orcid.org/0000-0002-6137-6162",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6137-6162"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Thomas Finkbeiner",
-          "raw_affiliation_strings": [
-            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology, Thuwal 23955‑6900, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology, Thuwal 23955‑6900, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5079903196"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 2460,
-        "currency": "USD",
-        "value_usd": 2460
-      },
-      "apc_paid": {
-        "value": 2460,
-        "currency": "USD",
-        "value_usd": 2460
-      },
-      "fwci": 5.3396,
-      "has_fulltext": false,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.92591055,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "15",
-        "issue": null,
-        "first_page": "100220",
-        "last_page": "100220"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9976000189781189,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9976000189781189,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10161",
-          "display_name": "Rock Mechanics and Modeling",
-          "score": 0.0006000000284984708,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.00039999998989515007,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/vertical-heterogeneity",
-          "display_name": "vertical heterogeneity",
-          "score": 0.9120000004768372
-        },
-        {
-          "id": "https://openalex.org/keywords/petrophysical-properties",
-          "display_name": "petrophysical properties",
-          "score": 0.734000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/rock-mechanical-properties",
-          "display_name": "rock mechanical properties",
-          "score": 0.9779999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/diagenesis",
-          "display_name": "diagenesis",
-          "score": 0.7369999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity-reduction",
-          "display_name": "porosity reduction",
-          "score": 0.734000027179718
-        },
-        {
-          "id": "https://openalex.org/keywords/silica-enrichment",
-          "display_name": "silica enrichment",
-          "score": 0.9779999852180481
-        },
-        {
-          "id": "https://openalex.org/keywords/brittleness",
-          "display_name": "brittleness",
-          "score": 0.6639999747276306
-        },
-        {
-          "id": "https://openalex.org/keywords/total-organic-carbon",
-          "display_name": "total organic carbon",
-          "score": 0.6549999713897705
-        },
-        {
-          "id": "https://openalex.org/keywords/upper-cretaceous",
-          "display_name": "Upper Cretaceous",
-          "score": 0.7549999952316284
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "oil shale",
-          "score": 0.6740000247955322
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-characterization",
-          "display_name": "reservoir characterization",
-          "score": 0.6510000228881836
-        },
-        {
-          "id": "https://openalex.org/keywords/unconfined-compressive-strength",
-          "display_name": "unconfined compressive strength",
-          "score": 0.8180000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/leeb-hardness",
-          "display_name": "Leeb hardness",
-          "score": 0.593999981880188
-        },
-        {
-          "id": "https://openalex.org/keywords/p-wave-velocity",
-          "display_name": "P-wave velocity",
-          "score": 0.640999972820282
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "mineralogy",
-          "score": 0.515999972820282
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8496999740600586
-        },
-        {
-          "id": "https://openalex.org/C2780181037",
-          "wikidata": "https://www.wikidata.org/wiki/Q371542",
-          "display_name": "Dolomite",
-          "level": 2,
-          "score": 0.7206000089645386
-        },
-        {
-          "id": "https://openalex.org/C130452526",
-          "wikidata": "https://www.wikidata.org/wiki/Q180621",
-          "display_name": "Diagenesis",
-          "level": 2,
-          "score": 0.6308000087738037
-        },
-        {
-          "id": "https://openalex.org/C46293882",
-          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
-          "display_name": "Petrophysics",
-          "level": 3,
-          "score": 0.5976999998092651
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.5934000015258789
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.5582000017166138
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.5565999746322632
-        },
-        {
-          "id": "https://openalex.org/C19320362",
-          "wikidata": "https://www.wikidata.org/wiki/Q777913",
-          "display_name": "Carbonate rock",
-          "level": 3,
-          "score": 0.4661000072956085
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.45010000467300415
-        },
-        {
-          "id": "https://openalex.org/C2780191791",
-          "wikidata": "https://www.wikidata.org/wiki/Q171917",
-          "display_name": "Calcite",
-          "level": 2,
-          "score": 0.44690001010894775
-        },
-        {
-          "id": "https://openalex.org/C2779196632",
-          "wikidata": "https://www.wikidata.org/wiki/Q938398",
-          "display_name": "Kerogen",
-          "level": 4,
-          "score": 0.39500001072883606
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.38339999318122864
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.37400001287460327
-        },
-        {
-          "id": "https://openalex.org/C196715460",
-          "wikidata": "https://www.wikidata.org/wiki/Q1414356",
-          "display_name": "Compaction",
-          "level": 2,
-          "score": 0.364300012588501
-        },
-        {
-          "id": "https://openalex.org/C2779002002",
-          "wikidata": "https://www.wikidata.org/wiki/Q1073138",
-          "display_name": "Carbonate minerals",
-          "level": 3,
-          "score": 0.34549999237060547
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.33340001106262207
-        },
-        {
-          "id": "https://openalex.org/C27438332",
-          "wikidata": "https://www.wikidata.org/wiki/Q2873",
-          "display_name": "Principal component analysis",
-          "level": 2,
-          "score": 0.328000009059906
-        },
-        {
-          "id": "https://openalex.org/C93973069",
-          "wikidata": "https://www.wikidata.org/wiki/Q899249",
-          "display_name": "Bulk density",
-          "level": 3,
-          "score": 0.3276999890804291
-        },
-        {
-          "id": "https://openalex.org/C113215200",
-          "wikidata": "https://www.wikidata.org/wiki/Q1845437",
-          "display_name": "Petroleum reservoir",
-          "level": 2,
-          "score": 0.3248000144958496
-        },
-        {
-          "id": "https://openalex.org/C133916931",
-          "wikidata": "https://www.wikidata.org/wiki/Q1813872",
-          "display_name": "Stylolite",
-          "level": 3,
-          "score": 0.3059000074863434
-        },
-        {
-          "id": "https://openalex.org/C126559015",
-          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
-          "display_name": "Source rock",
-          "level": 3,
-          "score": 0.29829999804496765
-        },
-        {
-          "id": "https://openalex.org/C2778537970",
-          "wikidata": "https://www.wikidata.org/wiki/Q1134814",
-          "display_name": "Dolostone",
-          "level": 4,
-          "score": 0.29750001430511475
-        },
-        {
-          "id": "https://openalex.org/C2779870107",
-          "wikidata": "https://www.wikidata.org/wiki/Q43010",
-          "display_name": "Quartz",
-          "level": 2,
-          "score": 0.28459998965263367
-        },
-        {
-          "id": "https://openalex.org/C29452850",
-          "wikidata": "https://www.wikidata.org/wiki/Q3823104",
-          "display_name": "Overpressure",
-          "level": 2,
-          "score": 0.2782999873161316
-        },
-        {
-          "id": "https://openalex.org/C174030287",
-          "wikidata": "https://www.wikidata.org/wiki/Q7414381",
-          "display_name": "San Joaquin",
-          "level": 2,
-          "score": 0.2770000100135803
-        },
-        {
-          "id": "https://openalex.org/C66097969",
-          "wikidata": "https://www.wikidata.org/wiki/Q2799076",
-          "display_name": "Drill cuttings",
-          "level": 4,
-          "score": 0.26910001039505005
-        },
-        {
-          "id": "https://openalex.org/C25197100",
-          "wikidata": "https://www.wikidata.org/wiki/Q890886",
-          "display_name": "Drilling",
-          "level": 2,
-          "score": 0.2680000066757202
-        },
-        {
-          "id": "https://openalex.org/C35817400",
-          "wikidata": "https://www.wikidata.org/wiki/Q2383566",
-          "display_name": "Well logging",
-          "level": 2,
-          "score": 0.2590000033378601
-        },
-        {
-          "id": "https://openalex.org/C2778609275",
-          "wikidata": "https://www.wikidata.org/wiki/Q691831",
-          "display_name": "Carbonate platform",
-          "level": 4,
-          "score": 0.25780001282691956
-        },
-        {
-          "id": "https://openalex.org/C122792734",
-          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
-          "display_name": "Lithology",
-          "level": 2,
-          "score": 0.25679999589920044
-        },
-        {
-          "id": "https://openalex.org/C14641988",
-          "wikidata": "https://www.wikidata.org/wiki/Q7315329",
-          "display_name": "Reservoir modeling",
-          "level": 2,
-          "score": 0.2540000081062317
-        },
-        {
-          "id": "https://openalex.org/C2776662147",
-          "wikidata": "https://www.wikidata.org/wiki/Q3241434",
-          "display_name": "Hydrocarbon exploration",
-          "level": 3,
-          "score": 0.25360000133514404
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.jaesx.2026.100220",
-          "doi": "https://doi.org/10.1016/j.jaesx.2026.100220",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210215885",
-            "display_name": "Journal of Asian Earth Sciences X",
-            "issn_l": "2590-0560",
-            "issn": [
-              "2590-0560"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "doaj",
-              "dongbi-c",
-              "jufo-1",
-              "oarl",
-              "poland-20"
-            ],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of Asian Earth Sciences: X",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:bcac1de2bbf44c9ba46765b8fe77059f",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/bcac1de2bbf44c9ba46765b8fe77059f",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Journal of Asian Earth Sciences: X, Vol 15, Iss , Pp 100220- (2026)",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.jaesx.2026.100220",
-        "doi": "https://doi.org/10.1016/j.jaesx.2026.100220",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.jaesx.2026.100220",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210215885",
-          "display_name": "Journal of Asian Earth Sciences X",
-          "issn_l": "2590-0560",
-          "issn": [
-            "2590-0560"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "doaj",
-            "dongbi-c",
-            "jufo-1",
-            "oarl",
-            "poland-20"
-          ],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of Asian Earth Sciences: X",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 53,
-      "referenced_works": [
-        "https://openalex.org/W15242090",
-        "https://openalex.org/W81898466",
-        "https://openalex.org/W766487889",
-        "https://openalex.org/W1517624071",
-        "https://openalex.org/W1584500860",
-        "https://openalex.org/W1664739277",
-        "https://openalex.org/W1970964011",
-        "https://openalex.org/W1978255350",
-        "https://openalex.org/W1989177492",
-        "https://openalex.org/W1990055209",
-        "https://openalex.org/W2018764726",
-        "https://openalex.org/W2022048614",
-        "https://openalex.org/W2028049334",
-        "https://openalex.org/W2036400800",
-        "https://openalex.org/W2038814186",
-        "https://openalex.org/W2039093876",
-        "https://openalex.org/W2057391595",
-        "https://openalex.org/W2058476170",
-        "https://openalex.org/W2060754934",
-        "https://openalex.org/W2068263661",
-        "https://openalex.org/W2070068226",
-        "https://openalex.org/W2074829498",
-        "https://openalex.org/W2092165323",
-        "https://openalex.org/W2101691304",
-        "https://openalex.org/W2124969384",
-        "https://openalex.org/W2126576368",
-        "https://openalex.org/W2141657015",
-        "https://openalex.org/W2150922969",
-        "https://openalex.org/W2152632663",
-        "https://openalex.org/W2291832752",
-        "https://openalex.org/W2342151210",
-        "https://openalex.org/W2343739054",
-        "https://openalex.org/W2417828621",
-        "https://openalex.org/W2442588307",
-        "https://openalex.org/W2531450076",
-        "https://openalex.org/W2730387433",
-        "https://openalex.org/W2742199217",
-        "https://openalex.org/W2965019317",
-        "https://openalex.org/W3002118051",
-        "https://openalex.org/W3010780595",
-        "https://openalex.org/W3046259337",
-        "https://openalex.org/W3096041113",
-        "https://openalex.org/W3143909073",
-        "https://openalex.org/W4213030173",
-        "https://openalex.org/W4232576780",
-        "https://openalex.org/W4312705019",
-        "https://openalex.org/W4315786625",
-        "https://openalex.org/W4319785709",
-        "https://openalex.org/W4392185288",
-        "https://openalex.org/W4403064028",
-        "https://openalex.org/W4411485386",
-        "https://openalex.org/W4413770498",
-        "https://openalex.org/W4414158554"
-      ],
-      "related_works": [
-        "https://openalex.org/W7168188589",
-        "https://openalex.org/W6964482684",
-        "https://openalex.org/W4315786625",
-        "https://openalex.org/W4407393621",
-        "https://openalex.org/W2999462428",
-        "https://openalex.org/W4213030173",
-        "https://openalex.org/W4411485386",
-        "https://openalex.org/W4399189172",
-        "https://openalex.org/W2897416659",
-        "https://openalex.org/W3128039934"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          239
-        ],
-        "14": [
-          202
-        ],
-        "19": [
-          221
-        ],
-        "132": [
-          223
-        ],
-        "375": [
-          228
-        ],
-        "710": [
-          230
-        ],
-        "2521": [
-          211
-        ],
-        "6383": [
-          213
-        ],
-        "•": [
-          0,
-          10,
-          21,
-          32,
-          45
-        ],
-        "Multidisciplinary": [
-          1
-        ],
-        "workflow": [
-          2,
-          134
-        ],
-        "reveals": [
-          3
-        ],
-        "strong": [
-          4
-        ],
-        "vertical": [
-          5,
-          103,
-          122,
-          190,
-          282
-        ],
-        "heterogeneity": [
-          6,
-          27,
-          123
-        ],
-        "in": [
-          7,
-          28,
-          41,
-          61
-        ],
-        "carbonate": [
-          8,
-          30,
-          56,
-          297
-        ],
-        "rocks.": [
-          9,
-          299
-        ],
-        "Dolomite": [
-          11,
-          242
-        ],
-        "and": [
-          12,
-          19,
-          26,
-          51,
-          70,
-          82,
-          124,
-          153,
-          164,
-          182,
-          205,
-          232,
-          243,
-          248,
-          254,
-          267,
-          278,
-          289
-        ],
-        "silica": [
-          13,
-          244
-        ],
-        "enrichments": [
-          14
-        ],
-        "increase": [
-          15,
-          246
-        ],
-        "rock": [
-          16,
-          43,
-          130
-        ],
-        "density,": [
-          17,
-          264
-        ],
-        "hardness,": [
-          18
-        ],
-        "strength.": [
-          20
-        ],
-        "Diagenesis": [
-          22
-        ],
-        "drives": [
-          23
-        ],
-        "porosity": [
-          24,
-          200,
-          255
-        ],
-        "loss": [
-          25
-        ],
-        "immature": [
-          29,
-          295
-        ],
-        "reservoirs.": [
-          31
-        ],
-        "Mineralogy": [
-          33
-        ],
-        "is": [
-          34,
-          89,
-          260
-        ],
-        "the": [
-          35,
-          106,
-          114,
-          126
-        ],
-        "key": [
-          36
-        ],
-        "predictor": [
-          37
-        ],
-        "of": [
-          38,
-          113
-        ],
-        "mechanical": [
-          39,
-          154,
-          257
-        ],
-        "properties": [
-          40,
-          84
-        ],
-        "source": [
-          42,
-          57,
-          298
-        ],
-        "systems.": [
-          44
-        ],
-        "Integrated": [
-          46
-        ],
-        "approach": [
-          47
-        ],
-        "refines": [
-          48
-        ],
-        "reservoir": [
-          49,
-          285
-        ],
-        "models": [
-          50
-        ],
-        "sweet-spot": [
-          52
-        ],
-        "identification.": [
-          53
-        ],
-        "Immature": [
-          54
-        ],
-        "organic-rich": [
-          55
-        ],
-        "rocks": [
-          58
-        ],
-        "are": [
-          59
-        ],
-        "widespread": [
-          60
-        ],
-        "sedimentary": [
-          62
-        ],
-        "basins,": [
-          63
-        ],
-        "serving": [
-          64
-        ],
-        "as": [
-          65,
-          71
-        ],
-        "major": [
-          66
-        ],
-        "oil": [
-          67
-        ],
-        "shale": [
-          68
-        ],
-        "resources": [
-          69
-        ],
-        "analogs": [
-          72
-        ],
-        "for": [
-          73,
-          91,
-          294
-        ],
-        "thermally": [
-          74
-        ],
-        "mature": [
-          75
-        ],
-        "unconventional": [
-          76,
-          296
-        ],
-        "plays.": [
-          77
-        ],
-        "Determining": [
-          78
-        ],
-        "their": [
-          79,
-          93
-        ],
-        "baseline": [
-          80
-        ],
-        "petrophysical": [
-          81
-        ],
-        "geomechanical": [
-          83
-        ],
-        "prior": [
-          85
-        ],
-        "to": [
-          86,
-          120,
-          173,
-          197,
-          203,
-          212,
-          222,
-          229,
-          240
-        ],
-        "hydrocarbon": [
-          87
-        ],
-        "generation": [
-          88
-        ],
-        "essential": [
-          90
-        ],
-        "predicting": [
-          92
-        ],
-        "behavior": [
-          94
-        ],
-        "during": [
-          95
-        ],
-        "advanced": [
-          96
-        ],
-        "extraction.": [
-          97
-        ],
-        "This": [
-          98
-        ],
-        "study": [
-          99
-        ],
-        "investigates": [
-          100
-        ],
-        "a": [
-          101,
-          175,
-          291
-        ],
-        "20-meter": [
-          102
-        ],
-        "core": [
-          104,
-          137
-        ],
-        "from": [
-          105,
-          195,
-          201,
-          210,
-          220,
-          227,
-          238
-        ],
-        "Upper": [
-          107
-        ],
-        "Cretaceous": [
-          108
-        ],
-        "bituminous": [
-          109
-        ],
-        "chalky": [
-          110
-        ],
-        "marl": [
-          111
-        ],
-        "interval": [
-          112
-        ],
-        "Al": [
-          115
-        ],
-        "Lajjun": [
-          116
-        ],
-        "Graben,": [
-          117
-        ],
-        "central": [
-          118
-        ],
-        "Jordan,": [
-          119
-        ],
-        "evaluate": [
-          121
-        ],
-        "identify": [
-          125
-        ],
-        "main": [
-          127
-        ],
-        "controls": [
-          128
-        ],
-        "on": [
-          129,
-          167
-        ],
-        "properties.": [
-          131
-        ],
-        "An": [
-          132
-        ],
-        "integrated": [
-          133
-        ],
-        "combined": [
-          135
-        ],
-        "detailed": [
-          136
-        ],
-        "description,": [
-          138
-        ],
-        "petrography,": [
-          139
-        ],
-        "inorganic": [
-          140
-        ],
-        "geochemistry,": [
-          141
-        ],
-        "Rock-Eval": [
-          142
-        ],
-        "pyrolysis,": [
-          143
-        ],
-        "Multi-Sensor": [
-          144
-        ],
-        "Core": [
-          145
-        ],
-        "Logger": [
-          146
-        ],
-        "(MSCL)": [
-          147
-        ],
-        "data,": [
-          148
-        ],
-        "spectral": [
-          149
-        ],
-        "gamma-ray": [
-          150
-        ],
-        "logging": [
-          151
-        ],
-        "(SGR),": [
-          152
-        ],
-        "testing.": [
-          155
-        ],
-        "Multivariate": [
-          156
-        ],
-        "statistical": [
-          157
-        ],
-        "methods,": [
-          158
-        ],
-        "including": [
-          159
-        ],
-        "principal": [
-          160,
-          168
-        ],
-        "component": [
-          161
-        ],
-        "analysis": [
-          162
-        ],
-        "(PCA)": [
-          163
-        ],
-        "hierarchical": [
-          165
-        ],
-        "clustering": [
-          166
-        ],
-        "components": [
-          169
-        ],
-        "(HCPC),": [
-          170
-        ],
-        "were": [
-          171,
-          186
-        ],
-        "applied": [
-          172
-        ],
-        "establish": [
-          174
-        ],
-        "chemofacies": [
-          176
-        ],
-        "classification.": [
-          177
-        ],
-        "Five": [
-          178
-        ],
-        "lithofacies,": [
-          179
-        ],
-        "three": [
-          180
-        ],
-        "chemofacies,": [
-          181
-        ],
-        "four": [
-          183
-        ],
-        "chemostratigraphic": [
-          184
-        ],
-        "zones": [
-          185
-        ],
-        "identified,": [
-          187
-        ],
-        "indicating": [
-          188
-        ],
-        "marked": [
-          189
-        ],
-        "variability.": [
-          191
-        ],
-        "Bulk": [
-          192
-        ],
-        "density": [
-          193,
-          247
-        ],
-        "ranges": [
-          194,
-          219,
-          237
-        ],
-        "1.65": [
-          196
-        ],
-        "2.40": [
-          198
-        ],
-        "g/cc,": [
-          199
-        ],
-        "36%,": [
-          204
-        ],
-        "compressional": [
-          206
-        ],
-        "wave": [
-          207
-        ],
-        "velocity": [
-          208
-        ],
-        "(Vp)": [
-          209
-        ],
-        "m/s.": [
-          214
-        ],
-        "Unconfined": [
-          215
-        ],
-        "compressive": [
-          216
-        ],
-        "strength": [
-          217
-        ],
-        "(UCS)": [
-          218
-        ],
-        "MPa,": [
-          224
-        ],
-        "Leeb": [
-          225
-        ],
-        "hardness": [
-          226
-        ],
-        "HLD,": [
-          231
-        ],
-        "total": [
-          233
-        ],
-        "organic": [
-          234,
-          279
-        ],
-        "carbon": [
-          235
-        ],
-        "(TOC)": [
-          236
-        ],
-        "17%.": [
-          241
-        ],
-        "enrichment": [
-          245
-        ],
-        "strength,": [
-          249,
-          266
-        ],
-        "whereas": [
-          250
-        ],
-        "elevated": [
-          251
-        ],
-        "clay": [
-          252
-        ],
-        "content": [
-          253,
-          280
-        ],
-        "reduce": [
-          256
-        ],
-        "competence.": [
-          258
-        ],
-        "Porosity": [
-          259
-        ],
-        "negatively": [
-          261
-        ],
-        "correlated": [
-          262,
-          271
-        ],
-        "with": [
-          263,
-          272
-        ],
-        "Vp,": [
-          265
-        ],
-        "brittleness,": [
-          268
-        ],
-        "but": [
-          269
-        ],
-        "positively": [
-          270
-        ],
-        "TOC.": [
-          273
-        ],
-        "Collectively,": [
-          274
-        ],
-        "mineralogy,": [
-          275
-        ],
-        "diagenesis,": [
-          276
-        ],
-        "porosity,": [
-          277
-        ],
-        "govern": [
-          281
-        ],
-        "variability,": [
-          283
-        ],
-        "improving": [
-          284
-        ],
-        "characterization,": [
-          286
-        ],
-        "exploration": [
-          287
-        ],
-        "planning,": [
-          288
-        ],
-        "providing": [
-          290
-        ],
-        "global": [
-          292
-        ],
-        "analog": [
-          293
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-10T11:39:43.021295",
-      "created_date": "2026-03-03T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W7139925539",
       "doi": "https://doi.org/10.1016/j.mex.2026.103875",
       "title": "Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs",
@@ -13770,11 +13771,11 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 5.3396,
-      "has_fulltext": false,
+      "fwci": 5.2908,
+      "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.92591055,
+        "value": 0.9252588,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -14041,6 +14042,37 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:13049995",
+          "doi": null,
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049995/",
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049995/pdf/",
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "MethodsX",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmid:41937918",
           "doi": null,
           "is_oa": false,
@@ -14070,37 +14102,6 @@
           "is_published": true,
           "raw_source_name": "MethodsX",
           "raw_type": "Journal Article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:13049995",
-          "doi": null,
-          "is_oa": true,
-          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13049995/",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "MethodsX",
-          "raw_type": "Text"
         }
       ],
       "best_oa_location": {
@@ -14156,13 +14157,17 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "pdf": true,
+        "grobid_xml": true
       },
-      "content_urls": null,
-      "referenced_works_count": 1,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W7139925539.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7139925539.grobid-xml"
+      },
+      "referenced_works_count": 2,
       "referenced_works": [
-        "https://openalex.org/W2417828621"
+        "https://openalex.org/W2417828621",
+        "https://openalex.org/W7133200968"
       ],
       "related_works": [
         "https://openalex.org/W7162308642",
@@ -14890,7 +14895,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-29T09:56:32.521200",
+      "updated_date": "2026-11-11T12:16:26.678958",
       "created_date": "2026-03-21T00:00:00"
     },
     {
@@ -17549,11 +17554,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9153,
+      "fwci": 0.912,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.79001094,
+        "value": 0.63387978,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19196,11 +19201,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1389,
+      "fwci": 0.1378,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.5113678,
+        "value": 0.43792351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19836,9 +19841,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -26323,7 +26328,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60081466,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

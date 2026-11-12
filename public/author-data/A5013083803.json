@@ -499,11 +499,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.3254,
+      "fwci": 3.2813,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.92753623,
+        "value": 0.92805755,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7697,11 +7697,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 0.7197,
+      "fwci": 0.7205,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.716455,
+        "value": 0.69934388,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12264,12 +12264,12 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.26065163,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 92,
+        "min": 91,
         "max": 95
       },
       "biblio": {
@@ -14282,16 +14282,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1558,
+      "fwci": 0.1547,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.43231441,
+        "value": 0.37705803,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 93
       },
       "biblio": {
@@ -16548,648 +16548,6 @@
       "created_date": "2022-07-14T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3168739743",
-      "doi": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
-      "title": "Unconventional and deepwater reservoir architecture",
-      "display_name": "Unconventional and deepwater reservoir architecture",
-      "publication_year": 2021,
-      "publication_date": "2021-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3168739743",
-        "doi": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
-        "mag": "3168739743"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-0-12-817236-0.00001-7",
-        "doi": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Applied Techniques to Integrated Oil and Gas Reservoir Characterization",
-        "raw_type": "book-chapter"
-      },
-      "volume": {
-        "id": "https://openalex.org/W4213042334",
-        "display_name": "Applied Techniques to Integrated Oil and Gas Reservoir Characterization"
-      },
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5021185414",
-            "display_name": "Oleksandr Okprekyi",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Oleksandr Okprekyi",
-          "raw_affiliation_strings": [
-            "Sr. Geologist at Burisma, Kyiv, Ukraine"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sr. Geologist at Burisma, Kyiv, Ukraine",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Zaw Win Aung",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Zaw Win Aung",
-          "raw_affiliation_strings": [
-            "Exploration Geologist at MPRL E&P, Myanmar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Exploration Geologist at MPRL E&P, Myanmar",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Alexey Sokolov",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Alexey Sokolov",
-          "raw_affiliation_strings": [
-            "Reservoir Engineering, CGG-Vostok, Moscow, Russian Federation"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Reservoir Engineering, CGG-Vostok, Moscow, Russian Federation",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5056138445",
-            "display_name": "Rajeshwaran Dandapani",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4405260487",
-              "display_name": "Telesto Energy (Singapore)",
-              "ror": "https://ror.org/03tnqgz83",
-              "country_code": "SG",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4405260487"
-              ]
-            }
-          ],
-          "countries": [
-            "SG"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rajeshwaran Dandapani",
-          "raw_affiliation_strings": [
-            "Telesto Energy, Chennai, India"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Telesto Energy, Chennai, India",
-              "institution_ids": [
-                "https://openalex.org/I4405260487"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5047229999",
-            "display_name": "Robert Avakian",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801951318",
-              "display_name": "Oklahoma State University Institute of Technology",
-              "ror": "https://ror.org/04eqy7d03",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I2801951318"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert Avakian",
-          "raw_affiliation_strings": [
-            "Oklahoma State University, Institute of Technology, Okmulgee, OK, United States"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Oklahoma State University, Institute of Technology, Okmulgee, OK, United States",
-              "institution_ids": [
-                "https://openalex.org/I2801951318"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013083803",
-            "display_name": "Neil W. Craigie",
-            "orcid": "https://orcid.org/0000-0002-9728-9036",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-9728-9036"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Neil W. Craigie",
-          "raw_affiliation_strings": [
-            "Geological Consultant at Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geological Consultant at Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Susan Nash",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4392738079",
-              "display_name": "University of Oklahoma - Tulsa",
-              "ror": "https://ror.org/04g1a0w27",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4392738079",
-                "https://openalex.org/I8692664"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Susan Nash",
-          "raw_affiliation_strings": [
-            "Innovation and Emerging Science and Technology, University of Oklahoma, Tulsa Metropolitan Area, United States"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Innovation and Emerging Science and Technology, University of Oklahoma, Tulsa Metropolitan Area, United States",
-              "institution_ids": [
-                "https://openalex.org/I4392738079"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5076833576",
-            "display_name": "Tharwat Hassane",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Tharwat Hassane",
-          "raw_affiliation_strings": [
-            "Petrophysical Technical Lead, Beicip-Franlab Asia, Kuala Lumpur, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Petrophysical Technical Lead, Beicip-Franlab Asia, Kuala Lumpur, Malaysia",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.0047,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.71067416,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "3",
-        "last_page": "36"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.8525000214576721,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.8525000214576721,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.11699999868869781,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.02459999918937683,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/basin-analysis",
-          "display_name": "basin analysis",
-          "score": 0.6110000014305115
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-basins",
-          "display_name": "sedimentary basins",
-          "score": 0.9100000262260437
-        },
-        {
-          "id": "https://openalex.org/keywords/deepwater-reservoirs",
-          "display_name": "deepwater reservoirs",
-          "score": 0.8949999809265137
-        },
-        {
-          "id": "https://openalex.org/keywords/unconventional-reservoirs",
-          "display_name": "unconventional reservoirs",
-          "score": 0.972000002861023
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.8529999852180481
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.8340805172920227
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7699496746063232
-        },
-        {
-          "id": "https://openalex.org/C200646496",
-          "wikidata": "https://www.wikidata.org/wiki/Q785020",
-          "display_name": "Sedimentary basin",
-          "level": 3,
-          "score": 0.7391253709793091
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.6226294040679932
-        },
-        {
-          "id": "https://openalex.org/C175454506",
-          "wikidata": "https://www.wikidata.org/wiki/Q7445308",
-          "display_name": "Sedimentary basin analysis",
-          "level": 4,
-          "score": 0.6007710695266724
-        },
-        {
-          "id": "https://openalex.org/C548895740",
-          "wikidata": "https://www.wikidata.org/wiki/Q22656",
-          "display_name": "Petroleum",
-          "level": 2,
-          "score": 0.5980002284049988
-        },
-        {
-          "id": "https://openalex.org/C2779483780",
-          "wikidata": "https://www.wikidata.org/wiki/Q520549",
-          "display_name": "Geologist",
-          "level": 2,
-          "score": 0.47315630316734314
-        },
-        {
-          "id": "https://openalex.org/C126559015",
-          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
-          "display_name": "Source rock",
-          "level": 3,
-          "score": 0.46701863408088684
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.4450838565826416
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.4432758688926697
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.4334694445133209
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3581899404525757
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.33717411756515503
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.28259509801864624
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.060082077980041504
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-0-12-817236-0.00001-7",
-          "doi": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Applied Techniques to Integrated Oil and Gas Reservoir Characterization",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 21,
-      "referenced_works": [
-        "https://openalex.org/W1003928252",
-        "https://openalex.org/W1510331143",
-        "https://openalex.org/W1531009745",
-        "https://openalex.org/W1607118314",
-        "https://openalex.org/W1639708428",
-        "https://openalex.org/W1884501848",
-        "https://openalex.org/W1978653178",
-        "https://openalex.org/W1992598558",
-        "https://openalex.org/W2006914675",
-        "https://openalex.org/W2051259191",
-        "https://openalex.org/W2091685827",
-        "https://openalex.org/W2108356947",
-        "https://openalex.org/W2154961158",
-        "https://openalex.org/W2155051757",
-        "https://openalex.org/W2321947499",
-        "https://openalex.org/W2338193278",
-        "https://openalex.org/W2521410786",
-        "https://openalex.org/W2744411669",
-        "https://openalex.org/W2883550226",
-        "https://openalex.org/W2916612421",
-        "https://openalex.org/W4245904306"
-      ],
-      "related_works": [
-        "https://openalex.org/W2058275290",
-        "https://openalex.org/W1573117117",
-        "https://openalex.org/W2469602013",
-        "https://openalex.org/W4377042635",
-        "https://openalex.org/W4236452704",
-        "https://openalex.org/W2620438306",
-        "https://openalex.org/W2308727439",
-        "https://openalex.org/W2380633535",
-        "https://openalex.org/W4391888462",
-        "https://openalex.org/W4213263994"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-10-27T15:51:10.671819",
-      "created_date": "2021-06-22T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2900106357",
       "doi": "https://doi.org/10.2118/193131-ms",
       "title": "Permo-Carboniferous Glacial Sandstone Evaluation - Heavy Minerals in Glacial Sandstone and Effects on Thermal Neutron Porosity",
@@ -17602,17 +16960,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9818,
+      "fwci": 0.9815,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.7689494,
+        "value": 0.68995545,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 87,
-        "max": 92
+        "max": 93
       },
       "biblio": {
         "volume": null,
@@ -19022,6 +18380,648 @@
       ],
       "updated_date": "2026-10-16T09:59:22.235173",
       "created_date": "2018-11-16T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3168739743",
+      "doi": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
+      "title": "Unconventional and deepwater reservoir architecture",
+      "display_name": "Unconventional and deepwater reservoir architecture",
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3168739743",
+        "doi": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
+        "mag": "3168739743"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-0-12-817236-0.00001-7",
+        "doi": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463230",
+          "display_name": "Elsevier eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Techniques to Integrated Oil and Gas Reservoir Characterization",
+        "raw_type": "book-chapter"
+      },
+      "volume": {
+        "id": "https://openalex.org/W4213042334",
+        "display_name": "Applied Techniques to Integrated Oil and Gas Reservoir Characterization"
+      },
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5021185414",
+            "display_name": "Oleksandr Okprekyi",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Oleksandr Okprekyi",
+          "raw_affiliation_strings": [
+            "Sr. Geologist at Burisma, Kyiv, Ukraine"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sr. Geologist at Burisma, Kyiv, Ukraine",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Zaw Win Aung",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Zaw Win Aung",
+          "raw_affiliation_strings": [
+            "Exploration Geologist at MPRL E&P, Myanmar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exploration Geologist at MPRL E&P, Myanmar",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Alexey Sokolov",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Alexey Sokolov",
+          "raw_affiliation_strings": [
+            "Reservoir Engineering, CGG-Vostok, Moscow, Russian Federation"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Reservoir Engineering, CGG-Vostok, Moscow, Russian Federation",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056138445",
+            "display_name": "Rajeshwaran Dandapani",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4405260487",
+              "display_name": "Telesto Energy (Singapore)",
+              "ror": "https://ror.org/03tnqgz83",
+              "country_code": "SG",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4405260487"
+              ]
+            }
+          ],
+          "countries": [
+            "SG"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rajeshwaran Dandapani",
+          "raw_affiliation_strings": [
+            "Telesto Energy, Chennai, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Telesto Energy, Chennai, India",
+              "institution_ids": [
+                "https://openalex.org/I4405260487"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047229999",
+            "display_name": "Robert Avakian",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801951318",
+              "display_name": "Oklahoma State University Institute of Technology",
+              "ror": "https://ror.org/04eqy7d03",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2801951318"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert Avakian",
+          "raw_affiliation_strings": [
+            "Oklahoma State University, Institute of Technology, Okmulgee, OK, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Oklahoma State University, Institute of Technology, Okmulgee, OK, United States",
+              "institution_ids": [
+                "https://openalex.org/I2801951318"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013083803",
+            "display_name": "Neil W. Craigie",
+            "orcid": "https://orcid.org/0000-0002-9728-9036",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-9728-9036"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Neil W. Craigie",
+          "raw_affiliation_strings": [
+            "Geological Consultant at Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geological Consultant at Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Susan Nash",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4392738079",
+              "display_name": "University of Oklahoma - Tulsa",
+              "ror": "https://ror.org/04g1a0w27",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4392738079",
+                "https://openalex.org/I8692664"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Susan Nash",
+          "raw_affiliation_strings": [
+            "Innovation and Emerging Science and Technology, University of Oklahoma, Tulsa Metropolitan Area, United States"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Innovation and Emerging Science and Technology, University of Oklahoma, Tulsa Metropolitan Area, United States",
+              "institution_ids": [
+                "https://openalex.org/I4392738079"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5076833576",
+            "display_name": "Tharwat Hassane",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Tharwat Hassane",
+          "raw_affiliation_strings": [
+            "Petrophysical Technical Lead, Beicip-Franlab Asia, Kuala Lumpur, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petrophysical Technical Lead, Beicip-Franlab Asia, Kuala Lumpur, Malaysia",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.0047,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.71067416,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 93
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "3",
+        "last_page": "36"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.8525000214576721,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.8525000214576721,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.11699999868869781,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.02459999918937683,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/basin-analysis",
+          "display_name": "basin analysis",
+          "score": 0.6110000014305115
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-basins",
+          "display_name": "sedimentary basins",
+          "score": 0.9100000262260437
+        },
+        {
+          "id": "https://openalex.org/keywords/deepwater-reservoirs",
+          "display_name": "deepwater reservoirs",
+          "score": 0.8949999809265137
+        },
+        {
+          "id": "https://openalex.org/keywords/unconventional-reservoirs",
+          "display_name": "unconventional reservoirs",
+          "score": 0.972000002861023
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.8529999852180481
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.8340805172920227
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7699496746063232
+        },
+        {
+          "id": "https://openalex.org/C200646496",
+          "wikidata": "https://www.wikidata.org/wiki/Q785020",
+          "display_name": "Sedimentary basin",
+          "level": 3,
+          "score": 0.7391253709793091
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.6226294040679932
+        },
+        {
+          "id": "https://openalex.org/C175454506",
+          "wikidata": "https://www.wikidata.org/wiki/Q7445308",
+          "display_name": "Sedimentary basin analysis",
+          "level": 4,
+          "score": 0.6007710695266724
+        },
+        {
+          "id": "https://openalex.org/C548895740",
+          "wikidata": "https://www.wikidata.org/wiki/Q22656",
+          "display_name": "Petroleum",
+          "level": 2,
+          "score": 0.5980002284049988
+        },
+        {
+          "id": "https://openalex.org/C2779483780",
+          "wikidata": "https://www.wikidata.org/wiki/Q520549",
+          "display_name": "Geologist",
+          "level": 2,
+          "score": 0.47315630316734314
+        },
+        {
+          "id": "https://openalex.org/C126559015",
+          "wikidata": "https://www.wikidata.org/wiki/Q1988844",
+          "display_name": "Source rock",
+          "level": 3,
+          "score": 0.46701863408088684
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.4450838565826416
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.4432758688926697
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.4334694445133209
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3581899404525757
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.33717411756515503
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.28259509801864624
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.060082077980041504
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-0-12-817236-0.00001-7",
+          "doi": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-0-12-817236-0.00001-7",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463230",
+            "display_name": "Elsevier eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Applied Techniques to Integrated Oil and Gas Reservoir Characterization",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 21,
+      "referenced_works": [
+        "https://openalex.org/W1003928252",
+        "https://openalex.org/W1510331143",
+        "https://openalex.org/W1531009745",
+        "https://openalex.org/W1607118314",
+        "https://openalex.org/W1639708428",
+        "https://openalex.org/W1884501848",
+        "https://openalex.org/W1978653178",
+        "https://openalex.org/W1992598558",
+        "https://openalex.org/W2006914675",
+        "https://openalex.org/W2051259191",
+        "https://openalex.org/W2091685827",
+        "https://openalex.org/W2108356947",
+        "https://openalex.org/W2154961158",
+        "https://openalex.org/W2155051757",
+        "https://openalex.org/W2321947499",
+        "https://openalex.org/W2338193278",
+        "https://openalex.org/W2521410786",
+        "https://openalex.org/W2744411669",
+        "https://openalex.org/W2883550226",
+        "https://openalex.org/W2916612421",
+        "https://openalex.org/W4245904306"
+      ],
+      "related_works": [
+        "https://openalex.org/W2058275290",
+        "https://openalex.org/W1573117117",
+        "https://openalex.org/W2469602013",
+        "https://openalex.org/W4377042635",
+        "https://openalex.org/W4236452704",
+        "https://openalex.org/W2620438306",
+        "https://openalex.org/W2308727439",
+        "https://openalex.org/W2380633535",
+        "https://openalex.org/W4391888462",
+        "https://openalex.org/W4213263994"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-10-27T15:51:10.671819",
+      "created_date": "2021-06-22T00:00:00"
     },
     {
       "id": "https://openalex.org/W851674763",
@@ -21806,7 +21806,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0994152,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22672,7 +22672,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04702425,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

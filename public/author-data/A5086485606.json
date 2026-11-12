@@ -3336,11 +3336,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.0591,
+      "fwci": 2.066,
       "has_fulltext": false,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.87097327,
+        "value": 0.85660763,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7179,11 +7179,11 @@
         "value_usd": 3530
       },
       "apc_paid": null,
-      "fwci": 2.9842,
+      "fwci": 2.9678,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.91661703,
+        "value": 0.91626699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7203,7 +7203,7 @@
       "primary_topic": {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "score": 0.27880001068115234,
+        "score": 0.36250001192092896,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -7221,7 +7221,7 @@
         {
           "id": "https://openalex.org/T10965",
           "display_name": "Geological formations and processes",
-          "score": 0.27880001068115234,
+          "score": 0.36250001192092896,
           "subfield": {
             "id": "https://openalex.org/subfields/1904",
             "display_name": "Earth-Surface Processes"
@@ -7238,7 +7238,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.25369998812675476,
+          "score": 0.1768999993801117,
           "subfield": {
             "id": "https://openalex.org/subfields/1907",
             "display_name": "Geology"
@@ -7255,7 +7255,7 @@
         {
           "id": "https://openalex.org/T10036",
           "display_name": "Advanced Neural Network Applications",
-          "score": 0.12409999966621399,
+          "score": 0.15539999306201935,
           "subfield": {
             "id": "https://openalex.org/subfields/1707",
             "display_name": "Computer Vision and Pattern Recognition"
@@ -7657,7 +7657,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-11T12:16:26.678958",
       "created_date": "2023-05-18T00:00:00"
     },
     {
@@ -15517,11 +15517,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6063,
+      "fwci": 1.6027,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.8294516,
+        "value": 0.80738482,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17169,11 +17169,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 0.7365,
+      "fwci": 0.7301,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.70779379,
+        "value": 0.68181073,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19266,11 +19266,11 @@
         "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.2304,
+      "fwci": 1.2169,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.75466342,
+        "value": 0.75192718,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21836,8 +21836,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 1,
           "display_name": "Life below water"
         }
       ],
@@ -24974,8 +24974,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action"
         }
       ],
@@ -25081,6 +25081,478 @@
       ],
       "updated_date": "2026-11-10T11:39:43.021295",
       "created_date": "2026-01-20T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1596249279",
+      "doi": "https://doi.org/10.1002/9781444303131.ch3",
+      "title": "Structural, Reverse‐Basin and Forward Stratigraphic Modelling of the Southern Cantabrian Basin, Northwest Spain",
+      "display_name": "Structural, Reverse‐Basin and Forward Stratigraphic Modelling of the Southern Cantabrian Basin, Northwest Spain",
+      "publication_year": 2008,
+      "publication_date": "2008-11-28",
+      "ids": {
+        "openalex": "https://openalex.org/W1596249279",
+        "doi": "https://doi.org/10.1002/9781444303131.ch3",
+        "mag": "1596249279"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1002/9781444303131.ch3",
+        "doi": "https://doi.org/10.1002/9781444303131.ch3",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1002/9781444303131.ch3",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306464293",
+          "display_name": "Wiley eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
+        "raw_type": "other"
+      },
+      "volume": {
+        "id": "https://openalex.org/W1527927531",
+        "display_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction"
+      },
+      "type": "book-chapter",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5025692814",
+            "display_name": "Zbynek Veselovský",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210109027",
+              "display_name": "Ipark (Norway)",
+              "ror": "https://ror.org/01mr84c03",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210109027"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Zbynek Veselovský",
+          "raw_affiliation_strings": [
+            "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I4210109027"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086838587",
+            "display_name": "Thilo Bechstädt",
+            "orcid": "https://orcid.org/0000-0001-9898-0198",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-9898-0198"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I223822909",
+              "display_name": "Heidelberg University",
+              "ror": "https://ror.org/038t36y30",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thilo Bechstädt",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5086485606",
+            "display_name": "Rainer Zühlke",
+            "orcid": "https://orcid.org/0000-0001-8629-983X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-8629-983X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I223822909",
+              "display_name": "Heidelberg University",
+              "ror": "https://ror.org/038t36y30",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Rainer Zühlke",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5025692814",
+        "https://openalex.org/A5086485606"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I223822909",
+        "https://openalex.org/I4210109027"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "65",
+        "last_page": "96"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 0.48539999127388,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.48539999127388,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.23819999396800995,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.10350000113248825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/structural-modeling",
+          "display_name": "structural modeling",
+          "score": 0.7269999980926514
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-forward-modeling",
+          "display_name": "forward stratigraphic modelling",
+          "score": 0.9819999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/basin-evolution",
+          "display_name": "basin evolution",
+          "score": 0.9350000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/basin-modeling",
+          "display_name": "basin modeling",
+          "score": 0.40799999237060547
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.8848481178283691
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.767388641834259
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5673245191574097
+        },
+        {
+          "id": "https://openalex.org/C175454506",
+          "wikidata": "https://www.wikidata.org/wiki/Q7445308",
+          "display_name": "Sedimentary basin analysis",
+          "level": 4,
+          "score": 0.4608362317085266
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3241288661956787
+        },
+        {
+          "id": "https://openalex.org/C200646496",
+          "wikidata": "https://www.wikidata.org/wiki/Q785020",
+          "display_name": "Sedimentary basin",
+          "level": 3,
+          "score": 0.15300682187080383
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1002/9781444303131.ch3",
+          "doi": "https://doi.org/10.1002/9781444303131.ch3",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1002/9781444303131.ch3",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306464293",
+            "display_name": "Wiley eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
+          "raw_type": "other"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2896518030",
+        "https://openalex.org/W2737747468",
+        "https://openalex.org/W2074778199",
+        "https://openalex.org/W64631222",
+        "https://openalex.org/W587699443",
+        "https://openalex.org/W3121457176",
+        "https://openalex.org/W6981858812",
+        "https://openalex.org/W6907822357",
+        "https://openalex.org/W2011300084",
+        "https://openalex.org/W2298439675"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "chapter": [
+          1
+        ],
+        "contains": [
+          2
+        ],
+        "sections": [
+          3
+        ],
+        "titled:": [
+          4
+        ],
+        "Introduction": [
+          5
+        ],
+        "Structural": [
+          6
+        ],
+        "Balancing": [
+          7
+        ],
+        "Basin": [
+          8,
+          12
+        ],
+        "Modelling": [
+          9
+        ],
+        "Discussion": [
+          10
+        ],
+        "OF": [
+          11
+        ],
+        "Evolution": [
+          13
+        ],
+        "Summary": [
+          14
+        ],
+        "Acknowledgements": [
+          15
+        ],
+        "References": [
+          16
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-07T11:25:07.637180",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2257218972",
@@ -26445,11 +26917,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.245,
+      "fwci": 0.2434,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.59781723,
+        "value": 0.54379203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26762,478 +27234,6 @@
       ],
       "updated_date": "2026-09-21T07:43:02.447757",
       "created_date": "2017-12-04T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1596249279",
-      "doi": "https://doi.org/10.1002/9781444303131.ch3",
-      "title": "Structural, Reverse‐Basin and Forward Stratigraphic Modelling of the Southern Cantabrian Basin, Northwest Spain",
-      "display_name": "Structural, Reverse‐Basin and Forward Stratigraphic Modelling of the Southern Cantabrian Basin, Northwest Spain",
-      "publication_year": 2008,
-      "publication_date": "2008-11-28",
-      "ids": {
-        "openalex": "https://openalex.org/W1596249279",
-        "doi": "https://doi.org/10.1002/9781444303131.ch3",
-        "mag": "1596249279"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1002/9781444303131.ch3",
-        "doi": "https://doi.org/10.1002/9781444303131.ch3",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1002/9781444303131.ch3",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306464293",
-          "display_name": "Wiley eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
-        "raw_type": "other"
-      },
-      "volume": {
-        "id": "https://openalex.org/W1527927531",
-        "display_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction"
-      },
-      "type": "book-chapter",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5025692814",
-            "display_name": "Zbynek Veselovský",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210109027",
-              "display_name": "Ipark (Norway)",
-              "ror": "https://ror.org/01mr84c03",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210109027"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Zbynek Veselovský",
-          "raw_affiliation_strings": [
-            "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I4210109027"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086838587",
-            "display_name": "Thilo Bechstädt",
-            "orcid": "https://orcid.org/0000-0001-9898-0198",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-9898-0198"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I223822909",
-              "display_name": "Heidelberg University",
-              "ror": "https://ror.org/038t36y30",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Thilo Bechstädt",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5086485606",
-            "display_name": "Rainer Zühlke",
-            "orcid": "https://orcid.org/0000-0001-8629-983X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-8629-983X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I223822909",
-              "display_name": "Heidelberg University",
-              "ror": "https://ror.org/038t36y30",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Rainer Zühlke",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5025692814",
-        "https://openalex.org/A5086485606"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I223822909",
-        "https://openalex.org/I4210109027"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.16294643,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 93
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "65",
-        "last_page": "96"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.48539999127388,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.48539999127388,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13067",
-          "display_name": "Geological Modeling and Analysis",
-          "score": 0.23819999396800995,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.10350000113248825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/structural-modeling",
-          "display_name": "structural modeling",
-          "score": 0.7269999980926514
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphic-forward-modeling",
-          "display_name": "forward stratigraphic modelling",
-          "score": 0.9819999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/basin-evolution",
-          "display_name": "basin evolution",
-          "score": 0.9350000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/basin-modeling",
-          "display_name": "basin modeling",
-          "score": 0.40799999237060547
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.8848481178283691
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.767388641834259
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5673245191574097
-        },
-        {
-          "id": "https://openalex.org/C175454506",
-          "wikidata": "https://www.wikidata.org/wiki/Q7445308",
-          "display_name": "Sedimentary basin analysis",
-          "level": 4,
-          "score": 0.4608362317085266
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3241288661956787
-        },
-        {
-          "id": "https://openalex.org/C200646496",
-          "wikidata": "https://www.wikidata.org/wiki/Q785020",
-          "display_name": "Sedimentary basin",
-          "level": 3,
-          "score": 0.15300682187080383
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1002/9781444303131.ch3",
-          "doi": "https://doi.org/10.1002/9781444303131.ch3",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1002/9781444303131.ch3",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306464293",
-            "display_name": "Wiley eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Analogue and Numerical Modelling of Sedimentary Systems: From Understanding to Prediction",
-          "raw_type": "other"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2896518030",
-        "https://openalex.org/W2737747468",
-        "https://openalex.org/W2074778199",
-        "https://openalex.org/W64631222",
-        "https://openalex.org/W587699443",
-        "https://openalex.org/W3121457176",
-        "https://openalex.org/W6981858812",
-        "https://openalex.org/W6907822357",
-        "https://openalex.org/W2011300084",
-        "https://openalex.org/W2298439675"
-      ],
-      "abstract_inverted_index": {
-        "This": [
-          0
-        ],
-        "chapter": [
-          1
-        ],
-        "contains": [
-          2
-        ],
-        "sections": [
-          3
-        ],
-        "titled:": [
-          4
-        ],
-        "Introduction": [
-          5
-        ],
-        "Structural": [
-          6
-        ],
-        "Balancing": [
-          7
-        ],
-        "Basin": [
-          8,
-          12
-        ],
-        "Modelling": [
-          9
-        ],
-        "Discussion": [
-          10
-        ],
-        "OF": [
-          11
-        ],
-        "Evolution": [
-          13
-        ],
-        "Summary": [
-          14
-        ],
-        "Acknowledgements": [
-          15
-        ],
-        "References": [
-          16
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-07T11:25:07.637180",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2086944217",
@@ -27659,13 +27659,13 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.875,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.875,
           "display_name": "Affordable and clean energy"
         },
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action"
         }
       ],
@@ -28020,12 +28020,12 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.2183908,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 93
       },
       "biblio": {
@@ -28955,11 +28955,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8781,
+      "fwci": 0.8784,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.84513476,
+        "value": 0.7498861,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30069,7 +30069,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.10135757,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32098,7 +32098,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07175812,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36531,8 +36531,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action"
         }
       ],
@@ -36734,7 +36734,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26261249,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38527,7 +38527,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35052466,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42147,7 +42147,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15442799,
+        "value": 0,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43779,8 +43779,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5351999998092651,
           "display_name": "Climate action"
         }
       ],
