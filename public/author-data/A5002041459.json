@@ -183,7 +183,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000193,
+        "value": 0.0000192,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -769,11 +769,11 @@
         "value_usd": 4310
       },
       "apc_paid": null,
-      "fwci": 2.8012,
+      "fwci": 2.4884,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.87476307,
+        "value": 0.85882632,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3561,16 +3561,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.2098,
+      "fwci": 3.7326,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.93341761,
+        "value": 0.9159285,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 98
       },
       "biblio": {
@@ -4720,16 +4720,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2806,
+      "fwci": 2.1801,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.85555694,
+        "value": 0.84886191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 98
       },
       "biblio": {
@@ -11151,9 +11151,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -15537,9 +15537,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],

@@ -175,7 +175,7 @@
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0000977,
+        "value": 0.0000976,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -379,7 +379,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5079669280",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2016-10-28T00:00:00"
   },
   "works": [
@@ -3203,11 +3203,11 @@
         "currency": "USD",
         "value_usd": 3790
       },
-      "fwci": 6.2479,
+      "fwci": 6.2326,
       "has_fulltext": true,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.98131495,
+        "value": 0.9811906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3301,39 +3301,54 @@
           "score": 1
         },
         {
-          "id": "https://openalex.org/keywords/persian-gulf",
-          "display_name": "Persian Gulf",
-          "score": 0.8320000171661377
+          "id": "https://openalex.org/keywords/turbidity",
+          "display_name": "turbidity",
+          "score": 0.7739999890327454
         },
         {
           "id": "https://openalex.org/keywords/sentinel-2",
           "display_name": "Sentinel-2",
-          "score": 0.699999988079071
+          "score": 0.7149999737739563
         },
         {
           "id": "https://openalex.org/keywords/ndti",
           "display_name": "NDTI",
-          "score": 0.9240000247955322
+          "score": 0.9660000205039978
         },
         {
           "id": "https://openalex.org/keywords/mndwi",
           "display_name": "MNDWI",
-          "score": 0.9929999709129333
+          "score": 0.984000027179718
         },
         {
-          "id": "https://openalex.org/keywords/turbidity",
-          "display_name": "turbidity",
-          "score": 0.8999999761581421
+          "id": "https://openalex.org/keywords/coastal-waters",
+          "display_name": "coastal waters",
+          "score": 0.6269999742507935
         },
         {
-          "id": "https://openalex.org/keywords/major-and-trace-elements",
-          "display_name": "major and trace elements",
-          "score": 0.6700000166893005
+          "id": "https://openalex.org/keywords/persian-gulf",
+          "display_name": "Persian Gulf",
+          "score": 0.9700000286102295
         },
         {
-          "id": "https://openalex.org/keywords/remote-sensing-of-turbidity",
-          "display_name": "remote sensing of turbidity",
-          "score": 0.47600001096725464
+          "id": "https://openalex.org/keywords/qatar-coast",
+          "display_name": "Qatar coast",
+          "score": 0.5540000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/grain-size-distribution",
+          "display_name": "grain size distribution",
+          "score": 0.6470000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-mineralogy",
+          "display_name": "sediment mineralogy",
+          "score": 0.7900000214576721
+        },
+        {
+          "id": "https://openalex.org/keywords/arid-regions",
+          "display_name": "arid regions",
+          "score": 0.5690000057220459
         }
       ],
       "concepts": [
@@ -3625,14 +3640,19 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 1,
+          "display_name": "Life below water"
+        },
+        {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8999999761581421,
+          "score": 0.965499997138977,
           "display_name": "Clean water and sanitation"
         },
         {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -4437,7 +4457,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2023-09-07T00:00:00"
     },
     {
@@ -24578,10 +24598,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -24713,11 +24733,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5593,
+      "fwci": 1.6917,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.76502732,
+        "value": 0.78217822,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24910,10 +24930,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -24974,7 +24994,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24998,10 +25018,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -25138,11 +25158,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2874,
+      "fwci": 3.2341,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85573366,
+        "value": 0.85257985,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25400,10 +25420,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -25504,7 +25524,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -25528,10 +25548,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -25668,11 +25688,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2874,
+      "fwci": 3.2341,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85573366,
+        "value": 0.85257985,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26078,10 +26098,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -26186,7 +26206,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -28471,10 +28491,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -28611,11 +28631,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2874,
+      "fwci": 3.2341,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.85573366,
+        "value": 0.85257985,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28904,10 +28924,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -28998,7 +29018,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38637,10 +38657,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -39105,10 +39125,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -39218,7 +39238,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -39242,10 +39262,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -39786,10 +39806,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -39879,7 +39899,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-09-26T00:00:00"
     },
     {
@@ -39903,10 +39923,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -40450,10 +40470,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -40546,7 +40566,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40570,10 +40590,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -41078,10 +41098,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -41198,7 +41218,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-09-27T00:00:00"
     },
     {
@@ -41222,10 +41242,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -41760,10 +41780,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -41898,7 +41918,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41922,10 +41942,10 @@
         "source": {
           "id": "https://openalex.org/S4210176705",
           "display_name": "Regional geology reviews",
-          "issn_l": "2364-6438",
+          "issn_l": "2364-6446",
           "issn": [
-            "2364-6438",
-            "2364-6446"
+            "2364-6446",
+            "2364-6438"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -42327,10 +42347,10 @@
           "source": {
             "id": "https://openalex.org/S4210176705",
             "display_name": "Regional geology reviews",
-            "issn_l": "2364-6438",
+            "issn_l": "2364-6446",
             "issn": [
-              "2364-6438",
-              "2364-6446"
+              "2364-6446",
+              "2364-6438"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -42389,7 +42409,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

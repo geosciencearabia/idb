@@ -16,7 +16,7 @@
     ],
     "full_name": "ZIAD RAFIQ BEYDOUN",
     "works_count": 55,
-    "cited_by_count": 2299,
+    "cited_by_count": 2297,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 25,
@@ -76,7 +76,18 @@
         ]
       }
     ],
-    "last_known_institutions": null,
+    "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I98635879",
+        "ror": "https://ror.org/04pznsd21",
+        "display_name": "American University of Beirut",
+        "country_code": "LB",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I98635879"
+        ]
+      }
+    ],
     "topics": [
       {
         "id": "https://openalex.org/T13193",
@@ -168,7 +179,7 @@
       {
         "id": "https://openalex.org/T13193",
         "display_name": "Geological Studies and Exploration",
-        "value": 0.0000771,
+        "value": 0.000077,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -185,7 +196,7 @@
       {
         "id": "https://openalex.org/T12639",
         "display_name": "Global Energy and Sustainability Research",
-        "value": 0.0000687,
+        "value": 0.0000686,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -219,7 +230,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000586,
+        "value": 0.0000585,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -448,9 +459,9 @@
       },
       {
         "year": 2016,
-        "works_count": 1,
+        "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 78
+        "cited_by_count": 77
       },
       {
         "year": 2017,
@@ -527,7 +538,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5077725431",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5077725431",
-    "updated_date": "2026-11-11T13:02:13",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -616,11 +627,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.568,
+      "fwci": 4.9412,
       "has_fulltext": false,
-      "cited_by_count": 376,
+      "cited_by_count": 375,
       "citation_normalized_percentile": {
-        "value": 0.93617021,
+        "value": 0.94258373,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1663,7 +1674,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -4403,16 +4414,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.6033,
+      "fwci": 0.6049,
       "has_fulltext": false,
-      "cited_by_count": 94,
+      "cited_by_count": 93,
       "citation_normalized_percentile": {
-        "value": 0.61757292,
+        "value": 0.61644332,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 99
       },
       "biblio": {
@@ -5285,10 +5296,6 @@
           "cited_by_count": 2
         },
         {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
           "year": 2015,
           "cited_by_count": 1
         },
@@ -5305,7 +5312,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22027,8 +22034,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -25114,8 +25121,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7778000235557556,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -30750,8 +30757,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/17",
           "score": 0.5217000246047974,
+          "id": "https://metadata.un.org/sdg/17",
           "display_name": "Partnerships for the goals"
         }
       ],
@@ -31696,8 +31703,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4390000104904175,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land"
         }
       ],

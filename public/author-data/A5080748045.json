@@ -1053,8 +1053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -1803,8 +1803,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -2886,8 +2886,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4307414375.pdf",
@@ -3944,11 +3944,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.6999,
+      "fwci": 2.6883,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.9035116,
+        "value": 0.90317896,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4039,42 +4039,42 @@
         {
           "id": "https://openalex.org/keywords/weissert-event",
           "display_name": "Weissert Event",
-          "score": 0.9020000100135803
+          "score": 0.8600000143051147
         },
         {
           "id": "https://openalex.org/keywords/carbon-isotope-stratigraphy",
           "display_name": "carbon isotope stratigraphy",
-          "score": 0.9350000023841858
+          "score": 0.9629999995231628
         },
         {
-          "id": "https://openalex.org/keywords/jurassic-cretaceous-boundary",
-          "display_name": "Jurassic-Cretaceous boundary",
-          "score": 0.9179999828338623
+          "id": "https://openalex.org/keywords/late-jurassic-early-cretaceous",
+          "display_name": "Late Jurassic-Early Cretaceous",
+          "score": 0.8149999976158142
         },
         {
           "id": "https://openalex.org/keywords/tethys-realm",
           "display_name": "Tethys Realm",
-          "score": 0.8429999947547913
+          "score": 0.9070000052452087
         },
         {
           "id": "https://openalex.org/keywords/restricted-circulation",
           "display_name": "restricted circulation",
-          "score": 0.6259999871253967
+          "score": 0.8820000290870667
         },
         {
           "id": "https://openalex.org/keywords/sea-level-rise",
           "display_name": "sea level rise",
-          "score": 0.7879999876022339
+          "score": 0.7609999775886536
+        },
+        {
+          "id": "https://openalex.org/keywords/eustasy",
+          "display_name": "eustasy",
+          "score": 0.8149999976158142
         },
         {
           "id": "https://openalex.org/keywords/yamama-formation",
           "display_name": "Yamama Formation",
-          "score": 0.9980000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/arabian-plate",
-          "display_name": "Arabian Plate",
-          "score": 0.5690000057220459
+          "score": 0.996999979019165
         }
       ],
       "concepts": [
@@ -4308,8 +4308,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "study_designs": [],
@@ -4337,8 +4337,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 122,
@@ -4493,7 +4493,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2023-12-26T00:00:00"
     },
     {
@@ -5089,8 +5089,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 151,
@@ -6034,8 +6034,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf",
@@ -7353,8 +7353,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 151,
@@ -8109,8 +8109,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9244,8 +9244,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -9954,8 +9954,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 147,
@@ -10720,8 +10720,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1997639027.pdf",
@@ -11521,8 +11521,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12625,8 +12625,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -13505,16 +13505,16 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -15089,8 +15089,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.5769000053405762,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -15123,8 +15123,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7218853228.pdf",

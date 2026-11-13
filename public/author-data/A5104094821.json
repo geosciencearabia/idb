@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000206,
+        "value": 0.0000205,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -398,7 +398,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5104094821",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -13469,6 +13469,602 @@
       "created_date": "2024-08-17T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1975890505",
+      "doi": "https://doi.org/10.1007/bf03182089",
+      "title": "Microfacies analysis of Wadi Waqb member (Miocene) in Wadi Aynunah, northwest of Saudi Arabia",
+      "display_name": "Microfacies analysis of Wadi Waqb member (Miocene) in Wadi Aynunah, northwest of Saudi Arabia",
+      "publication_year": 2009,
+      "publication_date": "2009-12-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1975890505",
+        "doi": "https://doi.org/10.1007/bf03182089",
+        "mag": "1975890505"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/bf03182089",
+        "doi": "https://doi.org/10.1007/bf03182089",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/bf03182089",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S48955725",
+          "display_name": "Carbonates and Evaporites",
+          "issn_l": "0891-2556",
+          "issn": [
+            "0891-2556",
+            "1878-5212"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-d",
+            "jufo-1",
+            "norway-1",
+            "poland-40",
+            "russia-white-list-2"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Carbonates and Evaporites",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5102780937",
+            "display_name": "Maaruf Hussain",
+            "orcid": "https://orcid.org/0000-0001-7418-3813",
+            "observed_orcids": [
+              "https://orcid.org/0000-0001-7418-3813"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Maaruf Hussain",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, P.O. Box 1400, 3126, Dhahran, Saudi Arabia",
+            "Department of Earth Sciences King Fahd University of Petroleum and Minerals Dhahran Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, P.O. Box 1400, 3126, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences King Fahd University of Petroleum and Minerals Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5104094821",
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": "https://orcid.org/0000-0002-4872-6201",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-4872-6201"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, P.O. Box 1400, 3126, Dhahran, Saudi Arabia",
+            "Department of Earth Sciences King Fahd University of Petroleum and Minerals Dhahran Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, P.O. Box 1400, 3126, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences King Fahd University of Petroleum and Minerals Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 3090,
+        "currency": "USD",
+        "value_usd": 3090
+      },
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 14,
+      "citation_normalized_percentile": {
+        "value": 0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "24",
+        "issue": "2",
+        "first_page": "139",
+        "last_page": "149"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9779999852180481,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9779999852180481,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.010400000028312206,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.004900000058114529,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/microfacies",
+          "display_name": "microfacies",
+          "score": 0.7990000247955322
+        },
+        {
+          "id": "https://openalex.org/keywords/miocene",
+          "display_name": "Miocene",
+          "score": 0.8180000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/red-sea",
+          "display_name": "Red Sea",
+          "score": 0.5220000147819519
+        },
+        {
+          "id": "https://openalex.org/keywords/fringing-reefs",
+          "display_name": "fringing reefs",
+          "score": 0.6850000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/rhodoliths",
+          "display_name": "rhodoliths",
+          "score": 0.8299999833106995
+        },
+        {
+          "id": "https://openalex.org/keywords/coral-reefs",
+          "display_name": "coral reefs",
+          "score": 0.8460000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/flash-floods",
+          "display_name": "flash floods",
+          "score": 0.5809999704360962
+        },
+        {
+          "id": "https://openalex.org/keywords/bioturbation",
+          "display_name": "bioturbation",
+          "score": 0.6230000257492065
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "unconformity",
+          "score": 0.6079999804496765
+        },
+        {
+          "id": "https://openalex.org/keywords/granitic-basement",
+          "display_name": "granitic basement",
+          "score": 0.6150000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoirs",
+          "display_name": "reservoirs",
+          "score": 0.3540000021457672
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8945513367652893
+        },
+        {
+          "id": "https://openalex.org/C200965112",
+          "wikidata": "https://www.wikidata.org/wiki/Q187971",
+          "display_name": "Wadi",
+          "level": 2,
+          "score": 0.8122309446334839
+        },
+        {
+          "id": "https://openalex.org/C2780886488",
+          "wikidata": "https://www.wikidata.org/wiki/Q5593540",
+          "display_name": "Grainstone",
+          "level": 4,
+          "score": 0.7240368127822876
+        },
+        {
+          "id": "https://openalex.org/C93257316",
+          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
+          "display_name": "Siliciclastic",
+          "level": 4,
+          "score": 0.7178972959518433
+        },
+        {
+          "id": "https://openalex.org/C2776226903",
+          "wikidata": "https://www.wikidata.org/wiki/Q7958806",
+          "display_name": "Wackestone",
+          "level": 4,
+          "score": 0.6087196469306946
+        },
+        {
+          "id": "https://openalex.org/C77044568",
+          "wikidata": "https://www.wikidata.org/wiki/Q184358",
+          "display_name": "Reef",
+          "level": 2,
+          "score": 0.5963282585144043
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.5688242316246033
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.487884521484375
+        },
+        {
+          "id": "https://openalex.org/C2781297371",
+          "wikidata": "https://www.wikidata.org/wiki/Q234852",
+          "display_name": "Basement",
+          "level": 2,
+          "score": 0.4786064326763153
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.47745659947395325
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.4499824047088623
+        },
+        {
+          "id": "https://openalex.org/C19320362",
+          "wikidata": "https://www.wikidata.org/wiki/Q777913",
+          "display_name": "Carbonate rock",
+          "level": 3,
+          "score": 0.3941722810268402
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.3098060190677643
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.181493878364563
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.15551018714904785
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.06606918573379517
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C191897082",
+          "wikidata": "https://www.wikidata.org/wiki/Q11467",
+          "display_name": "Metallurgy",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/bf03182089",
+          "doi": "https://doi.org/10.1007/bf03182089",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/bf03182089",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S48955725",
+            "display_name": "Carbonates and Evaporites",
+            "issn_l": "0891-2556",
+            "issn": [
+              "0891-2556",
+              "1878-5212"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-d",
+              "jufo-1",
+              "norway-1",
+              "poland-40",
+              "russia-white-list-2"
+            ],
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Carbonates and Evaporites",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 14,
+      "referenced_works": [
+        "https://openalex.org/W1564076024",
+        "https://openalex.org/W1580287752",
+        "https://openalex.org/W1584354900",
+        "https://openalex.org/W1999472937",
+        "https://openalex.org/W2114940857",
+        "https://openalex.org/W2605707177",
+        "https://openalex.org/W2753296568",
+        "https://openalex.org/W2889504850",
+        "https://openalex.org/W2932696668",
+        "https://openalex.org/W2941146146",
+        "https://openalex.org/W2988464184",
+        "https://openalex.org/W3008473547",
+        "https://openalex.org/W3123652700",
+        "https://openalex.org/W4251111426"
+      ],
+      "related_works": [
+        "https://openalex.org/W1987587938",
+        "https://openalex.org/W1531273367",
+        "https://openalex.org/W3022723965",
+        "https://openalex.org/W2605288930",
+        "https://openalex.org/W2500737251",
+        "https://openalex.org/W7169841765",
+        "https://openalex.org/W4416726194",
+        "https://openalex.org/W2993336238",
+        "https://openalex.org/W3030786358",
+        "https://openalex.org/W2971124579"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-07T11:25:07.637180",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4407393621",
       "doi": "https://doi.org/10.1007/s13202-025-01930-y",
       "title": "Microfacies control on geomechanical properties of unconventional carbonate reservoirs: insights from a middle jurassic outcrop analogue in Saudi Arabia",
@@ -13489,10 +14085,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -13813,17 +14409,17 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 1.8772,
+      "fwci": 1.8618,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.81789775,
+        "value": 0.81708272,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 91,
-        "max": 97
+        "max": 96
       },
       "biblio": {
         "volume": "15",
@@ -14079,10 +14675,10 @@
           "source": {
             "id": "https://openalex.org/S2764546325",
             "display_name": "Journal of Petroleum Exploration and Production Technology",
-            "issn_l": "2190-0558",
+            "issn_l": "2190-0566",
             "issn": [
-              "2190-0558",
-              "2190-0566"
+              "2190-0566",
+              "2190-0558"
             ],
             "is_oa": true,
             "is_in_doaj": true,
@@ -14153,10 +14749,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -14839,604 +15435,8 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-02-12T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1975890505",
-      "doi": "https://doi.org/10.1007/bf03182089",
-      "title": "Microfacies analysis of Wadi Waqb member (Miocene) in Wadi Aynunah, northwest of Saudi Arabia",
-      "display_name": "Microfacies analysis of Wadi Waqb member (Miocene) in Wadi Aynunah, northwest of Saudi Arabia",
-      "publication_year": 2009,
-      "publication_date": "2009-12-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1975890505",
-        "doi": "https://doi.org/10.1007/bf03182089",
-        "mag": "1975890505"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/bf03182089",
-        "doi": "https://doi.org/10.1007/bf03182089",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/bf03182089",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S48955725",
-          "display_name": "Carbonates and Evaporites",
-          "issn_l": "0891-2556",
-          "issn": [
-            "0891-2556",
-            "1878-5212"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-d",
-            "jufo-1",
-            "norway-1",
-            "poland-40",
-            "russia-white-list-2"
-          ],
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Carbonates and Evaporites",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5102780937",
-            "display_name": "Maaruf Hussain",
-            "orcid": "https://orcid.org/0000-0001-7418-3813",
-            "observed_orcids": [
-              "https://orcid.org/0000-0001-7418-3813"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Maaruf Hussain",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, P.O. Box 1400, 3126, Dhahran, Saudi Arabia",
-            "Department of Earth Sciences King Fahd University of Petroleum and Minerals Dhahran Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, P.O. Box 1400, 3126, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences King Fahd University of Petroleum and Minerals Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-4872-6201"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, P.O. Box 1400, 3126, Dhahran, Saudi Arabia",
-            "Department of Earth Sciences King Fahd University of Petroleum and Minerals Dhahran Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, P.O. Box 1400, 3126, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences King Fahd University of Petroleum and Minerals Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 3090,
-        "currency": "USD",
-        "value_usd": 3090
-      },
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 14,
-      "citation_normalized_percentile": {
-        "value": 0,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 87,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "24",
-        "issue": "2",
-        "first_page": "139",
-        "last_page": "149"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9779999852180481,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9779999852180481,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.010400000028312206,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.004900000058114529,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/microfacies",
-          "display_name": "microfacies",
-          "score": 0.7990000247955322
-        },
-        {
-          "id": "https://openalex.org/keywords/miocene",
-          "display_name": "Miocene",
-          "score": 0.8180000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/red-sea",
-          "display_name": "Red Sea",
-          "score": 0.5220000147819519
-        },
-        {
-          "id": "https://openalex.org/keywords/fringing-reefs",
-          "display_name": "fringing reefs",
-          "score": 0.6850000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/rhodoliths",
-          "display_name": "rhodoliths",
-          "score": 0.8299999833106995
-        },
-        {
-          "id": "https://openalex.org/keywords/coral-reefs",
-          "display_name": "coral reefs",
-          "score": 0.8460000157356262
-        },
-        {
-          "id": "https://openalex.org/keywords/flash-floods",
-          "display_name": "flash floods",
-          "score": 0.5809999704360962
-        },
-        {
-          "id": "https://openalex.org/keywords/bioturbation",
-          "display_name": "bioturbation",
-          "score": 0.6230000257492065
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "unconformity",
-          "score": 0.6079999804496765
-        },
-        {
-          "id": "https://openalex.org/keywords/granitic-basement",
-          "display_name": "granitic basement",
-          "score": 0.6150000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoirs",
-          "display_name": "reservoirs",
-          "score": 0.3540000021457672
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8945513367652893
-        },
-        {
-          "id": "https://openalex.org/C200965112",
-          "wikidata": "https://www.wikidata.org/wiki/Q187971",
-          "display_name": "Wadi",
-          "level": 2,
-          "score": 0.8122309446334839
-        },
-        {
-          "id": "https://openalex.org/C2780886488",
-          "wikidata": "https://www.wikidata.org/wiki/Q5593540",
-          "display_name": "Grainstone",
-          "level": 4,
-          "score": 0.7240368127822876
-        },
-        {
-          "id": "https://openalex.org/C93257316",
-          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
-          "display_name": "Siliciclastic",
-          "level": 4,
-          "score": 0.7178972959518433
-        },
-        {
-          "id": "https://openalex.org/C2776226903",
-          "wikidata": "https://www.wikidata.org/wiki/Q7958806",
-          "display_name": "Wackestone",
-          "level": 4,
-          "score": 0.6087196469306946
-        },
-        {
-          "id": "https://openalex.org/C77044568",
-          "wikidata": "https://www.wikidata.org/wiki/Q184358",
-          "display_name": "Reef",
-          "level": 2,
-          "score": 0.5963282585144043
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.5688242316246033
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.487884521484375
-        },
-        {
-          "id": "https://openalex.org/C2781297371",
-          "wikidata": "https://www.wikidata.org/wiki/Q234852",
-          "display_name": "Basement",
-          "level": 2,
-          "score": 0.4786064326763153
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.47745659947395325
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.4499824047088623
-        },
-        {
-          "id": "https://openalex.org/C19320362",
-          "wikidata": "https://www.wikidata.org/wiki/Q777913",
-          "display_name": "Carbonate rock",
-          "level": 3,
-          "score": 0.3941722810268402
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.3098060190677643
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.181493878364563
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.15551018714904785
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.06606918573379517
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C191897082",
-          "wikidata": "https://www.wikidata.org/wiki/Q11467",
-          "display_name": "Metallurgy",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/bf03182089",
-          "doi": "https://doi.org/10.1007/bf03182089",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/bf03182089",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S48955725",
-            "display_name": "Carbonates and Evaporites",
-            "issn_l": "0891-2556",
-            "issn": [
-              "0891-2556",
-              "1878-5212"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-d",
-              "jufo-1",
-              "norway-1",
-              "poland-40",
-              "russia-white-list-2"
-            ],
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Carbonates and Evaporites",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 14,
-      "referenced_works": [
-        "https://openalex.org/W1564076024",
-        "https://openalex.org/W1580287752",
-        "https://openalex.org/W1584354900",
-        "https://openalex.org/W1999472937",
-        "https://openalex.org/W2114940857",
-        "https://openalex.org/W2605707177",
-        "https://openalex.org/W2753296568",
-        "https://openalex.org/W2889504850",
-        "https://openalex.org/W2932696668",
-        "https://openalex.org/W2941146146",
-        "https://openalex.org/W2988464184",
-        "https://openalex.org/W3008473547",
-        "https://openalex.org/W3123652700",
-        "https://openalex.org/W4251111426"
-      ],
-      "related_works": [
-        "https://openalex.org/W1987587938",
-        "https://openalex.org/W1531273367",
-        "https://openalex.org/W3022723965",
-        "https://openalex.org/W2605288930",
-        "https://openalex.org/W2500737251",
-        "https://openalex.org/W7169841765",
-        "https://openalex.org/W4416726194",
-        "https://openalex.org/W2993336238",
-        "https://openalex.org/W3030786358",
-        "https://openalex.org/W2971124579"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-07T11:25:07.637180",
-      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W4411972762",

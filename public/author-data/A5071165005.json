@@ -11,9 +11,9 @@
     ],
     "full_name": "Kanfar, Rayan",
     "works_count": 7,
-    "cited_by_count": 140,
+    "cited_by_count": 141,
     "summary_stats": {
-      "2yr_mean_citedness": 15,
+      "2yr_mean_citedness": 15.25,
       "h_index": 4,
       "i10_index": 2
     },
@@ -161,7 +161,7 @@
       {
         "id": "https://openalex.org/T13067",
         "display_name": "Geological Modeling and Analysis",
-        "value": 0.0000207,
+        "value": 0.0000206,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -178,7 +178,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000159,
+        "value": 0.0000158,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -317,7 +317,7 @@
         "year": 2026,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 41
+        "cited_by_count": 42
       }
     ],
     "display_name_alternatives": [
@@ -327,7 +327,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5071165005",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5071165005",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2020-02-07T00:00:00"
   },
   "works": [
@@ -977,9 +977,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.685699999332428
         }
       ],
       "study_designs": [],
@@ -2741,11 +2741,11 @@
         "currency": "USD",
         "value_usd": 3640
       },
-      "fwci": 3.7545,
+      "fwci": 4.189,
       "has_fulltext": true,
-      "cited_by_count": 8,
+      "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.92674247,
+        "value": 0.93885361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4108,10 +4108,10 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-12-12T00:00:00"
     },
     {

@@ -329,7 +329,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5009697450",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5009697450",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2018-01-26T00:00:00"
   },
   "works": [
@@ -1093,8 +1093,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -1891,8 +1891,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -2771,8 +2771,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf",
@@ -4499,8 +4499,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -6145,8 +6145,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -6686,8 +6686,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7166,10 +7166,10 @@
         "source": {
           "id": "https://openalex.org/S25214041",
           "display_name": "Stratigraphy",
-          "issn_l": "1547-139X",
+          "issn_l": "2331-656X",
           "issn": [
-            "1547-139X",
-            "2331-656X"
+            "2331-656X",
+            "1547-139X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -7357,16 +7357,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0529,
+      "fwci": 1.0502,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.69759351,
+        "value": 0.69670106,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 98
       },
       "biblio": {
@@ -7560,10 +7560,10 @@
           "source": {
             "id": "https://openalex.org/S25214041",
             "display_name": "Stratigraphy",
-            "issn_l": "1547-139X",
+            "issn_l": "2331-656X",
             "issn": [
-              "1547-139X",
-              "2331-656X"
+              "2331-656X",
+              "1547-139X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -7597,8 +7597,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7916,7 +7916,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-22T06:50:58.402377",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2021-03-29T00:00:00"
     },
     {
@@ -8594,8 +8594,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -8771,10 +8771,10 @@
         "source": {
           "id": "https://openalex.org/S25214041",
           "display_name": "Stratigraphy",
-          "issn_l": "1547-139X",
+          "issn_l": "2331-656X",
           "issn": [
-            "1547-139X",
-            "2331-656X"
+            "2331-656X",
+            "1547-139X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -8913,11 +8913,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2024,
+      "fwci": 1.1957,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.71034371,
+        "value": 0.70854922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9160,10 +9160,10 @@
           "source": {
             "id": "https://openalex.org/S25214041",
             "display_name": "Stratigraphy",
-            "issn_l": "1547-139X",
+            "issn_l": "2331-656X",
             "issn": [
-              "1547-139X",
-              "2331-656X"
+              "2331-656X",
+              "1547-139X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -9197,8 +9197,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9723,7 +9723,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2024-03-17T00:00:00"
     },
     {
@@ -10402,17 +10402,17 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.8485000133514404,
           "display_name": "Affordable and clean energy",
-          "score": 0.8485000133514404
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -11756,8 +11756,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2783424239.pdf",
@@ -12714,8 +12714,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293379780.pdf",
@@ -14067,8 +14067,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -15457,8 +15457,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16065,8 +16065,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17501,8 +17501,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -18931,9 +18931,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "score": 0.9853000044822693,
           "display_name": "Affordable and clean energy",
-          "score": 0.9853000044822693
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "study_designs": [],
@@ -18946,8 +18946,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7160955974.pdf",
@@ -20439,8 +20439,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,

@@ -215,7 +215,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000206,
+        "value": 0.0000205,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -331,7 +331,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051302005",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5051302005",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2021-01-18T00:00:00"
   },
   "works": [
@@ -8812,9 +8812,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -9742,10 +9742,10 @@
         "source": {
           "id": "https://openalex.org/S25214041",
           "display_name": "Stratigraphy",
-          "issn_l": "1547-139X",
+          "issn_l": "2331-656X",
           "issn": [
-            "1547-139X",
-            "2331-656X"
+            "2331-656X",
+            "1547-139X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -9884,11 +9884,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2024,
+      "fwci": 1.1957,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.71034371,
+        "value": 0.70854922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10131,10 +10131,10 @@
           "source": {
             "id": "https://openalex.org/S25214041",
             "display_name": "Stratigraphy",
-            "issn_l": "1547-139X",
+            "issn_l": "2331-656X",
             "issn": [
-              "1547-139X",
-              "2331-656X"
+              "2331-656X",
+              "1547-139X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -10694,7 +10694,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2024-03-17T00:00:00"
     },
     {
@@ -11303,9 +11303,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -13128,9 +13128,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -16580,9 +16580,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -17792,9 +17792,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 1,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -18607,16 +18607,16 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 0.3018,
+      "fwci": 0.3014,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.45908072,
+        "value": 0.45893675,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 93
       },
       "biblio": {
@@ -18702,57 +18702,42 @@
         {
           "id": "https://openalex.org/keywords/carbonate-clumped-isotopes",
           "display_name": "carbonate clumped isotopes",
-          "score": 0.8849999904632568
+          "score": 0.9139999747276306
         },
         {
           "id": "https://openalex.org/keywords/salt-domes",
           "display_name": "salt domes",
-          "score": 0.8730000257492065
+          "score": 0.8379999995231628
         },
         {
           "id": "https://openalex.org/keywords/calcite-veins",
           "display_name": "calcite veins",
-          "score": 0.7149999737739563
+          "score": 0.7680000066757202
         },
         {
-          "id": "https://openalex.org/keywords/fracturing-fluids",
-          "display_name": "fracturing fluids",
-          "score": 0.44699999690055847
-        },
-        {
-          "id": "https://openalex.org/keywords/paleotemperature",
-          "display_name": "paleotemperature",
-          "score": 0.6230000257492065
+          "id": "https://openalex.org/keywords/fracture-flow",
+          "display_name": "fracture flow",
+          "score": 0.5879999995231628
         },
         {
           "id": "https://openalex.org/keywords/geothermal-gradient",
           "display_name": "geothermal gradient",
-          "score": 0.8700000047683716
-        },
-        {
-          "id": "https://openalex.org/keywords/campanian",
-          "display_name": "Campanian",
-          "score": 0.8560000061988831
-        },
-        {
-          "id": "https://openalex.org/keywords/meteoric-diagenesis",
-          "display_name": "meteoric diagenesis",
-          "score": 0.8190000057220459
+          "score": 0.7120000123977661
         },
         {
           "id": "https://openalex.org/keywords/kinetic-isotope-fractionation",
           "display_name": "kinetic isotope fractionation",
-          "score": 0.9010000228881836
+          "score": 0.6729999780654907
+        },
+        {
+          "id": "https://openalex.org/keywords/late-cretaceous",
+          "display_name": "Late Cretaceous",
+          "score": 0.7860000133514404
         },
         {
           "id": "https://openalex.org/keywords/geothermal-resources",
           "display_name": "geothermal resources",
-          "score": 0.48399999737739563
-        },
-        {
-          "id": "https://openalex.org/keywords/oman",
-          "display_name": "Oman",
-          "score": 0.3610000014305115
+          "score": 0.492000013589859
         }
       ],
       "concepts": [
@@ -19828,7 +19813,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2023-04-07T00:00:00"
     },
     {
@@ -20405,9 +20390,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -28069,9 +28054,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -34398,9 +34383,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -39993,9 +39978,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],

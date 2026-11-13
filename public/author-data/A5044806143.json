@@ -34,7 +34,7 @@
     ],
     "full_name": "Mohamed A. K. El‐Ghali",
     "works_count": 95,
-    "cited_by_count": 1513,
+    "cited_by_count": 1512,
     "summary_stats": {
       "2yr_mean_citedness": 2.3157894736842106,
       "h_index": 21,
@@ -231,12 +231,12 @@
     ],
     "topic_share": [
       {
-        "id": "https://openalex.org/T11740",
-        "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0001029,
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "value": 0.0001028,
         "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -248,12 +248,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001028,
+        "id": "https://openalex.org/T11740",
+        "display_name": "Geochemistry and Elemental Analysis",
+        "value": 0.0001027,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -401,19 +401,19 @@
         "year": 2013,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 40
+        "cited_by_count": 39
       },
       {
         "year": 2014,
         "works_count": 0,
         "oa_works_count": 0,
-        "cited_by_count": 37
+        "cited_by_count": 38
       },
       {
         "year": 2015,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 58
+        "cited_by_count": 57
       },
       {
         "year": 2016,
@@ -512,7 +512,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5044806143",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1023,11 +1023,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 5.6812,
+      "fwci": 5.5713,
       "has_fulltext": false,
       "cited_by_count": 213,
       "citation_normalized_percentile": {
-        "value": 0.9447499,
+        "value": 0.94361366,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1527,18 +1527,18 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2013,
-          "cited_by_count": 6
+          "cited_by_count": 5
         },
         {
           "year": 2012,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -1879,11 +1879,11 @@
         "value_usd": 3310
       },
       "apc_paid": null,
-      "fwci": 4.9792,
+      "fwci": 4.6565,
       "has_fulltext": false,
-      "cited_by_count": 92,
+      "cited_by_count": 91,
       "citation_normalized_percentile": {
-        "value": 0.95111111,
+        "value": 0.94468519,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2389,7 +2389,7 @@
         },
         {
           "year": 2015,
-          "cited_by_count": 6
+          "cited_by_count": 5
         },
         {
           "year": 2014,
@@ -2400,7 +2400,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3614,11 +3614,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 3.2418,
+      "fwci": 3.1237,
       "has_fulltext": false,
       "cited_by_count": 79,
       "citation_normalized_percentile": {
-        "value": 0.91394306,
+        "value": 0.90829074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8012,11 +8012,11 @@
         "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 2.7586,
+      "fwci": 2.6559,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.87207302,
+        "value": 0.86703493,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13355,9 +13355,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6801000237464905,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -20561,11 +20561,11 @@
         "value_usd": 3400
       },
       "apc_paid": null,
-      "fwci": 0.7128,
+      "fwci": 0.6472,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.76094537,
+        "value": 0.7369186,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23925,1334 +23925,6 @@
         }
       ],
       "updated_date": "2026-11-07T11:25:07.637180",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2183706495",
-      "doi": "https://doi.org/10.19026/rjees.5.5705",
-      "title": "Depositional Environment of Shallow-Marine Sandstones from Outcrop Gamma-Ray Logs, Belait Formation, Meragang Beach, Brunei Darussalam",
-      "display_name": "Depositional Environment of Shallow-Marine Sandstones from Outcrop Gamma-Ray Logs, Belait Formation, Meragang Beach, Brunei Darussalam",
-      "publication_year": 2013,
-      "publication_date": "2013-06-20",
-      "ids": {
-        "openalex": "https://openalex.org/W2183706495",
-        "doi": "https://doi.org/10.19026/rjees.5.5705",
-        "mag": "2183706495"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.19026/rjees.5.5705",
-        "doi": "https://doi.org/10.19026/rjees.5.5705",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210218648",
-          "display_name": "Research Journal of Environmental and Earth Sciences",
-          "issn_l": "2041-0484",
-          "issn": [
-            "2041-0484",
-            "2041-0492"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4360969362",
-          "host_organization_name": "Maxwell Scientific Publication Corp.",
-          "host_organization_lineage": [
-            "https://openalex.org/P4360969362"
-          ],
-          "host_organization_lineage_names": [
-            "Maxwell Scientific Publication Corp."
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Research Journal of Environmental and Earth Sciences",
-        "raw_type": "journal-article"
-      },
-      "volume": null,
-      "type": "article",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://doi.org/10.19026/rjees.5.5705",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5032627421",
-            "display_name": "Numair Ahmed Siddiqui",
-            "orcid": "https://orcid.org/0000-0002-6703-0699",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6703-0699"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I151746803",
-              "display_name": "NED University of Engineering and Technology",
-              "ror": "https://ror.org/05db8zr24",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I151746803"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY",
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Numair Ahmed Siddiqui",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
-            "Department of Petroleum Engineering, N.E.D. University of Engineering and Technology, Main University Road, Karachi, Pakistan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, N.E.D. University of Engineering and Technology, Main University Road, Karachi, Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I151746803"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5032627421",
-            "display_name": "Numair Ahmed Siddiqui",
-            "orcid": "https://orcid.org/0000-0002-6703-0699",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-6703-0699"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I151746803",
-              "display_name": "NED University of Engineering and Technology",
-              "ror": "https://ror.org/05db8zr24",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I151746803"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY",
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Numair Ahmed Siddiqui",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
-            "Department of Petroleum Engineering, N.E.D. University of Engineering and Technology, Main University Road, Karachi, Pakistan"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Petroleum Engineering, N.E.D. University of Engineering and Technology, Main University Road, Karachi, Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I151746803"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044806143",
-            "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-7850-3471"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed Ali EL-Ghali",
-          "raw_affiliation_strings": [
-            "Department of Earth Sciences, Sultan Qaboos University, Sultanate of Oman"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5058096678",
-            "display_name": "Abdul Hadi Bin Abd Rahman",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdul Hadi bin Abd Rahman",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5029809071",
-            "display_name": "Abubakar Mijinyawa",
-            "orcid": null,
-            "observed_orcids": []
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abubakar Mijinyawa",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5024409572",
-            "display_name": "Joel Ben-Awuah",
-            "orcid": "https://orcid.org/0000-0003-1554-488X",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-1554-488X"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I203899302",
-              "display_name": "Universiti Teknologi Petronas",
-              "ror": "https://ror.org/048g2sh07",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Joel Ben-Awuah",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I203899302"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.1803,
-      "has_fulltext": false,
-      "cited_by_count": 21,
-      "citation_normalized_percentile": {
-        "value": 0.76644688,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "5",
-        "issue": "6",
-        "first_page": "305",
-        "last_page": "324"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 0.9984999895095825,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.00039999998989515007,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.00019999999494757503,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/depositional-environment",
-          "display_name": "depositional environment",
-          "score": 0.8539999723434448
-        },
-        {
-          "id": "https://openalex.org/keywords/shallow-marine-sandstones",
-          "display_name": "shallow marine sandstones",
-          "score": 0.8650000095367432
-        },
-        {
-          "id": "https://openalex.org/keywords/gamma-ray-log",
-          "display_name": "gamma-ray log",
-          "score": 0.8619999885559082
-        },
-        {
-          "id": "https://openalex.org/keywords/cross-bedding",
-          "display_name": "cross-bedding",
-          "score": 0.8040000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/hummocky-cross-stratification",
-          "display_name": "hummocky cross-stratification",
-          "score": 0.8460000157356262
-        },
-        {
-          "id": "https://openalex.org/keywords/tidal-channels",
-          "display_name": "tidal channels",
-          "score": 0.46399998664855957
-        },
-        {
-          "id": "https://openalex.org/keywords/reservoir-heterogeneity",
-          "display_name": "reservoir heterogeneity",
-          "score": 0.7319999933242798
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.9263293147087097
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.868598461151123
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8558595180511475
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.5918722748756409
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3391050696372986
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.19026/rjees.5.5705",
-          "doi": "https://doi.org/10.19026/rjees.5.5705",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210218648",
-            "display_name": "Research Journal of Environmental and Earth Sciences",
-            "issn_l": "2041-0484",
-            "issn": [
-              "2041-0484",
-              "2041-0492"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4360969362",
-            "host_organization_name": "Maxwell Scientific Publication Corp.",
-            "host_organization_lineage": [
-              "https://openalex.org/P4360969362"
-            ],
-            "host_organization_lineage_names": [
-              "Maxwell Scientific Publication Corp."
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Research Journal of Environmental and Earth Sciences",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:espace.curtin.edu.au:20.500.11937/65275",
-          "doi": null,
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/20.500.11937/65275",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401790",
-            "display_name": "eSpace (Curtin University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/I205640436",
-            "host_organization_name": "Curtin University",
-            "host_organization_lineage": [
-              "https://openalex.org/I205640436"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Journal Article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.19026/rjees.5.5705",
-        "doi": "https://doi.org/10.19026/rjees.5.5705",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210218648",
-          "display_name": "Research Journal of Environmental and Earth Sciences",
-          "issn_l": "2041-0484",
-          "issn": [
-            "2041-0484",
-            "2041-0492"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4360969362",
-          "host_organization_name": "Maxwell Scientific Publication Corp.",
-          "host_organization_lineage": [
-            "https://openalex.org/P4360969362"
-          ],
-          "host_organization_lineage_names": [
-            "Maxwell Scientific Publication Corp."
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Research Journal of Environmental and Earth Sciences",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 15,
-      "referenced_works": [
-        "https://openalex.org/W1964280405",
-        "https://openalex.org/W1976609617",
-        "https://openalex.org/W2002998841",
-        "https://openalex.org/W2010014763",
-        "https://openalex.org/W2012141028",
-        "https://openalex.org/W2014225527",
-        "https://openalex.org/W2020115356",
-        "https://openalex.org/W2042946654",
-        "https://openalex.org/W2126836707",
-        "https://openalex.org/W2134482849",
-        "https://openalex.org/W2141713510",
-        "https://openalex.org/W2145373668",
-        "https://openalex.org/W2169022575",
-        "https://openalex.org/W2169969973",
-        "https://openalex.org/W3216705292"
-      ],
-      "related_works": [
-        "https://openalex.org/W2054969427",
-        "https://openalex.org/W2981307187",
-        "https://openalex.org/W2934334534",
-        "https://openalex.org/W4220764356",
-        "https://openalex.org/W7061955483",
-        "https://openalex.org/W2995804327",
-        "https://openalex.org/W2039696605",
-        "https://openalex.org/W1968075281",
-        "https://openalex.org/W4402624045",
-        "https://openalex.org/W330350641"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          90,
-          143
-        ],
-        "outcrop": [
-          1,
-          35,
-          80,
-          237
-        ],
-        "of": [
-          2,
-          71,
-          76,
-          123
-        ],
-        "shallow": [
-          3
-        ],
-        "marine": [
-          4
-        ],
-        "sandstone,": [
-          5
-        ],
-        "Belait": [
-          6,
-          45
-        ],
-        "formation": [
-          7
-        ],
-        "at": [
-          8,
-          58
-        ],
-        "Meragang": [
-          9
-        ],
-        "Beach,": [
-          10
-        ],
-        "Brunei": [
-          11
-        ],
-        "Darussalam": [
-          12
-        ],
-        "have": [
-          13
-        ],
-        "long": [
-          14
-        ],
-        "been": [
-          15
-        ],
-        "regarded": [
-          16
-        ],
-        "as": [
-          17
-        ],
-        "tide-,": [
-          18
-        ],
-        "wave-": [
-          19,
-          163
-        ],
-        "and": [
-          20,
-          28,
-          69,
-          86,
-          115,
-          132,
-          140,
-          159,
-          164,
-          184,
-          198,
-          201,
-          214,
-          227
-        ],
-        "storm-dominated": [
-          21,
-          165,
-          203
-        ],
-        "environment": [
-          22,
-          85,
-          96,
-          107,
-          149,
-          226,
-          250,
-          270
-        ],
-        "that": [
-          23,
-          235,
-          257,
-          276
-        ],
-        "reveals": [
-          24,
-          256
-        ],
-        "the": [
-          25,
-          51,
-          83,
-          188,
-          236,
-          244,
-          258,
-          265,
-          269,
-          273
-        ],
-        "reservoir": [
-          26,
-          279
-        ],
-        "heterogeneities": [
-          27,
-          280
-        ],
-        "variation": [
-          29
-        ],
-        "in": [
-          30,
-          93,
-          99,
-          202,
-          247,
-          251,
-          260,
-          264,
-          271,
-          278,
-          281
-        ],
-        "sand": [
-          31
-        ],
-        "body": [
-          32
-        ],
-        "geometry.": [
-          33
-        ],
-        "Intensive": [
-          34
-        ],
-        "study": [
-          36,
-          50
-        ],
-        "methods": [
-          37
-        ],
-        "were": [
-          38,
-          103
-        ],
-        "available": [
-          39
-        ],
-        "from": [
-          40
-        ],
-        "previously": [
-          41
-        ],
-        "conducted": [
-          42
-        ],
-        "work": [
-          43
-        ],
-        "on": [
-          44,
-          212,
-          230
-        ],
-        "Formation.": [
-          46
-        ],
-        "But": [
-          47
-        ],
-        "for": [
-          48,
-          146
-        ],
-        "this": [
-          49
-        ],
-        "priority": [
-          52
-        ],
-        "was": [
-          53
-        ],
-        "to": [
-          54,
-          81,
-          222,
-          242
-        ],
-        "acquire": [
-          55
-        ],
-        "gamma-ray": [
-          56,
-          144,
-          189,
-          238,
-          261
-        ],
-        "profile": [
-          57,
-          145,
-          190,
-          262
-        ],
-        "5-10": [
-          59
-        ],
-        "cm": [
-          60
-        ],
-        "scale": [
-          61
-        ],
-        "by": [
-          62,
-          105
-        ],
-        "using": [
-          63
-        ],
-        "Digital": [
-          64
-        ],
-        "Total": [
-          65
-        ],
-        "GR": [
-          66
-        ],
-        "Count": [
-          67
-        ],
-        "Detector": [
-          68
-        ],
-        "re-logged": [
-          70
-        ],
-        "Sedimentological": [
-          72
-        ],
-        "log": [
-          73,
-          239
-        ],
-        "(in": [
-          74
-        ],
-        "cm)": [
-          75
-        ],
-        "311.8": [
-          77
-        ],
-        "m": [
-          78
-        ],
-        "thick": [
-          79
-        ],
-        "describe": [
-          82
-        ],
-        "depositional": [
-          84,
-          225,
-          249
-        ],
-        "sedimentary": [
-          87,
-          121
-        ],
-        "facies": [
-          88,
-          122
-        ],
-        "architecture.": [
-          89
-        ],
-        "sediments": [
-          91
-        ],
-        "deposited": [
-          92,
-          246,
-          275
-        ],
-        "a": [
-          94
-        ],
-        "tide-dominated": [
-          95
-        ],
-        "mostly": [
-          97
-        ],
-        "interpreted": [
-          98
-        ],
-        "all": [
-          100
-        ],
-        "cycles": [
-          101
-        ],
-        "which": [
-          102,
-          108,
-          233,
-          272
-        ],
-        "characterized": [
-          104
-        ],
-        "sub-depositional": [
-          106
-        ],
-        "includes;": [
-          109
-        ],
-        "tidal": [
-          110,
-          113,
-          117
-        ],
-        "channel,": [
-          111
-        ],
-        "muddy": [
-          112
-        ],
-        "flat": [
-          114,
-          118
-        ],
-        "mixed": [
-          116
-        ],
-        "sub-environment": [
-          119
-        ],
-        "with": [
-          120,
-          136,
-          172,
-          208,
-          263
-        ],
-        "planner": [
-          124,
-          176
-        ],
-        "cross-bedding,": [
-          125,
-          127,
-          177,
-          179
-        ],
-        "trough": [
-          126,
-          178
-        ],
-        "herringbone": [
-          128
-        ],
-        "cross-stratification,": [
-          129
-        ],
-        "wave": [
-          130,
-          167
-        ],
-        "ripples": [
-          131
-        ],
-        "thin": [
-          133,
-          169
-        ],
-        "parallel": [
-          134,
-          170
-        ],
-        "lamination": [
-          135,
-          171
-        ],
-        "coal": [
-          137
-        ],
-        "fragmented": [
-          138
-        ],
-        "bed": [
-          139
-        ],
-        "carbonaceous": [
-          141
-        ],
-        "material.": [
-          142
-        ],
-        "tide": [
-          147
-        ],
-        "dominated": [
-          148
-        ],
-        "shows": [
-          150,
-          191
-        ],
-        "different": [
-          151,
-          192,
-          224,
-          248,
-          252
-        ],
-        "shapes;": [
-          152,
-          193
-        ],
-        "block": [
-          153
-        ],
-        "left-boxcar,": [
-          154,
-          194
-        ],
-        "bell": [
-          155
-        ],
-        "shape,": [
-          156
-        ],
-        "funnel": [
-          157,
-          196
-        ],
-        "shape": [
-          158,
-          197
-        ],
-        "irregular": [
-          160,
-          199
-        ],
-        "trend.": [
-          161
-        ],
-        "In": [
-          162
-        ],
-        "are": [
-          166
-        ],
-        "ripples,": [
-          168
-        ],
-        "mud": [
-          173
-        ],
-        "drapes,": [
-          174
-        ],
-        "large": [
-          175
-        ],
-        "highly": [
-          180
-        ],
-        "bioturbated": [
-          181
-        ],
-        "(skalithos)": [
-          182
-        ],
-        "sandstone": [
-          183,
-          231,
-          266
-        ],
-        "hummocky": [
-          185
-        ],
-        "cross-stratification.": [
-          186
-        ],
-        "Whereas,": [
-          187
-        ],
-        "right-boxcar,": [
-          195
-        ],
-        "trend": [
-          200
-        ],
-        "it": [
-          204
-        ],
-        "show": [
-          205
-        ],
-        "only": [
-          206
-        ],
-        "left-boxcar": [
-          207
-        ],
-        "no": [
-          209
-        ],
-        "sharp": [
-          210
-        ],
-        "edges": [
-          211
-        ],
-        "top": [
-          213
-        ],
-        "bottom.": [
-          215
-        ],
-        "This": [
-          216
-        ],
-        "approach": [
-          217
-        ],
-        "combines": [
-          218
-        ],
-        "excellent": [
-          219
-        ],
-        "data": [
-          220
-        ],
-        "quality": [
-          221,
-          232
-        ],
-        "interpretate": [
-          223
-        ],
-        "its": [
-          228
-        ],
-        "impact": [
-          229
-        ],
-        "implies": [
-          234
-        ],
-        "can": [
-          240
-        ],
-        "use": [
-          241
-        ],
-        "characterize": [
-          243
-        ],
-        "rock": [
-          245
-        ],
-        "facies.": [
-          253
-        ],
-        "It": [
-          254
-        ],
-        "also": [
-          255
-        ],
-        "changes": [
-          259
-        ],
-        "depend": [
-          267
-        ],
-        "upon": [
-          268
-        ],
-        "sandbody": [
-          274
-        ],
-        "reveal": [
-          277
-        ],
-        "subsurface": [
-          282
-        ],
-        "well": [
-          283
-        ],
-        "correlation.": [
-          284
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -31603,6 +30275,1334 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2183706495",
+      "doi": "https://doi.org/10.19026/rjees.5.5705",
+      "title": "Depositional Environment of Shallow-Marine Sandstones from Outcrop Gamma-Ray Logs, Belait Formation, Meragang Beach, Brunei Darussalam",
+      "display_name": "Depositional Environment of Shallow-Marine Sandstones from Outcrop Gamma-Ray Logs, Belait Formation, Meragang Beach, Brunei Darussalam",
+      "publication_year": 2013,
+      "publication_date": "2013-06-20",
+      "ids": {
+        "openalex": "https://openalex.org/W2183706495",
+        "doi": "https://doi.org/10.19026/rjees.5.5705",
+        "mag": "2183706495"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.19026/rjees.5.5705",
+        "doi": "https://doi.org/10.19026/rjees.5.5705",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210218648",
+          "display_name": "Research Journal of Environmental and Earth Sciences",
+          "issn_l": "2041-0484",
+          "issn": [
+            "2041-0484",
+            "2041-0492"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4360969362",
+          "host_organization_name": "Maxwell Scientific Publication Corp.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4360969362"
+          ],
+          "host_organization_lineage_names": [
+            "Maxwell Scientific Publication Corp."
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Research Journal of Environmental and Earth Sciences",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.19026/rjees.5.5705",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5032627421",
+            "display_name": "Numair Ahmed Siddiqui",
+            "orcid": "https://orcid.org/0000-0002-6703-0699",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6703-0699"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I151746803",
+              "display_name": "NED University of Engineering and Technology",
+              "ror": "https://ror.org/05db8zr24",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I151746803"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY",
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Numair Ahmed Siddiqui",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
+            "Department of Petroleum Engineering, N.E.D. University of Engineering and Technology, Main University Road, Karachi, Pakistan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, N.E.D. University of Engineering and Technology, Main University Road, Karachi, Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I151746803"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5032627421",
+            "display_name": "Numair Ahmed Siddiqui",
+            "orcid": "https://orcid.org/0000-0002-6703-0699",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-6703-0699"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I151746803",
+              "display_name": "NED University of Engineering and Technology",
+              "ror": "https://ror.org/05db8zr24",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I151746803"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY",
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Numair Ahmed Siddiqui",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
+            "Department of Petroleum Engineering, N.E.D. University of Engineering and Technology, Main University Road, Karachi, Pakistan"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, N.E.D. University of Engineering and Technology, Main University Road, Karachi, Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I151746803"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044806143",
+            "display_name": "Mohamed A. K. El‐Ghali",
+            "orcid": "https://orcid.org/0000-0002-7850-3471",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-7850-3471"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed Ali EL-Ghali",
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Sultan Qaboos University, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Sultan Qaboos University, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058096678",
+            "display_name": "Abdul Hadi Bin Abd Rahman",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdul Hadi bin Abd Rahman",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029809071",
+            "display_name": "Abubakar Mijinyawa",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abubakar Mijinyawa",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5024409572",
+            "display_name": "Joel Ben-Awuah",
+            "orcid": "https://orcid.org/0000-0003-1554-488X",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-1554-488X"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I203899302",
+              "display_name": "Universiti Teknologi Petronas",
+              "ror": "https://ror.org/048g2sh07",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Joel Ben-Awuah",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Faculty of Geosciences and Petroleum Engineering, University Teknologi PETRONAS (UTP), 31750 Tronoh, Perak, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I203899302"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.1383,
+      "has_fulltext": false,
+      "cited_by_count": 21,
+      "citation_normalized_percentile": {
+        "value": 0.75764413,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 88,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "5",
+        "issue": "6",
+        "first_page": "305",
+        "last_page": "324"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9984999895095825,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.00039999998989515007,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.00019999999494757503,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/depositional-environment",
+          "display_name": "depositional environment",
+          "score": 0.8539999723434448
+        },
+        {
+          "id": "https://openalex.org/keywords/shallow-marine-sandstones",
+          "display_name": "shallow marine sandstones",
+          "score": 0.8650000095367432
+        },
+        {
+          "id": "https://openalex.org/keywords/gamma-ray-log",
+          "display_name": "gamma-ray log",
+          "score": 0.8619999885559082
+        },
+        {
+          "id": "https://openalex.org/keywords/cross-bedding",
+          "display_name": "cross-bedding",
+          "score": 0.8040000200271606
+        },
+        {
+          "id": "https://openalex.org/keywords/hummocky-cross-stratification",
+          "display_name": "hummocky cross-stratification",
+          "score": 0.8460000157356262
+        },
+        {
+          "id": "https://openalex.org/keywords/tidal-channels",
+          "display_name": "tidal channels",
+          "score": 0.46399998664855957
+        },
+        {
+          "id": "https://openalex.org/keywords/reservoir-heterogeneity",
+          "display_name": "reservoir heterogeneity",
+          "score": 0.7319999933242798
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.9263293147087097
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.868598461151123
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8558595180511475
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.5918722748756409
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.3391050696372986
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.19026/rjees.5.5705",
+          "doi": "https://doi.org/10.19026/rjees.5.5705",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210218648",
+            "display_name": "Research Journal of Environmental and Earth Sciences",
+            "issn_l": "2041-0484",
+            "issn": [
+              "2041-0484",
+              "2041-0492"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4360969362",
+            "host_organization_name": "Maxwell Scientific Publication Corp.",
+            "host_organization_lineage": [
+              "https://openalex.org/P4360969362"
+            ],
+            "host_organization_lineage_names": [
+              "Maxwell Scientific Publication Corp."
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Research Journal of Environmental and Earth Sciences",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:espace.curtin.edu.au:20.500.11937/65275",
+          "doi": null,
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/20.500.11937/65275",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401790",
+            "display_name": "eSpace (Curtin University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/I205640436",
+            "host_organization_name": "Curtin University",
+            "host_organization_lineage": [
+              "https://openalex.org/I205640436"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Journal Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.19026/rjees.5.5705",
+        "doi": "https://doi.org/10.19026/rjees.5.5705",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.19026/rjees.5.5705",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210218648",
+          "display_name": "Research Journal of Environmental and Earth Sciences",
+          "issn_l": "2041-0484",
+          "issn": [
+            "2041-0484",
+            "2041-0492"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4360969362",
+          "host_organization_name": "Maxwell Scientific Publication Corp.",
+          "host_organization_lineage": [
+            "https://openalex.org/P4360969362"
+          ],
+          "host_organization_lineage_names": [
+            "Maxwell Scientific Publication Corp."
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Research Journal of Environmental and Earth Sciences",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 15,
+      "referenced_works": [
+        "https://openalex.org/W1964280405",
+        "https://openalex.org/W1976609617",
+        "https://openalex.org/W2002998841",
+        "https://openalex.org/W2010014763",
+        "https://openalex.org/W2012141028",
+        "https://openalex.org/W2014225527",
+        "https://openalex.org/W2020115356",
+        "https://openalex.org/W2042946654",
+        "https://openalex.org/W2126836707",
+        "https://openalex.org/W2134482849",
+        "https://openalex.org/W2141713510",
+        "https://openalex.org/W2145373668",
+        "https://openalex.org/W2169022575",
+        "https://openalex.org/W2169969973",
+        "https://openalex.org/W3216705292"
+      ],
+      "related_works": [
+        "https://openalex.org/W2054969427",
+        "https://openalex.org/W2981307187",
+        "https://openalex.org/W2934334534",
+        "https://openalex.org/W4220764356",
+        "https://openalex.org/W7061955483",
+        "https://openalex.org/W2995804327",
+        "https://openalex.org/W2039696605",
+        "https://openalex.org/W1968075281",
+        "https://openalex.org/W4402624045",
+        "https://openalex.org/W330350641"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          90,
+          143
+        ],
+        "outcrop": [
+          1,
+          35,
+          80,
+          237
+        ],
+        "of": [
+          2,
+          71,
+          76,
+          123
+        ],
+        "shallow": [
+          3
+        ],
+        "marine": [
+          4
+        ],
+        "sandstone,": [
+          5
+        ],
+        "Belait": [
+          6,
+          45
+        ],
+        "formation": [
+          7
+        ],
+        "at": [
+          8,
+          58
+        ],
+        "Meragang": [
+          9
+        ],
+        "Beach,": [
+          10
+        ],
+        "Brunei": [
+          11
+        ],
+        "Darussalam": [
+          12
+        ],
+        "have": [
+          13
+        ],
+        "long": [
+          14
+        ],
+        "been": [
+          15
+        ],
+        "regarded": [
+          16
+        ],
+        "as": [
+          17
+        ],
+        "tide-,": [
+          18
+        ],
+        "wave-": [
+          19,
+          163
+        ],
+        "and": [
+          20,
+          28,
+          69,
+          86,
+          115,
+          132,
+          140,
+          159,
+          164,
+          184,
+          198,
+          201,
+          214,
+          227
+        ],
+        "storm-dominated": [
+          21,
+          165,
+          203
+        ],
+        "environment": [
+          22,
+          85,
+          96,
+          107,
+          149,
+          226,
+          250,
+          270
+        ],
+        "that": [
+          23,
+          235,
+          257,
+          276
+        ],
+        "reveals": [
+          24,
+          256
+        ],
+        "the": [
+          25,
+          51,
+          83,
+          188,
+          236,
+          244,
+          258,
+          265,
+          269,
+          273
+        ],
+        "reservoir": [
+          26,
+          279
+        ],
+        "heterogeneities": [
+          27,
+          280
+        ],
+        "variation": [
+          29
+        ],
+        "in": [
+          30,
+          93,
+          99,
+          202,
+          247,
+          251,
+          260,
+          264,
+          271,
+          278,
+          281
+        ],
+        "sand": [
+          31
+        ],
+        "body": [
+          32
+        ],
+        "geometry.": [
+          33
+        ],
+        "Intensive": [
+          34
+        ],
+        "study": [
+          36,
+          50
+        ],
+        "methods": [
+          37
+        ],
+        "were": [
+          38,
+          103
+        ],
+        "available": [
+          39
+        ],
+        "from": [
+          40
+        ],
+        "previously": [
+          41
+        ],
+        "conducted": [
+          42
+        ],
+        "work": [
+          43
+        ],
+        "on": [
+          44,
+          212,
+          230
+        ],
+        "Formation.": [
+          46
+        ],
+        "But": [
+          47
+        ],
+        "for": [
+          48,
+          146
+        ],
+        "this": [
+          49
+        ],
+        "priority": [
+          52
+        ],
+        "was": [
+          53
+        ],
+        "to": [
+          54,
+          81,
+          222,
+          242
+        ],
+        "acquire": [
+          55
+        ],
+        "gamma-ray": [
+          56,
+          144,
+          189,
+          238,
+          261
+        ],
+        "profile": [
+          57,
+          145,
+          190,
+          262
+        ],
+        "5-10": [
+          59
+        ],
+        "cm": [
+          60
+        ],
+        "scale": [
+          61
+        ],
+        "by": [
+          62,
+          105
+        ],
+        "using": [
+          63
+        ],
+        "Digital": [
+          64
+        ],
+        "Total": [
+          65
+        ],
+        "GR": [
+          66
+        ],
+        "Count": [
+          67
+        ],
+        "Detector": [
+          68
+        ],
+        "re-logged": [
+          70
+        ],
+        "Sedimentological": [
+          72
+        ],
+        "log": [
+          73,
+          239
+        ],
+        "(in": [
+          74
+        ],
+        "cm)": [
+          75
+        ],
+        "311.8": [
+          77
+        ],
+        "m": [
+          78
+        ],
+        "thick": [
+          79
+        ],
+        "describe": [
+          82
+        ],
+        "depositional": [
+          84,
+          225,
+          249
+        ],
+        "sedimentary": [
+          87,
+          121
+        ],
+        "facies": [
+          88,
+          122
+        ],
+        "architecture.": [
+          89
+        ],
+        "sediments": [
+          91
+        ],
+        "deposited": [
+          92,
+          246,
+          275
+        ],
+        "a": [
+          94
+        ],
+        "tide-dominated": [
+          95
+        ],
+        "mostly": [
+          97
+        ],
+        "interpreted": [
+          98
+        ],
+        "all": [
+          100
+        ],
+        "cycles": [
+          101
+        ],
+        "which": [
+          102,
+          108,
+          233,
+          272
+        ],
+        "characterized": [
+          104
+        ],
+        "sub-depositional": [
+          106
+        ],
+        "includes;": [
+          109
+        ],
+        "tidal": [
+          110,
+          113,
+          117
+        ],
+        "channel,": [
+          111
+        ],
+        "muddy": [
+          112
+        ],
+        "flat": [
+          114,
+          118
+        ],
+        "mixed": [
+          116
+        ],
+        "sub-environment": [
+          119
+        ],
+        "with": [
+          120,
+          136,
+          172,
+          208,
+          263
+        ],
+        "planner": [
+          124,
+          176
+        ],
+        "cross-bedding,": [
+          125,
+          127,
+          177,
+          179
+        ],
+        "trough": [
+          126,
+          178
+        ],
+        "herringbone": [
+          128
+        ],
+        "cross-stratification,": [
+          129
+        ],
+        "wave": [
+          130,
+          167
+        ],
+        "ripples": [
+          131
+        ],
+        "thin": [
+          133,
+          169
+        ],
+        "parallel": [
+          134,
+          170
+        ],
+        "lamination": [
+          135,
+          171
+        ],
+        "coal": [
+          137
+        ],
+        "fragmented": [
+          138
+        ],
+        "bed": [
+          139
+        ],
+        "carbonaceous": [
+          141
+        ],
+        "material.": [
+          142
+        ],
+        "tide": [
+          147
+        ],
+        "dominated": [
+          148
+        ],
+        "shows": [
+          150,
+          191
+        ],
+        "different": [
+          151,
+          192,
+          224,
+          248,
+          252
+        ],
+        "shapes;": [
+          152,
+          193
+        ],
+        "block": [
+          153
+        ],
+        "left-boxcar,": [
+          154,
+          194
+        ],
+        "bell": [
+          155
+        ],
+        "shape,": [
+          156
+        ],
+        "funnel": [
+          157,
+          196
+        ],
+        "shape": [
+          158,
+          197
+        ],
+        "irregular": [
+          160,
+          199
+        ],
+        "trend.": [
+          161
+        ],
+        "In": [
+          162
+        ],
+        "are": [
+          166
+        ],
+        "ripples,": [
+          168
+        ],
+        "mud": [
+          173
+        ],
+        "drapes,": [
+          174
+        ],
+        "large": [
+          175
+        ],
+        "highly": [
+          180
+        ],
+        "bioturbated": [
+          181
+        ],
+        "(skalithos)": [
+          182
+        ],
+        "sandstone": [
+          183,
+          231,
+          266
+        ],
+        "hummocky": [
+          185
+        ],
+        "cross-stratification.": [
+          186
+        ],
+        "Whereas,": [
+          187
+        ],
+        "right-boxcar,": [
+          195
+        ],
+        "trend": [
+          200
+        ],
+        "it": [
+          204
+        ],
+        "show": [
+          205
+        ],
+        "only": [
+          206
+        ],
+        "left-boxcar": [
+          207
+        ],
+        "no": [
+          209
+        ],
+        "sharp": [
+          210
+        ],
+        "edges": [
+          211
+        ],
+        "top": [
+          213
+        ],
+        "bottom.": [
+          215
+        ],
+        "This": [
+          216
+        ],
+        "approach": [
+          217
+        ],
+        "combines": [
+          218
+        ],
+        "excellent": [
+          219
+        ],
+        "data": [
+          220
+        ],
+        "quality": [
+          221,
+          232
+        ],
+        "interpretate": [
+          223
+        ],
+        "its": [
+          228
+        ],
+        "impact": [
+          229
+        ],
+        "implies": [
+          234
+        ],
+        "can": [
+          240
+        ],
+        "use": [
+          241
+        ],
+        "characterize": [
+          243
+        ],
+        "rock": [
+          245
+        ],
+        "facies.": [
+          253
+        ],
+        "It": [
+          254
+        ],
+        "also": [
+          255
+        ],
+        "changes": [
+          259
+        ],
+        "depend": [
+          267
+        ],
+        "upon": [
+          268
+        ],
+        "sandbody": [
+          274
+        ],
+        "reveal": [
+          277
+        ],
+        "subsurface": [
+          282
+        ],
+        "well": [
+          283
+        ],
+        "correlation.": [
+          284
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-11-04T10:54:05.112534",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2076048146",
       "doi": "https://doi.org/10.1016/j.gexplo.2005.11.030",
       "title": "The influence of transgression and regression on the spatial and temporal distribution of diagenetic kaolin in the Upper Ordovician glaciogenic sandstones within a sequence stratigraphic framework, Murzuq Basin, SW Libya",
@@ -35058,16 +35058,16 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.2404,
+      "fwci": 1.2378,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.72031403,
+        "value": 0.71976401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 97
       },
       "biblio": {
@@ -35153,42 +35153,42 @@
         {
           "id": "https://openalex.org/keywords/early-triassic",
           "display_name": "Early Triassic",
-          "score": 0.9070000052452087
+          "score": 0.7289999723434448
         },
         {
           "id": "https://openalex.org/keywords/carbonate-ramp",
           "display_name": "carbonate ramp",
-          "score": 0.8320000171661377
+          "score": 0.8420000076293945
         },
         {
           "id": "https://openalex.org/keywords/carbonate-microfacies",
           "display_name": "carbonate microfacies",
-          "score": 0.7509999871253967
+          "score": 0.7760000228881836
         },
         {
           "id": "https://openalex.org/keywords/depositional-model",
           "display_name": "depositional model",
-          "score": 0.9559999704360962
+          "score": 0.972000002861023
         },
         {
-          "id": "https://openalex.org/keywords/hummocky-cross-stratification",
-          "display_name": "hummocky cross-stratification",
-          "score": 0.9049999713897705
-        },
-        {
-          "id": "https://openalex.org/keywords/jabal-akhdar",
-          "display_name": "Jabal Akhdar",
-          "score": 0.8880000114440918
+          "id": "https://openalex.org/keywords/reservoir-facies",
+          "display_name": "reservoir facies",
+          "score": 0.6039999723434448
         },
         {
           "id": "https://openalex.org/keywords/point-counts",
           "display_name": "point counts",
-          "score": 0.42800000309944153
+          "score": 0.36500000953674316
         },
         {
-          "id": "https://openalex.org/keywords/grain-composition",
-          "display_name": "grain composition",
-          "score": 0.4779999852180481
+          "id": "https://openalex.org/keywords/jabal-akhdar",
+          "display_name": "Jabal Akhdar",
+          "score": 0.9300000071525574
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphic-correlation",
+          "display_name": "stratigraphic correlation",
+          "score": 0.6729999780654907
         }
       ],
       "concepts": [
@@ -35587,7 +35587,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2023-01-06T00:00:00"
     },
     {
@@ -42316,9 +42316,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -43112,14 +43112,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         },
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.5925999879837036,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "study_designs": [],
@@ -46000,9 +46000,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -67153,9 +67153,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -71137,9 +71137,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "study_designs": [],
@@ -78040,9 +78040,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -80746,9 +80746,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -82706,9 +82706,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.821399986743927,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -84906,9 +84906,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -85786,10 +85786,10 @@
         "source": {
           "id": "https://openalex.org/S4210178770",
           "display_name": "Lecture notes in civil engineering",
-          "issn_l": "2366-2557",
+          "issn_l": "2366-2565",
           "issn": [
-            "2366-2557",
-            "2366-2565"
+            "2366-2565",
+            "2366-2557"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -86422,10 +86422,10 @@
           "source": {
             "id": "https://openalex.org/S4210178770",
             "display_name": "Lecture notes in civil engineering",
-            "issn_l": "2366-2557",
+            "issn_l": "2366-2565",
             "issn": [
-              "2366-2557",
-              "2366-2565"
+              "2366-2565",
+              "2366-2557"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -86486,7 +86486,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-11-17T00:00:00"
     },
     {
@@ -86568,7 +86568,7 @@
           "countries": [
             "OM"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Arshad Ali",
           "raw_affiliation_strings": [
             "Sultan Qaboos University"
@@ -86707,7 +86707,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5044314407"
+      ],
       "corresponding_institution_ids": [
         "https://openalex.org/I47818738"
       ],
@@ -87166,14 +87168,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         },
         {
-          "display_name": "Climate action",
           "score": 1,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -87756,7 +87758,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-09T13:22:03.289127",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-11-18T00:00:00"
     },
     {
@@ -88624,14 +88626,14 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.7207000255584717,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         },
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.5142999887466431,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
@@ -89603,42 +89605,47 @@
         {
           "id": "https://openalex.org/keywords/flood-hazard-assessment",
           "display_name": "flood hazard assessment",
-          "score": 0.9240000247955322
+          "score": 0.9399999976158142
         },
         {
-          "id": "https://openalex.org/keywords/subsidence",
-          "display_name": "subsidence",
-          "score": 0.8450000286102295
+          "id": "https://openalex.org/keywords/land-subsidence",
+          "display_name": "land subsidence",
+          "score": 0.9300000071525574
         },
         {
           "id": "https://openalex.org/keywords/oil-and-gas-fields",
           "display_name": "oil and gas fields",
-          "score": 0.6069999933242798
+          "score": 0.609000027179718
         },
         {
-          "id": "https://openalex.org/keywords/ps-insar",
-          "display_name": "PS-InSAR",
-          "score": 0.8510000109672546
+          "id": "https://openalex.org/keywords/height-above-nearest-drainage",
+          "display_name": "Height Above Nearest Drainage",
+          "score": 0.9369999766349792
         },
         {
-          "id": "https://openalex.org/keywords/surface-deformation",
-          "display_name": "surface deformation",
-          "score": 0.7689999938011169
+          "id": "https://openalex.org/keywords/curve-number",
+          "display_name": "SCS curve number",
+          "score": 0.7680000066757202
         },
         {
-          "id": "https://openalex.org/keywords/flood-risk-mapping",
-          "display_name": "flood risk mapping",
-          "score": 0.8109999895095825
+          "id": "https://openalex.org/keywords/extreme-precipitation",
+          "display_name": "heavy rainfall",
+          "score": 0.6890000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/flood-hazard-mapping",
+          "display_name": "flood hazard mapping",
+          "score": 0.6679999828338623
+        },
+        {
+          "id": "https://openalex.org/keywords/multi-criteria-decision-making",
+          "display_name": "multi-criteria decision making",
+          "score": 0.671999990940094
         },
         {
           "id": "https://openalex.org/keywords/arid-regions",
           "display_name": "arid regions",
-          "score": 0.8069999814033508
-        },
-        {
-          "id": "https://openalex.org/keywords/land-use-land-cover",
-          "display_name": "land use/land cover",
-          "score": 0.597000002861023
+          "score": 0.6940000057220459
         }
       ],
       "concepts": [
@@ -90024,14 +90031,19 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
-          "score": 0.5351999998092651,
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6618000268936157,
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         },
         {
-          "display_name": "Life on land",
-          "score": 0.4390000104904175,
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
+        },
+        {
+          "score": 0.5142999887466431,
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "study_designs": [],
@@ -90750,7 +90762,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2026-01-05T00:00:00"
     },
     {

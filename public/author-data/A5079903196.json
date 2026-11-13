@@ -20,11 +20,11 @@
     ],
     "full_name": "Israa S. Abu‐Mahfouz",
     "works_count": 87,
-    "cited_by_count": 838,
+    "cited_by_count": 840,
     "summary_stats": {
-      "2yr_mean_citedness": 4.983606557377049,
+      "2yr_mean_citedness": 5,
       "h_index": 17,
-      "i10_index": 23
+      "i10_index": 24
     },
     "ids": {
       "openalex": "https://openalex.org/A5079903196",
@@ -191,7 +191,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0001627,
+        "value": 0.0001626,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -208,7 +208,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001524,
+        "value": 0.0001523,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0001469,
+        "value": 0.0001468,
         "subfield": {
           "id": "https://openalex.org/subfields/2103",
           "display_name": "Fuel Technology"
@@ -242,7 +242,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001387,
+        "value": 0.0001386,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -353,7 +353,7 @@
         "year": 2024,
         "works_count": 20,
         "oa_works_count": 10,
-        "cited_by_count": 137
+        "cited_by_count": 138
       },
       {
         "year": 2025,
@@ -365,7 +365,7 @@
         "year": 2026,
         "works_count": 19,
         "oa_works_count": 14,
-        "cited_by_count": 266
+        "cited_by_count": 267
       }
     ],
     "display_name_alternatives": [
@@ -384,7 +384,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079903196",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5079903196",
-    "updated_date": "2026-11-11T13:02:13",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -10721,11 +10721,11 @@
         "currency": "USD",
         "value_usd": 1690
       },
-      "fwci": 0.9403,
+      "fwci": 0.9376,
       "has_fulltext": true,
-      "cited_by_count": 28,
+      "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.6783766,
+        "value": 0.67740101,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11770,7 +11770,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 8
+          "cited_by_count": 9
         },
         {
           "year": 2025,
@@ -11785,7 +11785,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2023-01-06T00:00:00"
     },
     {
@@ -25234,16 +25234,16 @@
         "currency": "USD",
         "value_usd": 1260
       },
-      "fwci": 1.2071,
+      "fwci": 1.1969,
       "has_fulltext": true,
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.74885189,
+        "value": 0.74679814,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 95,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -26200,9 +26200,13 @@
         {
           "year": 2025,
           "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-01-29T00:00:00"
     },
     {
@@ -31608,11 +31612,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 2.2492,
+      "fwci": 2.2405,
       "has_fulltext": true,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.87222891,
+        "value": 0.87074347,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32042,7 +32046,7 @@
         "pdf": "https://content.openalex.org/works/W4399169417.pdf",
         "grobid_xml": "https://content.openalex.org/works/W4399169417.grobid-xml"
       },
-      "referenced_works_count": 47,
+      "referenced_works_count": 48,
       "referenced_works": [
         "https://openalex.org/W48803288",
         "https://openalex.org/W1496688790",
@@ -32090,7 +32094,8 @@
         "https://openalex.org/W3109948759",
         "https://openalex.org/W3123528235",
         "https://openalex.org/W4381952153",
-        "https://openalex.org/W4392187283"
+        "https://openalex.org/W4392187283",
+        "https://openalex.org/W4406901108"
       ],
       "related_works": [
         "https://openalex.org/W4407701815",
@@ -32862,7 +32867,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2024-05-31T00:00:00"
     },
     {
@@ -45759,11 +45764,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.3885,
+      "fwci": 0.367,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.68072172,
+        "value": 0.66251595,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

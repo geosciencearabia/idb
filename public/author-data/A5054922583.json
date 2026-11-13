@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0005149,
+        "value": 0.0005147,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -296,7 +296,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0002997,
+        "value": 0.0002995,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -313,7 +313,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0002245,
+        "value": 0.0002244,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -330,7 +330,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001684,
+        "value": 0.0001683,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -475,7 +475,7 @@
       },
       {
         "year": 2016,
-        "works_count": 11,
+        "works_count": 10,
         "oa_works_count": 2,
         "cited_by_count": 28
       },
@@ -570,7 +570,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5054922583",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-12T13:17:38",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1130,8 +1130,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -1739,8 +1739,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -2952,9 +2952,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
@@ -2975,8 +2975,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 163,
@@ -3326,11 +3326,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5656,
+      "fwci": 0.3716,
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.77777778,
+        "value": 0.7815534,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3656,8 +3656,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -3990,16 +3990,16 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 5.7904,
+      "fwci": 5.3401,
       "has_fulltext": false,
       "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.95492316,
+        "value": 0.94947402,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 99
       },
       "biblio": {
@@ -4315,8 +4315,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -4997,9 +4997,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 1
         }
       ],
       "study_designs": [],
@@ -5020,8 +5020,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -5661,9 +5661,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
@@ -5676,8 +5676,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -6433,8 +6433,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2555981623.pdf",
@@ -7016,10 +7016,10 @@
         "source": {
           "id": "https://openalex.org/S78180602",
           "display_name": "Pure and Applied Geophysics",
-          "issn_l": "0033-4533",
+          "issn_l": "0033-4553",
           "issn": [
-            "0033-4533",
             "0033-4553",
+            "0033-4533",
             "1420-9136"
           ],
           "is_oa": false,
@@ -7242,11 +7242,11 @@
         "value_usd": 3790
       },
       "apc_paid": null,
-      "fwci": 1.0856,
+      "fwci": 1.0805,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.78231518,
+        "value": 0.78125956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7502,10 +7502,10 @@
           "source": {
             "id": "https://openalex.org/S78180602",
             "display_name": "Pure and Applied Geophysics",
-            "issn_l": "0033-4533",
+            "issn_l": "0033-4553",
             "issn": [
-              "0033-4533",
               "0033-4553",
+              "0033-4533",
               "1420-9136"
             ],
             "is_oa": false,
@@ -7557,8 +7557,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -7672,7 +7672,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2018-02-23T00:00:00"
     },
     {
@@ -8307,17 +8307,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.46149998903274536,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.46149998903274536
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3106710480.pdf"
@@ -9411,8 +9411,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -10605,32 +10605,32 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8999999761581421
         },
         {
-          "score": 0.8518999814987183,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life on land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.8518999814987183
         },
         {
-          "score": 0.821399986743927,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.821399986743927
         },
         {
-          "score": 0.7250000238418579,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.7250000238418579
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4293103392.pdf",
@@ -11812,8 +11812,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2550543467.pdf",
@@ -13109,8 +13109,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -13911,11 +13911,11 @@
         "value_usd": 2290
       },
       "apc_paid": null,
-      "fwci": 0.3691,
+      "fwci": 0.3476,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.63606501,
+        "value": 0.61383807,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14227,9 +14227,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4399999976158142
         }
       ],
       "study_designs": [],
@@ -14255,8 +14255,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -14765,8 +14765,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15505,8 +15505,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -16584,8 +16584,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4297149413.pdf",
@@ -17642,17 +17642,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.685699999332428
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18638,8 +18638,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 79,
@@ -19395,14 +19395,14 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.75
         },
         {
-          "score": 0.46149998903274536,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.46149998903274536
         }
       ],
       "study_designs": [],
@@ -19415,8 +19415,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -20800,8 +20800,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -22256,8 +22256,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401444371.pdf",
@@ -22880,10 +22880,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -23140,11 +23140,11 @@
         "currency": "USD",
         "value_usd": 2190
       },
-      "fwci": 2.5568,
+      "fwci": 2.5442,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.89598183,
+        "value": 0.89493967,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23432,10 +23432,10 @@
           "source": {
             "id": "https://openalex.org/S2764546325",
             "display_name": "Journal of Petroleum Exploration and Production Technology",
-            "issn_l": "2190-0558",
+            "issn_l": "2190-0566",
             "issn": [
-              "2190-0558",
-              "2190-0566"
+              "2190-0566",
+              "2190-0558"
             ],
             "is_oa": true,
             "is_in_doaj": true,
@@ -23506,10 +23506,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -23552,8 +23552,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -23972,7 +23972,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2024-05-09T00:00:00"
     },
     {
@@ -24425,8 +24425,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -25386,9 +25386,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5351999998092651,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.5351999998092651
         }
       ],
       "study_designs": [],
@@ -25401,8 +25401,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -26398,9 +26398,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.685699999332428
         }
       ],
       "study_designs": [],
@@ -26421,8 +26421,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -27286,8 +27286,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2596572706.pdf",
@@ -27989,8 +27989,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3141147410.pdf",
@@ -29479,8 +29479,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3128211510.pdf",
@@ -30880,8 +30880,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -31645,8 +31645,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4303981288.pdf",
@@ -32660,8 +32660,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -33859,8 +33859,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3193448040.pdf",
@@ -35067,8 +35067,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -36262,9 +36262,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.428600013256073,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.428600013256073
         }
       ],
       "study_designs": [],
@@ -36285,8 +36285,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -37405,8 +37405,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -38210,8 +38210,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",
@@ -39642,8 +39642,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4414021823.pdf",
@@ -41155,8 +41155,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4416764301.pdf",
@@ -42429,8 +42429,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -43960,8 +43960,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2588217779.pdf",
@@ -44894,8 +44894,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -45869,8 +45869,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -46618,8 +46618,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971839332.pdf",
@@ -47656,8 +47656,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -48929,8 +48929,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -50074,8 +50074,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -51316,8 +51316,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -52601,8 +52601,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -53546,475 +53546,6 @@
       "created_date": "2017-04-07T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2985349608",
-      "doi": "https://doi.org/10.1007/978-3-030-32948-8",
-      "title": "Attenuation of Incoherent Seismic Noise",
-      "display_name": "Attenuation of Incoherent Seismic Noise",
-      "publication_year": 2019,
-      "publication_date": "2019-11-18",
-      "ids": {
-        "openalex": "https://openalex.org/W2985349608",
-        "doi": "https://doi.org/10.1007/978-3-030-32948-8",
-        "mag": "2985349608"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/978-3-030-32948-8",
-        "doi": "https://doi.org/10.1007/978-3-030-32948-8",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/978-3-030-32948-8",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210191185",
-          "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
-          "issn": [
-            "2509-372X",
-            "2509-3738"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "listed_in": [],
-          "host_organization": "https://openalex.org/P4310319972",
-          "host_organization_name": "Springer International Publishing",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319972",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer International Publishing",
-            "Springer Nature"
-          ],
-          "type": "book series"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
-        "raw_type": "book"
-      },
-      "volume": null,
-      "type": "book",
-      "is_traditional": true,
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5054922583",
-            "display_name": "Abdullatif Abdulrahman Al-Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154",
-            "observed_orcids": [
-              "https://orcid.org/0000-0002-2171-0154"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif Al-Shuhail",
-          "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5111753752",
-            "display_name": "Saleh A. Al-Dossary",
-            "orcid": "https://orcid.org/0000-0003-3738-2666",
-            "observed_orcids": [
-              "https://orcid.org/0000-0003-3738-2666"
-            ]
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Saleh Al-Dossary",
-          "raw_affiliation_strings": [
-            "Exploration Application Services Department, Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Exploration Application Services Department, Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.2904,
-      "has_fulltext": false,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.59016393,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 88,
-        "max": 97
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.7080000042915344,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.7080000042915344,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.22910000383853912,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10688",
-          "display_name": "Image and Signal Denoising Methods",
-          "score": 0.04749999940395355,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1707",
-            "display_name": "Computer Vision and Pattern Recognition"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/seismic-noise-reduction",
-          "display_name": "seismic noise reduction",
-          "score": 0.7559999823570251
-        },
-        {
-          "id": "https://openalex.org/keywords/noise-reduction",
-          "display_name": "noise reduction",
-          "score": 0.8069999814033508
-        },
-        {
-          "id": "https://openalex.org/keywords/seismic-data-processing",
-          "display_name": "seismic data processing",
-          "score": 0.5720000267028809
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-exploration",
-          "display_name": "petroleum exploration",
-          "score": 0.6000000238418579
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C99498987",
-          "wikidata": "https://www.wikidata.org/wiki/Q2210247",
-          "display_name": "Noise (video)",
-          "level": 3,
-          "score": 0.6998070478439331
-        },
-        {
-          "id": "https://openalex.org/C163294075",
-          "wikidata": "https://www.wikidata.org/wiki/Q581861",
-          "display_name": "Noise reduction",
-          "level": 2,
-          "score": 0.6336768269538879
-        },
-        {
-          "id": "https://openalex.org/C30947920",
-          "wikidata": "https://www.wikidata.org/wiki/Q2133491",
-          "display_name": "Seismic noise",
-          "level": 2,
-          "score": 0.5858302116394043
-        },
-        {
-          "id": "https://openalex.org/C111335779",
-          "wikidata": "https://www.wikidata.org/wiki/Q3454686",
-          "display_name": "Reduction (mathematics)",
-          "level": 2,
-          "score": 0.5341991782188416
-        },
-        {
-          "id": "https://openalex.org/C184652730",
-          "wikidata": "https://www.wikidata.org/wiki/Q2357982",
-          "display_name": "Attenuation",
-          "level": 2,
-          "score": 0.49996018409729004
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.47496935725212097
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0.4081459045410156
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.4010022282600403
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.29518550634384155
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.20605340600013733
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0.17715778946876526
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.1147993803024292
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.11450698971748352
-        },
-        {
-          "id": "https://openalex.org/C2524010",
-          "wikidata": "https://www.wikidata.org/wiki/Q8087",
-          "display_name": "Geometry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C115961682",
-          "wikidata": "https://www.wikidata.org/wiki/Q860623",
-          "display_name": "Image (mathematics)",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/978-3-030-32948-8",
-          "doi": "https://doi.org/10.1007/978-3-030-32948-8",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/978-3-030-32948-8",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210191185",
-            "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
-            "issn": [
-              "2509-372X",
-              "2509-3738"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "listed_in": [],
-            "host_organization": "https://openalex.org/P4310319972",
-            "host_organization_name": "Springer International Publishing",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319972",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer International Publishing",
-              "Springer Nature"
-            ],
-            "type": "book series"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
-          "raw_type": "book"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "study_designs": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 4,
-      "referenced_works": [
-        "https://openalex.org/W2067098972",
-        "https://openalex.org/W2094903560",
-        "https://openalex.org/W2983073294",
-        "https://openalex.org/W2985484151"
-      ],
-      "related_works": [
-        "https://openalex.org/W1995520947",
-        "https://openalex.org/W2324550164",
-        "https://openalex.org/W2593121084",
-        "https://openalex.org/W2909640959",
-        "https://openalex.org/W3198575549",
-        "https://openalex.org/W2058533644",
-        "https://openalex.org/W2321527404",
-        "https://openalex.org/W2044950021",
-        "https://openalex.org/W4200168088",
-        "https://openalex.org/W2913697328"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-11-04T10:54:05.112534",
-      "created_date": "2019-11-22T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4291718822",
       "doi": "https://doi.org/10.1190/image2022-3746892.1",
       "title": "Efficient seismic image super-resolution",
@@ -54450,8 +53981,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -55358,8 +54889,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -56322,8 +55853,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -57067,11 +56598,11 @@
         "currency": "USD",
         "value_usd": 2590
       },
-      "fwci": 1.5949,
+      "fwci": 1.5898,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.77751196,
+        "value": 0.77684049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -57526,6 +57057,13 @@
           "funder_award_id": "SF18060",
           "funder_id": "https://openalex.org/F4320336956",
           "funder_display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals"
+        },
+        {
+          "id": "https://openalex.org/G5959064157",
+          "display_name": null,
+          "funder_award_id": "SF18060",
+          "funder_id": "https://openalex.org/F4320322323",
+          "funder_display_name": "King Fahd University of Petroleum and Minerals"
         }
       ],
       "funders": [
@@ -57546,8 +57084,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4403691116.pdf",
@@ -58405,7 +57943,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2024-10-24T00:00:00"
     },
     {
@@ -59046,8 +58584,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59762,8 +59300,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2460459194.pdf",
@@ -60311,8 +59849,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -60902,16 +60440,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3406,
+      "fwci": 0.3137,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.68516101,
+        "value": 0.6583983,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 96
       },
       "biblio": {
@@ -61253,8 +60791,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -62166,8 +61704,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -62953,8 +62491,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3009319440.pdf",
@@ -64129,8 +63667,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -64965,59 +64503,58 @@
       "created_date": "2016-06-24T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2521291098",
-      "doi": "https://doi.org/10.2113/jeeg21.3.105",
-      "title": "Joint Inversion of Ground-Penetrating Radar and Seismic Velocities for Porosity and Water Saturation in Shallow Sediments",
-      "display_name": "Joint Inversion of Ground-Penetrating Radar and Seismic Velocities for Porosity and Water Saturation in Shallow Sediments",
-      "publication_year": 2016,
-      "publication_date": "2016-09-01",
+      "id": "https://openalex.org/W2985349608",
+      "doi": "https://doi.org/10.1007/978-3-030-32948-8",
+      "title": "Attenuation of Incoherent Seismic Noise",
+      "display_name": "Attenuation of Incoherent Seismic Noise",
+      "publication_year": 2019,
+      "publication_date": "2019-11-18",
       "ids": {
-        "openalex": "https://openalex.org/W2521291098",
-        "doi": "https://doi.org/10.2113/jeeg21.3.105",
-        "mag": "2521291098"
+        "openalex": "https://openalex.org/W2985349608",
+        "doi": "https://doi.org/10.1007/978-3-030-32948-8",
+        "mag": "2985349608"
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.2113/jeeg21.3.105",
-        "doi": "https://doi.org/10.2113/jeeg21.3.105",
+        "id": "doi:10.1007/978-3-030-32948-8",
+        "doi": "https://doi.org/10.1007/978-3-030-32948-8",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2113/jeeg21.3.105",
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-32948-8",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S128202773",
-          "display_name": "Journal of Environmental and Engineering Geophysics",
-          "issn_l": "1083-1363",
+          "id": "https://openalex.org/S4210191185",
+          "display_name": "Advances in oil and gas exploration & production",
+          "issn_l": "2509-3738",
           "issn": [
-            "1083-1363",
-            "1943-2658"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "listed_in": [
-            "cwts-core",
-            "dongbi-b",
-            "jufo-1",
-            "norway-1",
-            "poland-70",
-            "russia-white-list-2"
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310319972",
+          "host_organization_name": "Springer International Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319972",
+            "https://openalex.org/P4310319965"
           ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
+          "host_organization_lineage_names": [
+            "Springer International Publishing",
+            "Springer Nature"
+          ],
+          "type": "book series"
         },
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "Journal of Environmental and Engineering Geophysics",
-        "raw_type": "journal-article"
+        "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
+        "raw_type": "book"
       },
       "volume": null,
-      "type": "article",
+      "type": "book",
       "is_traditional": true,
       "indexed_in": [
         "crossref"
@@ -65055,86 +64592,93 @@
             "SA"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
-            "1 Email: ashuhail@kfupm.edu.sa",
-            "Email:"
+            "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "1 Email: ashuhail@kfupm.edu.sa",
+              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
-            },
-            {
-              "raw_affiliation_string": "Email:",
-              "institution_ids": []
             }
           ]
         },
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5103903200",
-            "display_name": "Ademola A. Adetunji",
-            "orcid": null,
-            "observed_orcids": []
+            "id": "https://openalex.org/A5111753752",
+            "display_name": "Saleh A. Al-Dossary",
+            "orcid": "https://orcid.org/0000-0003-3738-2666",
+            "observed_orcids": [
+              "https://orcid.org/0000-0003-3738-2666"
+            ]
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "Ademola Adetunji",
+          "raw_author_name": "Saleh Al-Dossary",
           "raw_affiliation_strings": [
-            "2 Email: demlad@gmail.com",
-            "Email:"
+            "Exploration Application Services Department, Saudi Aramco, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "2 Email: demlad@gmail.com",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Email:",
-              "institution_ids": []
+              "raw_affiliation_string": "Exploration Application Services Department, Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7031,
+      "fwci": 0.3164,
       "has_fulltext": false,
-      "cited_by_count": 9,
+      "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.82431648,
+        "value": 0.62406015,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 96
       },
       "biblio": {
-        "volume": "21",
-        "issue": "3",
-        "first_page": "105",
-        "last_page": "119"
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
       },
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T11609",
-        "display_name": "Geophysical Methods and Applications",
-        "score": 0.9746000170707703,
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.7080000042915344,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -65150,43 +64694,9 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T11609",
-          "display_name": "Geophysical Methods and Applications",
-          "score": 0.9746000170707703,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10572",
-          "display_name": "Geophysical and Geoelectrical Methods",
-          "score": 0.017999999225139618,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
           "id": "https://openalex.org/T10271",
           "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.0032999999821186066,
+          "score": 0.7080000042915344,
           "subfield": {
             "id": "https://openalex.org/subfields/1908",
             "display_name": "Geophysics"
@@ -65194,6 +64704,40 @@
           "field": {
             "id": "https://openalex.org/fields/19",
             "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.22910000383853912,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10688",
+          "display_name": "Image and Signal Denoising Methods",
+          "score": 0.04749999940395355,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1707",
+            "display_name": "Computer Vision and Pattern Recognition"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -65203,190 +64747,130 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/ground-penetrating-radar",
-          "display_name": "ground penetrating radar",
-          "score": 0.9089999794960022
+          "id": "https://openalex.org/keywords/seismic-noise-reduction",
+          "display_name": "seismic noise reduction",
+          "score": 0.7559999823570251
         },
         {
-          "id": "https://openalex.org/keywords/seismic-p-wave-velocity",
-          "display_name": "seismic P-wave velocity",
-          "score": 0.9480000138282776
+          "id": "https://openalex.org/keywords/noise-reduction",
+          "display_name": "noise reduction",
+          "score": 0.8069999814033508
         },
         {
-          "id": "https://openalex.org/keywords/joint-inversion",
-          "display_name": "joint inversion",
-          "score": 0.9330000281333923
+          "id": "https://openalex.org/keywords/seismic-data-processing",
+          "display_name": "seismic data processing",
+          "score": 0.5720000267028809
         },
         {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "porosity",
-          "score": 0.9459999799728394
-        },
-        {
-          "id": "https://openalex.org/keywords/water-saturation",
-          "display_name": "water saturation",
-          "score": 1
-        },
-        {
-          "id": "https://openalex.org/keywords/shallow-sediments",
-          "display_name": "shallow sediments",
-          "score": 0.9330000281333923
-        },
-        {
-          "id": "https://openalex.org/keywords/complex-refractive-index-model",
-          "display_name": "complex refractive index model",
-          "score": 0.9660000205039978
-        },
-        {
-          "id": "https://openalex.org/keywords/critical-porosity",
-          "display_name": "critical porosity",
-          "score": 0.7089999914169312
-        },
-        {
-          "id": "https://openalex.org/keywords/sandy-soil",
-          "display_name": "sandy soil",
-          "score": 0.9300000071525574
+          "id": "https://openalex.org/keywords/petroleum-exploration",
+          "display_name": "petroleum exploration",
+          "score": 0.6000000238418579
         }
       ],
       "concepts": [
         {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.755821704864502
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7315561175346375
-        },
-        {
-          "id": "https://openalex.org/C71813955",
-          "wikidata": "https://www.wikidata.org/wiki/Q503560",
-          "display_name": "Ground-penetrating radar",
+          "id": "https://openalex.org/C99498987",
+          "wikidata": "https://www.wikidata.org/wiki/Q2210247",
+          "display_name": "Noise (video)",
           "level": 3,
-          "score": 0.7013194561004639
+          "score": 0.6998070478439331
         },
         {
-          "id": "https://openalex.org/C9930424",
-          "wikidata": "https://www.wikidata.org/wiki/Q7426587",
-          "display_name": "Saturation (graph theory)",
+          "id": "https://openalex.org/C163294075",
+          "wikidata": "https://www.wikidata.org/wiki/Q581861",
+          "display_name": "Noise reduction",
           "level": 2,
-          "score": 0.6331303119659424
+          "score": 0.6336768269538879
         },
         {
-          "id": "https://openalex.org/C115341296",
-          "wikidata": "https://www.wikidata.org/wiki/Q864844",
-          "display_name": "Biot number",
+          "id": "https://openalex.org/C30947920",
+          "wikidata": "https://www.wikidata.org/wiki/Q2133491",
+          "display_name": "Seismic noise",
           "level": 2,
-          "score": 0.5427454113960266
+          "score": 0.5858302116394043
         },
         {
-          "id": "https://openalex.org/C1893757",
-          "wikidata": "https://www.wikidata.org/wiki/Q3653001",
-          "display_name": "Inversion (geology)",
-          "level": 3,
-          "score": 0.5117478370666504
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.5106843113899231
-        },
-        {
-          "id": "https://openalex.org/C554190296",
-          "wikidata": "https://www.wikidata.org/wiki/Q47528",
-          "display_name": "Radar",
+          "id": "https://openalex.org/C111335779",
+          "wikidata": "https://www.wikidata.org/wiki/Q3454686",
+          "display_name": "Reduction (mathematics)",
           "level": 2,
-          "score": 0.5069499015808105
+          "score": 0.5341991782188416
         },
         {
-          "id": "https://openalex.org/C159750122",
-          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
-          "display_name": "Soil water",
+          "id": "https://openalex.org/C184652730",
+          "wikidata": "https://www.wikidata.org/wiki/Q2357982",
+          "display_name": "Attenuation",
           "level": 2,
-          "score": 0.46710100769996643
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.46391716599464417
-        },
-        {
-          "id": "https://openalex.org/C159390177",
-          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
-          "display_name": "Soil science",
-          "level": 1,
-          "score": 0.3597482442855835
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.3191864490509033
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.20590007305145264
-        },
-        {
-          "id": "https://openalex.org/C57879066",
-          "wikidata": "https://www.wikidata.org/wiki/Q41217",
-          "display_name": "Mechanics",
-          "level": 1,
-          "score": 0.11228108406066895
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.07886701822280884
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
+          "score": 0.49996018409729004
         },
         {
           "id": "https://openalex.org/C41008148",
           "wikidata": "https://www.wikidata.org/wiki/Q21198",
           "display_name": "Computer science",
           "level": 0,
-          "score": 0
+          "score": 0.47496935725212097
         },
         {
-          "id": "https://openalex.org/C114614502",
-          "wikidata": "https://www.wikidata.org/wiki/Q76592",
-          "display_name": "Combinatorics",
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
           "level": 1,
-          "score": 0
+          "score": 0.4081459045410156
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.4010022282600403
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.29518550634384155
         },
         {
           "id": "https://openalex.org/C121332964",
           "wikidata": "https://www.wikidata.org/wiki/Q413",
           "display_name": "Physics",
           "level": 0,
+          "score": 0.20605340600013733
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0.17715778946876526
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.1147993803024292
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.11450698971748352
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
           "score": 0
         },
         {
-          "id": "https://openalex.org/C76155785",
-          "wikidata": "https://www.wikidata.org/wiki/Q418",
-          "display_name": "Telecommunications",
-          "level": 1,
+          "id": "https://openalex.org/C115961682",
+          "wikidata": "https://www.wikidata.org/wiki/Q860623",
+          "display_name": "Image (mathematics)",
+          "level": 2,
           "score": 0
         }
       ],
@@ -65394,671 +64878,87 @@
       "locations_count": 1,
       "locations": [
         {
-          "id": "doi:10.2113/jeeg21.3.105",
-          "doi": "https://doi.org/10.2113/jeeg21.3.105",
+          "id": "doi:10.1007/978-3-030-32948-8",
+          "doi": "https://doi.org/10.1007/978-3-030-32948-8",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2113/jeeg21.3.105",
+          "landing_page_url": "https://doi.org/10.1007/978-3-030-32948-8",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S128202773",
-            "display_name": "Journal of Environmental and Engineering Geophysics",
-            "issn_l": "1083-1363",
+            "id": "https://openalex.org/S4210191185",
+            "display_name": "Advances in oil and gas exploration & production",
+            "issn_l": "2509-3738",
             "issn": [
-              "1083-1363",
-              "1943-2658"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "listed_in": [
-              "cwts-core",
-              "dongbi-b",
-              "jufo-1",
-              "norway-1",
-              "poland-70",
-              "russia-white-list-2"
+            "is_core": false,
+            "listed_in": [],
+            "host_organization": "https://openalex.org/P4310319972",
+            "host_organization_name": "Springer International Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319972",
+              "https://openalex.org/P4310319965"
             ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
+            "host_organization_lineage_names": [
+              "Springer International Publishing",
+              "Springer Nature"
+            ],
+            "type": "book series"
           },
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "Journal of Environmental and Engineering Geophysics",
-          "raw_type": "journal-article"
+          "raw_source_name": "Advances in Oil and Gas Exploration &amp; Production",
+          "raw_type": "book"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
       "study_designs": [],
       "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        },
-        {
-          "id": "https://openalex.org/F4320324706",
-          "display_name": "Saudi Aramco",
-          "ror": "https://ror.org/03ypap427"
-        }
-      ],
+      "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
-      "referenced_works_count": 30,
+      "referenced_works_count": 4,
       "referenced_works": [
-        "https://openalex.org/W1505668941",
-        "https://openalex.org/W1627327404",
-        "https://openalex.org/W1827669647",
-        "https://openalex.org/W1967453163",
-        "https://openalex.org/W1968122220",
-        "https://openalex.org/W1972911695",
-        "https://openalex.org/W1983306983",
-        "https://openalex.org/W1985779979",
-        "https://openalex.org/W1998742682",
-        "https://openalex.org/W2010971887",
-        "https://openalex.org/W2012147596",
-        "https://openalex.org/W2024486252",
-        "https://openalex.org/W2040284730",
-        "https://openalex.org/W2044979793",
-        "https://openalex.org/W2045029127",
-        "https://openalex.org/W2047249420",
-        "https://openalex.org/W2050260707",
-        "https://openalex.org/W2053376051",
-        "https://openalex.org/W2053548441",
-        "https://openalex.org/W2065990510",
-        "https://openalex.org/W2072619333",
-        "https://openalex.org/W2081239232",
-        "https://openalex.org/W2106075983",
-        "https://openalex.org/W2108365241",
-        "https://openalex.org/W2117846791",
-        "https://openalex.org/W2123717866",
-        "https://openalex.org/W2165799580",
-        "https://openalex.org/W2170395702",
-        "https://openalex.org/W2229346561",
-        "https://openalex.org/W4238955044"
+        "https://openalex.org/W2067098972",
+        "https://openalex.org/W2094903560",
+        "https://openalex.org/W2983073294",
+        "https://openalex.org/W2985484151"
       ],
       "related_works": [
-        "https://openalex.org/W2418701234",
-        "https://openalex.org/W3096587091",
-        "https://openalex.org/W2332412516",
-        "https://openalex.org/W2793961538",
-        "https://openalex.org/W2318626932",
-        "https://openalex.org/W2001838983",
-        "https://openalex.org/W2105277109",
-        "https://openalex.org/W3135733531",
-        "https://openalex.org/W2083147726",
-        "https://openalex.org/W2008297764"
+        "https://openalex.org/W1995520947",
+        "https://openalex.org/W2324550164",
+        "https://openalex.org/W2593121084",
+        "https://openalex.org/W2909640959",
+        "https://openalex.org/W3198575549",
+        "https://openalex.org/W2058533644",
+        "https://openalex.org/W2321527404",
+        "https://openalex.org/W2044950021",
+        "https://openalex.org/W4200168088",
+        "https://openalex.org/W2913697328"
       ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Ground-penetrating": [
-          1
-        ],
-        "radar": [
-          2
-        ],
-        "(GPR)": [
-          3
-        ],
-        "measures": [
-          4
-        ],
-        "the": [
-          5,
-          23,
-          31,
-          54,
-          59,
-          64,
-          139,
-          143,
-          149,
-          152,
-          162,
-          187,
-          205,
-          223,
-          247,
-          256
-        ],
-        "velocity": [
-          6,
-          51
-        ],
-        "(VG)": [
-          7
-        ],
-        "of": [
-          8,
-          30,
-          77,
-          138,
-          145,
-          151,
-          222
-        ],
-        "electromagnetic": [
-          9
-        ],
-        "waves": [
-          10
-        ],
-        "in": [
-          11,
-          53,
-          87,
-          119,
-          142,
-          147,
-          169,
-          181,
-          208,
-          230,
-          254
-        ],
-        "a": [
-          12,
-          16,
-          74,
-          116,
-          237
-        ],
-        "subsurface": [
-          13
-        ],
-        "material.": [
-          14,
-          32
-        ],
-        "In": [
-          15,
-          66
-        ],
-        "low-loss": [
-          17
-        ],
-        "material,": [
-          18
-        ],
-        "VG": [
-          19,
-          44,
-          78,
-          97
-        ],
-        "depends": [
-          20
-        ],
-        "primarily": [
-          21
-        ],
-        "on": [
-          22,
-          177
-        ],
-        "porosity": [
-          24,
-          207
-        ],
-        "(φ)": [
-          25
-        ],
-        "and": [
-          26,
-          40,
-          79,
-          85,
-          98,
-          111,
-          121,
-          132,
-          166,
-          233,
-          259
-        ],
-        "water": [
-          27,
-          164
-        ],
-        "saturation": [
-          28,
-          165
-        ],
-        "(Sw)": [
-          29
-        ],
-        "Therefore,": [
-          33
-        ],
-        "it": [
-          34
-        ],
-        "is": [
-          35,
-          71,
-          175,
-          204
-        ],
-        "impossible": [
-          36
-        ],
-        "to": [
-          37,
-          81,
-          105,
-          109,
-          129,
-          261
-        ],
-        "estimate": [
-          38,
-          130
-        ],
-        "φ": [
-          39,
-          84,
-          110,
-          120,
-          131,
-          194,
-          232,
-          258
-        ],
-        "Sw": [
-          41,
-          86,
-          133,
-          213,
-          234,
-          260
-        ],
-        "uniquely": [
-          42
-        ],
-        "from": [
-          43,
-          134,
-          186
-        ],
-        "without": [
-          45
-        ],
-        "additional": [
-          46
-        ],
-        "information.": [
-          47
-        ],
-        "The": [
-          48,
-          90,
-          123,
-          173
-        ],
-        "seismic": [
-          49
-        ],
-        "P-wave": [
-          50
-        ],
-        "(VP)": [
-          52
-        ],
-        "same": [
-          55
-        ],
-        "material": [
-          56
-        ],
-        "can": [
-          57,
-          159
-        ],
-        "provide": [
-          58
-        ],
-        "extra": [
-          60
-        ],
-        "information": [
-          61
-        ],
-        "required": [
-          62
-        ],
-        "for": [
-          63,
-          73,
-          83,
-          96,
-          101,
-          196,
-          220,
-          250
-        ],
-        "inversion.": [
-          65
-        ],
-        "this": [
-          67
-        ],
-        "study,": [
-          68
-        ],
-        "an": [
-          69
-        ],
-        "approach": [
-          70,
-          174
-        ],
-        "described": [
-          72
-        ],
-        "closed-form": [
-          75
-        ],
-        "solution": [
-          76
-        ],
-        "VP": [
-          80,
-          102
-        ],
-        "invert": [
-          82
-        ],
-        "shallow": [
-          88
-        ],
-        "sediments.": [
-          89,
-          172
-        ],
-        "complex": [
-          91
-        ],
-        "refractive": [
-          92
-        ],
-        "index": [
-          93
-        ],
-        "model": [
-          94,
-          100,
-          114
-        ],
-        "(CRIM)": [
-          95
-        ],
-        "Gassmann-Biot": [
-          99
-        ],
-        "are": [
-          103,
-          126
-        ],
-        "used": [
-          104
-        ],
-        "relate": [
-          106
-        ],
-        "these": [
-          107,
-          157,
-          251
-        ],
-        "velocities": [
-          108
-        ],
-        "Sw.": [
-          112,
-          122
-        ],
-        "Each": [
-          113
-        ],
-        "presents": [
-          115
-        ],
-        "nonlinear": [
-          117
-        ],
-        "equation": [
-          118
-        ],
-        "two": [
-          124
-        ],
-        "equations": [
-          125
-        ],
-        "solved": [
-          127
-        ],
-        "simultaneously": [
-          128
-        ],
-        "VG-VP": [
-          135,
-          179
-        ],
-        "measurements.": [
-          136
-        ],
-        "Testing": [
-          137
-        ],
-        "inversion": [
-          140
-        ],
-        "procedure": [
-          141
-        ],
-        "presence": [
-          144
-        ],
-        "errors": [
-          146,
-          158
-        ],
-        "assuming": [
-          148
-        ],
-        "properties": [
-          150,
-          249
-        ],
-        "soil": [
-          153,
-          183,
-          239
-        ],
-        "matrix": [
-          154,
-          240,
-          248
-        ],
-        "showed": [
-          155
-        ],
-        "that": [
-          156,
-          192,
-          245
-        ],
-        "drastically": [
-          160
-        ],
-        "affect": [
-          161
-        ],
-        "inverted": [
-          163,
-          193,
-          212,
-          257
-        ],
-        "porosity,": [
-          167
-        ],
-        "especially": [
-          168
-        ],
-        "dry,": [
-          170
-        ],
-        "low-porosity": [
-          171
-        ],
-        "applied": [
-          176
-        ],
-        "many": [
-          178
-        ],
-        "measurements": [
-          180
-        ],
-        "various": [
-          182
-        ],
-        "types": [
-          184
-        ],
-        "collected": [
-          185
-        ],
-        "literature.": [
-          188
-        ],
-        "Inversion": [
-          189
-        ],
-        "results": [
-          190
-        ],
-        "show": [
-          191
-        ],
-        "values": [
-          195,
-          214,
-          235
-        ],
-        "most": [
-          197,
-          221
-        ],
-        "data": [
-          198,
-          224,
-          227
-        ],
-        "points": [
-          199,
-          228,
-          252
-        ],
-        "fell": [
-          200
-        ],
-        "around": [
-          201
-        ],
-        "0.4,": [
-          202
-        ],
-        "which": [
-          203
-        ],
-        "critical": [
-          206
-        ],
-        "sandy": [
-          209,
-          238
-        ],
-        "soils,": [
-          210
-        ],
-        "while": [
-          211
-        ],
-        "generally": [
-          215
-        ],
-        "agreed": [
-          216
-        ],
-        "with": [
-          217
-        ],
-        "reported": [
-          218
-        ],
-        "saturations": [
-          219
-        ],
-        "points.": [
-          225
-        ],
-        "Few": [
-          226
-        ],
-        "resulted": [
-          229,
-          253
-        ],
-        "unrealistic": [
-          231
-        ],
-        "when": [
-          236
-        ],
-        "was": [
-          241
-        ],
-        "assumed.": [
-          242
-        ],
-        "We": [
-          243
-        ],
-        "found": [
-          244
-        ],
-        "perturbing": [
-          246
-        ],
-        "shifting": [
-          255
-        ],
-        "more": [
-          262
-        ],
-        "realistic": [
-          263
-        ],
-        "values.": [
-          264
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
         {
           "year": 2023,
           "cited_by_count": 1
@@ -66066,26 +64966,10 @@
         {
           "year": 2021,
           "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-23T05:00:35.095934",
-      "created_date": "2016-09-30T00:00:00"
+      "updated_date": "2026-11-12T12:28:57.059296",
+      "created_date": "2019-11-22T00:00:00"
     },
     {
       "id": "https://openalex.org/W1987442082",
@@ -66218,11 +65102,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.0432,
+      "fwci": 0.9549,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.78535148,
+        "value": 0.75515388,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66571,8 +65455,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -66974,8 +65858,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -67889,8 +66773,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -68785,17 +67669,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -69798,8 +68682,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -70854,8 +69738,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71044,6 +69928,1129 @@
       ],
       "updated_date": "2026-11-07T11:25:07.637180",
       "created_date": "2016-06-24T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2521291098",
+      "doi": "https://doi.org/10.2113/jeeg21.3.105",
+      "title": "Joint Inversion of Ground-Penetrating Radar and Seismic Velocities for Porosity and Water Saturation in Shallow Sediments",
+      "display_name": "Joint Inversion of Ground-Penetrating Radar and Seismic Velocities for Porosity and Water Saturation in Shallow Sediments",
+      "publication_year": 2016,
+      "publication_date": "2016-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2521291098",
+        "doi": "https://doi.org/10.2113/jeeg21.3.105",
+        "mag": "2521291098"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/jeeg21.3.105",
+        "doi": "https://doi.org/10.2113/jeeg21.3.105",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2113/jeeg21.3.105",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S128202773",
+          "display_name": "Journal of Environmental and Engineering Geophysics",
+          "issn_l": "1083-1363",
+          "issn": [
+            "1083-1363",
+            "1943-2658"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "norway-1",
+            "poland-70",
+            "russia-white-list-2"
+          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Environmental and Engineering Geophysics",
+        "raw_type": "journal-article"
+      },
+      "volume": null,
+      "type": "article",
+      "is_traditional": true,
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054922583",
+            "display_name": "Abdullatif Abdulrahman Al-Shuhail",
+            "orcid": "https://orcid.org/0000-0002-2171-0154",
+            "observed_orcids": [
+              "https://orcid.org/0000-0002-2171-0154"
+            ]
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullatif A. Al-Shuhail",
+          "raw_affiliation_strings": [
+            "1 Email: ashuhail@kfupm.edu.sa",
+            "Email:"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 Email: ashuhail@kfupm.edu.sa",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Email:",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103903200",
+            "display_name": "Ademola A. Adetunji",
+            "orcid": null,
+            "observed_orcids": []
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ademola Adetunji",
+          "raw_affiliation_strings": [
+            "2 Email: demlad@gmail.com",
+            "Email:"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2 Email: demlad@gmail.com",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Email:",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.5685,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.80919757,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 87,
+        "max": 95
+      },
+      "biblio": {
+        "volume": "21",
+        "issue": "3",
+        "first_page": "105",
+        "last_page": "119"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11609",
+        "display_name": "Geophysical Methods and Applications",
+        "score": 0.9746000170707703,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11609",
+          "display_name": "Geophysical Methods and Applications",
+          "score": 0.9746000170707703,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10572",
+          "display_name": "Geophysical and Geoelectrical Methods",
+          "score": 0.017999999225139618,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.0032999999821186066,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/ground-penetrating-radar",
+          "display_name": "ground penetrating radar",
+          "score": 0.9089999794960022
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-p-wave-velocity",
+          "display_name": "seismic P-wave velocity",
+          "score": 0.9480000138282776
+        },
+        {
+          "id": "https://openalex.org/keywords/joint-inversion",
+          "display_name": "joint inversion",
+          "score": 0.9330000281333923
+        },
+        {
+          "id": "https://openalex.org/keywords/porosity",
+          "display_name": "porosity",
+          "score": 0.9459999799728394
+        },
+        {
+          "id": "https://openalex.org/keywords/water-saturation",
+          "display_name": "water saturation",
+          "score": 1
+        },
+        {
+          "id": "https://openalex.org/keywords/shallow-sediments",
+          "display_name": "shallow sediments",
+          "score": 0.9330000281333923
+        },
+        {
+          "id": "https://openalex.org/keywords/complex-refractive-index-model",
+          "display_name": "complex refractive index model",
+          "score": 0.9660000205039978
+        },
+        {
+          "id": "https://openalex.org/keywords/critical-porosity",
+          "display_name": "critical porosity",
+          "score": 0.7089999914169312
+        },
+        {
+          "id": "https://openalex.org/keywords/sandy-soil",
+          "display_name": "sandy soil",
+          "score": 0.9300000071525574
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C6648577",
+          "wikidata": "https://www.wikidata.org/wiki/Q622669",
+          "display_name": "Porosity",
+          "level": 2,
+          "score": 0.755821704864502
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7315561175346375
+        },
+        {
+          "id": "https://openalex.org/C71813955",
+          "wikidata": "https://www.wikidata.org/wiki/Q503560",
+          "display_name": "Ground-penetrating radar",
+          "level": 3,
+          "score": 0.7013194561004639
+        },
+        {
+          "id": "https://openalex.org/C9930424",
+          "wikidata": "https://www.wikidata.org/wiki/Q7426587",
+          "display_name": "Saturation (graph theory)",
+          "level": 2,
+          "score": 0.6331303119659424
+        },
+        {
+          "id": "https://openalex.org/C115341296",
+          "wikidata": "https://www.wikidata.org/wiki/Q864844",
+          "display_name": "Biot number",
+          "level": 2,
+          "score": 0.5427454113960266
+        },
+        {
+          "id": "https://openalex.org/C1893757",
+          "wikidata": "https://www.wikidata.org/wiki/Q3653001",
+          "display_name": "Inversion (geology)",
+          "level": 3,
+          "score": 0.5117478370666504
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.5106843113899231
+        },
+        {
+          "id": "https://openalex.org/C554190296",
+          "wikidata": "https://www.wikidata.org/wiki/Q47528",
+          "display_name": "Radar",
+          "level": 2,
+          "score": 0.5069499015808105
+        },
+        {
+          "id": "https://openalex.org/C159750122",
+          "wikidata": "https://www.wikidata.org/wiki/Q96621023",
+          "display_name": "Soil water",
+          "level": 2,
+          "score": 0.46710100769996643
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.46391716599464417
+        },
+        {
+          "id": "https://openalex.org/C159390177",
+          "wikidata": "https://www.wikidata.org/wiki/Q9161265",
+          "display_name": "Soil science",
+          "level": 1,
+          "score": 0.3597482442855835
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.3191864490509033
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.20590007305145264
+        },
+        {
+          "id": "https://openalex.org/C57879066",
+          "wikidata": "https://www.wikidata.org/wiki/Q41217",
+          "display_name": "Mechanics",
+          "level": 1,
+          "score": 0.11228108406066895
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.07886701822280884
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C114614502",
+          "wikidata": "https://www.wikidata.org/wiki/Q76592",
+          "display_name": "Combinatorics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C76155785",
+          "wikidata": "https://www.wikidata.org/wiki/Q418",
+          "display_name": "Telecommunications",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/jeeg21.3.105",
+          "doi": "https://doi.org/10.2113/jeeg21.3.105",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2113/jeeg21.3.105",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S128202773",
+            "display_name": "Journal of Environmental and Engineering Geophysics",
+            "issn_l": "1083-1363",
+            "issn": [
+              "1083-1363",
+              "1943-2658"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "listed_in": [
+              "cwts-core",
+              "dongbi-b",
+              "jufo-1",
+              "norway-1",
+              "poland-70",
+              "russia-white-list-2"
+            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Environmental and Engineering Geophysics",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "study_designs": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 30,
+      "referenced_works": [
+        "https://openalex.org/W1505668941",
+        "https://openalex.org/W1627327404",
+        "https://openalex.org/W1827669647",
+        "https://openalex.org/W1967453163",
+        "https://openalex.org/W1968122220",
+        "https://openalex.org/W1972911695",
+        "https://openalex.org/W1983306983",
+        "https://openalex.org/W1985779979",
+        "https://openalex.org/W1998742682",
+        "https://openalex.org/W2010971887",
+        "https://openalex.org/W2012147596",
+        "https://openalex.org/W2024486252",
+        "https://openalex.org/W2040284730",
+        "https://openalex.org/W2044979793",
+        "https://openalex.org/W2045029127",
+        "https://openalex.org/W2047249420",
+        "https://openalex.org/W2050260707",
+        "https://openalex.org/W2053376051",
+        "https://openalex.org/W2053548441",
+        "https://openalex.org/W2065990510",
+        "https://openalex.org/W2072619333",
+        "https://openalex.org/W2081239232",
+        "https://openalex.org/W2106075983",
+        "https://openalex.org/W2108365241",
+        "https://openalex.org/W2117846791",
+        "https://openalex.org/W2123717866",
+        "https://openalex.org/W2165799580",
+        "https://openalex.org/W2170395702",
+        "https://openalex.org/W2229346561",
+        "https://openalex.org/W4238955044"
+      ],
+      "related_works": [
+        "https://openalex.org/W2418701234",
+        "https://openalex.org/W3096587091",
+        "https://openalex.org/W2332412516",
+        "https://openalex.org/W2793961538",
+        "https://openalex.org/W2318626932",
+        "https://openalex.org/W2001838983",
+        "https://openalex.org/W2105277109",
+        "https://openalex.org/W3135733531",
+        "https://openalex.org/W2083147726",
+        "https://openalex.org/W2008297764"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Ground-penetrating": [
+          1
+        ],
+        "radar": [
+          2
+        ],
+        "(GPR)": [
+          3
+        ],
+        "measures": [
+          4
+        ],
+        "the": [
+          5,
+          23,
+          31,
+          54,
+          59,
+          64,
+          139,
+          143,
+          149,
+          152,
+          162,
+          187,
+          205,
+          223,
+          247,
+          256
+        ],
+        "velocity": [
+          6,
+          51
+        ],
+        "(VG)": [
+          7
+        ],
+        "of": [
+          8,
+          30,
+          77,
+          138,
+          145,
+          151,
+          222
+        ],
+        "electromagnetic": [
+          9
+        ],
+        "waves": [
+          10
+        ],
+        "in": [
+          11,
+          53,
+          87,
+          119,
+          142,
+          147,
+          169,
+          181,
+          208,
+          230,
+          254
+        ],
+        "a": [
+          12,
+          16,
+          74,
+          116,
+          237
+        ],
+        "subsurface": [
+          13
+        ],
+        "material.": [
+          14,
+          32
+        ],
+        "In": [
+          15,
+          66
+        ],
+        "low-loss": [
+          17
+        ],
+        "material,": [
+          18
+        ],
+        "VG": [
+          19,
+          44,
+          78,
+          97
+        ],
+        "depends": [
+          20
+        ],
+        "primarily": [
+          21
+        ],
+        "on": [
+          22,
+          177
+        ],
+        "porosity": [
+          24,
+          207
+        ],
+        "(φ)": [
+          25
+        ],
+        "and": [
+          26,
+          40,
+          79,
+          85,
+          98,
+          111,
+          121,
+          132,
+          166,
+          233,
+          259
+        ],
+        "water": [
+          27,
+          164
+        ],
+        "saturation": [
+          28,
+          165
+        ],
+        "(Sw)": [
+          29
+        ],
+        "Therefore,": [
+          33
+        ],
+        "it": [
+          34
+        ],
+        "is": [
+          35,
+          71,
+          175,
+          204
+        ],
+        "impossible": [
+          36
+        ],
+        "to": [
+          37,
+          81,
+          105,
+          109,
+          129,
+          261
+        ],
+        "estimate": [
+          38,
+          130
+        ],
+        "φ": [
+          39,
+          84,
+          110,
+          120,
+          131,
+          194,
+          232,
+          258
+        ],
+        "Sw": [
+          41,
+          86,
+          133,
+          213,
+          234,
+          260
+        ],
+        "uniquely": [
+          42
+        ],
+        "from": [
+          43,
+          134,
+          186
+        ],
+        "without": [
+          45
+        ],
+        "additional": [
+          46
+        ],
+        "information.": [
+          47
+        ],
+        "The": [
+          48,
+          90,
+          123,
+          173
+        ],
+        "seismic": [
+          49
+        ],
+        "P-wave": [
+          50
+        ],
+        "(VP)": [
+          52
+        ],
+        "same": [
+          55
+        ],
+        "material": [
+          56
+        ],
+        "can": [
+          57,
+          159
+        ],
+        "provide": [
+          58
+        ],
+        "extra": [
+          60
+        ],
+        "information": [
+          61
+        ],
+        "required": [
+          62
+        ],
+        "for": [
+          63,
+          73,
+          83,
+          96,
+          101,
+          196,
+          220,
+          250
+        ],
+        "inversion.": [
+          65
+        ],
+        "this": [
+          67
+        ],
+        "study,": [
+          68
+        ],
+        "an": [
+          69
+        ],
+        "approach": [
+          70,
+          174
+        ],
+        "described": [
+          72
+        ],
+        "closed-form": [
+          75
+        ],
+        "solution": [
+          76
+        ],
+        "VP": [
+          80,
+          102
+        ],
+        "invert": [
+          82
+        ],
+        "shallow": [
+          88
+        ],
+        "sediments.": [
+          89,
+          172
+        ],
+        "complex": [
+          91
+        ],
+        "refractive": [
+          92
+        ],
+        "index": [
+          93
+        ],
+        "model": [
+          94,
+          100,
+          114
+        ],
+        "(CRIM)": [
+          95
+        ],
+        "Gassmann-Biot": [
+          99
+        ],
+        "are": [
+          103,
+          126
+        ],
+        "used": [
+          104
+        ],
+        "relate": [
+          106
+        ],
+        "these": [
+          107,
+          157,
+          251
+        ],
+        "velocities": [
+          108
+        ],
+        "Sw.": [
+          112,
+          122
+        ],
+        "Each": [
+          113
+        ],
+        "presents": [
+          115
+        ],
+        "nonlinear": [
+          117
+        ],
+        "equation": [
+          118
+        ],
+        "two": [
+          124
+        ],
+        "equations": [
+          125
+        ],
+        "solved": [
+          127
+        ],
+        "simultaneously": [
+          128
+        ],
+        "VG-VP": [
+          135,
+          179
+        ],
+        "measurements.": [
+          136
+        ],
+        "Testing": [
+          137
+        ],
+        "inversion": [
+          140
+        ],
+        "procedure": [
+          141
+        ],
+        "presence": [
+          144
+        ],
+        "errors": [
+          146,
+          158
+        ],
+        "assuming": [
+          148
+        ],
+        "properties": [
+          150,
+          249
+        ],
+        "soil": [
+          153,
+          183,
+          239
+        ],
+        "matrix": [
+          154,
+          240,
+          248
+        ],
+        "showed": [
+          155
+        ],
+        "that": [
+          156,
+          192,
+          245
+        ],
+        "drastically": [
+          160
+        ],
+        "affect": [
+          161
+        ],
+        "inverted": [
+          163,
+          193,
+          212,
+          257
+        ],
+        "porosity,": [
+          167
+        ],
+        "especially": [
+          168
+        ],
+        "dry,": [
+          170
+        ],
+        "low-porosity": [
+          171
+        ],
+        "applied": [
+          176
+        ],
+        "many": [
+          178
+        ],
+        "measurements": [
+          180
+        ],
+        "various": [
+          182
+        ],
+        "types": [
+          184
+        ],
+        "collected": [
+          185
+        ],
+        "literature.": [
+          188
+        ],
+        "Inversion": [
+          189
+        ],
+        "results": [
+          190
+        ],
+        "show": [
+          191
+        ],
+        "values": [
+          195,
+          214,
+          235
+        ],
+        "most": [
+          197,
+          221
+        ],
+        "data": [
+          198,
+          224,
+          227
+        ],
+        "points": [
+          199,
+          228,
+          252
+        ],
+        "fell": [
+          200
+        ],
+        "around": [
+          201
+        ],
+        "0.4,": [
+          202
+        ],
+        "which": [
+          203
+        ],
+        "critical": [
+          206
+        ],
+        "sandy": [
+          209,
+          238
+        ],
+        "soils,": [
+          210
+        ],
+        "while": [
+          211
+        ],
+        "generally": [
+          215
+        ],
+        "agreed": [
+          216
+        ],
+        "with": [
+          217
+        ],
+        "reported": [
+          218
+        ],
+        "saturations": [
+          219
+        ],
+        "points.": [
+          225
+        ],
+        "Few": [
+          226
+        ],
+        "resulted": [
+          229,
+          253
+        ],
+        "unrealistic": [
+          231
+        ],
+        "when": [
+          236
+        ],
+        "was": [
+          241
+        ],
+        "assumed.": [
+          242
+        ],
+        "We": [
+          243
+        ],
+        "found": [
+          244
+        ],
+        "perturbing": [
+          246
+        ],
+        "shifting": [
+          255
+        ],
+        "more": [
+          262
+        ],
+        "realistic": [
+          263
+        ],
+        "values.": [
+          264
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-23T05:00:35.095934",
+      "created_date": "2016-09-30T00:00:00"
     },
     {
       "id": "https://openalex.org/W3130243820",
@@ -71701,8 +71708,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -73217,8 +73224,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -73535,10 +73542,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -73684,11 +73691,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 0.2177,
+      "fwci": 0.2169,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.51751114,
+        "value": 0.51612232,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73946,10 +73953,10 @@
           "source": {
             "id": "https://openalex.org/S2764546325",
             "display_name": "Journal of Petroleum Exploration and Production Technology",
-            "issn_l": "2190-0558",
+            "issn_l": "2190-0566",
             "issn": [
-              "2190-0558",
-              "2190-0566"
+              "2190-0566",
+              "2190-0558"
             ],
             "is_oa": true,
             "is_in_doaj": true,
@@ -74020,10 +74027,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -74060,8 +74067,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2762783799.pdf",
@@ -74544,7 +74551,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2017-10-20T00:00:00"
     },
     {
@@ -74569,10 +74576,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -74706,16 +74713,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1951,
+      "fwci": 2.2244,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.87162162,
+        "value": 0.87347392,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 95
       },
       "biblio": {
@@ -74894,10 +74901,10 @@
           "source": {
             "id": "https://openalex.org/S4210191185",
             "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
+            "issn_l": "2509-3738",
             "issn": [
-              "2509-372X",
-              "2509-3738"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -74930,8 +74937,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -74973,7 +74980,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -75634,8 +75641,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127304390.pdf",
@@ -76698,8 +76705,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -77827,8 +77834,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2009737607.pdf",
@@ -79306,8 +79313,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4310398141.pdf",
@@ -80727,8 +80734,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -81447,8 +81454,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411866371.pdf",
@@ -82547,8 +82554,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -82618,10 +82625,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -82767,11 +82774,11 @@
         "currency": "USD",
         "value_usd": 1930
       },
-      "fwci": 0.261,
+      "fwci": 0.2601,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.35648547,
+        "value": 0.35487724,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -83065,10 +83072,10 @@
           "source": {
             "id": "https://openalex.org/S2764546325",
             "display_name": "Journal of Petroleum Exploration and Production Technology",
-            "issn_l": "2190-0558",
+            "issn_l": "2190-0566",
             "issn": [
-              "2190-0558",
-              "2190-0566"
+              "2190-0566",
+              "2190-0558"
             ],
             "is_oa": true,
             "is_in_doaj": true,
@@ -83110,10 +83117,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -83174,8 +83181,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4229028604.pdf",
@@ -83656,7 +83663,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-04T10:54:05.112534",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2022-05-08T00:00:00"
     },
     {
@@ -84373,8 +84380,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4403343181.pdf",
@@ -85794,8 +85801,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4411866663.pdf",
@@ -86868,17 +86875,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4412707715.pdf",
@@ -87782,17 +87789,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -88909,8 +88916,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90117,9 +90124,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5142999887466431,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.5142999887466431
         }
       ],
       "study_designs": [],
@@ -90137,8 +90144,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410049630.pdf",
@@ -91347,8 +91354,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7153309765.pdf",
@@ -92375,8 +92382,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -93254,8 +93261,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93668,8 +93675,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2260611865.pdf",
@@ -94717,8 +94724,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -95610,8 +95617,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -96242,8 +96249,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -97161,8 +97168,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -97799,8 +97806,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -98585,8 +98592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -99615,8 +99622,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -100510,8 +100517,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -101002,8 +101009,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -101521,8 +101528,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2032163224.pdf",
@@ -101863,10 +101870,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -102000,11 +102007,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7472,
+      "fwci": 0.7475,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.62791573,
+        "value": 0.62805566,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -102193,10 +102200,10 @@
           "source": {
             "id": "https://openalex.org/S4210191185",
             "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
+            "issn_l": "2509-3738",
             "issn": [
-              "2509-372X",
-              "2509-3738"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -102229,8 +102236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -102271,7 +102278,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -102704,17 +102711,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7822999954223633,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7822999954223633
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -103422,8 +103429,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -103804,8 +103811,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -104302,8 +104309,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -104763,8 +104770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -105469,8 +105476,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -106471,8 +106478,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -107369,8 +107376,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -108757,8 +108764,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -109723,8 +109730,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -110156,10 +110163,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -110293,11 +110300,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3736,
+      "fwci": 0.3738,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.43641836,
+        "value": 0.43663031,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -110559,10 +110566,10 @@
           "source": {
             "id": "https://openalex.org/S4210191185",
             "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
+            "issn_l": "2509-3738",
             "issn": [
-              "2509-372X",
-              "2509-3738"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -110595,8 +110602,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -110638,7 +110645,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -111020,8 +111027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -112075,8 +112082,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -113099,8 +113106,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -114122,8 +114129,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4311376738.pdf",
@@ -115277,8 +115284,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4324056902.pdf",
@@ -115831,8 +115838,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -116234,8 +116241,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -117191,8 +117198,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -118065,17 +118072,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "score": 0.8999999761581421
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4285801655.pdf",
@@ -118485,8 +118492,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -118928,8 +118935,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -119396,8 +119403,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -120126,17 +120133,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5378999710083008,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.5378999710083008
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -121005,8 +121012,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -122146,8 +122153,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -122865,8 +122872,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -123711,8 +123718,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -124582,8 +124589,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -125301,8 +125308,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -125824,10 +125831,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -126158,10 +126165,10 @@
           "source": {
             "id": "https://openalex.org/S4210191185",
             "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
+            "issn_l": "2509-3738",
             "issn": [
-              "2509-372X",
-              "2509-3738"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -126194,8 +126201,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -126214,7 +126221,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -126239,10 +126246,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -126575,10 +126582,10 @@
           "source": {
             "id": "https://openalex.org/S4210191185",
             "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
+            "issn_l": "2509-3738",
             "issn": [
-              "2509-372X",
-              "2509-3738"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -126611,8 +126618,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -126650,7 +126657,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-16T09:59:22.235173",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -126675,10 +126682,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -127004,10 +127011,10 @@
           "source": {
             "id": "https://openalex.org/S4210191185",
             "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
+            "issn_l": "2509-3738",
             "issn": [
-              "2509-372X",
-              "2509-3738"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -127040,8 +127047,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -127065,7 +127072,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2019-11-22T00:00:00"
     },
     {
@@ -127343,8 +127350,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -127736,8 +127743,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -128660,8 +128667,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129319,8 +129326,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -130229,8 +130236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -130962,8 +130969,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132009,8 +132016,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132876,17 +132883,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 1,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 1
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -133822,8 +133829,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -134163,8 +134170,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231230082.pdf"
@@ -134793,8 +134800,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -135538,8 +135545,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4237617667.pdf",
@@ -135616,10 +135623,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -135982,10 +135989,10 @@
           "source": {
             "id": "https://openalex.org/S4210191185",
             "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
+            "issn_l": "2509-3738",
             "issn": [
-              "2509-372X",
-              "2509-3738"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -136021,10 +136028,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -136055,8 +136062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -136218,7 +136225,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -136719,8 +136726,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -137369,8 +137376,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -137716,8 +137723,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4250756367.pdf",
@@ -138052,8 +138059,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -138085,10 +138092,10 @@
         "source": {
           "id": "https://openalex.org/S4210191185",
           "display_name": "Advances in oil and gas exploration & production",
-          "issn_l": "2509-372X",
+          "issn_l": "2509-3738",
           "issn": [
-            "2509-372X",
-            "2509-3738"
+            "2509-3738",
+            "2509-372X"
           ],
           "is_oa": false,
           "is_in_doaj": false,
@@ -138423,10 +138430,10 @@
           "source": {
             "id": "https://openalex.org/S4210191185",
             "display_name": "Advances in oil and gas exploration & production",
-            "issn_l": "2509-372X",
+            "issn_l": "2509-3738",
             "issn": [
-              "2509-372X",
-              "2509-3738"
+              "2509-3738",
+              "2509-372X"
             ],
             "is_oa": false,
             "is_in_doaj": false,
@@ -138459,8 +138466,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -138483,7 +138490,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-10-10T09:11:00.788812",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2022-05-12T00:00:00"
     },
     {
@@ -139074,8 +139081,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4283770283.pdf",
@@ -139777,8 +139784,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -140131,8 +140138,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -140543,8 +140550,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -140903,8 +140910,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -141308,8 +141315,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -141742,8 +141749,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -142109,8 +142116,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4301749000.pdf",
@@ -142772,8 +142779,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -143337,8 +143344,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389080668.pdf",
@@ -144010,17 +144017,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.75
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -144844,8 +144851,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -145538,22 +145545,22 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.9786999821662903
         },
         {
-          "score": 0.5690000057220459,
+          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "score": 0.5690000057220459
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -146693,8 +146700,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4404245880.pdf",
@@ -147886,8 +147893,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4405614884.pdf",
@@ -148889,8 +148896,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -149904,8 +149911,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -151090,8 +151097,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4413307018.pdf",
@@ -152233,17 +152240,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.428600013256073,
+          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "id": "https://metadata.un.org/sdg/9"
+          "score": 0.428600013256073
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -153512,8 +153519,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -154746,8 +154753,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -156048,8 +156055,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4414913886.pdf",
@@ -156921,17 +156928,17 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.9786999821662903,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.9786999821662903
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -158148,8 +158155,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7162439439.pdf",
@@ -158809,10 +158816,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -159237,10 +159244,10 @@
           "source": {
             "id": "https://openalex.org/S2764546325",
             "display_name": "Journal of Petroleum Exploration and Production Technology",
-            "issn_l": "2190-0558",
+            "issn_l": "2190-0566",
             "issn": [
-              "2190-0558",
-              "2190-0566"
+              "2190-0566",
+              "2190-0558"
             ],
             "is_oa": true,
             "is_in_doaj": true,
@@ -159282,10 +159289,10 @@
         "source": {
           "id": "https://openalex.org/S2764546325",
           "display_name": "Journal of Petroleum Exploration and Production Technology",
-          "issn_l": "2190-0558",
+          "issn_l": "2190-0566",
           "issn": [
-            "2190-0558",
-            "2190-0566"
+            "2190-0566",
+            "2190-0558"
           ],
           "is_oa": true,
           "is_in_doaj": true,
@@ -159319,17 +159326,17 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.685699999332428,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.685699999332428
         }
       ],
       "study_designs": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -159902,7 +159909,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-10-20T09:52:01.089006",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2026-10-19T00:00:00"
     }
   ]

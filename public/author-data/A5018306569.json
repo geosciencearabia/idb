@@ -200,7 +200,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000694,
+        "value": 0.0000693,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -234,7 +234,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000352,
+        "value": 0.0000351,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -251,7 +251,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000337,
+        "value": 0.0000336,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -742,11 +742,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 5.8848,
+      "fwci": 5.8764,
       "has_fulltext": true,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.97421525,
+        "value": 0.97421284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -837,57 +837,57 @@
         {
           "id": "https://openalex.org/keywords/reservoir-heterogeneity",
           "display_name": "reservoir heterogeneity",
-          "score": 0.9919999837875366
+          "score": 0.9929999709129333
         },
         {
           "id": "https://openalex.org/keywords/multifractal-analysis",
           "display_name": "multifractal analysis",
-          "score": 0.7680000066757202
+          "score": 0.7870000004768372
         },
         {
           "id": "https://openalex.org/keywords/fractal-dimension",
           "display_name": "fractal dimension",
-          "score": 0.968999981880188
+          "score": 0.9649999737739563
         },
         {
           "id": "https://openalex.org/keywords/lower-cretaceous-limestone",
           "display_name": "Lower Cretaceous limestone",
-          "score": 0.847000002861023
+          "score": 0.8289999961853027
         },
         {
           "id": "https://openalex.org/keywords/carbonate-reservoirs",
           "display_name": "carbonate reservoirs",
-          "score": 0.9589999914169312
+          "score": 0.9549999833106995
         },
         {
           "id": "https://openalex.org/keywords/pore-structure-characterization",
           "display_name": "pore structure characterization",
-          "score": 0.8130000233650208
+          "score": 0.8429999947547913
         },
         {
           "id": "https://openalex.org/keywords/high-pressure-mercury-injection",
           "display_name": "high-pressure mercury injection",
-          "score": 0.9679999947547913
+          "score": 0.9649999737739563
         },
         {
           "id": "https://openalex.org/keywords/porosity",
           "display_name": "porosity",
-          "score": 0.7609999775886536
+          "score": 0.734000027179718
         },
         {
           "id": "https://openalex.org/keywords/pore-size-distribution",
           "display_name": "pore size distribution",
-          "score": 0.871999979019165
+          "score": 0.9139999747276306
         },
         {
           "id": "https://openalex.org/keywords/fractal-image-analysis",
           "display_name": "fractal image analysis",
-          "score": 0.656000018119812
+          "score": 0.5289999842643738
         },
         {
           "id": "https://openalex.org/keywords/united-arab-emirates",
           "display_name": "United Arab Emirates",
-          "score": 0.8930000066757202
+          "score": 0.8920000195503235
         }
       ],
       "concepts": [
@@ -1812,7 +1812,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2023-11-21T00:00:00"
     },
     {
@@ -4532,14 +4532,14 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5690000057220459,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -12941,9 +12941,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -15843,9 +15843,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.821399986743927,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -17941,9 +17941,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46149998903274536,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -19965,9 +19965,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46149998903274536,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -24208,14 +24208,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.9853000044822693,
-          "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -26482,9 +26482,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.9786999821662903,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -27901,9 +27901,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -30327,9 +30327,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.8234000205993652,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -31459,9 +31459,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.685699999332428,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -35017,9 +35017,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -35975,14 +35975,14 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 1,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         },
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -36834,9 +36834,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.821399986743927,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
@@ -37902,11 +37902,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.6454,
+      "fwci": 2.6051,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.81821946,
+        "value": 0.81713106,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37997,72 +37997,67 @@
         {
           "id": "https://openalex.org/keywords/stylolitization",
           "display_name": "stylolitization",
-          "score": 0.953000009059906
+          "score": 0.9679999947547913
         },
         {
           "id": "https://openalex.org/keywords/organic-matter",
           "display_name": "organic matter",
-          "score": 0.7720000147819519
+          "score": 0.7649999856948853
         },
         {
           "id": "https://openalex.org/keywords/limestone-diagenesis",
           "display_name": "limestone diagenesis",
-          "score": 0.8100000023841858
+          "score": 0.7319999933242798
+        },
+        {
+          "id": "https://openalex.org/keywords/thamama-group",
+          "display_name": "Thamama Group",
+          "score": 0.8690000176429749
         },
         {
           "id": "https://openalex.org/keywords/lower-cretaceous-limestone",
           "display_name": "Lower Cretaceous limestone",
-          "score": 0.7269999980926514
-        },
-        {
-          "id": "https://openalex.org/keywords/vitrinite-reflectance",
-          "display_name": "vitrinite reflectance",
-          "score": 0.7680000066757202
-        },
-        {
-          "id": "https://openalex.org/keywords/organic-acids",
-          "display_name": "organic acids",
-          "score": 0.5759999752044678
-        },
-        {
-          "id": "https://openalex.org/keywords/thermal-cracking",
-          "display_name": "thermal cracking",
-          "score": 0.6129999756813049
+          "score": 0.7310000061988831
         },
         {
           "id": "https://openalex.org/keywords/alginite",
           "display_name": "alginite",
-          "score": 0.6639999747276306
+          "score": 0.7540000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/vitrinite-reflectance",
+          "display_name": "vitrinite reflectance",
+          "score": 0.9350000023841858
+        },
+        {
+          "id": "https://openalex.org/keywords/low-molecular-weight-organic-acids",
+          "display_name": "low molecular weight organic acids",
+          "score": 0.8199999928474426
+        },
+        {
+          "id": "https://openalex.org/keywords/calcite-cementation",
+          "display_name": "calcite cementation",
+          "score": 0.5870000123977661
         },
         {
           "id": "https://openalex.org/keywords/carbon-isotopes",
           "display_name": "carbon isotopes",
-          "score": 0.7360000014305115
+          "score": 0.7379999756813049
         },
         {
           "id": "https://openalex.org/keywords/oxygen-isotopes",
           "display_name": "oxygen isotopes",
-          "score": 0.9419999718666077
+          "score": 0.9300000071525574
         },
         {
           "id": "https://openalex.org/keywords/fluid-inclusions",
           "display_name": "fluid inclusions",
-          "score": 0.9350000023841858
-        },
-        {
-          "id": "https://openalex.org/keywords/saddle-dolomite",
-          "display_name": "saddle dolomite",
-          "score": 0.8849999904632568
+          "score": 0.9369999766349792
         },
         {
           "id": "https://openalex.org/keywords/oil-window",
           "display_name": "oil window",
-          "score": 0.5540000200271606
-        },
-        {
-          "id": "https://openalex.org/keywords/lower-cretaceous-reservoirs",
-          "display_name": "Lower Cretaceous reservoirs",
-          "score": 0.625
+          "score": 0.5389999747276306
         }
       ],
       "concepts": [
@@ -39010,7 +39005,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2026-04-28T00:00:00"
     },
     {
@@ -39095,11 +39090,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3213,
+      "fwci": 0.2967,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.66955882,
+        "value": 0.64209436,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46507,9 +46502,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5769000053405762,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "study_designs": [],
@@ -50617,109 +50612,84 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/foreland-basin",
-          "display_name": "foreland basin",
-          "score": 0.7929999828338623
+          "id": "https://openalex.org/keywords/diagenesis",
+          "display_name": "diagenesis",
+          "score": 0.8370000123977661
         },
         {
           "id": "https://openalex.org/keywords/upper-cretaceous",
           "display_name": "Upper Cretaceous",
-          "score": 0.8759999871253967
+          "score": 0.8209999799728394
         },
         {
           "id": "https://openalex.org/keywords/reservoir-quality",
           "display_name": "reservoir quality",
-          "score": 0.8529999852180481
+          "score": 0.781000018119812
         },
         {
-          "id": "https://openalex.org/keywords/moldic-pores",
-          "display_name": "moldic pores",
-          "score": 0.7319999933242798
-        },
-        {
-          "id": "https://openalex.org/keywords/calcite-cementation",
-          "display_name": "calcite cementation",
-          "score": 0.824999988079071
-        },
-        {
-          "id": "https://openalex.org/keywords/meteoric-water",
-          "display_name": "meteoric water",
-          "score": 0.6370000243186951
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrothermal-brines",
-          "display_name": "hydrothermal brines",
-          "score": 0.9139999747276306
+          "id": "https://openalex.org/keywords/moldic-porosity",
+          "display_name": "moldic porosity",
+          "score": 0.722000002861023
         },
         {
           "id": "https://openalex.org/keywords/micritization",
           "display_name": "micritization",
-          "score": 0.7710000276565552
+          "score": 0.7269999980926514
         },
         {
-          "id": "https://openalex.org/keywords/peloids",
-          "display_name": "peloids",
-          "score": 0.5220000147819519
+          "id": "https://openalex.org/keywords/calcite-cementation",
+          "display_name": "calcite cementation",
+          "score": 0.8180000185966492
         },
         {
-          "id": "https://openalex.org/keywords/microporosity",
-          "display_name": "microporosity",
-          "score": 0.6919999718666077
+          "id": "https://openalex.org/keywords/hydrothermal-brines",
+          "display_name": "hydrothermal brines",
+          "score": 0.8949999809265137
         },
         {
-          "id": "https://openalex.org/keywords/aragonite-dissolution",
-          "display_name": "aragonite dissolution",
-          "score": 0.652999997138977
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-isotopes",
-          "display_name": "carbon isotopes",
-          "score": 0.4269999861717224
+          "id": "https://openalex.org/keywords/porewater-geochemistry",
+          "display_name": "porewater geochemistry",
+          "score": 0.6549999713897705
         },
         {
           "id": "https://openalex.org/keywords/oxygen-isotopes",
           "display_name": "oxygen isotopes",
-          "score": 0.8270000219345093
+          "score": 0.6489999890327454
         },
         {
-          "id": "https://openalex.org/keywords/fluid-inclusions",
-          "display_name": "fluid inclusions",
-          "score": 0.8289999961853027
+          "id": "https://openalex.org/keywords/carbon-isotopes",
+          "display_name": "carbon isotopes",
+          "score": 0.9589999914169312
         },
         {
-          "id": "https://openalex.org/keywords/subaerial-exposure",
-          "display_name": "subaerial exposure",
-          "score": 0.5550000071525574
+          "id": "https://openalex.org/keywords/methane-oxidation",
+          "display_name": "methane oxidation",
+          "score": 0.6380000114440918
         },
         {
-          "id": "https://openalex.org/keywords/zagros-orogeny",
-          "display_name": "Zagros orogeny",
-          "score": 0.8930000066757202
+          "id": "https://openalex.org/keywords/methanogenesis",
+          "display_name": "methanogenesis",
+          "score": 0.6399999856948853
+        },
+        {
+          "id": "https://openalex.org/keywords/mechanical-compaction",
+          "display_name": "mechanical compaction",
+          "score": 0.6579999923706055
+        },
+        {
+          "id": "https://openalex.org/keywords/peloids",
+          "display_name": "peloids",
+          "score": 0.6840000152587891
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "sequence stratigraphy",
+          "score": 0.7710000276565552
         },
         {
           "id": "https://openalex.org/keywords/united-arab-emirates",
           "display_name": "United Arab Emirates",
-          "score": 0.7350000143051147
-        },
-        {
-          "id": "https://openalex.org/keywords/north-pacific",
-          "display_name": "North Pacific",
-          "score": 0.3149999976158142
-        },
-        {
-          "id": "https://openalex.org/keywords/north-indian-ocean",
-          "display_name": "North Indian Ocean",
-          "score": 0.4000000059604645
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoceanography",
-          "display_name": "paleoceanography",
-          "score": 0.36899998784065247
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoclimate",
-          "display_name": "paleoclimate",
-          "score": 0.3479999899864197
+          "score": 0.6430000066757202
         }
       ],
       "concepts": [
@@ -51168,7 +51138,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-11-11T12:16:26.678958",
+      "updated_date": "2026-11-12T12:28:57.059296",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51558,9 +51528,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5351999998092651,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "study_designs": [],
