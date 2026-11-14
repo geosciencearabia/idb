@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 01:41:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:18:16 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Fossil palynomorph identification as a testbed for comparing human and language-driven (large language model) intelligence</title>
@@ -19,6 +19,20 @@
       <category>Inference</category>
       <category>Artificial intelligence</category>
       <description>Topics: Testbed, Identification (biology), Computer science, Inference, Artificial intelligence&#10;Venue: Review of Palaeobotany and Palynology&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>DUNE: models, predictor rasters, 1 km surface NO₂ maps and district series for the Gulf Cooperation Council</title>
+      <link>https://doi.org/10.5281/zenodo.24145831</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7225899525</guid>
+      <dc:creator>Shahadat Baser, Bassam Tawabini, Muhammad Bilal, Ardiansyah Koeshidayatullah</dc:creator>
+      <dc:publisher>Zenodo (CERN European Organization for Nuclear Research)</dc:publisher>
+      <category>Terrain</category>
+      <category>Benchmark (surveying)</category>
+      <category>Stage (stratigraphy)</category>
+      <category>Grid</category>
+      <category>Metadata</category>
+      <description>Abstract: DUNE companion dataset: frozen models, predictor rasters, 1 km surface NO₂ maps and district series for the Gulf Cooperation Council This dataset accompanies the DUNE code (doi: 10.5281/zenodo.24145692) and the article “DUNE: A Reproducible Benchmark for 1-km Surface NO₂ Estimation Over the Gulf Cooperation Council” (S. Baser, B. S. Tawabini, M. Bilal, and A. Koeshidayatullah), submitted to IEEE Transactions on Geoscience and Remote Sensing. Together, the code and this dataset allow every table and figure of the article to be regenerated and the frozen models to be checked independently. DUNE estimates weekly and monthly surface nitrogen dioxide (NO₂) on a 0.01° grid (about 1 km) for the 744 districts of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates. Stage 1 is an XGBoost model that converts TROPOMI tropospheric NO₂ columns to surface concentrations using meteorology, night lights, vegetation, human-settlement, and terrain predictors. Stage 2 consists of LSTM networks for estimation and for satellite-free projection of 2024–2025. All rasters share one grid: EPSG:4326, 0.01°, 2534 × 1577 cells. Contents Models (models.zip). The frozen Stage 1 XGBoost model (stage1_&lt;winner&gt;.json) with its metadata file (features, settings, seed, SHA-256 hash), and the LSTM-E and LSTM-P ensembles (lstm_E.pt, lstm_P.pt) with stage2_meta.json, which records the settings, the seeds, and the SHA-256 hash of every frozen file. The archive also holds the validation metrics a…&#10;Topics: Terrain, Benchmark (surveying), Stage (stratigraphy), Grid, Metadata&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>DUNE: code for a reproducible two-stage 1 km surface NO2 benchmark over the Gulf Cooperation Council</title>
@@ -60,7 +74,7 @@
       <category>Translation (biology)</category>
       <category>Artificial intelligence</category>
       <category>Data mining</category>
-      <description>Topics: Benchmarking, Computer science, Translation (biology), Artificial intelligence, Data mining&#10;Venue: Results in Engineering&#10;Year: 2026&#10;Citations: 0</description>
+      <description>Abstract: Reservoir forecasts depend on facies–petrophysical relationships, yet evaluations of conditional generative adversarial networks (cGANs) can mistake memorization for inference when augmentations from one geomodel layer cross train–test boundaries. Baselines and property information inherent in facies labels are rarely quantified. We test Pix2Pix on six bidirectional facies–property tasks. Fifty-four layers of a seven-class, faulted Cretaceous Masila Basin reservoir model were split into contiguous depth blocks (36 training, 7 validation and 9 test; two buffer layers discarded); augmenting only training layers yielded 1,116 images. Each task used three seeds, three baselines, positional control, five-arm ablation and exact paired sign-permutation tests. Facies–property correlation ratios, the R² ceilings for facies-label-only property estimators, were 0.881 for clay volume (VCL), 0.715 for porosity and 0.213 for log₁₀ permeability; Pix2Pix reached the VCL and porosity ceilings but recovered only half the permeability ceiling. In forward modelling, it outperformed class-mean lookup, achieving R² values of 0.854 for VCL and 0.575 for porosity versus 0.696 and 0.146. Conversely, a one-dimensional Bayes classifier without spatial information outperformed Pix2Pix on all inverse tasks, including 95.6% versus 84.3% pixel accuracy for VCL-to-facies. Permeability remained hardest because facies labels contain little permeability information and omit connectivity, diagenesis and sub-fac…&#10;Topics: Benchmarking, Computer science, Translation (biology), Artificial intelligence, Data mining&#10;Venue: Results in Engineering&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Air quality estimation failure in scarcest monitoring networks: analysis pipeline</title>
@@ -508,7 +522,7 @@
       <category>Convolutional neural network</category>
       <category>Artificial neural network</category>
       <category>Pattern recognition (psychology)</category>
-      <description>Abstract: Convolutional Neural Networks (CNNs) offer powerful image classification capabilities in geology, where visual interpretation of sedimentary structures is essential for reconstructing depositional environments. However, their “black-box” nature can limit trust and slow adoption in geoscientific workflows. This study presents a CNN-based framework for classifying eleven physical and biogenic sedimentary structures from core images, while treating explainability as a core objective. Three architectures (EfficientNet-B2, MobileNet-V3, and ResNet-50) were trained and evaluated on a geologically diverse annotated dataset. EfficientNet-B2 achieved the highest overall accuracy (97.7%), followed by MobileNet-V3 (96.8%) and ResNet-50 (95.8%). Blind-test evaluation on 401 unseen images showed that the CNN models retained substantial predictive capability under domain-shift conditions, with accuracies of 79.05% for EfficientNet-B2, 78.8% for MobileNet-V3, and 78.3% for ResNet-50. These results indicate good overall generalization, while the remaining errors were mainly associated with geologically similar sedimentary structures. Explainability was assessed using Grad-CAM++ and, crucially, was evaluated quantitatively using (i) deletion-based faithfulness, measuring the drop in target-class probability after masking the most salient regions, and (ii) stability under controlled perturbations (brightness changes, noise, blur, and small spatial shifts), measuring similarity between explanat…&#10;Topics: Artificial intelligence, Computer science, Convolutional neural network, Artificial neural network, Pattern recognition (psychology)&#10;Venue: Applied Computing and Geosciences&#10;Year: 2026&#10;Citations: 0</description>
+      <description>Abstract: Convolutional Neural Networks (CNNs) offer powerful image classification capabilities in geology, where visual interpretation of sedimentary structures is essential for reconstructing depositional environments. However, their “black-box” nature can limit trust and slow adoption in geoscientific workflows. This study presents a CNN-based framework for classifying eleven physical and biogenic sedimentary structures from core images, while treating explainability as a core objective. Three architectures (EfficientNet-B2, MobileNet-V3, and ResNet-50) were trained and evaluated on a geologically diverse annotated dataset. EfficientNet-B2 achieved the highest overall accuracy (97.7%), followed by MobileNet-V3 (96.8%) and ResNet-50 (95.8%). Blind-test evaluation on 401 unseen images showed that the CNN models retained substantial predictive capability under domain-shift conditions, with accuracies of 79.05% for EfficientNet-B2, 78.8% for MobileNet-V3, and 78.3% for ResNet-50. These results indicate good overall generalization, while the remaining errors were mainly associated with geologically similar sedimentary structures. Explainability was assessed using Grad-CAM++ and, crucially, was evaluated quantitatively using (i) deletion-based faithfulness, measuring the drop in target-class probability after masking the most salient regions, and (ii) stability under controlled perturbations (brightness changes, noise, blur, and small spatial shifts), measuring similarity between explanat…&#10;Topics: Artificial intelligence, Computer science, Convolutional neural network, Artificial neural network, Pattern recognition (psychology)&#10;Venue: Applied Computing and Geosciences&#10;Year: 2026&#10;Citations: 1</description>
     </item>
     <item>
       <title>Structural and thermal analysis of geothermal prospectivity in the Midyan Basin, NEOM, Saudi Arabia</title>
@@ -1124,7 +1138,7 @@
       <category>Environmental science</category>
       <category>Waste management</category>
       <category>Environmental protection</category>
-      <description>Topics: Extraction (chemistry), Lithium (medication), Environmental science, Waste management, Environmental protection&#10;Venue: Minerals Engineering&#10;Year: 2026&#10;Citations: 0</description>
+      <description>Topics: Extraction (chemistry), Lithium (medication), Environmental science, Waste management, Environmental protection&#10;Venue: Minerals Engineering&#10;Year: 2026&#10;Citations: 1</description>
     </item>
     <item>
       <title>Deep learning with Fourier Neural Operators for sedimentary structure recognition</title>
@@ -1391,20 +1405,6 @@
       <category>Tectonics</category>
       <category>Cretaceous</category>
       <description>Abstract: This study presents a comprehensive geomorphological map of the Jebel Akhdar dome in the northern Sultanate of Oman, a prominent carbonate dome formed during the Late Cretaceous obduction of the Semail Ophiolite. The integration of remote sensing observations and field surveys validations permits to recognise landforms at different scales, and thus complete the geomorphological mapping. The research identifies key landforms shaped by complex interactions between tectonics, surface processes, and climate. The region&apos;s landscape reflects a long evolutionary history beginning with Late Cretaceous and Cenozoic tectonic doming and uplift, followed by prevailing exogenous processes during the Miocene-Quaternary, characterised by erosion, karstification, and fluvial and slope processes, with ongoing tectonic activity influencing landscape dynamics. Human interventions have also affected topographic features. Overall, the geomorphology of Jebel Akhdar dome exemplifies the interplay of endogenous and exogenous forces over geological timescales, providing vital insights into landscape evolution in arid environments and complex geodynamic settings.&#10;Topics: Geology, Landform, Paleontology, Tectonics, Cretaceous&#10;Venue: Figshare&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Geomorphology of the Jebel Akhdar dome (Northern sultanate of Oman): tectonics, surface processes and landscape evolution</title>
-      <link>https://doi.org/10.1080/17445647.2026.2649056</link>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7155534781</guid>
-      <dc:creator>Andrea Pezzotta, Alessia Marinoni, Mohammed H. Al Kindi, Davide Susini, Sam Turner, Michele Zucali, Andrea Zerboni</dc:creator>
-      <dc:publisher>Journal of Maps</dc:publisher>
-      <category>Geology</category>
-      <category>Dome (geology)</category>
-      <category>Paleontology</category>
-      <category>Geomorphology</category>
-      <category>Surface (topology)</category>
-      <description>Abstract: This study presents a comprehensive geomorphological map of the Jebel Akhdar dome in the northern Sultanate of Oman, a prominent carbonate dome formed during the Late Cretaceous obduction of the Semail Ophiolite. The integration of remote sensing observations and field surveys validations permits to recognise landforms at different scales, and thus complete the geomorphological mapping. The research identifies key landforms shaped by complex interactions between tectonics, surface processes, and climate. The region&apos;s landscape reflects a long evolutionary history beginning with Late Cretaceous and Cenozoic tectonic doming and uplift, followed by prevailing exogenous processes during the Miocene-Quaternary, characterised by erosion, karstification, and fluvial and slope processes, with ongoing tectonic activity influencing landscape dynamics. Human interventions have also affected topographic features. Overall, the geomorphology of Jebel Akhdar dome exemplifies the interplay of endogenous and exogenous forces over geological timescales, providing vital insights into landscape evolution in arid environments and complex geodynamic settings.&#10;Topics: Geology, Dome (geology), Paleontology, Geomorphology, Surface (topology)&#10;Venue: Journal of Maps&#10;Year: 2026&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

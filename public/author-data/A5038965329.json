@@ -491,7 +491,7 @@
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
     "awards_count": 0,
     "awards_api_url": "https://api.openalex.org/awards?filter=investigators.author.id:A5038965329",
-    "updated_date": "2026-11-10T14:30:39",
+    "updated_date": "2026-11-13T15:08:24",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -4912,8 +4912,7 @@
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
-        "crossref",
-        "doaj"
+        "crossref"
       ],
       "open_access": {
         "is_oa": false,
@@ -5020,11 +5019,11 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 0.5804,
+      "fwci": 0.5855,
       "has_fulltext": false,
       "cited_by_count": 84,
       "citation_normalized_percentile": {
-        "value": 0.7049763,
+        "value": 0.70382775,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5971,7 +5970,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-13T13:42:25.865203",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7218,11 +7217,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 3.2725,
+      "fwci": 3.2219,
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.88560206,
+        "value": 0.88320985,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11491,11 +11490,11 @@
         "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.3838,
+      "fwci": 1.3446,
       "has_fulltext": false,
       "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.8007606,
+        "value": 0.78852021,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11763,9 +11762,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7778000235557556,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7778000235557556
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -11973,10 +11972,14 @@
             "cwts-core",
             "norway-1"
           ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
           "type": "journal"
         },
         "license": null,
@@ -12857,10 +12860,14 @@
               "cwts-core",
               "norway-1"
             ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
             "type": "journal"
           },
           "license": null,
@@ -13026,7 +13033,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-11-10T11:39:43.021295",
+      "updated_date": "2026-11-13T13:42:25.865203",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -13222,11 +13229,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2222,
+      "fwci": 3.1373,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.88751855,
+        "value": 0.88443936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15041,11 +15048,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.674,
+      "fwci": 1.6457,
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.80758332,
+        "value": 0.80394864,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20022,11 +20029,11 @@
         "value_usd": 3190
       },
       "apc_paid": null,
-      "fwci": 4.1711,
+      "fwci": 4.2372,
       "has_fulltext": false,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.9218292,
+        "value": 0.92323971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21513,9 +21520,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5769000053405762,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5769000053405762
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "study_designs": [],
@@ -24879,8 +24886,7 @@
       "type": "article",
       "is_traditional": true,
       "indexed_in": [
-        "crossref",
-        "doaj"
+        "crossref"
       ],
       "open_access": {
         "is_oa": true,
@@ -25096,16 +25102,16 @@
         "value_usd": 539
       },
       "apc_paid": null,
-      "fwci": 0.7831,
+      "fwci": 0.7762,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.7585981,
+        "value": 0.75516322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 96
       },
       "biblio": {
@@ -26128,7 +26134,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-13T13:42:25.865203",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -27446,10 +27452,14 @@
             "cwts-core",
             "norway-1"
           ],
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
           "type": "journal"
         },
         "license": null,
@@ -27916,11 +27926,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9419,
+      "fwci": 0.9331,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.72397945,
+        "value": 0.71296044,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28119,10 +28129,14 @@
               "cwts-core",
               "norway-1"
             ],
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
             "type": "journal"
           },
           "license": null,
@@ -28198,7 +28212,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-11-07T11:25:07.637180",
+      "updated_date": "2026-11-13T13:42:25.865203",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30646,16 +30660,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0018,
+      "fwci": 0.9862,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.69741697,
+        "value": 0.68785047,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 88,
+        "min": 87,
         "max": 95
       },
       "biblio": {
